@@ -1,0 +1,164 @@
+{
+  "search_metadata": {
+    "id": "search_JBAO2bkaoPuEQ0jbg4n7XajE",
+    "status": "Success",
+    "created_at": "2026-11-22T01:45:39Z",
+    "request_time_taken": 6.79,
+    "parsing_time_taken": 0.0,
+    "total_time_taken": 6.79,
+    "request_url": "https://www.google.com/search?q=%CE%94%CE%B1%CF%81%CE%B5%CE%B9%CC%81%CE%BF%CF%85+%CE%BA%CE%B1%CE%B9%CC%80+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%B1%CC%81%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%B9%CC%81%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%CE%B9%CD%82%CE%B4%CE%B5%CF%82+%CE%B4%CF%85%CC%81%CE%BF&oq=%CE%94%CE%B1%CF%81%CE%B5%CE%B9%CC%81%CE%BF%CF%85+%CE%BA%CE%B1%CE%B9%CC%80+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%B1%CC%81%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%B9%CC%81%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%CE%B9%CD%82%CE%B4%CE%B5%CF%82+%CE%B4%CF%85%CC%81%CE%BF&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_JBAO2bkaoPuEQ0jbg4n7XajE.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_JBAO2bkaoPuEQ0jbg4n7XajE"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο",
+    "total_results": 119,
+    "time_taken_displayed": 0.18,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "I.1. Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύ",
+      "link": "https://www.google.com/goto?url=CAESkgEBxCJF1wmujGoZ4BztZldV8A1ZRZWHHSPqI464vXXCESFsXT0B-sgRg7yR0bsuNrSIxVlz3fy2PZFGYZI71ryFBZgDgAhTqH_31c5UyDF82LMEdAPwZ4JWDlWlrkQikzCJ0dP4viQp7xfiAw3rUXaZY27eDUyJThfrofParG_wuHah_vSbCxHrnsuZEsYMAYynkg&gsessionid=w22TJmG90ByliLCXalp2V6CkpG5HhjfRlqWp4KoTJiS-i-5r5WdOLg",
+      "link_token": "6VskEy9Y3xpXjKwL3VVDdJWRaU4qYXuXQ5p1p5qDBICRpkTnF0RzvQVZtFkuSgjmXNo-V01A22uZNqEgYah_CgdI-b3Fhc6An0E0GeIvcNwG9RT-rmnABnvudS98I-4sA_BPuKL6Bk9O6Beq_IxHdw8gpLmGeWVZe2QP7msoLhJULLzPgoqCxYzNFSttBdn0kdLiY6QTqzBW6kQWoiH1tud0Uejk5hHUKKP3VBgE0AaKhsZ_ewbZvRvAKQVcG0iWA-v-s6e0DmDL2IR7Nnag2EAY7UBTPw--21yCialZIZaZuSom--pLMkrF94QjCDDYYbSp4ZbA",
+      "source": "geoffreysteadman.com",
+      "domain": "geoffreysteadman.com",
+      "displayed_link": "https://geoffreysteadman.com › uploads › 2018/07",
+      "snippet": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύ- 1. τερος μὲν Αρταξέρξης, νεώτερος δὲ Κῦρος· ἐπεὶ δὲ ἠσθένει. Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ βίου ...",
+      "snippet_highlighted_words": [
+        "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEU4WOk3V+ksUOgfSegaRucxVOkoTugtUeikr/Pn6vz///8WROeeqvLV2vmDk+/y8/1UbOvu8P3e4vq4wPUALeY9XOkjS+iosvP4+f7ByPcRQufR1vkAOueUofHK0Phvgu12iO5ZcOvc4PqJmPCyu/WPnfFddOxGYuplDsAWAAABOElEQVR4AbWRRWLDQAwApUV71htGUzj5/wvLGLi1cx2x5I9QfSSMdd47a+4EhFiUAGURw3VaqsgDSUkGmSrpL+fycGSjimi0o3F2P23Kk+RF30bSMCWnH/2q8SzMdb5Iyc/DEqi++moEVus6A+PKFgBRP6R5nbNpJXVQuLfQvjAf0pabMXhVD+MkpoNtaT+kIxbQRbEN7LwumCxwHy099Rz2VuIBjkESVYvXT5nsHt6WYJjEMq8/pTjm5gSdceMjnM22dHPc10CDGGBfb9c7ONZ9txh8DWSK7BY9hH5TDxnO8C5/raKGXdjCaezCEg77tOP7caZbuXrFahr0AhzqVWfki9SU7essXtwE2rJJIj/tasu4FgknJsMv92k76OfOXV53+nKfmNDtASZdMHKDxoWz1i2iyj/zDLQeE7ps+rsUAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 2,
+      "title": "Δαρείου και Παρυσάτιδος γίγνονται παίδες δύο",
+      "link": "https://www.google.com/goto?url=CAESkwIBxCJF11UV8bvp8gts9DuxvvNnXHv2A3fwkukDWgEYWg9sGwxAOC5NIz3BCS1oOh6laGF69lTCOBVXS4FfiehVT4cken4XBnXgffeFcrP_k3fiPCQg52mIJqRfEtrvAzOKGU8tZd7KxIF9VuBiUjQTU4rfNOjci6cCwKyS15nS3dEiP_cIhnKA3tmJL-CrBWxwJmLHTjM9Q5GqQbebe0Z73bZrSiJ2sZxe48wkszQiOuZFk9Bl2eFeIndW0Idsx94IWMx1XAqk6Q1cAzSKUoKjNe0c_VsmLo5CtuDHTNKU-biNjZ4Eq22Zb1dBgIIioLcJLpzvO6uePwGdXUIoGAJ1ZR3EpnHHjL6B8cZG__grL-XUzA&gsessionid=w22TJmG90ByliLCXalp2V6CkpG5HhjfRlqWp4KoTJiS-i-5r5WdOLg",
+      "link_token": "_VA0RCkJl7V_LBGo_L08ws0KOyYJqz3xSZSV2LmXxekE0sPeWb8HssGK_Zk7ZnWAbJM6avfr6x2FHbSPX72OCnrTz0vVssf2earnAGlp2Lk2nUqxxSf3aaXxYJHZgo1eVW7o7fGZgFDRV0UWxW7fRngvelzYl6CcBbnAvRCpfcpw9XH9D0u_V5UoiSKizOXQkGGW8Y8z-4sGeIo0gmNanmbUUo1DKBcrNQLXsi6H2uJr-Y6SSHDI9olse7x8vHtpcmmAzjSUEs8VUd3FGdRM3A7LVKGFDRgRTTKyFRyY6TsL7KZ-I3Vi0ZPkXWm1iN9fcWYN5XfigwN0hTk7xP2Fb6deI-clmNYaUWph1ZBl1N_en7twooZ3sA7RpQ9BkQ8ycb9UhMxc_dEe0WtxrZk0SNNNhTX19tnPOtBwAW2COM01laIx09n979SaooaqzqbZvEka-6C5cYYOBY113wO1y9Nr-4lezCYv-vpqILDFVpjwVRuk8KoO_wCd2UIt8lN7uJI--fKOJN06fUoIFnzu_--kvIxSTaNODwgy2xqf4BWCw",
+      "source": "Περιοδικό Περί Ου",
+      "domain": "www.periou.gr",
+      "displayed_link": "https://www.periou.gr › φάνης-κω...",
+      "snippet": "Από τα αρχαία κείμενα που διδάχτηκαν στο Γυμνάσιο αμέσως μετά τον Πόλεμο και την Κατοχή το πιο εύπεπτο και αγαπητό στους μαθητές ήταν η ...",
+      "snippet_highlighted_words": [
+        "και",
+        "και"
+      ],
+      "date": "Oct 2, 2021",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABR1BMVEVHcEzk5ejHc9rr1uvjpOrkU+fjvez3+fLectO4qcfvbPLvhez0yvPYldBvXI98M7TSY+PFjMbPWdTZh+HfROXxZO2Yv79CNnLyTPPdm9f0e+6UdrDBMrSiQ5P9bP+pX9p8MqXfteF+ZKGbQsJkUIH////0APuOAMygAdm0AuHEAvCOANz+5//1avr6Rf4SAHX5Gff6I/7yu/r5N/36sv3/9v9fALj41f34Be30A+D4VPj3E//JAPn4K/z+7//dCvd1ALn84f76l/r2d/j//P/pHvf4hfw7AI7tHt7bUPKxAPThivb2zvtMAJTKQ+HTAMnoX/n2Le7Xce3mAOPQAPPiy+z9xv6jAOheAKBtBpjYKu7ll/G+K955ANScRcmCTKv4SvpUAIgUBl4AAFC3mc/CEvJWOo2MAKKKF8ewY9mxBc/Pl+m3g8uTjjPPAAAAJXRSTlMACX8gT777Dogvp3E1SKH+yFyRi/ryFPTYo8hcVSTbatTidJ3QZNCzAgAAAddJREFUKJGdkldz00AUheOS4JLE6SQECO3uSqveLEuyLMm9l7ilVzr8/2dkr8MwEB7gPO2cb+/OnbNnaenf9eQv/mo6tW+rL/64vhZN7WsIiXo5eP6rH48u77CnnxpCcVIAgNIW9fcO199lfNxoqYEBVOWis0zh+r0kZVYefIBCUXCRskPh4Z30fe4aptrqngOPcjnZqu/NYez+GsD8dm0cM3iEzsEYWlbOktfo6N24kMlytbHKMAypAgytXAgTFL6Cq2yo9zzTJOwxQKXXs2RlsdFbYDA+ufwCJM+yXQB7WB/UlV0Kj8YthuH8z9AYscwFQFUb9OqyHZvD5Glw1SQMhtaIZVmAonsjDsRqnI4+lT5yFcIFOkNYXIAJcl3R5hMPsHZ7Mr1sm2TkYRMChBxR4J8tMprBWl7liVchOpRlpNlFs0ThG6nTyUqcanieR0oAgqNpE12gf5qsdTj/FrfhK8G4EsYluyKUBJpR5EI58/1puew0sz5pA6hVvqCI2/Tdl4rQ75tgIA6zs4xCVRVxsVFK42cGjzA3zSM9POo3wu4BhWnUnkEdfcBNx6mUXh+kVyM/O6U1Qha43ll3Y2sz+Vuz7Hx/ZWUjsRl7rI7b0XjkMf+/9QMOAl5urHEeqwAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 3,
+      "title": "Ξενοφῶντος Κύρου Ανάβασις 1.1",
+      "link": "https://www.google.com/goto?url=CAESaQHEIkXXLPDe5cVRGXtQ8toGnUYbN6MbKjlE8hN4uJFUokDBH81gGQjPCks7GPrNbbQULUH7r3S8hlzUu4WxQZ5QcElVGK7S5tNzZPJITNe-X47WN1FWI4cwdrdhbzGS_VJ1phyDbrjFiA&gsessionid=w22TJmG90ByliLCXalp2V6CkpG5HhjfRlqWp4KoTJiS-i-5r5WdOLg",
+      "link_token": "DWJSiLIPFKxKfz5VyxzTfgIj8F3IfkZ6ww0jTtNpPewSkxohgOLimikaZCO9OdN6iJ1lIVcS9pZ--oX7DLCo0fV73NBtAa3J-PiK595p_UAYFUUsRHeEsJZdFf1pSkv3albaPP6cUD-1hBRmBEoAoBv_SOC3YAaq_s7CZgND96VykwgIftO_3BhdpEWtEB3OU2bIFODrgvcqj28M1WU--4uefXUULy-bn_J6I--zQ8g9Yjb5iYKMmtAAOd8pg",
+      "source": "Light and Matter",
+      "domain": "lightandmatter.com",
+      "displayed_link": "https://lightandmatter.com › anabasis",
+      "snippet": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος· ἐπεὶ … ὁ δὲ πείθεται καὶ",
+      "snippet_highlighted_words": [
+        "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEUAAACMjIx7IRjWQim9vb0YEBBaWlr/nGPvWkrOraXn3uf/a2utjIT///+9Y1qEY2MI4Ze8AAAAiUlEQVQYlS2PQRLAIAgDDSCKWvv/3zZo8eBsZgEtJatKFcn7+VG0d5Xil4vobo2BoF4WnTqbboHV06CqjaVYiD/ok8FyHEXSmG3EC0d4jqTRR3udwcBv9LlgDnuCfAKypeEpMNkwnqB1W2QZMMI8t/DhMs2OkkLWJiM5LpcYxPHkzvvbyhV0jv8BG7wD4z+VS3oAAAAASUVORK5CYII="
+    },
+    {
+      "position": 4,
+      "title": "Κύρου Ανάβασις Α, 1-2",
+      "link": "https://www.google.com/goto?url=CAESbwHEIkXXtUEXWd3VwFUJ8sOzezHYchEVJWgK-FUV7FmtMBnQSeCNkU1xjsO-8HpSYxwgOmg56iIkazuYnu6bXQYnhB15o-MLiTopVPOW0S-05Xzc6JbdiaGtSvHTPovw01DsCjXsr6A_m8IMdtDVkw&gsessionid=w22TJmG90ByliLCXalp2V6CkpG5HhjfRlqWp4KoTJiS-i-5r5WdOLg",
+      "link_token": "auEpVvg8xpl5oRByIq6tBwnBXj8PXTITrWWAkHeu0PqNF53Qh3LpKwx_1vhy_G1Tx4MYVNh6WsirbybjEdincBRC-Y27KA77uansSQ1oKtWhkU21epau_tHluxWrYutc0AZBe6u9MJC0K1neOVwdnGxhHaivVFtZs7W6T6gnsSikR5p3KjZ9Ycj-6_o36uPC49J-VNco7KOdzqLz7NblIr13_iHjkA--ds_YAcqSr6m9qeor--akgchaeld8MGH19Rp_NJgQ",
+      "source": "Μικρός Απόπλους",
+      "domain": "www.mikrosapoplous.gr",
+      "displayed_link": "https://www.mikrosapoplous.gr › xenophon",
+      "snippet": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, Darius and Parysatis had two sons: the elder was named Artaxerxes, and the younger Cyrus.",
+      "snippet_highlighted_words": [
+        "Darius and Parysatis had two sons"
+      ]
+    },
+    {
+      "position": 5,
+      "title": "XENOPHON OF ATHENS, Anabasis",
+      "link": "https://www.google.com/goto?url=CAESpAEBxCJF1-sdrZhpasPiff7yH9JkyHiPQ3CyBcRE3t3A2GOoFcDXQ246LY8KBtbD_bjbMhpq6dPLLYn7uSeirwv9mzu7YC8A7h_siiMQlSdrscUxzBeKojCL0iuZKuDMLjcSxmas1tItcGDoBVSSXqidfo34Zyb1sGAzPcKDDzyGii2uWOWKi2zMf_BGS1bdIxfJXJFi8SGGO-E7cF4RjTh4faAejA&gsessionid=w22TJmG90ByliLCXalp2V6CkpG5HhjfRlqWp4KoTJiS-i-5r5WdOLg",
+      "link_token": "Qa5S_y7AcxaxdnaJQjZOGrPVDpqH671febxgk-yrI2uFLtu3Ov58l-NviH8XvmV1lQl3av-VRMnipxQaWlXjrz-yhdwwnl6hRC6SpYMCNeuZZ3G0IIgCA6-6I4HuvdySs3hOlBdmpw4eqtvqBEu7gciecfOHec9SImSxFbOiLqpkJgMZpEfsfduJW8_r-qpEXcn0iofA9y9MEP9GvHZVkmpld6TTLn17JpjAzIn6x0PLWAbsledJwwFuBVSC2GTwkDkCRZc1xJCG-mpXWB2U6EstD5hYEnpUwqMPQAoqxQ4q0gWWyzqx4yBnFqNjpQ--JddZ8ozn9s1PO8ee--4oI4aSBj0icwxxND0oF1BQ",
+      "source": "Loeb Classical Library",
+      "domain": "www.loebclassics.com",
+      "displayed_link": "https://www.loebclassics.com › view",
+      "snippet": "I. Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος· ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ 2βίου, ...",
+      "snippet_highlighted_words": [
+        "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύ"
+      ],
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NBgkRDQgWCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5MToBCgoKDQwNDw4PFSsZHxkrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAACBgABBwX/xAAoEAABAwMCBQQDAAAAAAAAAAABAgMEABESBSEGEzFBUWFzkcIHIjb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOKyEc5vmlQYyHMLYBUE33tfa9qa+J+GIkDSGHUTXXXZQBjoUhOJ6E5eNjSiroaf/wAifzvDvtfRNEIFURRVVFG03m8hOaWy4oJzcVilNza5PYeTWh8Wtxpul6U0xr8RK4acVqelBIV+oG1gfFZzUoGB/SIkbRpa3dVZnT1lKIrMJ/MI33Urp2v6fOy/apahPWg//9k="
+    },
+    {
+      "position": 6,
+      "title": "Δαρείου και Παρυσάτιδος γίγνονται παίδες δύο ...",
+      "link": "https://www.google.com/goto?url=CAEStwQBxCJF17_vbq88JAx5SY6jtLGKGm7Klu8j2cpMlcWwzZSqkk7bjwZ5sfUlxO16avh6pV5-jeFKSH_a2v2nEomOsWSzXcDopw8KFKNae1AItEcc6CXbNcOLwOAaIFgsojWDIXSfxtI1oLyXmpfDZ0NAsFWmOx21CGZhm9yiXem3DKgJUMJPT8KrUx6r-hRMGLO17xgm8n4dLNfUe6xeq0D-uw_yAVl0nC9bpUja81XZjxQYcwG3mo9srq4gJSxKOfdOuXyfuBl12OgArSWuKxsHlV725kYgSnDWOAsyieiHZpcZmrQpyAynbDBBGP4DRI-vlaTPZ_Ed6v-NLfOu13DzwSmVUP0c31BzROdCo9-PsmJvmn28wu31yIrUNzRESb47sQQhI10FSFvTnKuMvmvd-BJphkz8AhbirCGVI4rKOvtbD67Yb38figFSjCtLZv8xVtcGnDnMFb3nIJuwS_ye0741BkLHLw5kSK1SY5S7i55pQtcqhBjGEBGeiSF7DdNstCXL2LTzK1HYfA8j9UqjZJWUbMTBaRK2UuACUuSN-2YowhOqGHeFWBZk-wMAzfzFT_enCOzhye_3nq2Mr2jt-ebBTePGVv6IZ9ooyujsijKVx11PzRU0j35yqagm324kTYiIII_iesQ_YMgMMeSx0P8UwraXFfG7mo7x6352XnyWonZ_hUGsDi4LtWv09uvYiCGSDITrzLAtZbDwsbvfaP2Xhwtx-xDMC35n6FsL20ZPw0AjBKE&gsessionid=w22TJmG90ByliLCXalp2V6CkpG5HhjfRlqWp4KoTJiS-i-5r5WdOLg",
+      "link_token": "rwnjUYW94E2edfazPPWTlzG4sAGB_trWzhBaKFks6AJ7l9KnsMiYvKy7vlGpoPt_DPx0TunOq76Cc6CK6zimY-1f_UzNpCjqyBIgXnKu-tCQME9ZYUtgbblx57Sr0lKsO3TMega3NN-FejAMwhDi5zDcpkECH1J0KxVBS9ub-gMMsanSt9S-X3S6fpTdpi8Eytdcbt53rIK1LhE3Dzv3gK35WWbZFheuGxWmB7Kc_rG_AF7FT7cS4Ko5GUg1eFQl2YeUhB220NyaV26mja2pX7nFehd2Cdos615Wta2vTsoCaeYaTDe-2idCPuoR9Zb6r8TGompwW3JWDI9runaoIqW0gmbOUh3sL7WVn4B9m92dv_TjglJ5K1vfZXhoLOyRFiJUmtytt6LLA8ohJ_TRdLcQ_sFRuzkxoTypl5F_vSlG9eJyHbdVij_za6sHJ9ZXK0FAWizD3t7qk9YzUUnvact7j7KQUGxkugwjvfx6M4H05xVAoYUE_A9tClGyA9OvrdIbUCnpO1_ge6RLyjml_jfWy5LwJQwnHrnFs0WEAiNWTHWg95P9QaU54WjRJ8TSkYJLfPc4pv8oespqE52aeoX7qet4NTRFfeXsi-RFHF2MuptM5oucn6sQOTZuHAYn990BlNLiMVZxY8Sh-cRvG7HaJC7DTDKJaZ6_nBeL34n2pZAv4xYhwadDRIkHKsIMB6C-sCM61JQ156OGZ6hg3BRKxgD_zd2-6UwWMIExkKDUaQJ6MsEfrV_RujJg5VpdfvRCrzt6N2GTMqUNFIv5LelA6t8X4cAGzttvbbaIPMNwlOCkwtOgeph4WftV_mgySgyYkNgU8tmUVDGJyVG8W_LBxvaLBmL5q38HMyyeTGMHcu4Wz0McJzuwEEoEvLCJ-Pc4RsaFq0tKQ43xo5vNsCpFjP8R3TOm2C0w35ieomZBP2eY1K32gsTTx69_yZVdNIGrjTObwzFEDBeuicdz_FTEQSmus4bfC4PDBroximLamO4RD0k8u3cI8txcRuHA994NDypTzA--cMkk7mNkYVzRhtbp--lwpfSAC-mhvsCu7HrT47Jw",
+      "source": "Facebook · Αλέξανδρος Γέροντας",
+      "displayed_link": "30+ reactions  ·  1 year ago",
+      "snippet": "Δαρείου και Παρυσάτιδος γίγνονται παίδες δύο, πρεσβύτερος μεν Αρταξέρξης, νεότερος δε Κύρος.... Δεν ήταν ανάγκη να είσαι καλός μαθητής στα ...",
+      "snippet_highlighted_words": [
+        "Δαρείου και Παρυσάτιδος γίγνονται παίδες δύ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII="
+    },
+    {
+      "position": 7,
+      "title": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο → of ...",
+      "link": "https://www.google.com/goto?url=CAESdQHEIkXXPw7N8kKnWLroE4gtXxf0FTNlR40GvmXwZSJYW8fd6O4rMGLtgL6LTAe0YVFe2n7hZ4-FkBAx_nFAWdvemcD5bcQBp_MzP6pyDEvanF5QxRKDpVGtHGFS0mO9EYgUMlN18mZOTNhn6-I1WbYu046F3w&gsessionid=w22TJmG90ByliLCXalp2V6CkpG5HhjfRlqWp4KoTJiS-i-5r5WdOLg",
+      "link_token": "sI1ooC7BUURJ_xet_zy0o3PVR8a8-6OHWf9xGmXhWMj6eS-StBvWfmMld79NiOFy9NHGM53Xp2wVhrzLRUUu3VaogijznLHWBKRkcg4EapsH3TFdqsFdp1dELsIDdY2UlgjK8-VWNvj-mLiR5xy4msaVxeozvTyxnPyzbttdKWZbKvOmeVfBjjCMyGJBd3MZbK_XTZQ7g3CChLXZJIbP8emxsjLQRpoQOrgpPCA_--IcsF4jJCLXyxo4bd--g5W-z-02d4n8bq7VBmNT8g",
+      "source": "Translatum.gr",
+      "domain": "www.translatum.gr",
+      "displayed_link": "https://www.translatum.gr › forum",
+      "snippet": "My translation: Darius and Parusatid bare two children, on the one hand the elder is Artaxerxes and on the other hand the younger is Kuros.",
+      "snippet_highlighted_words": [
+        "Darius and Parusatid bare two children"
+      ],
+      "date": "Jan 28, 2011",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACFUlEQVR4AbTWAacqQRjG8XUQB0IAFFUf4AAoBSIpAQiF9DEKKMSJgFJ7ABJAQhIgkBtwbiBQIroJ1GKl/reTsdLNtI3uj0HZ5n0y78ysZhfgBNJAC5gAG+AgxkZ81xLPOLVXAQKADhjYZ4jfBNQLwzvwCZioM8Uc7yr/+jcvIuby2y3+AfzhxcScH4+K+9WL2w7hl635N//f992eEM0itd1uqVar5PN5stnsw7Hb7biPz3tNZyKxWq3w+XycH7c9zoFluyNwHUBH4nQ6EY1GnyouCyDo1yecgUS/38flcqHrOovFgv1+j2EYhEKhS6FYLHb5fDMuwSUMwKkBaR5IpVKMRiNuud3unwCXnlCU1oAWEsfjkUajwS3TNHl7e7sEKBaLKGppwAQFs9nMWut6vY6iiQZsUDAcDq0A3W4XRRsNOKCg2WxaAcbjMYoOygEKhYIV4LwcygGUlyCXy1kBlsslijbKTZhMJl8R4JfYhs+LRCJWgOl0yrVer/fUNkyjIBgMWgHa7TYC6/WaRCKBTWnJUSwXj8etAB6Ph06nw2AwIBwOUyqVEB4fxT+AL55ULpfvXkAOh4P5fI4NX/Lr2Ma7gdfr/SdArVbjMXEdy19I7IWoVCpkMhn+LjMz8/++ffuI1do94E2yAW2UDtpmOXqivETlYFcejF0z+ndOKXEIL1L3/Ay0Fv0Fxa+hYrOhaniJNRcA/Bwgnm8WdTMAAAAASUVORK5CYII="
+    },
+    {
+      "position": 8,
+      "title": "ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΑ Θ.Κ. B ΄ ΛΥΚΕΙΟΥ Διδαγμένο κείμενο ...",
+      "link": "https://www.google.com/goto?url=CAESawHEIkXXBQ6Bwfj10Ye_Tiey0odLJWWVLLQC_FMFugH_M6Cl8sOG9DxPLMXTOibZTY2lclgymYwneOSbue9NlfzTvnLHFXZoThzl1LEog2lbVfaBWDRvZn99Va3A-soEf-LnKnomddM-iKwZ&gsessionid=w22TJmG90ByliLCXalp2V6CkpG5HhjfRlqWp4KoTJiS-i-5r5WdOLg",
+      "link_token": "62ddWc05sphMgxv858Xe035o3JbVhcYrdq3ePQ5mPw-LbmuI6ZlnljSh4QJ3FHNlBhWJvLaVoDleJcn0LyBCIiuRe53WHPP9Uc_3D2z4iizi_M2T78j2sDqN_ozA1FyeE9jt13tkCaEcHEDzb_9OjIMWNEoQIKLjFmccxThxjXUGToOmj2fjB_WPxxnbDoBUQPwERAShcWWzB50pzzYFeg--XeVFo__7uOZyQmg---ajyYJrckSYlwcMOukw91fA",
+      "source": "Δυναμικό Φροντιστήριο",
+      "domain": "www.dinamiko.gr",
+      "displayed_link": "http://www.dinamiko.gr › files › arxbl191014_1",
+      "snippet": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν ἦν ᾿Αρταξέρξης,. νεώτερος δὲ ἦν Κῦρος· ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε ...",
+      "snippet_highlighted_words": [
+        "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο"
+      ],
+      "date": "Oct 19, 2014",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAz1BMVEVHcEyaoZt4c3BwamZPEiU/qV4+qF5aVFJrZWKSmJOLlYqTtZxtaWiTxaB6fHlnYl9RpWhcn22NkYlzwIheKmNNqmdNoGSWpJViZ13Wp8hTsG11q4JWlGWkyqxybGlaXl/Fekd1c3JtbGt9NW1xcG/PhlOjg2NWTlMkp1BWVlVPTk5UVFNHU1j5fBVPU1QUpkhHR0hiW1ioqaarbEAqrVSNY0iKiore5N6+vb3N0s/NczHneiYwqVautbBYWFlDtWV9fH12XEy8aSrcmGrsxq71zQ3PAAAAJ3RSTlMA/F/UBOf5GUT9I/7+/i02nmI7/grFiRgoCdFfS49P7Nqfkw+nqDnRPlq7AAABr0lEQVQoka2SaXuaQBSFh0UWBUnUVE2apUta5jIDDCOrgJr0//+mDoiEGNsPfXoevr134Zy5CP1X6aObq+u78fpPfOk2KktRdnex3z2pvP4rL2cX54/7/qtzpOqG4GVfcDZfNwwdoVWPXW0xxCtZRbOvirlx3aAr+DTAhoGmSu2B4MG8Cs4HOA6Sax9jwYP5vrbbgs3nfvcDkjk/+Bgkd2cCJLt3FhbOYrpl7CX2QdpEIcbepB0w6n8dKRQTwj2Y2D9xu2bIDd2ptzT2Cfb2zBMc1/NmgNZxGX33WUG3McF+izG0C7r+tYEeyYHzZgQ+CkyBg9tu/RQ9csqI2ME67ie7sg9oPF5blBMIY8rDEKD5rJ0WlJ3/5QxxethLWfUa5bmZVJEURWmq9fYc9CR4lSfpax5lUZ5FaZXa9il/1UDPNA4zE369RKJTMhMrs3NN7R9n8YMWBIDRGMIkCcGHxA3e3l/k90RjQoqCCGtw9H8zuJwHdRpvi4KTzh5m8xEaSJeRTHxySgeHk9G3d8e1EiEfkxfyQulWRR/U3E8jYNX9R9po9kWxLEW6X17G/6TftCJM+AYj4TMAAAAASUVORK5CYII="
+    },
+    {
+      "position": 9,
+      "title": "Anabasis 1.1 • Xenophon",
+      "link": "https://www.google.com/goto?url=CAESZwHEIkXX_e10ysXdPfSgLEkheu6O26Ur8pSy7Qteuh_TloTr2N-BlVsurxrEmW1QoJcvyIbDvxdjgq1HK78Pg2gcosyPZzCn82uMjXif_tTV0b8FPMaxFG3H5Zzf4ID0oDdh6-8N390&gsessionid=w22TJmG90ByliLCXalp2V6CkpG5HhjfRlqWp4KoTJiS-i-5r5WdOLg",
+      "link_token": "5uwHKbmXo2GbUkOaGgixZJceYHH9TuhxAXXMCUW0hqTsErVN--7RVBpoi4coyvc12q0D2MVYNCBFtlwrsLaK3yI0ei_93vOC_owmA6ppXaa8XXSssGv-YssfqTbng6VOaRDXlUri2F4eEAJ9yw954xnsOubK9cRDV9K-uIiJmyhFZnlRW0xcUA_luOLIb0MTzkw0tWENRpcNOj8--GfJlEWDiAWlbey4g--qXw33eg0qhAsZwLA9R8nhA",
+      "source": "AncientGreek.eu",
+      "domain": "ancientgreek.eu",
+      "displayed_link": "https://ancientgreek.eu › free › an...",
+      "snippet": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος: ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ βίου ...",
+      "snippet_highlighted_words": [
+        "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAABAUlEQVR4Ae2UNVqEMRRFsxbWQIPrFpgVsAAqWuhxdxrcG9zdocHd3d1zuSH02MNm5nc9Sc67XxS+YXFD37Fs9eBkQQ56d6avdvVAlF6qx/mqEHRvHDW+uthTVwXqxjC2ITN8fTSFCm/UOUiUczoeb/o7U0Szf776hXPcpKHhLYjsFYU+AKE1SBi310LQm0d4FCJ65MlRrymBtwLQzSuo/JctDSoDxfMS0MljqCyDs0f2l0+EoSoFdatSw7fQNMZArlCv0BQhp4wRPao0y6UNufCrNLMxWDI5Hdq3Ts1GDxHdtPxlKCWqRGPTbLyI5ROJQtFj5xbq1njkNZ/8+NTnhj4DNZ/ZJ+GRz18AAAAASUVORK5CYII="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CE%94%CE%B1%CF%81%CE%B5%CE%B9%CC%81%CE%BF%CF%85+%CE%BA%CE%B1%CE%B9%CC%80+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%B1%CC%81%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%B9%CC%81%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%CE%B9%CD%82%CE%B4%CE%B5%CF%82+%CE%B4%CF%85%CC%81%CE%BF&oq=%CE%94%CE%B1%CF%81%CE%B5%CE%B9%CC%81%CE%BF%CF%85+%CE%BA%CE%B1%CE%B9%CC%80+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%B1%CC%81%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%B9%CC%81%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%CE%B9%CD%82%CE%B4%CE%B5%CF%82+%CE%B4%CF%85%CC%81%CE%BF&gl=us&hl=en&start=10"
+  }
+}

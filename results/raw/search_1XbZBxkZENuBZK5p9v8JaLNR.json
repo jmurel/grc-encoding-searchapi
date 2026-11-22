@@ -1,0 +1,323 @@
+{
+  "search_metadata": {
+    "id": "search_1XbZBxkZENuBZK5p9v8JaLNR",
+    "status": "Success",
+    "created_at": "2026-11-22T03:34:14Z",
+    "request_time_taken": 1.62,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 1.64,
+    "request_url": "https://www.google.com/search?q=%E1%BC%90%CE%BD+%E1%BC%80%CF%81%CF%87%E1%BF%87+%E1%BC%A6%CE%BD+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82%2C+%CE%BA%CE%B1%E1%BD%B6+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82+%E1%BC%A6%CE%BD+%CF%80%CF%81%E1%BD%B8%CF%82+%CF%84%E1%BD%B8%CE%BD+%CE%B8%CE%B5%CF%8C%CE%BD&oq=%E1%BC%90%CE%BD+%E1%BC%80%CF%81%CF%87%E1%BF%87+%E1%BC%A6%CE%BD+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82%2C+%CE%BA%CE%B1%E1%BD%B6+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82+%E1%BC%A6%CE%BD+%CF%80%CF%81%E1%BD%B8%CF%82+%CF%84%E1%BD%B8%CE%BD+%CE%B8%CE%B5%CF%8C%CE%BD&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_1XbZBxkZENuBZK5p9v8JaLNR.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_1XbZBxkZENuBZK5p9v8JaLNR"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν",
+    "total_results": 159,
+    "time_taken_displayed": 0.34,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_Z2xceDNkdXNceDI2cHdzXHgzZDBceDI2aGxceDNkZW5ceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZHRtSUNhNUhITWRxdXdia1A4cmYwNFFrXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9HVmtPdUhUUlNVMXVuOVJKd1c4RFVXT0dZNWVBL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMjI3NzA3NSxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJRUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUFBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SUVESWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBUUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9FcWNTZXhlT2w0bEhxSHZpY1VBcll3eXFXblNBP2NiJTNEMTIyMjc3MDc1LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJRUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNBQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUFBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SUVESWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBUVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FBQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0VIelhaX3V3ZE9WLURMaFFrUWdzU1RDS0czY1EvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIyMjc3MDc1LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUUxJUJDJTkwJUNFJUJEKyVFMSVCQyU4MCVDRiU4MSVDRiU4NyVFMSVCRiU4NyslRTElQkMlQTYlQ0UlQkQrJUUxJUJEJTgxKyVDRSVCQiVDRiU4QyVDRSVCMyVDRSVCRiVDRiU4MiwrJUNFJUJBJUNFJUIxJUUxJUJEJUI2KyVFMSVCRCU4MSslQ0UlQkIlQ0YlOEMlQ0UlQjMlQ0UlQkYlQ0YlODIrJUUxJUJDJUE2JUNFJUJEKyVDRiU4MCVDRiU4MSVFMSVCRCVCOCVDRiU4MislQ0YlODQlRTElQkQlQjglQ0UlQkQrJUNFJUI4JUNFJUI1JUNGJThDJUNFJUJEXHgyNm1scm9ceDNkMGE2MjhOTFd5VVlUeXVWTVZEMWtQYjZ5a2NudnhrMnY3MkNlTGh1X1k0OXhpaTdyX2tNZnVOWEhjVU1nWkdkdFhkZzNKNTVIa0FsVlFER0JuMzVvemthanRVUU1QYVZ2NmNVZU45amlrdWZjV2RqeFMtZXlkblFhUG1HdDltMERMMXBiNWJ5WFx4MjZtbHJvc1x4M2RkSmNsR2NCRV9KTVx4MjZtcmNceDNkQ0FBNGdBTlFBV0FBYUFCd0FKZ0JBS0FCUnFnQkFMQUJBYm9CQVFIWUFRRGdBUURvQVFBXHgyNnNjYV9lc3ZceDNkYzViZTIwZGQ1NWVjNGY5OVx4MjZtZ3R5cFx4M2Q0MVx4MjZzbnJceDNkMQ=="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "John 1: The Word Was God",
+      "link": "https://www.google.com/goto?url=CAESgwEBxCJF14Sfsw7f96IXIjiDn7POGfXLpSqrslXIz2HRksZo1jLNnnp3B-ha8gBXKj-M2o8Xa3g2WpqjPpvXGlpJOnFGxNlb6y94Y3QOQJ7TSDfXWOOHl6O_mPNG7d0gcha24JcWt2IO-izHzunuJgodEO5t67npgbuhMleyj0F-ZUvhDA&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+      "link_token": "MFGcbN1D_ULcHdjB7YwJiSqZaFHLxFb3Uv-NxNGAORIvdS50rYoVoj8_s2XICZtkgyn7bON_g_IA9FN91q9p0hxAA0ZVBZDocQhZG1z2uHQ2vD_KPu86_owrvxLU7Nzc87axr_gapR98EjPQyf2APTxDqH2a47OnMA4EgMG3CN1JRs_si1jyoNbnCVQn3KM8Dc1aZWW0KQ28dZ7G_h-P4OFgdel-LMM1wLA14bDrUNZJF4wGaPoTiv4GcQzEUiAwPeo--9vet7y2sOBJCGuyT--RC2HhIgesdr35XpUcMw1RA",
+      "source": "Sunday Morning Greek Blog",
+      "domain": "sundaymorninggreekblog.com",
+      "displayed_link": "https://sundaymorninggreekblog.com › 2011/05/15 › j...",
+      "snippet": "En archē ēn ho logos, kai ho logos ēn pros ton theon, kai theos ēn ho logos. The Word was in the beginning, and this Word was with God, and ...",
+      "snippet_highlighted_words": [
+        "The Word was in the beginning, and this Word was with God"
+      ],
+      "date": "May 15, 2011",
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3LTc3Ny03Nzc3Nzc3Nf/AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAEBQIDBgH/xAArEAACAQIFAwMDBQAAAAAAAAABAgMEEQAFEiExE1FhIkFCBnGBFTKSwfH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACIRAAIBAgUFAAAAAAAAAAAAAAECAAMSBBFBUWETISIxMv/aAAwDAQACEQMRAD8AGyX6Ti1R1WeQhp1XXHSA7jy5+I8c/bD+SvkjBl6MXQjOhV16LDb9i8Dja/PjBYWDL4RPWl0ikNlkRtRdj3t+cIpJZ8xilrJI6eJ4ZLsItOlhvpPq3H4vvhbJtI2lpPn6gmb1FbnOZ/psMIl0k6KYv6QBsXdhwvP39sPKD6Ty9KdRU0kVdN855k5PZR8V7DA2SV1DTJLEsTUrzSs0shOsyHkXPsBewHAxqVMwvZ7Lyot7fyxDIy/QlQ6nspmFzXMIWiqKmolKqdWhWJCx3FyPH9XxYaMDMaaQBWgRHJOo78W298DOwegZnRG6rXYEbb/5jtJJKk89O0rypoWQdQ3I1XuL9tsaOFt6Y5ieIuvJ2kHmhev0qQAb6e18NoJ3aJVbMcwh0DSEhRCoA45UnCGqcrNGQBfqLvbzi2v9NSwGCVqYdcjB0qhVp//Z"
+    },
+    {
+      "position": 2,
+      "title": "John 1:1 Greek Text Analysis",
+      "link": "https://biblehub.com/text/john/1-1.htm",
+      "source": "Bible Hub",
+      "domain": "biblehub.com",
+      "displayed_link": "https://biblehub.com › text › john",
+      "snippet": "ΚΑΤΑ ΙΩΑΝΝΗΝ 1:1 Greek NT: Nestle 1904. Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. ΚΑΤΑ ΙΩΑΝΝΗΝ 1:1 Greek NT: Westcott and Hort ...",
+      "snippet_highlighted_words": [
+        "Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEoElEQVR4AdVXA5QjWRTN2LZt27Zt27Zt23Yw07Zt27btu//tSXoqs5muznreOS+o+v+ZglLD6le1BRs+LxNsED4XbPziKNgoShBsFBYQ0m96Ru/ozO9n/zZYK+zECL9ijLIYopSYRXfo7p9nvFG9qmDDl5uMWB6XePktYnQ8bYCx92wx+7kzZjEcfdcG7U7qoexmkbwgdJdoEC2lYJO4A7vswSXW66IJDmmHQeyfD81QKMQvvrnYox6MTmcMfhTEg2iWUvPPfdmFeNnlNsd1cdUinhjgtVsmNor8MPymFdqc0EOD/RqEaMt+j7hljS0Sf7zzzKKzOGMUhaaHtbhCxBNtfs05zKc/dYJKUCFeumZgxG1rlN0k4vV/uc1iTHhgh/ee2ZAE5GPcfVs5IYjHz33OMfuKD16kCQ4zs1fZ/pWeKYU1d6ti9SdvshiaHdaWd4eimJAGHAinPXEk5tj2LQBlNvEzUxo3CG/8IdVk0d6a+ZzMflwv4i8zL8OwyjYJ6u1RIUTFLeLi7JBLUWmeg/CKeRw+eueg5i4VpRm2OaqJnZ+dIXQIg2dUKtJz8sEFA+9YrhVeFVc4WZHpecEYz13SMeiahVKMu57SgYZrFAqLiiCDxMxcWAcmQOwYjufmQXhg7I9HpgFosFf1e7Ei3lQ6ZYSq71RBGSW1nvXQAll5BSDwi03HfpELOp3QLp37iDfVb0UvyXetj2iiLTNr9R2Ks4DeZeYWkOY4ruKO8qwSlmPY77w+Fj21xprXdljwxArDrhii5k4FNIg3NRHZgx5ndHFN1wfukSkoLPxuziLGwCc6DVfZu3bHNIsJXNfzBcE5TS9U2CLCPqZ9VEoWFEF+QSGMfGKx9LkN1zoOAmlXw/CrRowReIEI3TX0QzVmFRPfOOTmF6L9MS1YMX+XFqbeNZMJkCCQtlRs/egIZYCiPCAuHQkZufCITIUysPWDo0yAgmIB9gid8W/Bto8cAWQuWPXKDv8WLHxizXGBNAgHXzZAfHoO3tmEkIkw5Y4Zxt4woWjGJW1vuIQno7TgGp6Ci1relAEYw2jMuG9O6Ql110hks5TteVaXE4TSNKT0Kb+l5G7X74I+EcHPwJBVuiGXDUukUWvXN+LFSUNOISKklstXRCiVKP9lQJmw+b1jiXeIZhmFhYhTihsd1ITYP4+6IW8VG3jRANs/ORFixFUj3vOTHzngg1c2DTDypfjHZnTWKBqfvHNQa7fq39Z+a7DGRgPKacMouWaksB03OaSFrwH5OMME4Z+A+LEMo3FCPwIivzw0PKAh1455B5JdakF/SQi6u0MlEBohRRh201JuIOEdyZa+84BGKHDSIJJMqCxzciGZnDEHZj5zUjSS8Q+lNFx+DSjAexY8Ux47oMJWMS/jymx+pH3hs08uJP75GH3Hhmco5RnLaaCkeCCXUHDuVA3CmLs2aM8WEfIpIS0qEx/YYz87RL6ms6cMotD4kKYSYznPYtL1rCEtHaQZMVCIH71ysIsJ2Om08ouJwpigYJFlB7egtDyqg5G3rWktI3OTmWmYVVTA8ogG0frlllOe9VzowLB4PZf+dvgz6/lvzWR8XqQdXIMAAAAASUVORK5CYII="
+    },
+    {
+      "position": 3,
+      "title": "What does John mean by \"The Word was θεός\" at John 1:1?",
+      "link": "https://hermeneutics.stackexchange.com/questions/47593/what-does-john-mean-by-the-word-was-%CE%B8%CE%B5%CF%8C%CF%82-at-john-11",
+      "source": "Biblical Hermeneutics Stack Exchange",
+      "domain": "hermeneutics.stackexchange.com",
+      "displayed_link": "https://hermeneutics.stackexchange.com › questions › w...",
+      "snippet": "What does John mean by \"The Word was θεός\" at John 1:1? Does this mean he was \"God,\" \"god,\" \"a god,\" or \"divine\"? Should we assume that Genesis 1:1 ...",
+      "date": "May 8, 2020",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What is the meaning of the Greek word λόγος in John 1:1?",
+            "link": "https://www.google.com/goto?url=CAESxAEBxCJF11B3e1mtzJFyQtA1vzKhZfPx_z7RsBZZG6Vr1cObzAVFTj44X0rmlhcxCyEYTPkSyhq42IlXdiWBlHQLOZy1u12mxOgm9z46wYQ77wn_eCqalpv_gftlPnu6NGWzmo26hSxAbNRbGkJ-gDSo3GCzK5CODy4Kbn68cxyuQiLsiD5MWTYHSmzqlofdVLLVbDAXCSdX_a7AbZoC2PlgdUAkdziSEuajInfm-j48v6EKAdRM0kluajx2xWQXdBRrOeWp&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+            "link_token": "6v20LORggQL-chXTdFJvEd0GvS7cFem_Jty3drgThKV_0w02yMH7jj7MfuEGErLQMl3_WfxxiVMvLYRkWpAWEk8XMa8_XkWp-hzyYFsFpPvcieV9xr1q3c4-sQGg-h4aJTuGLGfYjeBYZMbpYlwmsSxDZxo0Y1Y0Ou9AR42bbMLZ_midYqkPO6wHUKeCgDYhT8hLibZJoVXNLsXNbmxeHi19ca7ZtAzml5uMnLa9WH9JHjpnXnKtFGqwpqcYl8nyu9tTmiyR6Yd0APhzc6Ae3egAA8bL-S-hWrFR_lDElSsJfQi71rNaWFvtWyhmh9M2_ThDiWUrGp6OP8telODEzn2gJaUzPMlA5MshkGP1dHBPy9-yTbVc3A--vQb9wMz9IFkA9HlY--0d2rOPAi_tGw0gjFi861Dw",
+            "answer_count": 7,
+            "date": "Sep 4, 2015"
+          },
+          {
+            "title": "What does θεός mean in John 1:1, 20:28?",
+            "link": "https://www.google.com/goto?url=CAESqwEBxCJF17jfjWpLTFTM7HOixcusty82CXyK1oXLOLshR2bCHSElnvjEjqsYqRxGjr1OC_asF_N0I_M7kbEz5l3nfjUoVHBzsEXMeLOS0zfCAOud9f8xkFz1tjczBCi0oNdv8Jfhysez1XPLOVL7U8dLDLzC2E94Jfg-V7iueCo9VSxV5QC3KvzbcVtyLKzuGzVl9EdgIBuees920nqxmmFQqEPWX_DkgKI6UYE&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+            "link_token": "jrHUjV_6mhLjb_57G-M_mcPAkrWTmflgj0f3fpn9_piZuM9uW6NZECxwnAz4z-Xv-_1aFHuaWQVMpi_EOUFGNOA8Jys8txytJiAaboAFR2eO70pPHheyBqD7V3NNsJsn9EJZLCWX_QLfwuho9npbAWxMsgNsbmnGe57MX85CfaPMA4OdkFJrP_hSWs0igL1R5OXyYpcalVKzBE23uowRgtiakjcvWIOCHuwTXmQJh9URYyyibTbyoBqdYVazdBZ3kMV-UGt19halCuvH9uOJ0PkCk3k_CQMHQHD2XhqepC_bNThloSkB-1HeQX8woGFXKP_CpAYa8w--NLtlVnYvZAACiQPB--ZL167QKhrHkXSeuPqyL3KQ",
+            "answer_count": 5,
+            "date": "May 9, 2019"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "detected_extensions": {
+          "answer_link": "https://www.google.com/goto?url=CAESawHEIkXX8xcpGfQOSmQ5agHNQFJJObWEBcifGyVivAm4ileysnudceEyOA1SXIXSc6S-39FsNNy0Hg3xTJkUUsT_xiH7DcYJp1GWe4DzlIz_TZij8e_3PDtJsci46LhcKutwsXoJpsfso6aJ&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+          "answer_link_token": "ls6rszRg_UjK67EXdGOgVUwMrGg17acuMLP-EpqwyMxC-0uJFTKQpqYHjGcsvm80tDj0JE6PbWRzdjEoMbSGwfxyBVCShVq-caWu48MeH83ymBILODtIIkKWqQqXCf8NwKBWOIxs4ptffBfB8csdIpjz0XLH_3SMGwYUjhmzPL1fQAWVrp9Hlp6__XQc0yQWtMUH7yJOhx0ZhHh7mlILHA--GU0VnUyAA3rL6tMx--_YvNXjIc7fKD_tjSY34_xg",
+          "answer_count": 15,
+          "top_answer": "Just focusing on your question, \"What does John mean by 'The Word was God?'” John is making ..."
+        }
+      },
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAz0lEQVR4AWNwL/ChKx7mFo5amLThvgUQ+5KILciyEKixC4j/k4m7yLHwPyWYJAuBGiQptRBkxtCyMHzNPTjGIkd9Cy89+/L/+adf/xedew2yAESDMFhu/52PIDHqWvjt11+QoTAaZAnMQpBDaGIhyGAwtlt8G2QhSAyEaWYhyCIQDeLTzYcgi5DjEBa/IDGaplIQTVIqHc343FSwkJvUwvsQBZYdIrc+7ALiRXjwLSRLPkPFuiiv8QnXmZ+Rg5CWFi7CFl+09qHkgDaiRi0EAEMLR/Jx/DKNAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 4,
+      "title": "John 1 | original Greek text",
+      "link": "https://www.google.com/goto?url=CAESXgHEIkXX_jn7K9EJwGHYuSaHVH07hZr6x9uGCYAUmydfGnR_JCf7SXs9GUvMcAatToayhEDSbn8h4XzTIQAKuyG3J19FUZwte18PzuJfhhflyRfV15KLu0JtnkEQKDI&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+      "link_token": "hrIiuN6Dh9pcCZH4IpeIoGR7-bguGLDLub0BqDsTcH5BX8Msvcvm_Wgxcyc6bXvnvpK1BeLuN2nd3BcUp3Tjh_cpoNILZJv1fXTYEzRiE57oyoZQpRkrF-xbvxckex55FTUresOo9c_CChGJ14X-mQ1TQXF21Mmi6Vo44rCdHo8uMY1Fzg0dnxJtMJ7zf5U--t03_HCKK-eJ_bg9j--sg6acozkkbvv6f5EbLSrRQ",
+      "source": "Greek Bible",
+      "domain": "www.greekbible.com",
+      "displayed_link": "https://www.greekbible.com › john",
+      "snippet": "John 1. 1 Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.2 οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.3 πάντα δι' αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ...",
+      "snippet_highlighted_words": [
+        "Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAdCAMAAAD8QJ61AAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMA2Ok5/2SyCfSCxlgXTpcnc2EjMbsAAADOSURBVHgBfNOBCoUgDIXhY/2qpcve/2kvwiDgrj4ADjCGTieXNn3aIetLgc8WlQa73h0pw6l3dAFDbwzpgktvzksagF4MbM6Z4FbsYmnQFMO0NDBFMn5XSIpsxQM+LCsA2zW19A3OFe8EUFQTdKneUCRpzDFm9TDmVIOqxeLhHnB4TOGpG8yntugPUD3GDwjI5bDD9rzqEQ4/PycroEDi9BRe4t5V2L2BqdS/gnPU3ro0Shl1J/hcLFX+B6IFeQqiXai5924mTbOV9BvlAABX1QbMiJTkbwAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 5,
+      "title": "John 1:1 and John 1:18 Translation : r/BiblicalUnitarian",
+      "link": "https://www.google.com/goto?url=CAESmgEBxCJF16sxz61k31pa-fDeSKxEBOj-3OSsEv2hjJ2n5J5Tb0zZrDY-SFK3SUeLSIsG0qH8LI4oUGYiumHXXUoFRMtGqnXsZgSGGvcgw48mSE7D4xuPe3vrtw-S4bxIkiG-IhoF_hMA4Zx9cl6praHRa7OqtrmevM8e6g3AdeWJYDVKs6-vPoTQJW6OlpGRASdjepr7F2aU4lNz&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+      "link_token": "yGDnAodHF874BYI4qFbHcrRfzT-V8RK2a4i6CTd4P-SWFGuRTt_SVH8wXhsHFLLI8IaLMCyulzW-zzKmvc0RLlzLes82McYX7fLk3PecqjTwiiPVtw3lmPb6_1I6tXpwCoDN-zoZIZ0CBvvSZWbciyHjj6IgMOdHBB9NbE4axRPkOsfRYc15x1BM55gzaRHlE2fpzjnijEuNt6P_QYAAuuSFCVsifJyUvTIjhdeAB-WIvchWtbD6AqibkOm0I0owTAupkAX36x5hrV5Yv92tS8cAYge1Biw0NG-OWaW51qs--f2KbI3x_M1G1Ry0N--acbfuCtJM09Sg7-dTecgLg",
+      "source": "Reddit · r/BiblicalUnitarian",
+      "displayed_link": "50+ comments  ·  1 year ago",
+      "snippet": "Ἐν ἀρχῇ ἦν ὁ λόγος καὶ ὁ λόγος ἦν πρὸς τὸν θεόν καὶ θεὸς ἦν ὁ λόγος - John 1:1 in Greek ... It is always or τὸν θεὸν or ὁ θεός or θεός ὁ or θεός..",
+      "snippet_highlighted_words": [
+        "Ἐν ἀρχῇ ἦν ὁ λόγος καὶ ὁ λόγος ἦν πρὸς τὸν θεόν καὶ θεὸς ἦν ὁ λόγος"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How does one translate John 1:1? : r/AncientGreek",
+            "link": "https://www.google.com/goto?url=CAESkwEBxCJF18dBd3FVXqie59h7Hn0HZkUZrI8itJpymG9X932b41T1ScmWpqErAhKVqKcUOKzj96wLKSyicpZL3qWCH4aqGzUuUUPpsx4xerJpH_NwaYzw9A28soC-s9lNCeWE7K0SYzjcerIaGzJcVHzOF9aOGuuB9Zp4uIurmUlI2F4xPiGIOSe4ankNjCi9Gliab2Q&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+            "link_token": "QkoW65qYhklTbRJf1kiEOqkKLTBjE3vS9AeESCN3cn90d-YZaUp387H2tawvL98szaZLgaKJFqmjqURyqZ6oK8j9aqll40l3HtdjFlCmsdQWCMWOOwoR26EsAP9AtXaIwZM4IHDwmtimdhvLjxAUliexmuwKDKJjPn5RMV_LXbYj_UH-2Ylt7J70tR3ap7pfwii5EjfFwpCiQ_a1FOaJ7JQF1lqktt52rxR0m-KlPT-DS66YvpiOvW2vIX0vay3CIIU15OvN1KrdebYTm88ZKTUE1PHdqrE--G0zhtHJ0aku2MLaa--934Wy3Jb3xfGmgVEOe4wtQ",
+            "answer_count": 54,
+            "date": "Jan 11, 2026"
+          },
+          {
+            "title": "Understanding John 1:1 : r/religion",
+            "link": "https://www.google.com/goto?url=CAEShQEBxCJF1z6fRojwiPiXhVYU60D0YRQmmyU24hnxF9nQO6UJWLeT6YYpKbiq1yLXhIDJ4pi1EHjmsmYac-l9-uWmxbA5vklh0NOUqGdbRdczXiTFRCbtWFnt6DXobYL-wqoIUKyYQ2eT3_l1N8EQMK6pU21YPKUy16T6U82tTotV1isTKY_q&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+            "link_token": "oYvpSA1MlMsbLW9lSXyhcxIsxVmTowXvTxocMJH0d9IkMnim35nbYlSGQ05kjLdp1J0dNxX-a8QZkoyRc0TMcwZ4HBjbRRYik7T5wLVvsERC_7-RGWh2B3lQU90hKkA4lSzaVOLIgE-hElLxZ_yytEwbncPXMd8x_IBTZX8J-DEDxjfF_62LvrEbCcBl9g1VYzI1Qb6wFmX2bCfkXCzSqxv5iaeS43yD2sz_vA3OJrGbxCV5kNotG-AOs_TvTIB5nXVOcg--jDbHexXUhGjep5FM--YHXB-tQ4_hN0EUyccPAMZQ",
+            "answer_count": 12,
+            "date": "Mar 16, 2021"
+          }
+        ]
+      },
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAhFBMVEVHcEz/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/PQD/NgD+XS32dlf5vK3////64dusLADUz9H+jXLOPAoSHiFrLBm3uLn3/f7jVS/b6e77pJDJo6H718//RQDw9ffs5+jm8fPIXlHqKwD5+PjolIP/VgP/SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb//////////////////////////8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT////dm6Enc+MZH8Qz2V3Je/rj7Lgekec659N/fIgPnn+yCULaYaYwsCqShYhiQXQ+dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK/caJUygTMzN7eTnxdBXMcb3+0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB/TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg+vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F+rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1+vt1Z4HeDI/1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 6,
+      "title": "Is the translation of John 1:1 accurate?",
+      "link": "https://www.google.com/goto?url=CAESiAEBxCJF17uCT_CTBkGUhghTJHFBXxLHFIoN9d4BpfSh2BLsBvV3UBRCVQEi_K-SqFy-a1oTwc4M3uuPzSfhaLkWTRrqBwg_hQODanuNcn-QIymvOsDpfbUMjr7zZXcLYfN5y1VHbaJhKkWqM6iPNYKvfPgDg-5oA0ldRMBsuqemcR0L99-7o86-&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+      "link_token": "032AWN9A16tGR2-rIyf0bLg4muXDuKQKUnoVKMwLOIojqJA2oQrAJ_YhJ2jHvr2ubHIcdmWT1p2WYCCiuys0hnYrs6FAfmOG1qu9pQq1tKM4UM9p-T6Br4VHBevFhCeTiI_sFl7YOTGwzcZbmxjW7MtguFKcrw6aLhPX5hPH9MrrQ6PbQI7MTflLP58F3PSWf88qwRru5Tsoo-xGuMJk0ZcQNdd02Kp6Mr6XxLcyLc5Vf6f3ehQ9s1UmiOB6yRkYGPLxRyYnPbw--I1m_1ney3wN4DANj--xBPLrI0Z9-XJ49Scxm0ieg",
+      "source": "Facebook · Nerdy Biblical Language Majors",
+      "displayed_link": "20+ comments  ·  7 years ago",
+      "snippet": "JOH 1:11 Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος. In the beginning was the word, and the word was from God, and ...",
+      "snippet_highlighted_words": [
+        "Ἐν ἀρχῇ ἦν ὁ λόγος",
+        "καὶ ὁ λόγος ἦν πρὸς τὸν θεόν"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Εν αρχη ην ο λόγος, καὶ ο λόγος ην πρὸς τὸν θεόν, καὶ θεὸς ...",
+            "link": "https://www.google.com/goto?url=CAESiAEBxCJF1-F8ui5jnY8ykLk3F7-k-y-rJ5hOUgNcum_WzWNOuODSy90hXVIAQPoM4V97j0sfzLj1alurpdHynjp9uQgbi4vEga-2z9qLp-06ZWlau6zNQ2moCtb8YYcR5Z1NKC3MKYPG8ZGMu_90UjdB_C2UBeQ63BOgTxcMHxn1pDeg01EEG5OO&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+            "link_token": "zyW0YcswPK2kIUDaRMrYYQbDlXU8HuTvMStFUuhH8a54JnlUZtyFYxw_FWAROc5CrLu4Qnl3qmNZLfWdSeZkHkNo7lE8Y28sT3f8mYmrbbz9-aJY5rEeDLvEnqCmYCV2Cnh186btOBXb9W2zu4r-Xm8ItmddARlPngIYpKla4VJj0_JttOgdqJihypiqfMda8TDqtEo4N56e1ino5hACEOBZZEVEQMlp9-tfqWJtaWEJ8RmSYF2oYkI5Uos49QlOwyPRSy4N8ao--i_4eaSXnHMIZEgRw--4pvHhgK37BqeOq8XU6KZVQ",
+            "date": "Jul 12, 2022"
+          },
+          {
+            "title": "John 1.1 Ἐν ἀρχῇ ἦν ὁ λόγος Are there any authorities who ...",
+            "link": "https://www.google.com/goto?url=CAESiAEBxCJF157qVUMR8Dg0vnwm-Uy24Fb9TPwiK_4qYKbyktAMxIIQkAXDUXMRY4TkMYJy_Z6PXiWLLvB63KcTw7vc-3bPnWmACIixfCmcJPI0tWNQBTGKzChqaWGYUhgPFj5SFuFo3k7HbjYRUHt2B67PQlEv_K8jOD63OPy7F67maHfmPL-hRz0R&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+            "link_token": "-QifvSDTR27bDPhBXDddkVoyfvA9DgJ9k2p5e3mLi67FsjXWRlYdJ6afaqB2TlzwsJaCeZIUmTOKKvmzqocSMikCZ8WDrDX4moor8AKEGhEwesJcqA3QVfprZwoaf7M0GrGcbyXo1nJL1J5a22tDEw3DS1FXou3LK1wDG77n6vZBGFkLQGSQA_3KZrSOAVU7XlgEHj7mVvb536MMzQJWpwNR67pTDSaSH-rqgkYI-6MIr_qqTYcKJVtZraHTsoW5BUvxRS89FAA--3Rz3q8cWucOc7ZUi--_h6buCOOUwKu8wm_Alh0lA",
+            "date": "Jan 20, 2024"
+          }
+        ]
+      },
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII="
+    },
+    {
+      "position": 7,
+      "title": "In John 1:1, why is 'καὶ θεὸς ἦν ὁ λόγος' usually ...",
+      "link": "https://www.google.com/goto?url=CAESnAIBxCJF1z3hPyn9-2NyKDscl3Eo6O_Eiq4VabkG75elhaP3rhRNiolK9mBruqn8NSKrSrdgXfQXzvyqUa02c8bi0OPOJkIf0W8tm_-Uy4u8fBByfMIFHrgk8lkhObAqthq55sq9Fz6utkgzkPMLIjLHuXZEY1zbLO9zQorD3lWN5WJoTy5435NWS0ddgOU7t02SOwhfCsmVY_k4gb-XLvonu3FO1v1p2uL8W0pnxGqbgtzLYe3d-kJkWJnYYPS9WIuaSHAs5oT5-1Fys16cjJUxYHxgEHKila1CdVf6HjbNUwouq68W2x7IGAAK1kDFaV-SPYWkrtjeid1sdTdc3mzt_hZJ9lHC8a5vl8Qs-XUMYf0GeHi_8iFkBj4upg&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+      "link_token": "RrghEs6R1cnVYn-wKd-sg40cnDeYkTLabynLvmhFV8mpnvuZWDwqrcKPc8mpLtO6siRpzWeAzySv6PBK_AipUPCh_Q_l2e4gkDpNsHOGDRSXkFCoj8X5wNCz53bb7AvX-UBKRFTGKwKxl25jckq_p1u-dBvZfE9OMl-naSMQh3kdA9N7gKmA6-KUcfgteFeJSN4oY-8egwsW1h4EEzBHzMO_V4pD5vPxafX_zyDG6QI6rJledbJDcKZ9Ss1o-hMp566woi0YEPINkLpylRrkYQTQfdmTGY9nhg02YyBl10Gh7qT432IGYE9lsQ-N6EnQPXgpUTsUz8pzkMquZEy2CKTfgQLJJwtK6-rucfeqBP6RlJAVeTVL9-zx6ISIQI5DAh_8leuqE1eXRS-xxdLutDfoC3HZywbjrDBj42G9HfxQ4KIpBx53dD2s58e0JA4986TM9hFiojh4pynBA7HvzYhtcox9u0mYxPhL55pirrcos9I140h30k91UXNoj6WiKHXzG4W9jx224Ip0F4Q--0J3BDQNNA2EVoJK5--CSL2Ra6LlW5PLW42UYjglg",
+      "source": "Quora",
+      "displayed_link": "70+ answers  ·  9 years ago",
+      "snippet": "In John 1:1, why is \"καὶ θεὸς ἦν ὁ λόγος\" usually translated as \"and the word was god\" instead of \"and god was the word\"?",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Can you give me a word-for-word reading of John 1:1 ...",
+            "link": "https://www.google.com/goto?url=CAESpQEBxCJF14E2eP6TBHxJr9fpymHaWv0n9jVTauBUczrHZpy9JraoUvKF1s7KOxXZASIIAAF_-bXsN36CkLLhucXxT_cPpqSd4Qgu1sef847T5Ltnfg5HFhIypOPqGV277UCvNsYrFvRPY-fkVhxSKK1quwte9orbh5UMTJBth5mv8Ce9oCRgXKCSZOCBsi-zmPE2GFfKpnh0_sWWDgwTOVOHg3dCfgU&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+            "link_token": "suOCeyz_iXOQTE4pk3h11D6ovDPoHl8YdULTM_O7yC0XY-2iPKMpH1oVVcPDJiV6upgK5HCgRdl-kgzjj7y-jl-ieeQOy0FKqgcGT_fcICQrBmlJ1_QjvBsXPgJq1aFm4ZchZdoZzi9uND3Yl_cbGWSAkAw5TXN5giq28eYs-fyZyk9skg3_IKaXomsxWcFkbuj_ePlk2xNiu4p_XWXOqKRnVxRnFzSihCd5j1XEG5OSUgepptTEL4bsegE-IYnIUh2d6445nMlPG4kze4F-rLiWIhS2Tjfulc3fmNPylxTreP7Kq8UEvqJDAF32YiM--HLhIPy0ZcTIY9Nks--r6izV48fa2Qhd7S5D84mRQ",
+            "answer_count": 46,
+            "date": "May 9, 2022"
+          },
+          {
+            "title": "What would be the proper Greek way to translate ...",
+            "link": "https://www.google.com/goto?url=CAESkQEBxCJF17UQOJSqh81MGNpN9T34xgRfRw1cuC2TLVoESxOiD1L7tvEXJf_brFhgDU2VRZ8HDbv3OX05H2gJ_GdcrpkED3Myb4iskn7tc0CHk494p1HLATEwx5vTb7Ay3W6Vm_jJQI54rJVIskiZAqMdA-19AXMx1u3W0ZgmhbQkxT5q2XXeob-1lQ-uCgURsn2M&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+            "link_token": "IXlLScilet07IQNHcjJhJ61LbFB4Fi7QafNDeAxNUpxjKWXpzRG61EgyhS2zVuRZZDX6PuhZ5bvLnJch2AzP2oi78jJBVLbSIy2kHJ00bQ3siGwUFEvgfrgBhHl9AjiX2o59fxMvHlCBy6JMzvjnj-vInkbqXlFxXi-NE-KsV8hQGBkTDNeQPI11iBiSXMXEiEJYvgfn0RNTHUqAtG3qQp13BIWNBEFIiziV_if5Ro0SUXfh8uk7EQ_OQj4OU9tY0DIXM9jNnCSRaBwPb93JdILi2TM--gnwEkuZI0sOPCOzX--_QNrczawPF_u2b4rv9SD-A",
+            "answer_count": 41,
+            "date": "Oct 25, 2025"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "detected_extensions": {
+          "answer_link": "https://www.google.com/goto?url=CAEStQIBxCJF14jIy0Y6kqmIdXoQhKokjgFBhToeCuNDsHpuomQLs15Sc4gzgINcGaBGYhIxsLziIboKh2bT4pPiyYziUVwVdhKsB0l8WRsGHmiHzshgi3Ea2MM0L1p4wfREldjy2tku1it8R05zNctAqgeOW_jDHw9QOmV5x0TQBjV8qcQz2xXpgW33AzFiHeWTEXZJaQ177hjI6zhf84dipkCWamKQAGCXu2NrXlE7lOUtKRlWt9Pwu6EBtOn8irVHdxi496_L2-cwx5R9nbsdczF2bL41cYKUr_sWpSWjR3xnpZNlKp_LWdWJFsyTwQz2TC2-h4Wum7xCYWwW8TCcfIjbN739dQZCKeE8fZa3pemyq3EWdqP8UhDWrrovARBjm7LHMTOkaJsk7QfSC6u2LM8dhR27cNs&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+          "answer_link_token": "qBuUQN6bimdMd0wQQFre5kqE-wzG8pdL2JoSDRM-FWHPCJu1rHYXU3Gn5JRttH9dWheCd5k4mrJ80lb016GHxi8Zrz6ibl7a48DbJlwQ1kKOu9zYzLjHN8pARm-4r8pcxJSnL7IaxgE9p7xqipchZaNvYA_USrcC3tj7BSZBJuFseF6p5Vo9bxFu2frK-b7HHY1VpoMhYqa_Mg9WY1iAO5Tu7GIyCvN5VpfhUSD5A4OVUBWU3PCVJteE8LBVU3RxLGOx8RH30sWdhi5Sg6bWYmj_Ua41HhlpacWr0O1Sv1C4r75J3YLyWbhgSuwbOH9Lkw1VDofvFzl8RS4w2d_fekEiG-6iH2xWWbwbAPAqf0cIPZkrMgwFYYDyAEQE9CSw7OF5Iyj07_fuoQNSn71UwJD3A_wwnrVxBywBJbsR7Rg4x6JssYOf4i0J1xRG9bJILQ8y0M1e6S6O2K4ahAn7ZpKKp8zt3T5v8603Ln7g9ucIqDEjvqjj0eXQZ3qrkTv86nfOCqLIIsHZfmORuXQT3UwBQD8NDO7sB4BmhPWYY0IyjTPK0nFPXOpsuGzTBLI--dGxjKSTF0IyVkzZt--OvqKkpKEV9epspoam7u9Mg",
+          "answer_count": 71,
+          "top_answer": "The opening phrase “in the beginning” repeats the opening phrase of Genesis 1:1. Just as ..."
+        }
+      },
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5+1xoDS+f/mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF+u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9/buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR/mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 8,
+      "title": "In the Beginning Was the Word: John 1:1 Explained",
+      "link": "https://www.google.com/goto?url=CAESewHEIkXXK_TCSOgZhTC46MX2Ml56Owcg-uYvQHSw1tGdx8joUmgJlGkrJElIUGS-PkgZ8QlcWQYLEtTHedySN9fiSIw189lbMd84MIJTfXVDwwyvzHqrPGAzWAnlvmJ9cTXd7xWzvo-JKl-ZZinpFIaZfrp7g0d9y7Ft_A&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+      "link_token": "s9JXPAl5OYBKaP3UBbqOHW_uCvR6i-G0q8k6BVwg6l-936AhiYGB4q3PsL4A5C3VY8KAB_AnMcjMUinhh1mU8FTMaw8PnK0hneMNIh8yCt8Fzco8kXd4CAZHbRxqo5OujV_vuAiZtCmQMUMMl9-wedZuOnFpJeenmN13dTy6O1wZUQ12fgf58fcRmH-C2p3BCzPIF_4EnWVl5liUzBU7za_okA-qtJTXOkeLP7Su4WTNuI-OM-c--86aZTJB-1Ttbu6g1--4KU5O9wLMnnQ0VOlnwd8Ug",
+      "source": "garrettham.com",
+      "domain": "garrettham.com",
+      "displayed_link": "https://garrettham.com › Faith and Public Life",
+      "snippet": "Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος. “In the beginning was the Word, and the Word was with God, and the ...",
+      "snippet_highlighted_words": [
+        "Ἐν ἀρχῇ ἦν ὁ λόγος",
+        "καὶ ὁ λόγος ἦν πρὸς τὸν θεόν"
+      ],
+      "date": "Mar 15, 2026",
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3LTg3NTc3NzU4LzUvNzE1NjU3Nzc3Ny41LTU4NzcwNy0uNSs2Nzc3NS41K//AABEIABwAHAMBEQACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAAEBgMFAAEH/8QAKRAAAQQCAQEGBwAAAAAAAAAAAQIDBBEABSEGEiIxQXGBBxMUUYKRsf/EABkBAQADAQEAAAAAAAAAAAAAAAQCAwUGAf/EACARAAICAQQDAQAAAAAAAAAAAAECAAMhBBExQQUSkSL/2gAMAwEAAhEDEQA/AOapAx8phsDU7HZBStdBdfSk0pQoC/U+ODu1iVt69xdOke1fbqRy4ciFJXGmMqZfQAVIJvg+BsZbRety7iV3UtU2xgygLy6VTaRxee7SMeul5LGt0rbjGyWflO2602yFlwr71VyRQJHtnP6gE3NuJ0GnYCldjKjrBQekQ5Bm/UurZJVbXYIBPFjyqiMb44ZbEF5A4XMWlg3mnMyYtSUpq+cg9qLjeTWtjmOHSWh1+90Ehxqe5DnQyoySCKW2bUCQeK4I/HM21DYxcfI6m0IAh+xa2zaIuxW03IL6FIQtDpN9sFIN/ux7YrSsqoAcGUakFnJEDJ5xcLIQMzRxFnmM3w4kOMdXwGWzTcsrYeT5KQUk/wBSDkl5kTxAeoeRFJ5U2p6OFeZQhfdv7nvHnK0OInUqA+47AMqLPPrjqD+YJxmf/9k="
+    }
+  ],
+  "related_questions": [
+    {
+      "is_ai_overview": true,
+      "question": "What does John 1 say in the original Greek?",
+      "error": "Google AI Overview loads this answer asynchronously; it was not included in this response.",
+      "page_token": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hc3luYy9jYWxsYmFjazo2NzYxP2ZjPUVzd0JDb3dCUVVSRVlsZGxXV3hmVkZnNExVNTNRbE54VWpRMGFtUTBZMHhHTmw4M1pWOW9SMDl3Yms1cGJWbE5PV3h6WkhkZlVVSmtXWE4yVEhCd2RWSldRbGwyTkRoV1YzTTNOazlNTFRaa1ZrUlpXbmhST1ZadGNrNUdTelJIYW5aTmJtaDVWRk4wY0Zsd1VtWjFkSGxRYjIxZlkxaGZjMUpDVm5GdldYQldiRGxNUTFwVlNEVnNNamxsUW1kSGRsQVNGM1J0U1VOaE5VaElUV1J4ZFhkaWExQTRjbVl3TkZGckdpSkJTRTR3UlRkRmRYcG9WblZEUVd0dE1WUnpMVzV2WWtGMlRrbDZOVUZyVUhobiZmY3Y9MyZ2ZXQ9MmFoVUtFd2lSLW9lMjBwcVlBeFZhVnpBQkhmSWJQWndRdHU0UmVnUUlJUkFBJmVpPXRtSUNhNUhITWRxdXdia1A4cmYwNFFrJm9waT04OTk3ODQ0OSZnbD11cyZobD1lbiZ5dj0zJmNzPTEmYXN5bmM9X2ZtdCUzQXByb2c=",
+      "next_page_token": "eyJmYyI6IkVxRUJDbUpCUkVSaVYyVmljak5qT1hWbVVXSXRVa0pCV0d4bWIyOTBUME14UTFGb2JuRjFjelpRVm5rNU9IcHJiSFpMWlhwNVZ6bFZVVEZ4ZUZkQmVVVmtOVVpwUzBzNU5YZFBRWE5ZZDA5M2N6VkJaRUpzY2s5c1pXcFROVlJTVjFWdlh6VmFVUklYZEcxSlEyRTFTRWhOWkhGMWQySnJVRGh5WmpBMFVXc2FJa0ZJVGpCRk4wVnFPRzFFU1hWWFpHZGtVbEp0WldKRldHbERZVWxUZWtkbk1rRSIsImZjdiI6IjMiLCJ2ZXQiOiIyYWhVS0V3aVItb2UyMHBxWUF4VmFWekFCSGZJYlBad1FxN2tCS0FCNkJBZ2JFQUEiLCJlaSI6IiR7Z30iLCJxIjoiV2hhdCBkb2VzIEpvaG4gMSBzYXkgaW4gdGhlIG9yaWdpbmFsIEdyZWVrPyIsImxrIjoiR2hocWIyaHVJREVnYVc0Z2IzSnBaMmx1WVd3Z1ozSmxaV3MiLCJxYyI6ImMtT0tmN2hud3JtOUNnXzNOSnh2UE5fLWNIX2J1WjFBempLUTBONUdoWE83el9lYzIzeHVfX2xtaFhPN3ptMTh1SGNidWpCRTdYbWc3b2Q3ZHdENTUxdUFORkRrM0k1elc0R0s5Z293MUNxeHY3Y0RBQSIsImdsIjoidXMiLCJobCI6ImVuIn0"
+    },
+    {
+      "is_ai_overview": true,
+      "question": "What name was mentioned 7000 times in the Bible?",
+      "error": "Google AI Overview loads this answer asynchronously; it was not included in this response.",
+      "page_token": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hc3luYy9jYWxsYmFjazo2NzYxP2ZjPUV2Y0JDcmNCUVVSRVlsZGxXV1pGUkRreFExaFlkRTh6Y25KSGFVdGtjMU4xUWkxUFVVaFVUemhzZVV4RmFIUXpVR3QzWWpKR1NFRTFjRjlyTlhaeVFtRkNhazEwY0hvemFHODBSV2s0WmtGVU0xbFRSWFptZGpac1luUktTVzFvVEVGQ1VGazNWMnhtU1RBd1dGWlVUWGwwYkU1MFVGVjBSREYyVGxwWVRTMU5ZMDA0U2pocVVGUnZMV0ZqY1ZOVGJITnhTMXBqUW1zMU1XRkNOR3BQWmxwNU1ITlhRMnhUUkhrMFFXRkdhVk5KYjBwNGMxOVVWRk15YkZOWkVoZDBiVWxEWVRWSVNFMWtjWFYzWW10UU9ISm1NRFJSYXhvaVFVaE9NRVUzUmpkaFdGUnNkRzgzVUROU1ZIRnBUemRzTldaQ2VHeEhUV2syVVEmZmN2PTMmdmV0PTJhaFVLRXdpUi1vZTIwcHFZQXhWYVZ6QUJIZkliUFp3UXR1NFJlZ1FJSHhBQSZlaT10bUlDYTVISE1kcXV3YmtQOHJmMDRRayZvcGk9ODk5Nzg0NDkmZ2w9dXMmaGw9ZW4meXY9MyZjcz0xJmFzeW5jPV9mbXQlM0Fwcm9n",
+      "next_page_token": "eyJmYyI6IkVxRUJDbUpCUkVSaVYyVmljak5qT1hWbVVXSXRVa0pCV0d4bWIyOTBUME14UTFGb2JuRjFjelpRVm5rNU9IcHJiSFpMWlhwNVZ6bFZVVEZ4ZUZkQmVVVmtOVVpwUzBzNU5YZFBRWE5ZZDA5M2N6VkJaRUpzY2s5c1pXcFROVlJTVjFWdlh6VmFVUklYZEcxSlEyRTFTRWhOWkhGMWQySnJVRGh5WmpBMFVXc2FJa0ZJVGpCRk4wVnFPRzFFU1hWWFpHZGtVbEp0WldKRldHbERZVWxUZWtkbk1rRSIsImZjdiI6IjMiLCJ2ZXQiOiIyYWhVS0V3aVItb2UyMHBxWUF4VmFWekFCSGZJYlBad1FxN2tCS0FCNkJBZ1lFQUEiLCJlaSI6IiR7Z30iLCJxIjoiV2hhdCBuYW1lIHdhcyBtZW50aW9uZWQgNzAwMCB0aW1lcyBpbiB0aGUgQmlibGU_IiwibGsiOiJHaTkzYUdGMElHNWhiV1VnZDJGeklHMWxiblJwYjI1bFpDQTNNREF3SUhScGJXVnpJR2x1SUhSb1pTQmlhV0pzWlEiLCJxYyI6ImMtT0tmN2hud3JtOUNnXzNOSnh2UE5fLWNIX2J1WjFBempLUTBONUdoWE83el9lYzIzeHVfX2xtaFhPN3ptMTh1SGNidWpCRTdYbWc3b2Q3ZHdENTUxdUFORkRrM0k1elc0R0s5Z293MUNxeHY3Y0RBQSIsImdsIjoidXMiLCJobCI6ImVuIn0"
+    },
+    {
+      "is_ai_overview": true,
+      "question": "What does the Word \"logos\" mean in John 1:1?",
+      "error": "Google AI Overview loads this answer asynchronously; it was not included in this response.",
+      "page_token": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hc3luYy9jYWxsYmFjazo2NzYxP2ZjPUVzd0JDb3dCUVVSRVlsZGxZbnBuY2xGMVR6Y3hhRjk1T1ZwcGRqWnBORFJpV1RkS1gzWXRZM2h3ZWt4elRsRlVjVzV3ZFV0RVVWQlRZWEpSTW5reVNGTnhTbmhHU0ZoMVJucHRXWEJvYjFkV1dEbGhVMm8zUlZnMlMwWmhjSGhwZFdKdk1GVlBkRkZ0YzAwMVNVNVpia3N6VTNScFdWTkxXRmxYWlhoSmNsQTBTSEJJTUMwd1VFNXRiRTgyZWxoakxVTVNGM1J0U1VOaE5VaElUV1J4ZFhkaWExQTRjbVl3TkZGckdpSkJTRTR3UlRkRk16RnBaVE5LYWtFd05qRXlSa2RrT1hsaUxVSndSa0poV2xWQiZmY3Y9MyZ2ZXQ9MmFoVUtFd2lSLW9lMjBwcVlBeFZhVnpBQkhmSWJQWndRdHU0UmVnUUlJQkFBJmVpPXRtSUNhNUhITWRxdXdia1A4cmYwNFFrJm9waT04OTk3ODQ0OSZnbD11cyZobD1lbiZ5dj0zJmNzPTEmYXN5bmM9X2ZtdCUzQXByb2c=",
+      "next_page_token": "eyJmYyI6IkVxRUJDbUpCUkVSaVYyVmljak5qT1hWbVVXSXRVa0pCV0d4bWIyOTBUME14UTFGb2JuRjFjelpRVm5rNU9IcHJiSFpMWlhwNVZ6bFZVVEZ4ZUZkQmVVVmtOVVpwUzBzNU5YZFBRWE5ZZDA5M2N6VkJaRUpzY2s5c1pXcFROVlJTVjFWdlh6VmFVUklYZEcxSlEyRTFTRWhOWkhGMWQySnJVRGh5WmpBMFVXc2FJa0ZJVGpCRk4wVnFPRzFFU1hWWFpHZGtVbEp0WldKRldHbERZVWxUZWtkbk1rRSIsImZjdiI6IjMiLCJ2ZXQiOiIyYWhVS0V3aVItb2UyMHBxWUF4VmFWekFCSGZJYlBad1FxN2tCS0FCNkJBZ2FFQUEiLCJlaSI6IiR7Z30iLCJxIjoiV2hhdCBkb2VzIHRoZSBXb3JkIFwibG9nb3NcIiBtZWFuIGluIEpvaG4gMToxPyIsImxrIjoiR2hkc2IyZHZjeUJ0WldGdWFXNW5JR2x1SUdwdmFHNGdNUSIsInFjIjoiYy1PS2Y3aG53cm05Q2dfM05KeHZQTl8tY0hfYnVaMUF6aktRME41R2hYTzd6X2VjMjN4dV9fbG1oWE83em0xOHVIY2J1akJFN1htZzdvZDdkd0Q1NTF1QU5GRGszSTV6VzRHSzlnb3cxQ3F4djdjREFBIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ"
+    },
+    {
+      "is_ai_overview": true,
+      "question": "What did John mean when he said \"in the beginning was the word\"?",
+      "error": "Google AI Overview loads this answer asynchronously; it was not included in this response.",
+      "page_token": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hc3luYy9jYWxsYmFjazo2NzYxP2ZjPUV2Y0JDcmNCUVVSRVlsZGxXVWhrVlUxblJ6ZEVXbGRqTkhWblFsTTFSRW8zY0VaVmRuZGxTWEpWY2taMmNpMHlOVWhWVldsSlVrczVjazlwWDJVeGVsRm1hazlGT1cxeVkwVmxOSEZ3Um5NeU9IWlZhR3RWVFdONVIwRldVRlZoTFZwUlkzWjVjSFp4WWpkelh6aGFSamt5VVhFMVpETndiM2h3TjJsb1ZqRnlOMHRFT0ZseFpGWXhZMWR2T1RCZmVYVjZUVE5FUzI1SVZtTkRhM0JhUVZjeVFrSlRTak5xWjBnd2JIbGpVVTltU214TFJsUlpkV2hYTlVwSkVoZDBiVWxEWVRWSVNFMWtjWFYzWW10UU9ISm1NRFJSYXhvaVFVaE9NRVUzUjJ4Q05tcFhNRlZLVHpCMVptWkRORWQ1ZDJObVRrTmxUV1JDWncmZmN2PTMmdmV0PTJhaFVLRXdpUi1vZTIwcHFZQXhWYVZ6QUJIZkliUFp3UXR1NFJlZ1FJSFJBQSZlaT10bUlDYTVISE1kcXV3YmtQOHJmMDRRayZvcGk9ODk5Nzg0NDkmZ2w9dXMmaGw9ZW4meXY9MyZjcz0xJmFzeW5jPV9mbXQlM0Fwcm9n",
+      "next_page_token": "eyJmYyI6IkVxRUJDbUpCUkVSaVYyVmljak5qT1hWbVVXSXRVa0pCV0d4bWIyOTBUME14UTFGb2JuRjFjelpRVm5rNU9IcHJiSFpMWlhwNVZ6bFZVVEZ4ZUZkQmVVVmtOVVpwUzBzNU5YZFBRWE5ZZDA5M2N6VkJaRUpzY2s5c1pXcFROVlJTVjFWdlh6VmFVUklYZEcxSlEyRTFTRWhOWkhGMWQySnJVRGh5WmpBMFVXc2FJa0ZJVGpCRk4wVnFPRzFFU1hWWFpHZGtVbEp0WldKRldHbERZVWxUZWtkbk1rRSIsImZjdiI6IjMiLCJ2ZXQiOiIyYWhVS0V3aVItb2UyMHBxWUF4VmFWekFCSGZJYlBad1FxN2tCS0FCNkJBZ1pFQUEiLCJlaSI6IiR7Z30iLCJxIjoiV2hhdCBkaWQgSm9obiBtZWFuIHdoZW4gaGUgc2FpZCBcImluIHRoZSBiZWdpbm5pbmcgd2FzIHRoZSB3b3JkXCI_IiwibGsiOiJjeDNJd1FrQUlRd0V3RDU4YlNNV2t5UEI1TUFWVkVqN2lyOWhTazJYRFEzRlA1em9Ka1M2RVc1WWNqdUlmZjFaQ3pMWWtMTGU1Smg2QUEiLCJxYyI6ImMtT0tmN2hud3JtOUNnXzNOSnh2UE5fLWNIX2J1WjFBempLUTBONUdoWE83el9lYzIzeHVfX2xtaFhPN3ptMTh1SGNidWpCRTdYbWc3b2Q3ZHdENTUxdUFORkRrM0k1elc0R0s5Z293MUNxeHY3Y0RBQSIsImdsIjoidXMiLCJobCI6ImVuIn0"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Learn Greek with John's Gospel | New Testament Koine",
+      "link": "https://www.youtube.com/watch?v=CE0u-lqIlhg",
+      "source": "YouTube",
+      "channel": "Jeffrey the Librarian",
+      "length": "6:23",
+      "image": "data:image/webp;base64,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"
+    },
+    {
+      "position": 2,
+      "title": "John 1:1 – Greek insights: 'arche' (beginning) and 'pros' (with)",
+      "link": "https://www.youtube.com/watch?v=n8pTiBz2wXo",
+      "source": "YouTube",
+      "channel": "Tetze Torah Ministries",
+      "length": "5:57",
+      "image": "data:image/webp;base64,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"
+    },
+    {
+      "position": 3,
+      "title": "John 1:1 In the beginning was the Word, and ...",
+      "link": "https://www.google.com/goto?url=CAESyAEBxCJF1xea05EVLendK22BpuLL1CqgmhpIKkQu8geK3yoHmRX7LtFfSx2VEZZ35I9hAz7F1IbxDLeosm_SH2mf5PnfpCe4rR__0gOvsAJkuc-eEMfTyvz0tvb8uB32nUK_Ns4TZ8uMN2bxi-VaiPsru-vMOk_sGbuRw2uOSVKtJfgsFQi6i7hXmnKuQY-u6KyDuQ-N-QDdFeR-tpyQ5ef-7bgacWKwiSMjNUzJM2LB6hjmwLns1ipaqpH-YhwFBMtDNPRBVD-B2g&gsessionid=PfrajNHL14apSOjJFDU-Sc1rpYCwf0FNmqIhiZ_BhOBHygPEcl3f7w",
+      "link_token": "hXxcVgHwI131lAlHO246hKzR9_9j582RrUIXOVgFsyE-DC8KdLqAS6W9C7vx-rrLILD8vvhxtl0d6jLkRF4uoMtX8mfjxgkFB4sM7k2wxxfywOED3G9MIkM3yeDI2zXar7cFOUBsq43ipPB6SGNEx_YSbLO8cA5RDNKmg6BoTNgg3Ha_0cOhZaXnMsh40fgobVIOAOwEdGClaj1kqnI5NEShS28jQuK4L2PfpunxCA0D613CJpAdD5q4XhFW5v2GAEQ2V12RamfGDUmQ5B2AyfBkkW4wCrFpfDzA2tZXVutKjzZWmBDqX3dPNE7qOv4MmYS4YTPysr8hUAhT8FSKpBAAiXHmaqkUhtP0Ru7cTJlFszXTGojSAOYktFBJzw--qsTIHSeV5dIqzgNp--SjxD9hfssClYppY4EXEQWA",
+      "source": "Facebook",
+      "channel": "Joross Gamboa",
+      "length": "2:50",
+      "image": "data:image/webp;base64,UklGRqwDAABXRUJQVlA4IKADAACwGQCdASqUAFMAPqEiqFQmJCYmGADAFAlnAuQCNAGACL5MeVKCkLJo0v2QC7j4jRS2lfEx/a6+pPEC5NTaqsQJWFXPnIOaNOkFwUDJ+fKEBtMJ03L/KuMnCCkc9xrNlQ6tNUXD80SZI0SVaKbbqh4njHQB+okhgQ40gMzENRw4Cst/jDUedKPKmX0IygmDmp2JqPX/6W8Rl5DlCcyHBx1BgaSX8MA+5A8VY4F8t+K1haRQTcTdwbA7zDpxI4ZTHZl3YmoEVIVrhgEd8m8YYjsVJnQP4ZIAAP7nrab/UsrY+4iIfvRels3EEpgj0+af65Iik4kvueawAe73PrlNnsnnjxMPwZ/wv6PF0W8V5U1LjgY8c1YYWpnHwp0OSRK02+go9rEjYv4o2M9NQoximPKJaJ+5jFibSRrT9ogIc8fBvN4Elz4gVyStBLKvegqEWBhOxOhMsKcEcGau3sjdt+6c02ca+kylBkfkssOytkrwKudQskstl/x76LKALQy1eEIPj65w8obWDaO3dH3Jc7XANrIGlmmotIJTABOTjUfGqCpzy6aWhiDDqwFOfZuw42CkqmXB+4R0iLDeXoTNrbkBkFc1Ymd9uz3qRiGkaPyRzrLxRwmEucL3KzLRMW8WEqUmDVclglOZxMV1m6CfrDikwXMMw6yDgPGbGP8XpIMfPNfTygNnlF4cgR4lZ1OIkMqF4uM0Bz8YtQJzq5HI1tnKiBz5mGflN7SvG6JQ8GF0f052gIX1t0822gvcej+tJmKlKfEcoe3R9JVhz2GSYftjldj1VzFui2kmOXsULaNV/qajVfS/lpjrlWfd9m3fzPlcdSQYIDqDcaReLw5le394IQ7TxW+zmw+SlP9Lkr+zE8Og0SXAns7YSIS3CaDwp20xZ2QcZB2JirSimXC/FJT+n/Qs5mW0t/kQdE4CZnEbbClWB2f9ZOZrhrO/9kj5o2OJKm0sJplQx3OtavgS+AZy/NqXHr6M5sKNH4ZSnW3H8rrhTIyp40TXeJN/PIhHRbK55rU8/XV0RR9ZGsXECFqO3ILu89l+ZSx41Adf3TnY1MYiP+lf49uy4arMhDCCgHeXoo5ow4bJK80lLuJAHsGCwwMgG+VInDY/MaB/gEH451YhNTQG3xEVruZSsAYZSsIgcGDQWURFi8FRyOvSsSK0Aw/hJbkWvCX5a0OwEUfwMNllb5chc5LHW7jXADBf5z9EAPJqMsE59pyYUvmcpgAA"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "John 1:1 Greek translation to English",
+      "link": "https://www.google.com/search?sca_esv=c5be20dd55ec4f99&gl=us&pws=0&hl=en&sxsrf=AKL5yDgABTjA3dTT3eUVpS6MD1Zm0GHPlQ:1795318454838&q=John+1:1+Greek+translation+to+English&sa=X&ved=2ahUKEwiR-oe20pqYAxVaVzABHfIbPZwQ1QJ6BAg4EAE"
+    },
+    {
+      "query": "John 1:1 Greek interlinear",
+      "link": "https://www.google.com/search?sca_esv=c5be20dd55ec4f99&gl=us&pws=0&hl=en&sxsrf=AKL5yDgABTjA3dTT3eUVpS6MD1Zm0GHPlQ:1795318454838&q=John+1:1+Greek+interlinear&sa=X&ved=2ahUKEwiR-oe20pqYAxVaVzABHfIbPZwQ1QJ6BAhGEAE"
+    },
+    {
+      "query": "ἐν ἀρχῆι ἦν ὁ λόγοσ, καὶ ὁ λόγοσ ἦν πρὸσ τὸν θεόν, καὶ θεὸσ ἦν ὁ λόγοσ",
+      "link": "https://www.google.com/search?sca_esv=c5be20dd55ec4f99&gl=us&pws=0&hl=en&sxsrf=AKL5yDgABTjA3dTT3eUVpS6MD1Zm0GHPlQ:1795318454838&q=%E1%BC%98%CE%BD+%E1%BC%80%CF%81%CF%87%E1%BF%87+%E1%BC%A6%CE%BD+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82,+%CE%BA%CE%B1%E1%BD%B6+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82+%E1%BC%A6%CE%BD+%CF%80%CF%81%E1%BD%B8%CF%82+%CF%84%E1%BD%B8%CE%BD+%CE%B8%CE%B5%CF%8C%CE%BD,+%CE%BA%CE%B1%E1%BD%B6+%CE%B8%CE%B5%E1%BD%B8%CF%82+%E1%BC%A6%CE%BD+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82&sa=X&ved=2ahUKEwiR-oe20pqYAxVaVzABHfIbPZwQ1QJ6BAg6EAE"
+    },
+    {
+      "query": "Gospel of John in Greek and English",
+      "link": "https://www.google.com/search?sca_esv=c5be20dd55ec4f99&gl=us&pws=0&hl=en&sxsrf=AKL5yDgABTjA3dTT3eUVpS6MD1Zm0GHPlQ:1795318454838&q=Gospel+of+John+in+Greek+and+English&sa=X&ved=2ahUKEwiR-oe20pqYAxVaVzABHfIbPZwQ1QJ6BAg8EAE"
+    },
+    {
+      "query": "John 1:1 in Hebrew transliteration",
+      "link": "https://www.google.com/search?sca_esv=c5be20dd55ec4f99&gl=us&pws=0&hl=en&sxsrf=AKL5yDgABTjA3dTT3eUVpS6MD1Zm0GHPlQ:1795318454838&q=John+1:1+in+Hebrew+transliteration&sa=X&ved=2ahUKEwiR-oe20pqYAxVaVzABHfIbPZwQ1QJ6BAhBEAE"
+    },
+    {
+      "query": "John 1:1 original translation",
+      "link": "https://www.google.com/search?sca_esv=c5be20dd55ec4f99&gl=us&pws=0&hl=en&sxsrf=AKL5yDgABTjA3dTT3eUVpS6MD1Zm0GHPlQ:1795318454838&q=John+1:1+original+translation&sa=X&ved=2ahUKEwiR-oe20pqYAxVaVzABHfIbPZwQ1QJ6BAg-EAE"
+    },
+    {
+      "query": "translate ἐν ἀρχῆι ἦν ὁ λόγοσ καὶ ὁ λόγοσ ἦν πρὸσ τὸν θεόν καὶ θεὸσ ἦν ὁ λόγοσ from greek",
+      "link": "https://www.google.com/search?sca_esv=c5be20dd55ec4f99&gl=us&pws=0&hl=en&sxsrf=AKL5yDgABTjA3dTT3eUVpS6MD1Zm0GHPlQ:1795318454838&q=Translate+%E1%BC%90%CE%BD+%E1%BC%80%CF%81%CF%87%E1%BF%87+%E1%BC%A6%CE%BD+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82+%CE%BA%CE%B1%E1%BD%B6+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82+%E1%BC%A6%CE%BD+%CF%80%CF%81%E1%BD%B8%CF%82+%CF%84%E1%BD%B8%CE%BD+%CE%B8%CE%B5%CF%8C%CE%BD+%CE%BA%CE%B1%E1%BD%B6+%CE%B8%CE%B5%E1%BD%B8%CF%82+%E1%BC%A6%CE%BD+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82+from+Greek&sa=X&ved=2ahUKEwiR-oe20pqYAxVaVzABHfIbPZwQ1QJ6BAg9EAE"
+    },
+    {
+      "query": "John 1 in Greek transliteration",
+      "link": "https://www.google.com/search?sca_esv=c5be20dd55ec4f99&gl=us&pws=0&hl=en&sxsrf=AKL5yDgABTjA3dTT3eUVpS6MD1Zm0GHPlQ:1795318454838&q=John+1+in+Greek+transliteration&sa=X&ved=2ahUKEwiR-oe20pqYAxVaVzABHfIbPZwQ1QJ6BAg5EAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%E1%BC%90%CE%BD+%E1%BC%80%CF%81%CF%87%E1%BF%87+%E1%BC%A6%CE%BD+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82%2C+%CE%BA%CE%B1%E1%BD%B6+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82+%E1%BC%A6%CE%BD+%CF%80%CF%81%E1%BD%B8%CF%82+%CF%84%E1%BD%B8%CE%BD+%CE%B8%CE%B5%CF%8C%CE%BD&oq=%E1%BC%90%CE%BD+%E1%BC%80%CF%81%CF%87%E1%BF%87+%E1%BC%A6%CE%BD+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82%2C+%CE%BA%CE%B1%E1%BD%B6+%E1%BD%81+%CE%BB%CF%8C%CE%B3%CE%BF%CF%82+%E1%BC%A6%CE%BD+%CF%80%CF%81%E1%BD%B8%CF%82+%CF%84%E1%BD%B8%CE%BD+%CE%B8%CE%B5%CF%8C%CE%BD&gl=us&hl=en&start=10"
+  }
+}

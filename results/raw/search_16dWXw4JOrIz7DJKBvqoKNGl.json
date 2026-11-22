@@ -1,0 +1,156 @@
+{
+  "search_metadata": {
+    "id": "search_16dWXw4JOrIz7DJKBvqoKNGl",
+    "status": "Success",
+    "created_at": "2026-11-22T03:34:00Z",
+    "request_time_taken": 1.42,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 1.45,
+    "request_url": "https://www.google.com/search?q=%CF%80%CE%B1%CF%81%E1%BD%B0+%CF%84%CE%BF%E1%BF%A6+%CF%80%CE%AC%CF%80%CF%80%CE%BF%CF%85+%CE%9F%E1%BD%90%CE%AE%CF%81%CE%BF%CF%85+%CF%84%E1%BD%B8+%CE%BA%CE%B1%CE%BB%CF%8C%CE%B7%CE%B8%CE%B5%CF%82+%CE%BA%CE%B1%E1%BD%B6+%E1%BC%80%CF%8C%CF%81%CE%B3%CE%B7%CF%84%CE%BF%CE%BD&oq=%CF%80%CE%B1%CF%81%E1%BD%B0+%CF%84%CE%BF%E1%BF%A6+%CF%80%CE%AC%CF%80%CF%80%CE%BF%CF%85+%CE%9F%E1%BD%90%CE%AE%CF%81%CE%BF%CF%85+%CF%84%E1%BD%B8+%CE%BA%CE%B1%CE%BB%CF%8C%CE%B7%CE%B8%CE%B5%CF%82+%CE%BA%CE%B1%E1%BD%B6+%E1%BC%80%CF%8C%CF%81%CE%B3%CE%B7%CF%84%CE%BF%CE%BD&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_16dWXw4JOrIz7DJKBvqoKNGl.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_16dWXw4JOrIz7DJKBvqoKNGl"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον",
+    "total_results": 50,
+    "time_taken_displayed": 0.18,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_aGxceDNkZW5ceDI2Z2xceDNkdXNceDI2cHdzXHgzZDBceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZHFHSUNhNTNhR0txRTdOWVA2dGVBc0EwXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9HVmtPdUhUUlNVMXVuOVJKd1c4RFVXT0dZNWVBL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMTUwOTM3OCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFSQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJQUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFCQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUVBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q2dRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SlVDSWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBQUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9GZ1ZHTlRoRHZObmlfQ3N2ZzRPRi1iOTZ5U3FBP2NiJTNEMTIxNTA5Mzc4LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFSQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNCQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUVBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q2dRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SlVDSWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBQVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FBQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0ZsWDgxU2JHNm04NGZBc01yc1dFcm1relZfT0EvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIxNTA5Mzc4LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUNGJTgwJUNFJUIxJUNGJTgxJUUxJUJEJUIwKyVDRiU4NCVDRSVCRiVFMSVCRiVBNislQ0YlODAlQ0UlQUMlQ0YlODAlQ0YlODAlQ0UlQkYlQ0YlODUrJUNFJTlGJUUxJUJEJTkwJUNFJUFFJUNGJTgxJUNFJUJGJUNGJTg1KyVDRiU4NCVFMSVCRCVCOCslQ0UlQkElQ0UlQjElQ0UlQkIlQ0YlOEMlQ0UlQjclQ0UlQjglQ0UlQjUlQ0YlODIrJUNFJUJBJUNFJUIxJUUxJUJEJUI2KyVFMSVCQyU4MCVDRiU4QyVDRiU4MSVDRSVCMyVDRSVCNyVDRiU4NCVDRSVCRiVDRSVCRFx4MjZtbHJvXHgzZDBhNlZCWEdHN3RZQ2JyY3FiSXBlenBBWUVoWlk4N0QyX2dQS0lRQnZLT3dJeThjTXc4Ull3MS05QzBWQXRoQmNlZGhCU29YZ1hEMXhBb0pSMVJSQU1qUFFvd0xPcERYUjQwbG5kRWQyanhqZzNMUHNZMTVraWlXaVU0LUlqYXVacXM4ZkpSTXIxQVx4MjZtbHJvc1x4M2RRODJmemFlUGk3NFx4MjZtcmNceDNkQ0FBNGdBTlFBV0FBYUFCd0FKZ0JBS0FCUnFnQkFMQUJBYm9CQVFIWUFRRGdBUURvQVFBXHgyNnNjYV9lc3ZceDNkYzViZTIwZGQ1NWVjNGY5OVx4MjZtZ3R5cFx4M2Q5MFx4MjZzbnJceDNkMQ=="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Greek Words and Phrases – Nicene and Post- ...",
+      "link": "https://sacred-texts.com/book/nicene-and-post-nicene-fathers-vol-vii/greek-words-and-phrases",
+      "source": "Internet Sacred Text Archive",
+      "domain": "sacred-texts.com",
+      "displayed_link": "https://sacred-texts.com › book",
+      "snippet": "This index gathers Greek words and phrases associated with theological vocabulary, Christ, truth, knowledge, faith, love, and Johannine texts.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAt1BMVEXy8vL4+Pj39/f////n7vKIpryrv86xxdL89+/3y6f72Lvj29Jfh6YQUICOqb0NUoJdg6H77NzwfAD5hx3Zo3loiaLZp3/1gyL659H1gR7eonUMUoNqkKyhucvNy8NPe574ghfSyrzR3eU8bJWwtLK6uK3H1uEza5fromukqa+bqK/opXCxubr7pVz2lET5kjujo6IrYoqRlZmblJG2loDellt8iJF7n7qGmabHoHdyj6Pn3M3AxsV4g4DUAAAAxUlEQVR4AczLNXYDURQE0dfDY7Yzsy3a/4aUiJn5Q4tZylXpPQUB5HIk4Mi17A0jAA2xgSVP0MeyieEjoEiqQ3zC0mSKyLoBVFA/xhAq6PGl68Dzp4dovjEMlvjWNQt0Y+gyt/gLtBc4s1v0rZs9xKPTd5i9fh7i4WmiM9QSYVZb4IeLVniMMRbuo9X9p/LIsXuIvW8A/adqNzO8I5l/cvdoxHzKcpXlKEVXwh3SsRSBM585UPIkhPmPESg5xNIQAyNOyf8A2vKJNxB6no8AAAAASUVORK5CYII="
+    },
+    {
+      "position": 2,
+      "title": "Greek Words and Phrases – Nicene and Post- ...",
+      "link": "https://sacred-texts.com/book/nicene-and-post-nicene-fathers-ser-ii-vol-ii/greek-words-and-phrases",
+      "source": "Internet Sacred Text Archive",
+      "domain": "sacred-texts.com",
+      "displayed_link": "https://sacred-texts.com › book",
+      "snippet": "This chapter is an index of Greek words and phrases, listing names, theological terms, historical expressions, and transliterated entries.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAt1BMVEXy8vL4+Pj39/f////n7vKIpryrv86xxdL89+/3y6f72Lvj29Jfh6YQUICOqb0NUoJdg6H77NzwfAD5hx3Zo3loiaLZp3/1gyL659H1gR7eonUMUoNqkKyhucvNy8NPe574ghfSyrzR3eU8bJWwtLK6uK3H1uEza5fromukqa+bqK/opXCxubr7pVz2lET5kjujo6IrYoqRlZmblJG2loDellt8iJF7n7qGmabHoHdyj6Pn3M3AxsV4g4DUAAAAxUlEQVR4AczLNXYDURQE0dfDY7Yzsy3a/4aUiJn5Q4tZylXpPQUB5HIk4Mi17A0jAA2xgSVP0MeyieEjoEiqQ3zC0mSKyLoBVFA/xhAq6PGl68Dzp4dovjEMlvjWNQt0Y+gyt/gLtBc4s1v0rZs9xKPTd5i9fh7i4WmiM9QSYVZb4IeLVniMMRbuo9X9p/LIsXuIvW8A/adqNzO8I5l/cvdoxHzKcpXlKEVXwh3SsRSBM585UPIkhPmPESg5xNIQAyNOyf8A2vKJNxB6no8AAAAASUVORK5CYII="
+    },
+    {
+      "position": 3,
+      "title": "Αββά Δωροθέου – επιστολές: Ζ', Η', Θ', Ι', ΙΑ', ΙΒ'.",
+      "link": "https://www.google.com/goto?url=CAESYgHEIkXXRsu_xANPoPt8EPcbQfGvtxfqY3yOOHzlc2zhFuoJQM9tiALS_8H_x6mRgjiOKW7AsGYnHvnoNhVKSNcAm49OnDLQsECeNpY3gIf9sPzQHer6FwZJlWUA1wZx0Vck&gsessionid=jkCX2b3Pc6Si8URPGnXs8gudysbnnjFFnHmzSlZy60RQXhm91En6Dg",
+      "link_token": "GH1q1Q1lbuMn3k-KVhf-iIo43GB0yk-FQ-443yunokAFufGFnYp9PsJJxlfrKxI3RbH8sjcTBBdLw15htr5VbkZC5OxT45bU8xHEh7fMQT_wr7lM4JGTMDaqmL7FXvCL7tylgR9nT44yWDb2KYW_JEuCH7cu4TW1URGyTmHODTRXO3SF0F2wJ5aTFatEHO-Kn4M4Wg--y1HXDw4zwoEI9ofS--IDeHZbOA-boPqFDBMMGiSg",
+      "source": "ΟΡΘΟΔΟΞΗ ΠΟΡΕΙΑ",
+      "domain": "www.orp.gr",
+      "displayed_link": "https://www.orp.gr › wordpress",
+      "snippet": "Οφείλεις λοιπόν, με τη βοήθεια του Θεού, πρώτα – πρώτα να μην πιστεύεις καθόλου στις υποψίες σου και να φροντίζεις με όλη σου τη δύναμη να ...",
+      "snippet_highlighted_words": [
+        "του",
+        "και"
+      ],
+      "date": "Dec 19, 2022",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAt1BMVEX////+/v/+///9+v39///cw82CAC6JK0KFMESKMUiMN0yVPVWNPFGMNEeFJEDfy9PBn6d0AADhxs3y6erv4+X38fTJoqxxAADTusHz8vXbzdG7kZxtAADn2d7Xw8awdIH69/rPsrqcVWWVR1yEGzu8jpmiY3R4AADn1NnCnKeJKz+DEi6KEzZ8AB5+ABisZXWve4d3AA16ABK9jJqtan+AACaQJUGxd4WFHja1hJPLtbibUWLfv8wVKx9EAAABoUlEQVR4AWJAAECVZIHsOgwDwLWrMrfBUpwUAmV+dP9rfci8pNMdMKxRklJo9YI3NBWleSFvslqr1Rv1ZqvV7nTrvT767Vg1GI7GlmXZjuv58naMFjx3gmjNdDZH5VJpRJRSIixcD4DAtSgwIFDhnwwBiF7SuJ4wWdZX6/nQQQOdUorahEzjCWbTSlIEyEqpxDHhzEIg2lSUgNmWEmWMO2C3jALL7WsF/n5Y7oTpwbBbjzvH9QYN4zieU9r9CepzwqUV+4BexrZAjsxnVVjOcQac+wDdoV1uDN0xRHOOEKVAeLlci41cLwZ2nmPBKQJMdvClkJt9RWjfJsD0LkArRspjz0Z4LADWUX6nW9wpVF1LrvtEawieANlwToE/865c8ux2Q6DyES8gRyuuU82silJmaAuY+zktJNbnRtmzEEUYAdiXfVDcaT5N7PjPKlBPRIMV3x/88imEM1sjfH2Dgv75frHJsdPxp1xrPiR77QyA8HI/L8jxP+ezHx2unpvIpvkNnOLD8BNRAN4tqAjKGoOAgLceXOsJAgiCpuiU1erDX6QrJG//O8axAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 4,
+      "title": "Greek Words and Phrases",
+      "link": "https://www.google.com/goto?url=CAESmAEBxCJF1xAC_RBFYT-GUtw2Hg7DRS8USQqI63SjDGEBKab6VwHOn_4GOGm3k58Zc8aRUbNNu2RCaaEv0CWW5AXdKpF9nmWsDUJuXOpLCQnB5TYe5sFm-akB69yQDi53sbU77xeZS-759VJ7MbUVERsNSdKZgbRxpiJt2wl0LZxtpMmH6q8wWZse0WEaiMJ0A9pmcnNfYMRepw&gsessionid=jkCX2b3Pc6Si8URPGnXs8gudysbnnjFFnHmzSlZy60RQXhm91En6Dg",
+      "link_token": "S0041O_8Omh334OHf5a6-64bl2i5wCZOkYXsAfk5YXVCTavl0DqJcO_NqX0JXYA230g7h1UEEW4RDLpbn9q3r08MxPLbKnDUaLt3fWp6gpXIhI3js7poa4cNKYv8qxoGE92tbfoJ2um5aY7ZDn2CrYaRKzDs38d9h2M9JQoyJgyn8p6KOJ7yY3EcKKXHqG99zIl_oVkuXOSFutyuhCAzT0pmoc8e_uTtriQQ4wnGyrzWAkTfKhQF90ulh2Bv8qaGo53aOW18OLkLM8RFyDnxFSkdSD6agJoFJsu9YrZd--XI0G3w8DP6wQ-Hxl--seeaA__ddREr_6SHQ4XodA",
+      "source": "Internet Sacred Text Archive",
+      "domain": "sacred-texts.com",
+      "displayed_link": "https://sacred-texts.com › book",
+      "snippet": "This index gathers Greek words, phrases, names, and transliterated terms from the volume, preserving varied spellings and damaged characters in the source.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAt1BMVEXy8vL4+Pj39/f////n7vKIpryrv86xxdL89+/3y6f72Lvj29Jfh6YQUICOqb0NUoJdg6H77NzwfAD5hx3Zo3loiaLZp3/1gyL659H1gR7eonUMUoNqkKyhucvNy8NPe574ghfSyrzR3eU8bJWwtLK6uK3H1uEza5fromukqa+bqK/opXCxubr7pVz2lET5kjujo6IrYoqRlZmblJG2loDellt8iJF7n7qGmabHoHdyj6Pn3M3AxsV4g4DUAAAAxUlEQVR4AczLNXYDURQE0dfDY7Yzsy3a/4aUiJn5Q4tZylXpPQUB5HIk4Mi17A0jAA2xgSVP0MeyieEjoEiqQ3zC0mSKyLoBVFA/xhAq6PGl68Dzp4dovjEMlvjWNQt0Y+gyt/gLtBc4s1v0rZs9xKPTd5i9fh7i4WmiM9QSYVZb4IeLVniMMRbuo9X9p/LIsXuIvW8A/adqNzO8I5l/cvdoxHzKcpXlKEVXwh3SsRSBM585UPIkhPmPESg5xNIQAyNOyf8A2vKJNxB6no8AAAAASUVORK5CYII="
+    },
+    {
+      "position": 5,
+      "title": "Greek Words and Phrases",
+      "link": "https://www.google.com/goto?url=CAESoAEBxCJF1175auf7R_GpjKbhfGrd0FLSmMjZ1LQGyv3cyqgBRif-P9t7mt8gLrY-2Oneez2ejyaK0BVbi15SsjFhvWQ9i5VZ7aZHIC-YU4UKwPIMisMp4J5bKf1EW4mliYuaf4_7eoePF85wtiQemvuQkjqAgHbQaI5TRnDz7yiU2rRR-J9l7u3EZDNrVQ8c-WAuHZ8WhgOId_pR3G0aSF0a&gsessionid=jkCX2b3Pc6Si8URPGnXs8gudysbnnjFFnHmzSlZy60RQXhm91En6Dg",
+      "link_token": "wxcmotlOetn7KQlp_LF0yMFVHamNyWq3Gyp1zycpqHyeXrw1BLPM_VjD8NQqK7wCeO16VcXf82k5VjcTx8NP8U6_qfr9MLbJxVX5Ne__vZcsUBlbWLTnxuBTU9er_3MShMoUSwK13AorNc84zqgTVgkfmm8tG3m3-VwsQfCrIaupy0GDXMhGiGDUpTSVqVIL95BkuGeY0hl3UdjvwXsvhYqKbPF6PjEcdH0jDhB9JCC5TwGa8EeI5CzS_bklSU9Yf97JzluPq3r8zVqSh3wtLbikwfn5ZYQ8kXroNSs-iA-WNCGOUEb4kg--IXHpUv0hV5ji5sCb--_jUDb1dlJuEh962io6MjHA",
+      "source": "Internet Sacred Text Archive",
+      "domain": "sacred-texts.com",
+      "displayed_link": "https://sacred-texts.com › book",
+      "snippet": "This index gathers Greek words and phrases from the volume, including theological, ecclesiastical, scriptural, and liturgical expressions.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAt1BMVEXy8vL4+Pj39/f////n7vKIpryrv86xxdL89+/3y6f72Lvj29Jfh6YQUICOqb0NUoJdg6H77NzwfAD5hx3Zo3loiaLZp3/1gyL659H1gR7eonUMUoNqkKyhucvNy8NPe574ghfSyrzR3eU8bJWwtLK6uK3H1uEza5fromukqa+bqK/opXCxubr7pVz2lET5kjujo6IrYoqRlZmblJG2loDellt8iJF7n7qGmabHoHdyj6Pn3M3AxsV4g4DUAAAAxUlEQVR4AczLNXYDURQE0dfDY7Yzsy3a/4aUiJn5Q4tZylXpPQUB5HIk4Mi17A0jAA2xgSVP0MeyieEjoEiqQ3zC0mSKyLoBVFA/xhAq6PGl68Dzp4dovjEMlvjWNQt0Y+gyt/gLtBc4s1v0rZs9xKPTd5i9fh7i4WmiM9QSYVZb4IeLVniMMRbuo9X9p/LIsXuIvW8A/adqNzO8I5l/cvdoxHzKcpXlKEVXwh3SsRSBM585UPIkhPmPESg5xNIQAyNOyf8A2vKJNxB6no8AAAAASUVORK5CYII="
+    },
+    {
+      "position": 6,
+      "title": "Greek Words and Phrases – Nicene and Post- ...",
+      "link": "https://www.google.com/goto?url=CAESnwEBxCJF1yLQl45WKTWDcMhHtvStExtWmpOkcCabrB_L-6Tow7N7nReKqgej3SYQkWL7A1NIia26h8FQvjov_YoIDdGiSHIfkZACNpGCYUk6HiqAu74QeiMIcAbK3YP5hx1YIHR6wpi787BuhdociGhaXOOZlbmDXHYxbMpAoybvkGbh5ILRPNfOniQtcGdK4ItbgtBY3B3sno0zAKnHq2A&gsessionid=jkCX2b3Pc6Si8URPGnXs8gudysbnnjFFnHmzSlZy60RQXhm91En6Dg",
+      "link_token": "__EF4mpa10rIbvKMg3TEjlyJ88Xq1z7ayMJlrNYeHcOHJhWzvjYTYS3Z8dzenIeBwaD6o4HvrvzhPT6Vm5zlvx-tVJUsSrqCi9B6S5_saB2F3aUaHpQMotlUkEYvqRTcXGnneAhq76fW1c91UfFSPpDkeIk0iMleUCWEpnwyGFSl2g8siLfLRV1o-fUCSMiWEM9HyxzKRaqNm1W3ba9dCNsgEVlFcSWzkiKLy_Il4noZ3WupIrHs5IgAYbiBxmdiHpZRuEtuQMCe6BQzb5ChlLLEvb_vpjVej2g2tQqVHiRRDT7bFZfh--pP1mA7UnIQ631ywA--9VxkpcnOsKFjVMp4xqJpeA",
+      "source": "Internet Sacred Text Archive",
+      "domain": "sacred-texts.com",
+      "displayed_link": "https://sacred-texts.com › book",
+      "snippet": "This Greek index gathers words and phrases from Nicene and Post-Nicene Fathers, including theological, biblical, and philosophical terms.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAt1BMVEXy8vL4+Pj39/f////n7vKIpryrv86xxdL89+/3y6f72Lvj29Jfh6YQUICOqb0NUoJdg6H77NzwfAD5hx3Zo3loiaLZp3/1gyL659H1gR7eonUMUoNqkKyhucvNy8NPe574ghfSyrzR3eU8bJWwtLK6uK3H1uEza5fromukqa+bqK/opXCxubr7pVz2lET5kjujo6IrYoqRlZmblJG2loDellt8iJF7n7qGmabHoHdyj6Pn3M3AxsV4g4DUAAAAxUlEQVR4AczLNXYDURQE0dfDY7Yzsy3a/4aUiJn5Q4tZylXpPQUB5HIk4Mi17A0jAA2xgSVP0MeyieEjoEiqQ3zC0mSKyLoBVFA/xhAq6PGl68Dzp4dovjEMlvjWNQt0Y+gyt/gLtBc4s1v0rZs9xKPTd5i9fh7i4WmiM9QSYVZb4IeLVniMMRbuo9X9p/LIsXuIvW8A/adqNzO8I5l/cvdoxHzKcpXlKEVXwh3SsRSBM585UPIkhPmPESg5xNIQAyNOyf8A2vKJNxB6no8AAAAASUVORK5CYII="
+    },
+    {
+      "position": 7,
+      "title": "Απολυτίκιο Αγιορειτών Πατέρων Ψάλλουν Όι Πατέρες Τής Ιεράς ...",
+      "link": "https://www.google.com/goto?url=CAESuwEBxCJF12gh3HEH4hhIi7NrkgLcaevk4EtbDon8-GQgZRaVbVtdayXitqzht0L59cVn9IJ-cmDKJejpMNCW32WKEKZwPpSXVHsIxea3Ye7kTWzC81N7yerr9i9hCqJODY7sgE_IIVpCWmCJr5HqnCARs_LXI0CDITqR1sMbc2ahxppOCj8HBuDXMRlrXjg2mlwhzaA22JEpPEeDADEXQVtb5Ry96lET8HRKzm5KGcWEo94F2lvyAyJ6LsXh&gsessionid=jkCX2b3Pc6Si8URPGnXs8gudysbnnjFFnHmzSlZy60RQXhm91En6Dg",
+      "link_token": "LuPtbnWh5sxijdB81p30MVylyJFNLu2hSvQ4nvbVSn2JjSB19jRHrxeFAcVRsbudMz3_of2ikXSi84tz_QHy4GqYBF1Pt-nB2uUlkDoOEqfP6WH320S3D0bWGY96oLmH2p7akneu6Zbmp-MG3FyW3rUv_9ELCTNUYXNJWE-29XzYFAc4Y1SkP2ldhvfU4y6wcjjVVBvyNFQyKuwawST73jnFrbcbdEZcgTfIDPpcbUcNCLFthogZLLa73BlMaZm8ihPUeamv2i733XaWLozI6TU6sbf0CkoIoc5bIAHI2MOq82eSoeFtgPScM2tyJ0aq429Ef6_avcnfLxy8sLMgxJup5L-iA-yuOhNgcg--af0qKFuwZmPW63OK--Bx_AsBFDPk15IHGW0-17rQ",
+      "source": "Facebook · ΠΑΝΑΓΊΑ ΠΟΡΤΑΪ́ΤΙΣΣΑ - ΙΕΡΆ ΜΟΝΉ ΙΒΉΡΩΝ ΆΓΙΟΝ ΌΡΟΣ 🌹🌹",
+      "displayed_link": "5 months ago",
+      "snippet": "... παρὰ τοῦ Πατρός, ἐν ἀληθείας χάριτι. ... Το θαύμα με το προζύμι ανήμερα της Υψώσεως του Τιμίου Σταυρού το σκέπαζαν και το άφηναν όλο το βράδυ.",
+      "snippet_highlighted_words": [
+        "παρὰ τοῦ",
+        "Το",
+        "το",
+        "του",
+        "το",
+        "και το",
+        "το"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII=",
+      "video": {
+        "link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTVhXtdCVzm_x18-6PW6bDqSAjeZer63pgQsg",
+        "length": "1:30"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60ATgE2sbPgmFxl4BBm7LxRakYU-RlXgMtD9OFpm144nurUWmsrKBWQ&s"
+    },
+    {
+      "position": 8,
+      "title": "Damagetus, Palatine Anthology 7.9 = n. 2 1379-86 Gow/ ...",
+      "link": "https://www.google.com/goto?url=CAEShwEBxCJF1-Q_lRhr0pEejavTzSU1H3YTemHculoOBopCflAmMnSjvfQnK-xvni6sZteKfcxMWvNhDWCkvQ0fBfJEuJL1C7WFgoMyyYv94GDYE_yKcMpswjMGkJmJ2awMD6MNc3aLACX0JEzrGRQGJDvr_VEdOaOvvMLbfRBZzV41Lg7nGicUg2A&gsessionid=jkCX2b3Pc6Si8URPGnXs8gudysbnnjFFnHmzSlZy60RQXhm91En6Dg",
+      "link_token": "xj2HBA_pkouI-yTin5hG2xIqQolYpLfiGi3gxBFzVryEpWEQmKsRbrEU4841qgPhobDCRzJaPX5hLoLxhv5GN1H8223y_i6kEneQnA5hrXB8vnZwRhirzP-QMrD0TpMfWLFdYbCvpUDJiu5RK1TCnPUImRIdVpH3GoifSjqbwpSLGpPl3CNjIDov3dPNAP38m5NWBfgtjhTeKr4KT_WEWWVDGZ9kPexe-KysMQdnTBKEUJ990bThngSyB4xDQnPXe2ct00q_9w--pXENNmhnBquE8nBk--EOznYNfZrgt5SZq3ToITGQ",
+      "source": "Durham University",
+      "domain": "livingpoets.dur.ac.uk",
+      "displayed_link": "https://livingpoets.dur.ac.uk › Dam...",
+      "snippet": "1Ὀρφέα Θρηϊκίησι παρὰ προμολῆισιν Ὀλύμπου τύμβος ἔχει, Μούσης υἱέα Καλλιόπης, ὧι δρύες οὐκ ἀπίθησαν, ὅτωι συνάμ' ἕσπετο πέτρη",
+      "snippet_highlighted_words": [
+        "παρὰ"
+      ],
+      "date": "Jul 20, 2016"
+    },
+    {
+      "position": 9,
+      "title": "Ναυπάκτου κ. Ἱεροθέου: Θεολογικά στιχηρά τοῦ ἁγιορείτη ...",
+      "link": "https://www.google.com/goto?url=CAESgAEBxCJF16TYBAxnzn98xxpYYLRTQiyp89FG5pq33v0jRANRkUHmvMNPlOvwFHCsje31EdksWHd49KYwtcURZoZpp8a4BI0ko5rJlZMObLHrXrLCGLx13qm4C7aYILvxGd0h3d-E3zmRAL2aeHgZedC6sb-1yKFxyVruU5ICX26k2g&gsessionid=jkCX2b3Pc6Si8URPGnXs8gudysbnnjFFnHmzSlZy60RQXhm91En6Dg",
+      "link_token": "i3rxrcJNOIgrOvjKtiiI5RhcB_IhAhu6LqmG6dr_EOviFWSWg-nKM-itXL-ZXIE5JTbSGK5mbOZCDfqJSuPN7WdpHfy6eK_3t2aE1-shLt-DPqHVeV3GFc4MbuMRjQckI7b3Vdd4dli47wBnt2LUrVmqCRpSmK5CILRQFlsGZuQLN0H1-W2yKh20KMizazV2CSkipmUk_3lqxkRLi0ppowpcSpz3oKtODKey6UvcwXkPzRN4NRbejXWR1faFgw--3FIRMG08Qjfl4gNZ--9KnkLquQivZS97p9nyXhVQ",
+      "source": "Ekklisiastiki Paremvasi",
+      "domain": "parembasis.gr",
+      "displayed_link": "https://parembasis.gr › index.php",
+      "snippet": "Γι' αὐτό προτίμησα νά ὁμιλήσω μέ ἕναν τρόπο, μέ τόν ὁποῖον γιά πρώτη φορά ὁμιλῶ στήν ζωή μου. Θά τό κάνω ὅμως αὐτό, ἀπό ἀγάπη πρός τόν π. Μωϋσῆ ...",
+      "date": "Mar 5, 2015",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAxlBMVEX////+//////3/9vf8/fr8//337uzFWT7bl4r8///9/////f/5+vX68/Lv39fFTTPRemb9+PL7+PfVhHXIYE7NbFnOaFvUmYvViony4dPNhHPRZ1XLZ1PLVkDal4/Tclv13dvy2M7Qc2vVjH/KQS69OSDisKK2BQDPfG3BWEzOcmL77vHWjIPu2tHNfmrRenTw1M/gsqjcp5nYsJzTe228IgDPcWm/VUHtycjRg3u9MAftxrzpvbnVl4O8ORTfpqLqyL3LST+ldsbIAAABpklEQVR4AXXR1WLbQBBA0TuKd+NZJRYZgqo5ikKSaub+/0eV2/B5Hh5eEY9PyVGN94wYEYM9ruOpc4aX/JPTn44aQeiiOI6jGi9I0my12h3Ozrm4bF5dp45n+gU1oElXsY2e7fNCY0A6HPVIuoxvsvFtfsdf4uT+QXl8fHrIirJqljS/Vv+XEjtBz6dPOgsmCXmezv0ry284rqws8nyJXY0s/YtGhL1y/CaDNZtcJgksB7DsIMim7owPFFvszmOSQJXCfZAMCiXrOoDGWrsjQ5hBlUB6cVqOPB03BADjGsPofpWJ6zQhrVNMT2pOfQPEDW3c3DYmM8iaMfs6h5FjYcUD7JZGx9CcFz5C8bTLglJc68EBHA3yLgbbD9on4gbNbrfLw/Hy9Pe0gp2M1WeyL2ZKOdOals0uz48bV06Tim8R5QTdh6jhH0NVuElFsmada3EleMIzb6b5nv2edUjTiuEld9j09xQT1lm3Lr7wkmeSJCUackjSBoZXhEFedzR7m0nu8ZZ0RjNRGzxeXypvqPSqvQc2TTfyLtFXcPxW4y2HIuCQ58QfTLEo2qL1CcYAAAAASUVORK5CYII="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%80%CE%B1%CF%81%E1%BD%B0+%CF%84%CE%BF%E1%BF%A6+%CF%80%CE%AC%CF%80%CF%80%CE%BF%CF%85+%CE%9F%E1%BD%90%CE%AE%CF%81%CE%BF%CF%85+%CF%84%E1%BD%B8+%CE%BA%CE%B1%CE%BB%CF%8C%CE%B7%CE%B8%CE%B5%CF%82+%CE%BA%CE%B1%E1%BD%B6+%E1%BC%80%CF%8C%CF%81%CE%B3%CE%B7%CF%84%CE%BF%CE%BD&oq=%CF%80%CE%B1%CF%81%E1%BD%B0+%CF%84%CE%BF%E1%BF%A6+%CF%80%CE%AC%CF%80%CF%80%CE%BF%CF%85+%CE%9F%E1%BD%90%CE%AE%CF%81%CE%BF%CF%85+%CF%84%E1%BD%B8+%CE%BA%CE%B1%CE%BB%CF%8C%CE%B7%CE%B8%CE%B5%CF%82+%CE%BA%CE%B1%E1%BD%B6+%E1%BC%80%CF%8C%CF%81%CE%B3%CE%B7%CF%84%CE%BF%CE%BD&gl=us&hl=en&start=10"
+  }
+}

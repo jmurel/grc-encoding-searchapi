@@ -1,0 +1,173 @@
+{
+  "search_metadata": {
+    "id": "search_Z18NJlvnOYIZmDN81k3BOm7g",
+    "status": "Success",
+    "created_at": "2026-11-22T01:46:07Z",
+    "request_time_taken": 5.01,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 5.03,
+    "request_url": "https://www.google.com/search?q=%CF%80%CE%BF%CE%BB%CE%BB%CE%B1%CC%80+%CF%84%CE%B1%CC%80+%CE%B4%CE%B5%CE%B9%CE%BD%CE%B1%CC%80+%CE%BA%CE%BF%CF%85%CC%93%CE%B4%CE%B5%CC%80%CE%BD+%CE%B1%CC%93%CE%BD%CE%B8%CF%81%CF%89%CC%81%CF%80%CE%BF%CF%85+%CE%B4%CE%B5%CE%B9%CE%BD%CE%BF%CC%81%CF%84%CE%B5%CF%81%CE%BF%CE%BD+%CF%80%CE%B5%CC%81%CE%BB%CE%B5%CE%B9&oq=%CF%80%CE%BF%CE%BB%CE%BB%CE%B1%CC%80+%CF%84%CE%B1%CC%80+%CE%B4%CE%B5%CE%B9%CE%BD%CE%B1%CC%80+%CE%BA%CE%BF%CF%85%CC%93%CE%B4%CE%B5%CC%80%CE%BD+%CE%B1%CC%93%CE%BD%CE%B8%CF%81%CF%89%CC%81%CF%80%CE%BF%CF%85+%CE%B4%CE%B5%CE%B9%CE%BD%CE%BF%CC%81%CF%84%CE%B5%CF%81%CE%BF%CE%BD+%CF%80%CE%B5%CC%81%CE%BB%CE%B5%CE%B9&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_Z18NJlvnOYIZmDN81k3BOm7g.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_Z18NJlvnOYIZmDN81k3BOm7g"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει",
+    "total_results": 118,
+    "time_taken_displayed": 0.2,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_Z2xceDNkdXNceDI2aGxceDNkZW5ceDI2cHdzXHgzZDBceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZFlra0NhNkdYSHJHbzFzUVBrNWZsNEFZXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9HVmtPdUhUUlNVMXVuOVJKd1c4RFVXT0dZNWVBL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMTUwOTM3OCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJQUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUFBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBQUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9FckIxbW8wckFaYTh4cHhXNjBSS0ltRXpyWjh3P2NiJTNEMTIxNTA5Mzc4LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNBQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUFBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBQVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FBQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0Z5T1h1TXpUM2pfc1I1NG1XLWJaSFo2VW1qOEEvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIxNTA5Mzc4LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUNGJTgwJUNFJUJGJUNFJUJCJUNFJUJCJUNFJUIxJUNDJTgwKyVDRiU4NCVDRSVCMSVDQyU4MCslQ0UlQjQlQ0UlQjUlQ0UlQjklQ0UlQkQlQ0UlQjElQ0MlODArJUNFJUJBJUNFJUJGJUNGJTg1JUNDJTkzJUNFJUI0JUNFJUI1JUNDJTgwJUNFJUJEKyVDRSVCMSVDQyU5MyVDRSVCRCVDRSVCOCVDRiU4MSVDRiU4OSVDQyU4MSVDRiU4MCVDRSVCRiVDRiU4NSslQ0UlQjQlQ0UlQjUlQ0UlQjklQ0UlQkQlQ0UlQkYlQ0MlODElQ0YlODQlQ0UlQjUlQ0YlODElQ0UlQkYlQ0UlQkQrJUNGJTgwJUNFJUI1JUNDJTgxJUNFJUJCJUNFJUI1JUNFJUI5XHgyNm1scm9ceDNkMGE1cGx0bG11b01JdjNxRHFRS2pXNlJzUjFVaTVwcmx2cXh0eWxqNWlnMzdiTnE0R25TV2dkOVphN2FvbWlycm9kRllYbm9fdFlOSkY0V0ZQbFdUWGV2QmxZaUVPamRDd1p0QzUyX2ljbHJLQXk2ODFWeU50ZVNLeDc3MFZlNWdHRl9oNW1walZrWm0xTmIyNndceDI2bWxyb3NceDNkenlJWDFQMm5DbkVceDI2bXJjXHgzZENBQTRnQU5RQVdBQWFBQndBSmdCQUtBQkFLZ0JBTEFCQUxvQkFRSFlBUURnQVFEb0FRQVx4MjZzY2FfZXN2XHgzZDEwZjU5ZDIyNzNlNTVkZmZceDI2bWd0eXBceDNkNDFceDI2c25yXHgzZDE="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "ΣΟΦΟΚΛΗΣ: 69. – Ἀντιγόνη 332-375",
+      "link": "https://www.greek-language.gr/digitalResources/ancient_greek/anthology/literature/browse.html?text_id=166",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "Ἀντιγόνη 332-375 οὐδέν ἀνθρώπου δεινότερον Η πλοκή της Αντιγόνης καλύπτει γεγονότα από τον θάνατο του Ετεοκλή και του Πολυνείκη έως",
+      "snippet_highlighted_words": [
+        "Ἀντιγόνη 332-375 οὐδέν ἀνθρώπου δεινότερον"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 2,
+      "title": "Sophocles : Nothing more wonderful and frightening than ...",
+      "link": "https://www.google.com/goto?url=CAESiQEBxCJF16oaj0p-7OrwnHxbtqAQbcWZ6HuvQyvnpqpP9JTzzzf63Xg9eUJrbjB1RZeZ78iVj81cwsimR12yvb63CR5qf-iyeC6JmlO7kcFFUcjlv5MaGgB5pnHiH-98mJo5lDnVc763WhE0FOpGrNUW-5LgVeXeOFm6EoI69QTk0YFJTk-fHAFMuA&gsessionid=csRp93T3b4M1aUwYq7_4_nJxP_oxfvrJC7s6OAv3_YCEfHdVc4lnwA",
+      "link_token": "VkONs_YZ_bYIP80HYZDkvmr2kiRzcV2ztou5BflkQXnkfexzD-p42SGp068rwW9HSDfh53RY6kkmTuRSa9J2cKlUZ_qkrr8KsgpoqVVJQcKvagOQJlHLR99kw8nSy77pQAaVQWuREYYySJTHUDHiyzkV3h9H4TvWUmHUb9vigQgqtVDHyznk-N7C3vDJbpAJ8oU0DnFh7_iDefa3PzkZw2nf9kcc17_dFo0zv59cx_FKslg2_A4FvrglVFU_e9fu0dCo3dbRVIl-Rw--6xct5m-FyjPbl86b--TKbrTrUEqUaz89XNUQS8Lw",
+      "source": "ELLOPOS net",
+      "domain": "www.ellopos.net",
+      "displayed_link": "https://www.ellopos.net › ancient-greece › sophocles-man",
+      "snippet": "Πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει· τοῦτο καὶ πολιοῦ πέραν πόντου χειμερίῳ νότῳ χωρεῖ͵ περιβρυχίοισιν περῶν ὑπ΄ οἴδμασιν͵ θεῶν τε τὰν ὑπερτάταν͵ ...",
+      "snippet_highlighted_words": [
+        "Πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEVHcEx+VFSePz+tXV15PDyER0e2bGyyVFSnPz+oNjavXV2DT0+VNzecTU3Hl5eZVVWjW1uqZGSRW1t6Wlq+ZGT4xsa/goJZIiKIe3uViYmJa2uXYmKBcnK4k5NjVVWDdHSXiIiGaGiNaWl7c3NxaGhubGyZSEj3u7t7a2udbGyXeHiQe3uIhYXGioqZPz+fNjaDOTmSKyuMRUX3q6uTUFD/fHzHfHzFfHz2h4fCfn6mSUn2hISgNDSHFRW5Li6PYmKpXl6QDMKoAAAAQXRSTlMAEg8P////////////////////////////////////flhbW2H/Mv//Nv//Nir/t6U6/2D///////////81//86NmBLe4YAAADVSURBVHgBndEDogMxFAXQMV7j1LZtt/vf1DczKO54ThztK7phmsZbzLeHrimxbMf1fN8H103YqiJMHEQZ5owKqaKXTKUz2Vw+ny8UiyFYKleqtXq9VmtoIdhsaeFp806p2X0GE70O6Q+exeIwElMjezx5zzQM0zOEfN+fzYNYWDgZWmBtvAxBtlpno/p8w002arRL2O4iEcfh3o1BLx4PMQid6P30YDGS8+NHpir67sI5IYRm/hlZuoJtNnK8Nt7v9y6VKgrBARgDAN7Lq3i5/uai3ZNX+4Yb7M8uKW8AAAAASUVORK5CYII="
+    },
+    {
+      "position": 3,
+      "title": "ΑΝΤΙΓΟΝΗ, «πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου ...",
+      "link": "http://papatsiros.blogspot.com/2014/09/blog-post_46.html",
+      "source": "Blogger.com",
+      "domain": "papatsiros.blogspot.com",
+      "displayed_link": "http://papatsiros.blogspot.com › bl...",
+      "snippet": "\"πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει\" ·. Πολλά γεννούν το δέος, το μέγα δέος ο άνθρωπος γεννά… (Σοφοκλής, ¨Αντιγόνη¨ στ. 332-333 )",
+      "snippet_highlighted_words": [
+        "Πολλά γεννούν το δέος, το μέγα δέος ο άνθρωπος γεννά"
+      ],
+      "date": "Sep 16, 2014",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEz+ZgL+///+ZgL+WwD+49j+vJD+6+H+8+3+gzP+oXD+eiD+2cj+xKXrGQLoAAAAAnRSTlMARXAleCcAAACpSURBVCiRpdPZDsQgCAVQK+CC+v+/O2Ksa21mMjz2BHsrVKkLDnWps4meDeA7xFqPyCYSUTQeN0Sja7nkV2yWy8yIPJgmP2NpdPmVRXlGeWg5hJAE04wkjex9KK2Wa+SO2llra2KXcMEp1E8ox+ZyTyiBpNgtKCFJPiUXS6o44H0JcvXlWNMReA10vPjWuI9ssDZshDLsMm+45913CHHblD+273Wp336HDzfYCtDpHI3hAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 4,
+      "title": "Α΄ Στάσιμο: στ. 332-375",
+      "link": "https://www.google.com/goto?url=CAESrAEBxCJF12H03qpDN6aInDN5NlPoGk6E0tATulcOyPRlyr_AY0OLxV_3cqYEby5iTqwHyjDGKA-DR90lZR07pyFuAGrTRwMri2x3p3UU28c9hFxxKfUKa-bV8lgHShFrQoANJtvFCno0Xy4fYXKJQq16AD7JnY4heOCCTwILMWyhzODsK91doEEBiIR1Qp_q4XONFQi96jGiUojy27i_sC15uWt8-Z_LZJluOCMI&gsessionid=csRp93T3b4M1aUwYq7_4_nJxP_oxfvrJC7s6OAv3_YCEfHdVc4lnwA",
+      "link_token": "q51fEreuHTrrGodLAo7BHJTFw4lXGGIinRHsNRNgwMaJwdA7LALobxGdY2fgqvV4o78SMYpCGfo0GMjrUknxAIsaaH7AH2YzQGIDGDWSxmu8Bu6pOxdn5mW9c2E00cnV65atv_QlbArtS5Az805Fncwr6SI14oQvDBNDG0Zm8EYbo1OYZh0FXi69JnAGPN0keqdO_LuKYRCbup_-zg5RJA45DtebMIaiWtfW2rcjSf7U5m5UfeymKgXCdC5WmZJt87bHFkeIdAQhseFJShU2YrJCacZ6LH6Q1bjRW1QNq25iYEYsAw1y4PEPC5IGwbftJOQjpKvGQfE--lFj7sSHaEiWzMSxX--y4XL56CAibrQBkR75yzgPg",
+      "source": "Διαδραστικά Σχολικά Βιβλία",
+      "domain": "ebooks.edu.gr",
+      "displayed_link": "https://ebooks.edu.gr › indexb1_05",
+      "snippet": "ΧΟ. Πολλὰ τὰ δεινὰ κοὐδὲν ἀν- θρώπου δεινότερον πέλει· τοῦτο καὶ πολιοῦ πέραν, στροφή α΄. πόντου χειμερίῳ νότῳ χωρεῖ, περιβρυχίοισιν",
+      "snippet_highlighted_words": [
+        "Πολλὰ τὰ δεινὰ κοὐδὲν ἀν- θρώπου δεινότερον πέλει· τοῦτο καὶ πολιοῦ πέραν"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAh1BMVEVHcEx8vM15t8d+wtNyrbxup7VonKRikZVpr7d8wNKAw9R6vtF9wdKAw9WAxNZkl6R/wtR6vs9/wtR/wdOAw9SAw9V5uMh/wNJ0r75+wNF9vc4oPUGW19UlOTwsQ0YxS01EZ2ua3NmR0M44VFg9XWB8u7V1q6lNdHqIxcNbiI9voqFVf35SfIRh1MKaAAAAG3RSTlMA0+Mj1vr4/gEPagUZVTj3RQowg6dzt7rykJ/sTHGIAAABq0lEQVQokY2SybqjIBCF4xTUOM+5yKAgiPr+z9eF3k4nXzbNgoW/51Rxqm63/zqPxMuyrErK8AtFWds4rus6/TNNPnHo1c6QG631gQK3Sct3x6IZDGeYEIKp0HenTd5YH3CKMWbwAxxh3BpoeLpnfSBBRJhROz3Vxo2jC3o/wCjf921ZFnVHmhJqnPRhdWXqHxRzNU7TvM7TNG4CY3n/8W6nMBeEbSOcebb3emBMD/+UFiAkTF3Q0nXHVlpH0Grsc+jzhOvyggxZ37K+S7DZoOS6SwRFV42tb5dBbs9cWBukFBJEIujWPpZqv3jBfZ1nxW1GhDJGf2FZW8jUBP2onWFm4LWGXbaP9l9D47IzYasvnJmuggRTX9NLOc6r2uU2jwBF/rThVx1ikOZq4bJs/GyYcz+2c4tOX7FBAitAKdG2IY66yuYeVh3kR4WUWoEQRkcp1XYs5zhTBzECr8AcSTtPTPjw/DvuKHaQOL/S6+ZDU71WIYmd+++WwKSlAfa2Y2XRD/nBhRBSm8Cpvc+l9eLGHYIgGNy+LqLvnc7SuG3jwvtC1/aG4ec6/wFXGjl5xZnBmQAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 5,
+      "title": "ΣΟΦΟΚΛΗΣ Ἀντιγόνη 332-375 Πολλὰ τὰ δεινὰ κοὐδὲν ...",
+      "link": "https://www.google.com/goto?url=CAESewHEIkXXF-z5Mtyv26lzTo2Ur69qT3tc1TyLHWmdWui5C_sPYqNCCPm3--KJ_ZXi9lDqiuHB2jhi6fQmXixxOPYQSQbvoz_4-zXL08pRoksx9g_Id4nASsCbRfYVl3wsiNNdE30gBMgaa18woHuArA5UkNAfwCRCNKi-QA&gsessionid=csRp93T3b4M1aUwYq7_4_nJxP_oxfvrJC7s6OAv3_YCEfHdVc4lnwA",
+      "link_token": "Snt0eCx3-3WoIUjg0Uv5WI8Ux3Eh-JCBDY2R5Ft73Osm5gzZ6lkLMK1DqL50eGfP6C4anjeVYR330Ak0NeVEzh9YhmPn2wfFGvVJ_xcSR123BAPT0YK0XIO820cJNCtX-HDPECCUDXsYnWxsCKJv6M7t0Q5IxkYuX8znHiW8PrVZaWM8_tTr3mnplb1XqLOUCZDkRfpbW7CmdrPKWJO6_SaOCCJgR5EY_U6UE730dP2mOR6JtCU--PUnI-SqNLDxIVQFQ--t8liUQpfLvFIcdeUK6RHQQ",
+      "source": "Blogger.com",
+      "domain": "antoniomartnortiz.blogspot.com",
+      "displayed_link": "https://antoniomartnortiz.blogspot.com › ...",
+      "snippet": "Πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει. 335. Τοῦτο καὶ πολιοῦ πέραν πόντου χειμερίῳ νότῳ · χωρεῖ, περιβρυχίοισιν · περῶν ὑπ᾽ οἴδμασιν.",
+      "snippet_highlighted_words": [
+        "Πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει"
+      ],
+      "date": "Nov 3, 2018",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEz+ZgL+///+ZgL+WwD+49j+vJD+6+H+8+3+gzP+oXD+eiD+2cj+xKXrGQLoAAAAAnRSTlMARXAleCcAAACpSURBVCiRpdPZDsQgCAVQK+CC+v+/O2Ksa21mMjz2BHsrVKkLDnWps4meDeA7xFqPyCYSUTQeN0Sja7nkV2yWy8yIPJgmP2NpdPmVRXlGeWg5hJAE04wkjex9KK2Wa+SO2llra2KXcMEp1E8ox+ZyTyiBpNgtKCFJPiUXS6o44H0JcvXlWNMReA10vPjWuI9ssDZshDLsMm+45913CHHblD+273Wp336HDzfYCtDpHI3hAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 6,
+      "title": "ΣΟΦΟΚΛΗΣ: Ἀντιγόνη",
+      "link": "https://www.google.com/goto?url=CAESoQEBxCJF12xFtN1PECfHG9P4FJXAqYLRvWT0jCtC_TjDud18X2DrCpZ9f0QkQAC_j9PzzNs0OpdJWEAPnmJFKjJiKyRbD4Z8ufYGQoSWKr2ZDW03c2mjg4lAVF1yggIR4m4JHvPjViCFJbULxpj2DURr5fYWcsGbVzGIP6ssT7ZHqDsMHLLcHBzezKUvxPurLKR4B7butIYQtbPThqMekcoFsw&gsessionid=csRp93T3b4M1aUwYq7_4_nJxP_oxfvrJC7s6OAv3_YCEfHdVc4lnwA",
+      "link_token": "-lYpc4Gj1FBpM-TWM12syUX3qHTPC8vFRV9QRad8EkoFsBWcU7ND1LfLFNXT_8NujwyNxQf0RezTay93XdvK8oXX22ffaoy20Fsavw4wbnBQ-WrBdwVSJbUUypkg_NBJV7paUllr03EKFQ75kSysvXQEHQ1_VEcNmPKKwoUyGwIDCfHlN_nDA-6ABOmNb643TUw76JtciAJZ1MCZ5y73MgF8yoLOyTbiCaaAioXJpC0Z_3SuiB61_J6ntJ8o6B4sqLUJOA_0wEGTdNkO8vV5mTFka0modwgL-HD7ll2SYF0TnqdetOJgldIY--ftdResmWyjvy7hIT--JbioYtCprFEnQf4itivKog",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "ΣΤΑΣΙΜΟΝ ΠΡΩΤΟΝ. ΧΟ. πολλὰ τὰ δεινὰ κοὐδὲν ἀν- [στρ. α] θρώπου δεινότερον πέλει· τοῦτο καὶ πολιοῦ πέραν 335πόντου χειμερίῳ νότῳ χωρεῖ, περιβρυχίοισιν",
+      "snippet_highlighted_words": [
+        "χειμερίῳ νότῳ χωρ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 7,
+      "title": "B λυκείου Αρχαία, Σοφοκλής, Αντιγόνη, 332-375",
+      "link": "https://www.google.com/goto?url=CAESiAEBxCJF139e8MG0PtUmaA2MARwVVgDdzi1nkcAaFS9tRWcbd782T6JvUbwcb9mvdatObMXYM5T1YRad0XsrrKl7B0tN4DxlQwRAFngG1xV-XNnHNOQpqgjMd-vy-CsQG8BLeIP8C2fiqz3FA8Hqe1CHM45ZvV7bXoePFDZ4Yt4onokuMGiW31Er&gsessionid=csRp93T3b4M1aUwYq7_4_nJxP_oxfvrJC7s6OAv3_YCEfHdVc4lnwA",
+      "link_token": "ZlfaV7TO_cV10XS80E8amg5sHcgWGgHBn0O1bY240CbBNzyGeAiGfZ8uFNgwDY5XSY0QRrij1IyG3uvAIQnAuXGhgBurwRxvbHJFGleSIeRAD-b4XmvvqHHrBuhNNoxkVGTpawJjzzWo-zk_mxtJsa1pGuTMqblVlULkwvg2WIRj-DGfuvS3YKtX9evV0zcVZcFbO019PgK_domN3yDnGXbZpQy1-6AejeUsgxVq3kLJFoI1YdHBvtupcjw-gqXPmtPqrkoBoGo--fFA4cdnCf5b0irCp---qHoyqUXNhA6PRH9Cui4Mw",
+      "source": "Πανελλήνιο Σχολικό Δίκτυο",
+      "domain": "users.sch.gr",
+      "displayed_link": "https://users.sch.gr › ipap › B_Lyk...",
+      "snippet": "ΧΟ. Πολλὰ τὰ δεινὰ κοὐδὲν ἀν- στροφή α΄ θρώπου δεινότερον πέλει· τοῦτο καὶ πολιοῦ πέραν πόντου χειμερίῳ νότῳ 335 χωρεῖ, περιβρυχίοισιν",
+      "snippet_highlighted_words": [
+        "Πολλὰ τὰ δεινὰ κοὐδὲν",
+        "δεινότερον πέλει"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAolBMVEXT5/PU4evU5/PL4vHC3e7dtrPexMXT5fDX6vR8tNrfoJvla1bYys7R5vO52OycyeSVxOK92u2OweGq0OcggsJWpNPburvqUzrgjoVJndCFvd9Imc1YpdNmrNcAdb3mbV3nZlUAfMAjisc9j8jowb3IvJ2737yz2KLB3sXF4M/Q5erG4PDA1+Tm4+TT4NOh0Xen0oVrqsa40sas1Y+22Kup0NXbHceaAAAA3UlEQVR4AWIY0QDQ/VRYMQgD0RgO0bq7O7D/ao3VN+i/e+cK4W8MYeJyQRi9gnGMrEiSOAYgSrP8mSoo4wJQyVWjyVUBWu0OfCZVl8se7w+aw1Fz2Kf5eAJB4ZMxn/Y5nSUFHkyFnKtFtlytN9udbdxT1hx1p72Czueg2T8cT+f1+bJxSTEcJvNkNhsMGl3RuN7g5nwpKz+3UEmiAEt6SjKa1Ntou1qttsgnidhjQvYY74mmPdaulo9OyZmUWmjZ49y4Wvq5mGgIKsheCEEMaeDnp5qRlloYy0B7f4U71lYRy1NfXIoAAAAASUVORK5CYII="
+    },
+    {
+      "position": 8,
+      "title": "Σοφοκλής",
+      "link": "https://www.google.com/goto?url=CAESiwEBxCJF10hZ7ref3ikTU_5EKcRS67LcWJR_pnbyWkMTx6Ox8ILD2xCuz8CCnthKUQQ64tVjI_o3bdneaFzjekptnkTkaC0kgxp62riVJOAY-5KBakg-P9_XwC8lliiRjDA6yE28pgj_-v4xte3ZOGNg00jPbv7b6VDsO1bj935MTjEv49yPzzazXSi8&gsessionid=csRp93T3b4M1aUwYq7_4_nJxP_oxfvrJC7s6OAv3_YCEfHdVc4lnwA",
+      "link_token": "zh0GNWAU3o6v37qji07yTDuEXs2Q99GSydydlNVw8NapvmNcj809hqZCF0J2GxH1wxp_EDaO7sZNZyWZpDGw8aOBXaZECKHF6BBQ-5ewWyDlSF0bwtGJHp0SHw66PWtc6UAVxthkV2k3sgHVz14ThuG29slTVs6AKocgK0Rd0XBWzsyK9WQkcSXV8axRSKO4QzSmsoJkEKODa1M1oi3r_3wpRhJMexkoC8b6VxAmpgXIIlpKrtYMRKIlUYmBYpUjIr9FhvedwjuzjNSI--kL5e-WNcCueBDCGH--gqQE6ssKrc_UWJjNv11a6g",
+      "source": "Wikiquote",
+      "domain": "el.wikiquote.org",
+      "displayed_link": "https://el.wikiquote.org › wiki › Σ...",
+      "snippet": "Αντιγόνη, 523 «πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει.» Μετάφραση: Πολλά είναι τα φοβερά, μα τίποτα δεν υπάρχει πιο φοβερό απ' τον άνθρωπο.",
+      "snippet_highlighted_words": [
+        "Πολλά είναι τα φοβερά, μα τίποτα δεν υπάρχει πιο φοβερό απ' τον άνθρωπ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAe1BMVEVHcExtn9Bun89uoNBypdRun89uoNBun9BuoNAMOm46b6ApXZFvoNAROW86bp87b586bp86bqA6bp86b59voNEvYpQ6bp87b6Fun88AMmYANGgANmk7cJ4AMGYAN2oAO28AL2UAMGQAMWY6b6AAI1oAJVwAOm4AGlIADUfIV6UuAAAAJ3RSTlMAH3M7DZX+58sXRw6vCaLkecv9Xykt1DhUpOdKBTe+/2SMzY/+8fTmUNsPAAAA40lEQVR4AYSSRYLDUAxDFfoYZubC/U84geG2rrbPbOFBhmnhlWyH8ZfUNjkTxlMkld6paz9hnh+E3laYmU+gjuIggSGYSB+QRJbHeYHyMVVWdYMiiH0N8XumVntA1w911oZxoGAyXn6hbpymUaKZh8rLonhBypnZniOO87qul6rDeL027RJH2hbMObfp5vW2aa2k7ocJSRxncJhrHInTxu73220bZxp6TwXx3vRcRlbrxja6jhiHWRZ5nOzQegvJsuRAaKlVAOIIm7zX56MP/5VPvIx+Nm0T2mC0Nd+Y+mPI2QEALosc99ytHNsAAAAASUVORK5CYII="
+    },
+    {
+      "position": 9,
+      "title": "\"\"πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει\" ...",
+      "link": "https://www.google.com/goto?url=CAESZQHEIkXXH0dHvBf4dXtudXP-_GoYZsH_d5NrHgO7qEq8ppDRZY31FiO9sfPUhcS_5DgvRPiXxVw3rMAP9c48w5DeE_-7rZFeJ7vdh3mU3qT3ZFSMlHbfFNaUEfnHiAyQeSyUi37b&gsessionid=csRp93T3b4M1aUwYq7_4_nJxP_oxfvrJC7s6OAv3_YCEfHdVc4lnwA",
+      "link_token": "nS_QFKuan_xdtnkb2w33TDXEvTvSduePcZksxXTpep2pOgbdgbmTqyZXkla0NWT0Ex-s6wJvPutT7cn2VuYJJWUkU2gP4dOXwb7gngT9IOkz4cHnOjzuFggPf_GBVcXe77CIxlMM5twbIaE0jcisi41DE_CK2-d4RJ8y8qQU8xvhoTcKmlQnJuA6vORnnEtnaQirW6IZIMM--He1htT2fl5ctw6Ym--NSa02PgQPfQGcWKOj7bRgQ",
+      "source": "Instagram · giorgos_iliadis12",
+      "displayed_link": "50+ likes  ·  4 years ago",
+      "snippet": "Δεν χρειάζεται να είσαι ήρωας για να αντισταθείς. Αρκεί να μην μάθεις να ζεις με την αδικία. 'Τα οράματα της Σιμόν Μασάρ' του Μπερτολτ Μπρεχτ ...",
+      "snippet_highlighted_words": [
+        "Τα"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABcVBMVEVHcEx3GPlwGPx1FvyDC/OWBumqA+K+AeDQANvVAs7rDa7jAtfoAMflAriKGP2ZCvunAvLEG/TgV9/oZt72G8nxB8nxALCKHPymGf7Pg/H86vf////zds79AcD9ALT3DZ30t+j63fP1st31quT8AKf8AJn98/jaO973Lr38AIvAAOz8Drn4V7370PHiGe34E6n7HZv9AHv5wOP1Wpr8D5H9AGz9GYX6q8r2YKL5dZP3tMT8D2/8KW31Y5f9AV/9Inn+G17+KFf3v879J0f+MUf5g2v3wbr9Nyz6RUP9Ml/9Qxr+SjX7zcr6Gkb8AEL+UQ/9Wiv98uT70rD8XQT8ZxD9ZCr40sP4Tn/9cAz+egj9ciX1km/1X1L9O0j4nD7+hAT9hRb8fh34unb9jQT3jZX73a78dwX+mwL6ymPzoZD8YSf9qAD+sQD7wBL8zEn5tV79jwb+uAD+vgH+wwD+LHP8owX+ygD6Olj7rQz+twf8UjMSMf5jAAAAe3RSTlMAW9L////////FW///2P///////////8b/////////xf///////////////////////////v/////////////////////////////////////////////////////////////////F////W////f//2f///9fY/9hbxcXA5ZvtAAACBUlEQVR4AUTPRaLkNhSF4f9IV3Kp/JjfCzMzM8xCG8lWMs9SsoIkTdNmZubiKtvqduMnZl0BkgCBEI+zhiBwD5f0ZA3wQj1Eu1YiMZQADyAA9SRXgpCEaGXcODFKoq/NEXRHXYmnshMak0xdGC/PiO1Mi1rTbA0LyM/BOOWyuISrHyLPTRoKZDaBndvoQrezQA/IWlBe6DXCsOdgong+bdCLyzW5F3VzpY7TckLH4ESRlvsbNlj2V4DNu3klk/Ed8HUvYlVKwa4NSmedWzNX1dbUcxlzsJMgxNppsywKv6l5M9YJZtizxOfObknxVOkVaAblle1BB0JNssXaJhA05tlKMOrcIXcMSOBc8IBvqzbQZC8SjIfMwxxz0iLnn0vQS+cx7ye0nPcPT7qPBmk2my7b4A0XlmiNzEMDQfD53vLF6sigLHLGMyzBCMzaawXf/HcAPqpmvqbDq5dGlQVjlexMYvqD0C3P+iVOccGBM0L1+d6uYozzRc6TbvA3/cI0r7g4dgoKy/SCee+akH32ltf38muG0kzR+PUfPl+DHq1in3jnSp8ZtjAxgz+u7OUJfb51cmk0Tqf158QwgcQUmM5zy9+tqnr9+nCf+3seU4hFCKHsptStxoEQg4fPhp7dP1dB8u6+LFzjqOq6afof/IWH/38O40irXXZ1g2+q99K9TWBgAACS27uoe/IOhgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "Antigoni sofoklis πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει",
+      "link": "https://www.google.com/search?sca_esv=10f59d2273e55dff&gl=us&hl=en&pws=0&sxsrf=AKL5yDgipv8vbzELfvmuYmhdHuRHZrXSqw:1795311970524&q=Antigoni+sofoklis+%CF%80%CE%BF%CE%BB%CE%BB%E1%BD%B0+%CF%84%E1%BD%B0+%CE%B4%CE%B5%CE%B9%CE%BD%E1%BD%B0+%CE%BA%CE%BF%E1%BD%90%CE%B4%E1%BD%B2%CE%BD+%E1%BC%80%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CF%85+%CE%B4%CE%B5%CE%B9%CE%BD%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%BD+%CF%80%CE%AD%CE%BB%CE%B5%CE%B9&sa=X&ved=2ahUKEwih0IyiupqYAxUxlJUCHZNLGWwQ1QJ6BAgkEAE"
+    },
+    {
+      "query": "Πελει τι σημαινει",
+      "link": "https://www.google.com/search?sca_esv=10f59d2273e55dff&gl=us&hl=en&pws=0&sxsrf=AKL5yDgipv8vbzELfvmuYmhdHuRHZrXSqw:1795311970524&q=%CE%A0%CE%B5%CE%BB%CE%B5%CE%B9+%CF%84%CE%B9+%CF%83%CE%B7%CE%BC%CE%B1%CE%B9%CE%BD%CE%B5%CE%B9&sa=X&ved=2ahUKEwih0IyiupqYAxUxlJUCHZNLGWwQ1QJ6BAglEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%80%CE%BF%CE%BB%CE%BB%CE%B1%CC%80+%CF%84%CE%B1%CC%80+%CE%B4%CE%B5%CE%B9%CE%BD%CE%B1%CC%80+%CE%BA%CE%BF%CF%85%CC%93%CE%B4%CE%B5%CC%80%CE%BD+%CE%B1%CC%93%CE%BD%CE%B8%CF%81%CF%89%CC%81%CF%80%CE%BF%CF%85+%CE%B4%CE%B5%CE%B9%CE%BD%CE%BF%CC%81%CF%84%CE%B5%CF%81%CE%BF%CE%BD+%CF%80%CE%B5%CC%81%CE%BB%CE%B5%CE%B9&oq=%CF%80%CE%BF%CE%BB%CE%BB%CE%B1%CC%80+%CF%84%CE%B1%CC%80+%CE%B4%CE%B5%CE%B9%CE%BD%CE%B1%CC%80+%CE%BA%CE%BF%CF%85%CC%93%CE%B4%CE%B5%CC%80%CE%BD+%CE%B1%CC%93%CE%BD%CE%B8%CF%81%CF%89%CC%81%CF%80%CE%BF%CF%85+%CE%B4%CE%B5%CE%B9%CE%BD%CE%BF%CC%81%CF%84%CE%B5%CF%81%CE%BF%CE%BD+%CF%80%CE%B5%CC%81%CE%BB%CE%B5%CE%B9&gl=us&hl=en&start=10"
+  }
+}

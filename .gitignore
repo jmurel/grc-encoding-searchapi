@@ -1,0 +1,10 @@
+# API key
+.env
+
+# virtual environment and caches
+searchapi/
+__pycache__/
+.DS_Store
+
+# output of new benchmark runss
+results-*/

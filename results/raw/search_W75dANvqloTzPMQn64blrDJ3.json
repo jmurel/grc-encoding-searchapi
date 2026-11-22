@@ -1,0 +1,174 @@
+{
+  "search_metadata": {
+    "id": "search_W75dANvqloTzPMQn64blrDJ3",
+    "status": "Success",
+    "created_at": "2026-11-22T01:45:03Z",
+    "request_time_taken": 3.26,
+    "parsing_time_taken": 0.0,
+    "total_time_taken": 3.26,
+    "request_url": "https://www.google.com/search?q=%CF%80%CE%B1%CF%81%CE%B1%CC%80+%CF%84%CE%BF%CF%85%CD%82+%CF%80%CE%B1%CC%81%CF%80%CF%80%CE%BF%CF%85+%CE%9F%CF%85%CC%93%CE%B7%CC%81%CF%81%CE%BF%CF%85+%CF%84%CE%BF%CC%80+%CE%BA%CE%B1%CE%BB%CE%BF%CC%81%CE%B7%CE%B8%CE%B5%CF%82+%CE%BA%CE%B1%CE%B9%CC%80+%CE%B1%CC%93%CE%BF%CC%81%CF%81%CE%B3%CE%B7%CF%84%CE%BF%CE%BD&oq=%CF%80%CE%B1%CF%81%CE%B1%CC%80+%CF%84%CE%BF%CF%85%CD%82+%CF%80%CE%B1%CC%81%CF%80%CF%80%CE%BF%CF%85+%CE%9F%CF%85%CC%93%CE%B7%CC%81%CF%81%CE%BF%CF%85+%CF%84%CE%BF%CC%80+%CE%BA%CE%B1%CE%BB%CE%BF%CC%81%CE%B7%CE%B8%CE%B5%CF%82+%CE%BA%CE%B1%CE%B9%CC%80+%CE%B1%CC%93%CE%BF%CC%81%CF%81%CE%B3%CE%B7%CF%84%CE%BF%CE%BD&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_W75dANvqloTzPMQn64blrDJ3.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_W75dANvqloTzPMQn64blrDJ3"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον",
+    "total_results": 634,
+    "time_taken_displayed": 0.22,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Marcus Aurelius",
+      "link": "https://www.google.com/goto?url=CAESiQEBxCJF1yoWriWTau79hJKg4NUWlrm36LNeRDxd8cYn112EeivXaVwuZqsFj2DSCvB0ntpdGdkPD5CF2BHDR3pWXX0bREH9LQAWYaoOiIExWiUPyKkn6lq9kIUoDwIFu6x40h3nfJZoazUHv6xaK-_13nJ7Vx02LQvx0x0KyTNVOalliRgoAnu_0Q&gsessionid=4PvH5YkBSf3kfYpmSS03IdQGjTqbEu1ZGea5Ye_34edeDUJP5kkdBw",
+      "link_token": "L_aTb-rdzR6nBr5qmm7G9UfWrRax3QzwFSrbyat6zOfr_f8eUGCTnPIpzQGWqHESoL4UihS0XoTBu0uJ2O28oFoOaWXyOka5aQOH1ho1uS2RRT9w2FUR7ygLLAmJl1GJcC3jo4lRF0HXpMUuwK_G6tVFv7HaO3_phnFKJQyJCLgElFIR4tOgz_8UrxvceZlyOh_VqErsrBS4A8Huhmxhq41URMeFKgLgGKcyR2yAy7CQHB3Dx8wNdLEmIebgs8sjJfWhKLi2tDRnvw--09nBP0brm4JW6prM--dCA3kmwWJoANXFr9PoV-rw",
+      "source": "ldysinger.com",
+      "domain": "www.ldysinger.com",
+      "displayed_link": "https://www.ldysinger.com › 02_marcus_medit_01",
+      "snippet": "Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον. 2. From the reputation and remembrance of my father, modesty and a manly character. Παρὰ τῆς δόξης καὶ ...",
+      "snippet_highlighted_words": [
+        "Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον"
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Τα εις εαυτόν/1 - Βικιθήκη",
+      "link": "https://www.google.com/goto?url=CAESogEBxCJF14isJGrdbW7xWyQv3Qg8BeNg_l1se7dx3KpbPLCBMy2xNxo-b5dbxJzQaOujELUnCHgAzDEYzllGONWHk5cPhDHEFQRR37dQ6tHxebaZ1nANABmBnux0MJMvsWMJAr9NO5flOZxsAZCP-L_bEy3REg0gweVJfrx7F1P9PRWN0B93G34JrAx0Vr8_8j9ymwHvV25RIv-wTuRi4PRetFk&gsessionid=4PvH5YkBSf3kfYpmSS03IdQGjTqbEu1ZGea5Ye_34edeDUJP5kkdBw",
+      "link_token": "cCqA4Dizh2TaR8-tjNQs8lo4bw-_FUwbATTqSCxCYZN-F8HEFtogSe52gigVZmEOgnUp4cZUxkRW7VSSiQJUXRD_12dOMAXzjByP-oi0xveekVPcdOfGqbRmTxN0klTnFLY7tXPBXJQoGD7u23woCOsZmQb6YKOvRg7Ym6AbAU0FetYjgTlG5ruTsraIo7YU8OgpGOgllhm_TEwxkeCr5v4gGk_UuLO928lV6B9b2p3-8ANc6xP8FTyTaW76fRtR_M19wwRLnq9SThAiVYmn2CUz6ZM9hHLroPa4f_pfq5lXlLK0qWAaQm52PA--DIEvi7mVUOyDWkO2--j6cOsEYfy8FXrFWEiU9Omw",
+      "source": "Βικιθήκη",
+      "domain": "el.wikisource.org",
+      "displayed_link": "https://el.wikisource.org › wiki › Τ...",
+      "snippet": "Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον. Παρὰ τῆς δόξης καὶ μνήμης τῆς περὶ τοῦ γεννήσαντος τὸ αἰδῆμον καὶ ἀῤῥενικόν. Παρὰ τῆς μητρὸς τὸ θεοσεβὲς ...",
+      "snippet_highlighted_words": [
+        "Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAF9klEQVR4Aa2XZVgbWRSGs+67v/fvuvsidXeH1Fus3m7dFSeGRXD3B5ckuLtXgTSKa9317L23YZiQAFM5z/ONz/neuXYSFtNwdCx+14aXNc+Om+Vry5NW2HKlPWj/EOkBUi9SmS1P5mPPl85hJya+w3pTsYmf+4ktV3ZEbwIM1b07oMhpm2PWx69lbseRzkfJtKZM9ojyjK7tleRDZpUSWtqHwDVfB7YCmQa3yMs7A7xlw5OeRUmfmzJPLG2Fp8+eQ069GrZ5ZcMB/wJQdd+A/ut3AUf/zXtwqqAbjqRfxc8/s+FLT+GczM35UtFoU3u+DDziq0FWq4LhaOy5B5Xq6zB48z7Qo63rBgYgshPIyPt47DDy1385jJa8Vg2jo3XwAZxGJi0DD4AeF3TXaAByep6T45qHyZume8RWNLjHVjaOVs/Q7dvPnj9/jg3w5snTZ0+H7j2BC333AV+lh6L35l0CkN/xGL3bNJyDE1dRH5HbNM2kuVKp/KBF3alAgrHUqunCGvO+QtsNyvYeuKzrhdyLXdCoMPmcSqvVfmgEsGhL2N5NR+Ja7E8ktG7kFdxe6V7wgKkWHU26+fdS3oOJNHuTpA97LHII2Wdg/ve2wPfMrUQd5tYiwPJOrIOl3BJYymOmuccz4Me5riY1ba0P/LOcT45/W8wDvUfXz2zH9ykAc2vx8mFzrJDUaogtvAS7RcWwR1KMplkpLHPLGxNgsXsh/LzA3YS5Lyi7++CythNmrhfCr4u4lIeZtXjJCICVOJwOsGZ/NHBDikDd0we6/gEi19hqWOJRCCsRyHK3fCOISQ6hRgB7XZKp9138c+A3CoAojNYCIjUSjNbyneHgHVUCaYUXQF5xGVp03STZ0eAy41ZwK4A/VngZAKw/EEkBhKRU0VsAS/mi/9mBX6CT50gwgTAElXCHsNAkxJStEfDbMgH8sogDi7cGwkV1J3k+Iq0Gfl9sAPBs8jLuZ6x/rcQ/MzHHwi2Bk2l6+sl+l7Bo7MHJKYaInPMUcER6DfyxRGCQz2KN5EeWpbXvJKYACTmNxLygQQFVLVqSeCMvH5a4F8BS95FxsehcKhRdUFLmWMEplfD3Cm+DfGZssSXLYpVoMlOAyMw6UKNRfQU1q1NUGeQ3jZjkNSjJV887J4OfdgeDijaAsfziy43y4Y9HM8DvN6YAeCBpevvJipZT2wb2AhlkVrdQJpL0Rph7Nh6mnYihmxOd9pUb5ftnpe8vLPMNws+ZAoSl11AAWC7R5aRKZlS1UkbL3ZJgnmO8EYDNsXijfHgQDk9DHdMu0PYNgKqrj6z7JU1KqlRLa15AHIsshMnHo4wA5toFjc6noa8DkUwAYmX1OBmCQK2gedEKR4IKKYjCZhXUtOngz/1hcKW9mzLHx1PXBxjkwosfBWBmJVrBdBbghFc7eoi5rKYFHDxlVL2vU7ST+9slcmhSd1AAMTlNMG97OJXHaCnGhYEqRuMoMa9ZD9BLAAJktTDtZAys4abCLnEuaPWGeAzQl3FhYhXM3xVBz6WjihHVDWzxtokAtp1N0nfBAAHYhr706+0BREtdE0f6+2wc5DYpRlZN1DpztobSml9ojz2NSjJenyeCiJc3kpmQXHaRMseaeTqW6m+Lo5GwmpcC6t4+8ENTF/2HgBm2QXpzkWLGDMd3WabCfJXQAj30aDyABQ4h0KrrAlFGjSHAqTgCIG9oG2mVcwlgw8mCDS7pw+8/NmdLprDGCzO2cM9EreASmA/heY3E5JsdATDlaBRI5LUEwDujmgJYcjKBGqDTNweCBVu8czxv+g8UwXgAlmwxKdN7OenwL1tE5rhvdCk0KNvxFCTm0/ZFUuZrz6WAOduPx3qZsLASbkVmT5iuknNsAkkLFF9Uwr+7QmATJ5MC2OyReX2jd86XzN2p7hDNQsmvMAGYus4PFm8LhRkbA8DqOGl6umJe+Q8rHrFo1dqNTLoYtgbu666VRxJiNnOlHGQ+lfUmgs1OfMfcWjjPwlrkhfblyKjPzFr0EAsfI5WZWQk90XoyFz/LNO//N5RSk6k/AbMAAAAASUVORK5CYII="
+    },
+    {
+      "position": 3,
+      "title": "MARCUS AURELIUS, Meditations",
+      "link": "https://www.google.com/goto?url=CAESpAEBxCJF17thhfvCMCxFyz5rvQ83uy2u8cgNkFVnVUhmx7hOOhRJCRDaThTdMecadITT4AEe7Wch8gn-0qqIuIPloDNvEsv5zToMQadq1vy0qoayWhKgc0hsqNGAh1W4oIrbFybvbZxekoiq-lO8yB-wNbiI2eeUgQbeMQkUhnl7T8eeETI2BDyOondv9FskZQj5__KEJRaDsuJCwAYT3eTIyOIhcw&gsessionid=4PvH5YkBSf3kfYpmSS03IdQGjTqbEu1ZGea5Ye_34edeDUJP5kkdBw",
+      "link_token": "PjmvKUY61JZRSxyBC0b4i5xlPyHV0UE9X826c-Nti7Hr8e30uCpEvNpAhShuHP-JnrklVGvihvtSzeV2TR9RJxQHeeKyvlpTDzUjfk-WPJ3OWjTWF1epaCHcJ5HP3j7pGAc4vkdlv_9s_4dKUNvWw7MY2Nrx6O_pLPvpXnkvuu4RuoPgq46jprpX-VIiEdmKGJnr-_udxblGDo3U-bUeoLN-jqL7sF5IgMRNyz31db99DOeACxzmNioM1Qk0YNBN3CoBE29ELNTPH-VMRv0w-p-wvpBQG9d-I-LxnZ2CQH-waKl0bBGwG0TqEOuCXw--tlZXlBPFA0jNECk1--oRSpMj6PfVt4JlTJdzWKYw",
+      "source": "Loeb Classical Library",
+      "domain": "www.loebclassics.com",
+      "displayed_link": "https://www.loebclassics.com › view › pb_LCL058.3.xml",
+      "snippet": "Παρὰ τοῦ πάππου Οὐήρου, τὸ καλόηθες καὶ ἀόργητον. β΄. Παρὰ τῆς δόξης καὶ μνήμης τῆς περὶ τοῦ γεννήσαντος, τὸ αἰδῆμον καὶ ἀρρενικόν. γ΄. Παρὰ τῆς μητρός, τὸ ...",
+      "snippet_highlighted_words": [
+        "Παρὰ τοῦ πάππου Οὐήρου, τὸ καλόηθες καὶ ἀόργητον"
+      ],
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NBgkRDQgWCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5MToBCgoKDQwNDw4PFSsZHxkrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAACBgABBwX/xAAoEAABAwMCBQQDAAAAAAAAAAABAgMEABESBSEGEzFBUWFzkcIHIjb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOKyEc5vmlQYyHMLYBUE33tfa9qa+J+GIkDSGHUTXXXZQBjoUhOJ6E5eNjSiroaf/wAifzvDvtfRNEIFURRVVFG03m8hOaWy4oJzcVilNza5PYeTWh8Wtxpul6U0xr8RK4acVqelBIV+oG1gfFZzUoGB/SIkbRpa3dVZnT1lKIrMJ/MI33Urp2v6fOy/apahPWg//9k="
+    },
+    {
+      "position": 4,
+      "title": "1.1 — Learning Greek through “Meditations” — A good ...",
+      "link": "https://www.google.com/goto?url=CAESsAEBxCJF1_i13oROkO3N_NuplRvFWpduqhhELBLOQ-pnmz-fk38ZzvDBYdm_TQuE1dBhmXTRe1y90QoQFDAjdCOtXURr_abpyls4DMiSzzXSqKsLiniOrz--zchAoHw9yRLwVQY1otex0nG4KNCZ_-XKaafVQqZn13QyualSZTbLiLFn1mCUFe0ZQeOqXhne0WKzceOYr_3VfluT1C_Z53fvqaZ-qTK56XwFTChlxjV_3Q&gsessionid=4PvH5YkBSf3kfYpmSS03IdQGjTqbEu1ZGea5Ye_34edeDUJP5kkdBw",
+      "link_token": "t3PcpSSM--FYsAvNmVL8H0EpzjRuzC0xMwgk8Kf2QyKB5Kvv0nFUrs1Y9_qTZfsCkdN7vUVn6gbA-a4IPlhGkkTdhQrFq_zsmpEazuOBO7AcALRptJj5ehpqjnjdZRkQHShm5ZKLpsSwKa9vHLosRBgWBBfyeYBSpnt06_jlFmEARdTr53Dbwkp5mkB6uWfKEkxe_SB6T16pbi1mpEFUtR4SWuB-aXY3-vmw7LACubn5pNEwl-VD9TxMZWnD4k0LTombWaoOPyCmSaL0lItdZx3ln2kV2QVe6tQJhId4zKNhqJGl_g2nRq8fVczVN6DLn0zd9v3QriEm0yJrWKY--NWlE4fMQKaX4CMF4--AdvwsGKFKvMqxjvklQuyJA",
+      "source": "Medium · Billie Staib",
+      "displayed_link": "3 years ago",
+      "snippet": "The phrase “Παρὰ τοῦ πάππου” (Para tou pappou) literally means “from the grandfather.” In this context, it means “from my grandfather.” The ...",
+      "snippet_highlighted_words": [
+        "Παρὰ τοῦ πάππου"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAABwcHCoqKifn58bGxt8fHzKysr///8rKyv5+fnW1tbp6emQkJCsrKxaWlq0tLTBwcE+Pj777dpoAAAABnRSTlMAS8D5/5mXKh4CAAAA3ElEQVR4AXzRUQ6EIAwEUNRZClgFQb3/UbfQEDUbd76qL5WMGGOGccJPpnEwkg9e8pE9vGYw4zuOZnrHyeBPFC055zw0wTkKN8TMzEHHZWWOuCMJJh03QXpgrlr0IzLmB+6L4KzHZ0Ub947+EF3q4rI3zByuzSLogDOiYeCICxGZVxmsYuR8x9DaJFQkL3UoX+iTvNg2xbPVvrB37ZgfeGr7/tl0Q/2HXjEjSe0HWnlWJGz1DEXEAsla2lyXcIj2K6O6Wvr1kQXCnL7DG9l4kwneBIY3aeJN1HizAwDOfRO3mlC3PQAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 5,
+      "title": "Meditations 01 • Marcus Aurelius • spoken Ancient Greek",
+      "link": "https://www.google.com/goto?url=CAESgwEBxCJF11q6aatrR4eaJNI3aDychXNqi87h-2Rvn8dMIX2eWx7nnlZmGdP-7OAcJCrs28W5dtxks4tGVgpk5gned_ChMRKWx4TcRP18iDAGM7OLA2NCGRmaWjRI0NUMvr2KOWPWqPKdP4BexKzXR95zD32FWmaPgSM4QTiKS7OVjAxSRw&gsessionid=4PvH5YkBSf3kfYpmSS03IdQGjTqbEu1ZGea5Ye_34edeDUJP5kkdBw",
+      "link_token": "lN8gFnCp3yDftCHxOLK5cyBVdgdTyBMyenc8EmArKEtnIomtbflWT8BIU76Phw-LFhUPb4slH1zkIAEHywGz7vob9rrVEZJ9OgFFvmyxlDI6KWGjLSThXt3hLlqOgWb3IQSbbqRN89Y-hB1nLsTdvIq8aM7lqSh0UBfOpDNu1CsooTT3hTr0M3eaWV113iuadVQSkhHDuwprs9F6Fs_h7uAphuZfdvEEvglKutrVx7frkwSuAAYI21C4p3tqnQCztck--NFGlKefzFQhAlpYO--rUvPRPoo6N7nk3NeOfu8NQ",
+      "source": "AncientGreek.eu",
+      "domain": "ancientgreek.eu",
+      "displayed_link": "https://ancientgreek.eu › audiobooks › marcus-aurelius-...",
+      "snippet": "Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον. Παρὰ τῆς δόξης καὶ μνήμης τῆς περὶ τοῦ γεννήσαντος τὸ αἰδῆμον καὶ ἀῤῥενικόν. Παρὰ τῆς μητρὸς τὸ θεοσεβὲς ...",
+      "snippet_highlighted_words": [
+        "Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAABAUlEQVR4Ae2UNVqEMRRFsxbWQIPrFpgVsAAqWuhxdxrcG9zdocHd3d1zuSH02MNm5nc9Sc67XxS+YXFD37Fs9eBkQQ56d6avdvVAlF6qx/mqEHRvHDW+uthTVwXqxjC2ITN8fTSFCm/UOUiUczoeb/o7U0Szf776hXPcpKHhLYjsFYU+AKE1SBi310LQm0d4FCJ65MlRrymBtwLQzSuo/JctDSoDxfMS0MljqCyDs0f2l0+EoSoFdatSw7fQNMZArlCv0BQhp4wRPao0y6UNufCrNLMxWDI5Hdq3Ts1GDxHdtPxlKCWqRGPTbLyI5ROJQtFj5xbq1njkNZ/8+NTnhj4DNZ/ZJ+GRz18AAAAASUVORK5CYII="
+    },
+    {
+      "position": 6,
+      "title": "Meditations i1- Why are the character traits neuter nouns?",
+      "link": "https://www.google.com/goto?url=CAESnwEBxCJF1wECmFIk0LyghEAOV0YjSe0T1regegRPhbdhoVAyWYLaHR4QI9OQYmTvledxZxmOsgfLjqfx-QPLnq2vsHfSk27Q6eLWi_y4aJgRw0WzyTApmbR0XVOJNQbNP_YBpNWXvO52nCOkUmWQpHPQOyP0_VnJMP_txp7Z_VuRLN8kyoNf2Esu4d4JsVi7Y7lqwtMECNDs5_21PIO2xLg&gsessionid=4PvH5YkBSf3kfYpmSS03IdQGjTqbEu1ZGea5Ye_34edeDUJP5kkdBw",
+      "link_token": "BGTOz6Dl7j4W_CK9EzF8vZSMCw5s26AbQbNhxOS-DY4fNT8one7CtHM6mIYkpBJnsvRcrgG9evrE7Sni8uXMb55eVv7won6XTW5j6OUWv44wpjKTnHFLbStOazlpGzN5CGzqzyFuO-a8uB1jiF4p9v767DiRGo2P9AdMn7PN3C1RahJ8JGrP7kKJM9olPf58LADccgNV-PdOVXbrRLZFzs2pzqlryto9Guhs81FgXz5b6R-PU92x1h5Cw1NwwrWQTvVUcS4TaGD2ddZU_R6Xc-qcktxjNL6-a06T8HQ78OkXBMfulHc7--zySDKIgBKzvuL_wX--W7DLzvdDsTAUIa76sFWZCg",
+      "source": "Reddit · r/AncientGreek",
+      "displayed_link": "10+ comments  ·  4 years ago",
+      "snippet": "Χαίρετε, ἄνδρες τε και γυναῖκες οἱ φιλοῦντες τὴν καλλίω τῶν γλωττῶν, ἐρωτᾶν ...",
+      "rich_snippet": {
+        "detected_extensions": {
+          "answer_link": "https://www.google.com/goto?url=CAESpwEBxCJF1-rvwUROBg86ioD7EgshIsEwdUNSxIFCMdrRxHs1w9TxnC9ydgX-5b-s2gNo76CVDdGyM2b7z7qtqoV_dJ7ObP2uYVTcCsJW8xPI08zLxyKU1ShKyhis4xYJpHEbY0f_ZdERFA2G7yZDhd1hh7wrWlNQ60vY9euJdeGHOpkaFNxMYvErveL3nF4HVDBIpIOKubGkmx9vEZszgrX8XlnGhMafKw&gsessionid=4PvH5YkBSf3kfYpmSS03IdQGjTqbEu1ZGea5Ye_34edeDUJP5kkdBw",
+          "answer_link_token": "C5_uFAA9tXqm1Vkb1ynimMsUnq5Crzi9CErH-xGUZWnrBPHtvT9y5j4gTlbr57zKU02sVxOIULlCthstfkD7Fk8WJx98h9KpWTf6NQHY7z5T2nOouji_0VIjd5SiWTLflNitIurNFaRHIAr1r_QID7UN_wo3n1zXXnbroxS0LfRKaTthuFTb0Q-nLGtx6gvQd1W5s23SDLWiY4Yt9c_Opwjt1y6BmEOZwDAAQD2jo5ltYd1LL0w5DafjvXkfdnNvcPHC3KfiHlk1oHLij_Z-eTUdpFbNfpCQVoNEHthf72Jz6EDzzAkRykko6MD2_IHQPiE--YlRPXIU13vk9EQHm--X28hXrKXjdWsTLUv_jXwUQ",
+          "answer_count": 19,
+          "top_answer": "You're overthinking it a little - other languages with a neuter do the exact same thing. ..."
+        }
+      },
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAhFBMVEVHcEz/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/PQD/NgD+XS32dlf5vK3////64dusLADUz9H+jXLOPAoSHiFrLBm3uLn3/f7jVS/b6e77pJDJo6H718//RQDw9ffs5+jm8fPIXlHqKwD5+PjolIP/VgP/SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb//////////////////////////8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT////dm6Enc+MZH8Qz2V3Je/rj7Lgekec659N/fIgPnn+yCULaYaYwsCqShYhiQXQ+dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK/caJUygTMzN7eTnxdBXMcb3+0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB/TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg+vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F+rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1+vt1Z4HeDI/1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 7,
+      "title": "Maurc-Aurèle : Pensées livre I (bilingue)",
+      "link": "https://www.google.com/goto?url=CAESfAHEIkXX-suUZJmu0_9TDTZ78whb7d_gQocjvFTSbS3l4mLom5gH9cQVOwlsTEAQldigmFIiwyN3ZV7nmqRVuX4lsvaOF_UIejNp5ySh6POWfo5EVHLYKTfUe7icL-1EE3QCrUSuH3jCd3DvX3e-K2kWwjfMH0yDOLJV0dk&gsessionid=4PvH5YkBSf3kfYpmSS03IdQGjTqbEu1ZGea5Ye_34edeDUJP5kkdBw",
+      "link_token": "70MR-cFy0POAeo34GBgW2xOHNpwujNotU5Nsuf91IPwkWX4XVgrrV3YRu7gFJWwEkIfztSCJfdYJ5cKzGZpPC4F_YxMDNdUuEngGdDeGTJbUdsqxFpnoC5LPSsUMpsUybNuvp9vHPb_ZeHj7sNcgIoElJa1aNAC25cRUaxOcrc_QpjYDKoGLs2DE8XYiAuvLKMEJtHqWNF5SSLEa_z6nhWEBcHud-HBf6ABBzPyu-LvAuPVQX6_t--aiWvRHcYiLk3ou-Q--ajj7JPOxD7nJwdWIo5Z-rQ",
+      "source": "Site de Philippe Remacle",
+      "domain": "remacle.org",
+      "displayed_link": "https://remacle.org › marcaurele › li...",
+      "snippet": "Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον. 2. Παρὰ τῆς δόξης καὶ μνήμης τῆς περὶ τοῦ γεννήσαντος τὸ αἰδῆμον καὶ ἀῤῥενικόν. 3. Παρὰ τῆς μητρὸς τὸ ...",
+      "snippet_highlighted_words": [
+        "Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAkFBMVEX///9vNQhxMwZ1NAWAQgmITgv9+dhsLwR/NwVjKwOJOwdnKQNhKQRZJAPw4MNxKwRdIwR4MAaSSg3dy65VIANZIgSHRR1IOCtOHQLMxsLt38jJtpyVTRW+bS6UcFOqqqk9Hg/PtpLk0K3Gr4+7bidLGgL169Tv7++Pj4+ZURXcw5ngyKD47921cDfj4+Nvb299xvtnAAAAi0lEQVR4AY3NAxbEQAwA0NTNeNvR2tb9T7c2+5/iwFcBPAujOIkA0mueRXkeYYZ4yTEkJM8wCi6LlDFknDGO4pQzTilymbFE0GOu+KEpVY2zojzm2kijlFFGq9OCdZnWRnupvSiOhXqjbLqWR83bnfOLbq8/GAzdaDyZwsV0Nl8sl6s1PNhs5yFUtAeecAh5XAI5VgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 8,
+      "title": "Marcus Aurelius Ad Se Ipsum 1.1 - Perseus Digital Library",
+      "link": "https://www.google.com/goto?url=CAESjQEBxCJF1-Qalm0k_K59vY-ZTvNh4SDskmYZoOcX0OksCCW2fcKtfbs-RKFsxoUEfGlw7q_87fCw9iEKWVh4M-sELZWspMRp4zFL8JKLYGKWQJhcESLxzLtd2nP0vP6rKnkbCXLO126usbo_RE2jCSHFX2_6aXItHcaPTLT9rqbISCRu9ysAnNcU20mzSzo&gsessionid=4PvH5YkBSf3kfYpmSS03IdQGjTqbEu1ZGea5Ye_34edeDUJP5kkdBw",
+      "link_token": "4YtC0juj8iqqBY5E8pGRCMJAmkQJJETblvVVkYCiNjmWrEa7dI_1FvJ0JbdlacUhRBreeAuPdwS7zZYyJcYp-i60s7pUV7aNVnOdW2TEzchi-GXl7LUbM2_AKUwC2yuGcSL0j7e9QN7-mcdC4ce4bPi0ZPc1JLmXpC3NiOuK_jrFFRXDFWhefPKqVxVTb-tR2hBtkQdT0nwMuqZ2O6n9oiEWLpacU2RpSeKd1EfxMiI52PdhsdMdqYAbPaMKgWu9f_TT7jVFZ1guQadnhHBl--jKqTEIrLn6fdnuLc--NAzinFFGrgrhdo_qluuF6Q",
+      "source": "Tufts University",
+      "domain": "beta.perseus.tufts.edu",
+      "displayed_link": "https://beta.perseus.tufts.edu › urn:cts:greekLit:tlg0562.tl...",
+      "snippet": "[1] Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον. Ad Se Ipsum. Marcus Aurelius. ed. Jan Hendrik Leopold. Leipzig. 1908. Sponsored by Perseus Project ...",
+      "snippet_highlighted_words": [
+        "Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAUVBMVEXMy8v09PTm087Ob13TeGfMa1nRc2Kup6XQdWX////Fj4Tv7u2kZ1vo6OeyW0nj4N75+vrZqZzDhXfAtrLV1tWkkYy7Y1KgeW/jwriOWkxgPzZX3zq/AAAACHRSTlP+/////////KYiA/AAAAG5SURBVCiRbZPZgoUgCIZVXFIy3LI67/+gg01na4aLIj/xByQhSviwknM4F0o9nyTEMtmXQfAec2FvEhmsNYq5nl5mnEe38YItTRn+vvHJiQcpYGdO//KH895n3tDrDnfOso/VewLLpH7FgzGgS8hb83EL2tgu8IPrvJP0UvokUXqMKiwtvc+H1SODGNPYIyPnoNDrF7ebR8SIDJhH6U8r9sn1EaMgqjgEZN5WV6tQ7/ipi9QiEfpxgOY+GtPN9OZmTSkxS2NDNu9+PuubcTQmsXJqKcAf3tvWYozVOSdq/sO5gNx7ITkq3IM19ha/YQYTJXMkfu0FvuNn0nbGhoOO2hPpb33HGum3hb8W7CefgJucRobt2rC/6rdwisGKfAlmmbl7gryEJ9/lfvrrNRoAZqksAOwwPzihbNhnnq66umAByPs0eNgklV2peIleZ0mSiU79peGV06txB/GUUJNj/qHKMTlUy/ti7NFSLEdVwm3E/wQqvlL7Mcj2iDynXQlWpbyR/IRsuruUR/5eFgMzIUw3m2U0oz4uzs4u3OInvcSkCutXn4MGq+/WG/cDRXustZb5HzvWda0/4cQj4iftCbwAAAAASUVORK5CYII="
+    },
+    {
+      "position": 9,
+      "title": "Meditations · Diotimos",
+      "link": "https://www.google.com/goto?url=CAESfAHEIkXXbhyw6-mpcfLueTBw_c9aPQSPQxOe_lFbaSz9MElWZQZiQeueYZ-vcVI8Q400S3IdqfWnaGQqK9H3FZkbhs4_EQlD0N9BwFa0PiBbzhmA3lK9PqX5a4dMG9QxZUBSe7zCEM8mr0UFcXgsdTn_wfebRNo5-MTMWDQ&gsessionid=4PvH5YkBSf3kfYpmSS03IdQGjTqbEu1ZGea5Ye_34edeDUJP5kkdBw",
+      "link_token": "fG4E2wpYeDU0sUCc394AzUrIo2JAexl8GwQuDra_WoSCLwgHNSGTE-TyRe8nuHxoea1TuwniuQQOIOrDCVU-tp2TsNI1cfQ7KRET4Hl-78COUoFOznoOPH28RcGsnW2T-fFTfORVQ66cZO7W_oHti5wTRXM-_NZnbVdrwoM23Tfd--iDFroLoC9hmMnApSFzBzD2cXadHF4PxaVz9IxkcjzW1hYLEHuSQ8T53q_BxQ47mO1fmJ6Z--j3vFFVhFpmqZ2gIn--d49NYlGOiKHK4sX2KdmPhw",
+      "source": "diotimos.com",
+      "domain": "www.diotimos.com",
+      "displayed_link": "https://www.diotimos.com › books › meditations",
+      "snippet": "ΜΑΡΚΟΥ ΑΝΤΩΝΙΝΟΥ ΑΥΤΟΚΡΑΤΟΡΟΣ ΤΩΝ ΕΙΣ ΕΑΥΤΟΝ ΒΙΒΛΙΟΝ Α. αʹ. Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον. βʹ. Παρὰ τῆς δόξης καὶ μνήμης τῆς περὶ τοῦ ...",
+      "snippet_highlighted_words": [
+        "Παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAe1BMVEX//fj//vn7+vX///7///3x8u/w8e719vPm5+SMjYt0dXOHiYaRkpD4+faEhYOztLJBQ0GrrKnr7OlkZWPY2db7/PnQ0c9VV1UbHhylpqTAwb96e3n6+/iZmpjHyMVPUE9sbWu8vbvg4d6en5wOEQ+QkY80NjQ8PjxTVFIfaxaXAAABYUlEQVR4AZXSBZbkIBAA0IVQEoEYEu3I6P1PuGTetO2OVhQ+Dn9+F+KTXCmlSKT6gCQgEqdZXiT/ESKCLgyrsqqFuDM6rGmt822WBCbxvwFB1/fV0LoblRhDtwCIKhunIcwsL3gY1SeKCA6XkKYMtxXJrY4ZwJd6myYCpPce4ag3zjw3QMDajP5oQlxanVZboi21rwsy+4OOem1178PgzMbGbsm6DhsDynek02NaZJuizDf0ZPricaYzAq9DnZo146fRr4WZhz1nONfEIplI+/WZbWespknl55oCp8rMhOD68DJMgJSZivC8eKVtMn0s4MNT/CAte1OeF1CCeR4ZEHhOKdpWjq9E53UfDK9vNQ+MGtjjZW1Vn7X0hvmBun3w8oLCG0sQsTgQaB9Z3GDmB08ai1yT3k/DihHPofZy68fRzk92HOfytN+fE6WchjmEHrRTQnxwNIWWIn4+iVjlx/EXf8UYih2i7zgAAAAASUVORK5CYII="
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "Παρὰ τοῦ πάππου οὐήρου τὸ καλόηθεσ καὶ ἀόργητον meaning",
+      "link": "https://www.google.com/search?sca_esv=10f59d2273e55dff&pws=0&gl=us&hl=en&sxsrf=AKL5yDiwuwlO3rughdZHEjqo_Iu-0EP3bQ:1795311904030&q=%CE%A0%CE%B1%CF%81%E1%BD%B0+%CF%84%CE%BF%E1%BF%A6+%CF%80%CE%AC%CF%80%CF%80%CE%BF%CF%85+%CE%BF%E1%BD%90%CE%AE%CF%81%CE%BF%CF%85+%CF%84%E1%BD%B8+%CE%BA%CE%B1%CE%BB%CF%8C%CE%B7%CE%B8%CE%B5%CF%83+%CE%BA%CE%B1%E1%BD%B6+%E1%BC%80%CF%8C%CF%81%CE%B3%CE%B7%CF%84%CE%BF%CE%BD+meaning&sa=X&ved=2ahUKEwjKpLOCupqYAxXzQvEDHTfNJh4Q1QJ6BAglEAE"
+    },
+    {
+      "query": "Παρὰ τοῦ πάππου οὐήρου τὸ καλόηθεσ καὶ ἀόργητον english",
+      "link": "https://www.google.com/search?sca_esv=10f59d2273e55dff&pws=0&gl=us&hl=en&sxsrf=AKL5yDiwuwlO3rughdZHEjqo_Iu-0EP3bQ:1795311904030&q=%CE%A0%CE%B1%CF%81%E1%BD%B0+%CF%84%CE%BF%E1%BF%A6+%CF%80%CE%AC%CF%80%CF%80%CE%BF%CF%85+%CE%BF%E1%BD%90%CE%AE%CF%81%CE%BF%CF%85+%CF%84%E1%BD%B8+%CE%BA%CE%B1%CE%BB%CF%8C%CE%B7%CE%B8%CE%B5%CF%83+%CE%BA%CE%B1%E1%BD%B6+%E1%BC%80%CF%8C%CF%81%CE%B3%CE%B7%CF%84%CE%BF%CE%BD+english&sa=X&ved=2ahUKEwjKpLOCupqYAxXzQvEDHTfNJh4Q1QJ6BAgmEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%80%CE%B1%CF%81%CE%B1%CC%80+%CF%84%CE%BF%CF%85%CD%82+%CF%80%CE%B1%CC%81%CF%80%CF%80%CE%BF%CF%85+%CE%9F%CF%85%CC%93%CE%B7%CC%81%CF%81%CE%BF%CF%85+%CF%84%CE%BF%CC%80+%CE%BA%CE%B1%CE%BB%CE%BF%CC%81%CE%B7%CE%B8%CE%B5%CF%82+%CE%BA%CE%B1%CE%B9%CC%80+%CE%B1%CC%93%CE%BF%CC%81%CF%81%CE%B3%CE%B7%CF%84%CE%BF%CE%BD&oq=%CF%80%CE%B1%CF%81%CE%B1%CC%80+%CF%84%CE%BF%CF%85%CD%82+%CF%80%CE%B1%CC%81%CF%80%CF%80%CE%BF%CF%85+%CE%9F%CF%85%CC%93%CE%B7%CC%81%CF%81%CE%BF%CF%85+%CF%84%CE%BF%CC%80+%CE%BA%CE%B1%CE%BB%CE%BF%CC%81%CE%B7%CE%B8%CE%B5%CF%82+%CE%BA%CE%B1%CE%B9%CC%80+%CE%B1%CC%93%CE%BF%CC%81%CF%81%CE%B3%CE%B7%CF%84%CE%BF%CE%BD&gl=us&hl=en&start=10"
+  }
+}

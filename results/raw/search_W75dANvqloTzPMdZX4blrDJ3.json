@@ -1,0 +1,161 @@
+{
+  "search_metadata": {
+    "id": "search_W75dANvqloTzPMdZX4blrDJ3",
+    "status": "Success",
+    "created_at": "2026-11-22T01:45:25Z",
+    "request_time_taken": 1.65,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 1.66,
+    "request_url": "https://www.google.com/search?q=%CF%80%CE%B1%CE%BD%CF%84%CE%B5%CF%82+%CE%B1%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CE%B9+%CF%84%CE%BF%CF%85+%CE%B5%CE%B9%CE%B4%CE%B5%CE%BD%CE%B1%CE%B9+%CE%BF%CF%81%CE%B5%CE%B3%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%86%CF%85%CF%83%CE%B5%CE%B9&oq=%CF%80%CE%B1%CE%BD%CF%84%CE%B5%CF%82+%CE%B1%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CE%B9+%CF%84%CE%BF%CF%85+%CE%B5%CE%B9%CE%B4%CE%B5%CE%BD%CE%B1%CE%B9+%CE%BF%CF%81%CE%B5%CE%B3%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%86%CF%85%CF%83%CE%B5%CE%B9&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_W75dANvqloTzPMdZX4blrDJ3.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_W75dANvqloTzPMdZX4blrDJ3"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "παντες ανθρωποι του ειδεναι ορεγονται φυσει",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "παντες ανθρωποι του ειδεναι ορεγονται φυσει",
+    "total_results": 109,
+    "time_taken_displayed": 0.19,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_Z2xceDNkdXNceDI2aGxceDNkZW5ceDI2cHdzXHgzZDBceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZE5ra0NhN3ZlR2NHTF9md1BucGFrcVE0XHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBTUFBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9GX05vX0NzVkYtNVM3Y0lQdm93RWx5bzNpQ0lnL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMjI3NzA3NCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJQUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFCQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUVBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUlBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRXdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRWdBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SUVESWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBUUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9GSnhzRkRqZkdSbVoxLVBMZjFWeFAzSXFHX0RRP2NiJTNEMTIyMjc3MDc0LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFNQUFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNCQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUVBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUlBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRXdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRWdBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SUVESWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBUVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FBQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0YzTlBiYnVTLTFRazQ2dFZkR1FqUXFSTkFTZlEvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIyMjc3MDc0LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUNGJTgwJUNFJUIxJUNFJUJEJUNGJTg0JUNFJUI1JUNGJTgyKyVDRSVCMSVDRSVCRCVDRSVCOCVDRiU4MSVDRiU4OSVDRiU4MCVDRSVCRiVDRSVCOSslQ0YlODQlQ0UlQkYlQ0YlODUrJUNFJUI1JUNFJUI5JUNFJUI0JUNFJUI1JUNFJUJEJUNFJUIxJUNFJUI5KyVDRSVCRiVDRiU4MSVDRSVCNSVDRSVCMyVDRSVCRiVDRSVCRCVDRiU4NCVDRSVCMSVDRSVCOSslQ0YlODYlQ0YlODUlQ0YlODMlQ0UlQjUlQ0UlQjlceDI2bWxyb1x4M2QwYTRyM2piRDFKUmpiZndOdGktckttcU9ySHFSXzRIQ0ZjSlI2S2NhZmNIeFVQak1GLVlGX3lZYVRnbXlIY0c3dGF2aGxwRkxhNXBnRTU5U3B0MXY0cnk4VE5ic3FRNWgxclNBVXVCNDA1dGZUa1Z6SnRqQy1oVS1QWTdxNnJ2U1Z6RURXMnRzXHgyNm1scm9zXHgzZEU4QmV3WDJTZWpZXHgyNm1yY1x4M2RDQUE0c0FSUUFXQUFhQUJ3QUpnQkFLQUJBS2dCQUxBQkFMb0JBUUhZQVFEZ0FRRG9BUUFceDI2c2NhX2Vzdlx4M2QxMGY1OWQyMjczZTU1ZGZmXHgyNm1ndHlwXHgzZDQxXHgyNnNuclx4M2Qx"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει",
+      "link": "https://www.google.com/goto?url=CAESjAEBxCJF11hzKU-K9IdsV6hde1v15qduZQnUz4ln5hfzeF0CWLqLQZTyk8nmP7ZO-DeqjqbZ8BUrK04IhWV35oef0EI0TwJyUCBLXFMo9wU486xkSBJZfoI5GCs_gQ2MGhp8o46nF7K4Ly1hld5HDEa0DKK1rX7Uh6UaRwe-qfEzcGGlcPyCY6noegXsFw&gsessionid=BWgSs7HahlveJAtFILA3iVoyhwNdTzZCp9ItSvtL5d5U6LfLkH38kw",
+      "link_token": "UAXYmxpBCr06cEangwBRFBt1CTt_NOc-ct6Iam9d7vYejAy8Klqs7UhVVLuy7a-fJwkW6Y3gdQ8N4j1TP_L4UDfvx7KuxP0IBJXxe0kZDKa8UoHgZUtQmN9I6Kl4dZsjB2xPlVXzNluCmrvNGRfiBgJlVeQWed4WFCmeo3EU8yT-x_-GG78c5-Yl4eNywfwcbpIZ-3ai8hylPVydPKB67PBuXX-IOvfNXuphOigxZUQbAuTWTHbJNSUf_i9fme0ggFH49L4-9Dq_7jgY-lg--Py16aeRiTfJys5th--Fy7aWoPMkFYZ8Yb61XFBjA",
+      "source": "ekivolos.gr",
+      "domain": "www.ekivolos.gr",
+      "displayed_link": "http://www.ekivolos.gr › ...",
+      "snippet": "Αριστοτέλους, Μετά τά Φυσικά Α΄. Κείμενο. Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει. σημεῖον δ' ἡ τῶν αἰσθήσεων ἀγάπησις· καὶ γὰρ χωρὶς τῆς χρείας ...",
+      "snippet_highlighted_words": [
+        "Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει"
+      ]
+    },
+    {
+      "position": 2,
+      "title": "πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει.",
+      "link": "https://www.goodreads.com/quotes/1201581",
+      "source": "Goodreads",
+      "domain": "www.goodreads.com",
+      "displayed_link": "https://www.goodreads.com › quo...",
+      "snippet": "πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει. Aristotle, Metaphysics",
+      "snippet_highlighted_words": [
+        "πάντες ἄνθρωποι",
+        "εἰδέναι",
+        "φύσει"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAdVBMVEXr4tft5Nnw59y8tKqHgHnSyb/s49jY0MUPCQAAAABKRD/z6t/o39Tf1sx4cmsKAAC2rqVlYFpPSkVgW1WvqJ8UDglsZ2BbVVAIAAD17OA9ODQeGBPGvrQgGhUXEQqmn5coIx6clY0wLCeTjIRVUEuAeXOMhX2DlriZAAABAElEQVR4AZWRBWLFIBAF4UU3S7Qhrt/uf8O6LqkNzuCof6Khv3Xw/ODIhuHjvCimhB0DmBRAlpMPuZMpyiq5qwOyvgqla4ioTajLCwgXmpaoNNxHw2jkcVB3tn3qxUSZXJUrO0b6eQma5U16G5f8vL5aqICUtD536YBoFZJbqp+74Oc0aXkgyvqnMtjskIbyDTKqGZwm9mkJKaPZNrt/6vKzVhLstFU2Xy7yfR7Rnu2mXkeGoRy4oisrkyqwdmVnk/ZSJZf2GuBgyzdiz7Uwun8kaLuDewLQj/Rn2iIt3HTba2+apnWIKzmT6YMCzmdnWXa9Pma+e1oFZsZzptXfeAA/8A8OzpCJHwAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 3,
+      "title": "Αριστοτέλης",
+      "link": "https://www.google.com/goto?url=CAEShQEBxCJF11bguGTEoRQ0nfw7njig8JGAjWd4ES309c4RWgyhTE2-xx_uoe4YhKqtMIm7LUMhnWLBxj-Uz1XU1sRYg9jLnIXeTNyoDxfp6JV5x18XWCzXaA73NMjSrvaHEJrIcVeTFza7w6jP4mvC7qdMvi8n0OWJtPEbyzCPsJi_KTAsE40y&gsessionid=BWgSs7HahlveJAtFILA3iVoyhwNdTzZCp9ItSvtL5d5U6LfLkH38kw",
+      "link_token": "Eo1VcJYqofb_xs3foq0VlC8nc_ebdOuqSwTBD-QVC2HE-yooasuRMwA4oNZm0NMf8PmJVgXcAk8k44KcNmmX5SheOzbkNzbYMuHMClgirRk6t3pcd7Kf4lsrO451WR4BxyCulfK3JArRXVkbhLpzSAf7TLD-f7J8BNQTCW-5DaCAQHa-KS48RSZBkSdozL3Ou-Vq-eGKhGVpvqDdWMGKrUQFFu9ds_Gnle5rh3GAqcExwwjRTcgaHJeWy7pFbD6xBr7zlA--NbjFkP3JWjY_cGHX--kFXk3gqe8DeXWgKeak_W5A",
+      "source": "Πανελλήνιο Σχολικό Δίκτυο",
+      "domain": "users.sch.gr",
+      "displayed_link": "http://users.sch.gr › psif_fraseis",
+      "snippet": "«Πάντες άνθρωποι του ειδέναι ορέγονται φύσει». (=Όλοι οι άνθρωποι είμαστε έτσι καμωμένοι από τη φύση ώστε να επιδιώκουμε τη γνώση). Της παιδείας οι ρίζες ...",
+      "snippet_highlighted_words": [
+        "Πάντες άνθρωποι του ειδέναι ορέγονται φύσει"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAolBMVEXT5/PU4evU5/PL4vHC3e7dtrPexMXT5fDX6vR8tNrfoJvla1bYys7R5vO52OycyeSVxOK92u2OweGq0OcggsJWpNPburvqUzrgjoVJndCFvd9Imc1YpdNmrNcAdb3mbV3nZlUAfMAjisc9j8jowb3IvJ2737yz2KLB3sXF4M/Q5erG4PDA1+Tm4+TT4NOh0Xen0oVrqsa40sas1Y+22Kup0NXbHceaAAAA3UlEQVR4AWIY0QDQ/VRYMQgD0RgO0bq7O7D/ao3VN+i/e+cK4W8MYeJyQRi9gnGMrEiSOAYgSrP8mSoo4wJQyVWjyVUBWu0OfCZVl8se7w+aw1Fz2Kf5eAJB4ZMxn/Y5nSUFHkyFnKtFtlytN9udbdxT1hx1p72Czueg2T8cT+f1+bJxSTEcJvNkNhsMGl3RuN7g5nwpKz+3UEmiAEt6SjKa1Ntou1qttsgnidhjQvYY74mmPdaulo9OyZmUWmjZ49y4Wvq5mGgIKsheCEEMaeDnp5qRlloYy0B7f4U71lYRy1NfXIoAAAAASUVORK5CYII="
+    },
+    {
+      "position": 4,
+      "title": "Μετὰ τὰ φυσικά, ΒΙΒΛΙΟ Α, Lines: 980a21-981a5",
+      "link": "https://www.google.com/goto?url=CAESfgHEIkXX4lTFVogH1eyn-_vLg0ZibToo37hDk1J-z4YiIz3GMGulm6XlOOigM-ggz2_3BwIJfxvMwoQhL0XjickJCG0Twqp_uRTn2cjvALzvv_LT69HmKWLgE8H4CcKVQybN-MA9uhIvc6181H3Ld7vndPNl-APAMHSsNkasTA&gsessionid=BWgSs7HahlveJAtFILA3iVoyhwNdTzZCp9ItSvtL5d5U6LfLkH38kw",
+      "link_token": "WEaONLtHACrQ2ezp0O2eR8R0cRFuUNTIQ7pNmsAWWHiShTq6Jq2_pq4UfWw5hV2iA-nG9osXZ4n5XKUZyy_Z3fjL-su3O6rjzNz2xywmzcDJV_vVyzhRi1dnvVneJaA_TBwY4hAXkAPem-JT0VAPWFx6dgdmAfKjGe8ymGrHlCItMsxNzm4cwiJ-bRcB2G63dE9RwW9iSsJA5AVEg8URqt9V6e0slvaKlxIpWjeRHIX1o6CXJRkS0vey--hTf9dmgfZPy5oxvR--WFPBhSNS4WqoZIs7hqLzbw",
+      "source": "ΙΤΥΕ ΔΙΟΦΑΝΤΟΣ",
+      "domain": "aristotelistes.cti.gr",
+      "displayed_link": "https://aristotelistes.cti.gr › admin",
+      "snippet": "[1] Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει. σημεῖον δ'. 980a. ἡ τῶν αἰσθήσεων ἀγάπησις· καὶ γὰρ χωρὶς τῆς χρείας. ἀγαπῶνται δι' αὑτάς, καὶ μάλιστα τῶν ...",
+      "snippet_highlighted_words": [
+        "Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAR2LVAAAAEnRSTlMABzdYTikSG3jKpv/v3LmSIGoQVxUzAAAAsUlEQVR4Ad2Q1wEDMQhDA7hDjG//ZXNE6WWARH/2owgd/kz0/YtYEudyByVzEgaurffRUiYgyqmN3ltF41C143TJFEh8Hk11nFtLmhqy2XgtbtM0NFOJqVtX0D7cRwfTvsXcBfgowIXOz7AGFOwMV73vXqApAWEIjkTgB4ZwCuy45FKyOCzhFMpu+8CxMeHsbezDzRFKEfcmvK4JLZbmLgXPmpHsY7q5XpMnemb4+jWdAMsYCkf2QBYnAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 5,
+      "title": "Πάντες άνθρωποι του ειδέναι ορέγονται φύσει».",
+      "link": "https://www.google.com/goto?url=CAESsQQBxCJF14mGn4PRYlk54qCSevOVAVr2LOjo6CFmgvUw_jXc2nJUmKUnFIUe15u4Oa2EStmJKT7oKKrrQuKvXyXZcEGb9ggiWz8WVwR-2mtBI1d986uByu8Yx_zfp0kY2Eg-O5LBBpYRpeOUFKvhEhOfLdSXlK9cQIcy3CeS4CSm67fHJ8ygm-B9UCwvhCNRKlKfqfeqkhZxDVPxoIJqTHuLlHF81Y_fhBe74lBAYVFruR2OIH-dOuR6oQ9IwJ48gerQYeztla-V_KeIxS-mtPn86bxPe-08jRWpX1eVHJwAuUeWhNz_guQDjISbM57c6brNz-wRHQyVdn4JrxmnYKO5NBG4Wliw0yiWTOoPOZlHWyUMIC7CPQ2BemB_yrQCoCGDnRnqumCDl_AX4lkYY0ooVxe-c9zmqgKTizXBpD8HfBSEUn_mBjiLviy1EncgjKKW6PSpxgQXNPXTqdhQY2UbCjfqt_RSRZFowrMeLuTs1oPR2wiM_4tiON9zYlX9ydV161hzhFSIhEzOIvjoWPri7gfnwJu85OHVTbVNbek6rTNovlYqDMazuaGiQqdPjeHmDGQPG1S-Sj9k4Wkj4AvZclbwye9GEaJNXv-V80y6R2KLfsG7xKpFi_U3dzn35Su2qXE5HoE74FpMY7uucqb4-VwXdHuIXP-tHiJWaW_nBnQZz_B6ykgs6Z1wAHC69gOTRz-G-jxQSkJbUa3xW79tmorvyQOCbuR3dnpELSMj2c0&gsessionid=BWgSs7HahlveJAtFILA3iVoyhwNdTzZCp9ItSvtL5d5U6LfLkH38kw",
+      "link_token": "EmpJbttUco0dCtA7MC6uHUB--0QofSXr40GgVCEvZcw74EP1KcTpnJc4I5fAJZyI7n6VhVwLQDYifcHaZvazG150-BMDYzMGP5kDw8BdkW_2YcbGnz2WGD-sIvtvBXv5HU4X22TUEvKJUg7438U5UjJ3lAi6E7I30pYAIAaxGUgpzBV12q-qhWIslSgKYRBKU_tJIP2ELt7rEpcBgR0-6dfFgGt_XfltCBin9LVf_YM8lX5kFM0A3QutHlEUQYd1nlHN6Rrs_tfYLTCRtt6wAj9G7KRihWkjZnSThZIClp54sqxB80rOdJCYB6gHaabACk4MgaDItE1U1N6txwIgkYb0PwqUPtFFLRl39PK4eKfriWOnnSjfk9i1ns6FZ2WadlCXwmmRGAoPk_RYW-RmGQlbdd56tpPi-T2kNMfnRll0DKwm-Nu4y_B4eoamp33szB14cpiji6WnLVMjdQg08-dkKpE_zbhvTEQlQFnni925_KP02lJLr-T1WiiFyz1ZfOwS5eaPjcidnWuCcJPSy2U-XoTI8olaWnqibWTuEAX9epGrKAzImLn_gED_DvSWUCGZC1F7ILrf9iZl8v7EqVD8D3g6m1h2Crg_wqXubp0lUA_ie5Xbi04bFXgi30sRDpZDEKJdDTeJ_dDxIs0fVqmQX-zxuYLEadslbT5Z7BPwW6-3SVsGKzN0tJWwa8EsVc-vf_2z9gMxfBjteIpTkIO8dcJbKP_HpSXu7AxxqW56DQ6dKomKEsQn3Q8yJwvM6D7ZB_0IKof_fGT4WHyF4GCHirRYTCVrYDY2_KVurURamp8S9RZP5OgCf0rGGV_Zf1XBiqAJ7ArnyrCKXWpaN02HgJQDkmnWgkjk6YnvEGb6gAZALFER2rcA7aMBXTHFSy6k3ga0FQQANMp_lNK53n40LVkGA-KOISpRnIJghVVRznWvhY_kBTYd6A7AFJOU2C4RELN2y0vHJLMciPSliLyyUBXITRnqo9u06uR1F_L2ELS2Qbg4q9P7kH0VqEc--QhwocvgEwe5uGAjU--NOXCXeM8ZTGWDkYNliH7bQ",
+      "source": "Facebook · Eidenai",
+      "displayed_link": "170+ reactions  ·  6 years ago",
+      "snippet": "«Πάντες άνθρωποι του ειδέναι ορέγονται φύσει». Αριστοτέλης. Επίλεξε το φροντιστήριο ειδέναι και διασφάλισε τη γνώση που θα σε οδηγήσει στην ...",
+      "snippet_highlighted_words": [
+        "«Πάντες άνθρωποι του ειδέναι ορέγονται φύσει». Αριστοτέλης"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII="
+    },
+    {
+      "position": 6,
+      "title": "«Πάντες οι άνθρωποι του ειδέναι φύσει ορέγονται». ...",
+      "link": "https://www.google.com/goto?url=CAESnQEBxCJF19QxWAs449Ob3z0OoJ1_D2wKUKjSOu7PUzG-f4KM5Qi8ESS1faO71xaF_JK9yfYv59ZZATBCY0JbvSuIhPMtQ_CN52wrAESplh-vCTm_ET6-F_vrqoQTEkv4JLzg43gH9QiYDnnDePcaE1pVQpxkxl_elGYPYgCOYv78m2EAMcYJbj7qdqIw_jx81u7lwTEDPHMVRp7qxZzC&gsessionid=BWgSs7HahlveJAtFILA3iVoyhwNdTzZCp9ItSvtL5d5U6LfLkH38kw",
+      "link_token": "K0aIQG-9OjUINWVFc-F__M3Eavk0rumcdBWjWLM0GHCwzMbKQdhsrKySGogYYev6xzAqP6B0-oKBsff77X0jezUhvnmDjB82kHE8vyS6pONXS9HHCJAUWjv47rhHHHZhaVEg2Vg-mcacD8-V49hKiiKk7DzS0Q8DD3lRoKh9xSySEhlAm3_DS8WmYmfsCma9GaWfuSsXfSTslIFVOpSbvFnZ6SXVgfGjVDT9oBzTfy5kkl5yeTth-QHRfdEwgkZp89PKw8gF12TFzJELTGDvC7LX1_QAFsvkTgfwl_kDjyw39BdR--POFeTE4OoULyw8iw--G4k3hcDhV3fLF8n7d9R_2Q",
+      "source": "Η ΡΟΔΙΑΚΗ",
+      "domain": "www.rodiaki.gr",
+      "displayed_link": "https://www.rodiaki.gr › article › pa...",
+      "snippet": "Ο άνθρωπος «Φύσει ζώον πολιτικόν» Αριστοτέλη. Η ατομική προσπάθεια δεν αποδίδει όσο η συλλογική. Η κοινωνία επιβάλλει ή υποβάλλει τις δικές της ...",
+      "snippet_highlighted_words": [
+        "Φύσει"
+      ],
+      "date": "Jun 6, 2020"
+    },
+    {
+      "position": 7,
+      "title": "12. Αριστοτέλης.pdf",
+      "link": "https://www.google.com/goto?url=CAESxgEBxCJF18Cg_LnZ75J76uq7VycoxH79wEwuQpfIKRBeBNWDe_QdD9Ap4bQx3H8NH2kNrgCrDfpYNEAxCvgmmOFtiWW-gJ4-soCy9nmwvmBgISzdZl0Nbf7qHsAy9Yv1SJ8gTeTzN5IPLe2FEEMPIkSrOT6HoTcQ2z8_e5arb0Iw2KQagK-1ubE_7LSfXhjACG2ZUtz0FZanceZFVsNg3FkxBiDqVJ5_e7rxeM_dSRdBHGmmqCmhKdHqejfD6NF8KqwIfddCalE&gsessionid=BWgSs7HahlveJAtFILA3iVoyhwNdTzZCp9ItSvtL5d5U6LfLkH38kw",
+      "link_token": "JEIBHUABkTdOTpntaFaC1QD9b1BGRTeHyYFo-UXTv7-bGSuXM1LAzC1X0XCi2q2kTuYT8YQ3Gg5yWyxM1ThqCZK-_spHgv_iyHXivDZAYx8w7tu6N_W2RVpJcyFyxN0OunPjZSuuBu3_49a92Sz7VyEi2OCE0btghF8q8OCNbp9mUSUUlwF3K6b4hbcVaqP5vzR-40G09ngNomDxdhjrdb6MS-WMTIitjNynVQsIQ1Zhefp7UkeOtuMOknnsrqJI8Xl-vsNtlcv7TcUlH-L0DvQbpPaA2ltlLeR1R-XDD6TvS21657B-vbbC-sSPQnBX171ITwoGngbViPezDg-r22UlfdmvmcfYCtEzWk0xiPMN52jMuDruGDv1-w--In8Y7mh7WHAyxBl8--Z72XEUJGWx0NtOp7TDKOzw",
+      "source": "eclass UoA",
+      "domain": "eclass.uoa.gr",
+      "displayed_link": "https://eclass.uoa.gr › modules › file.php › PHS305",
+      "snippet": "Κατά τον Φιλόπονο (Εις φυσ. «άλλες αιτίες» ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει. σημείον δ' ἡ τῶν αἰσθήσεων ἀγάπησις·",
+      "snippet_highlighted_words": [
+        "ἄνθρωποι",
+        "εἰδέναι",
+        "φύσει"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAq1BMVEVHcEwAAAAAAAAAAAAAAAAAAAC0tLT///8AAAAAAAAAAAAiIiK1tbX////////59fbe09ateIaFGzx/AC6RPVSJKEQAAABqamr7+vqgX297ACWEFTmGIUCHI0Gvr6/t6er////18fKCCzTb29u4i5X////5+fmmannn2dzPs7qAgIAXFxfEoamaUWRDQ0N2dnZZWVnIyMgxMTHSuL+ioqKtra2EhIT///+3t7e9drv1AAAAOXRSTlMATpPK7P2VThOk/////6QQ//////+Q6v///////////x7/////6pb//////////////////+r/yuzLggnAAAABX0lEQVR4AW3RRZbDMBAEUJkCPakwMzPz/U82cvkpxr8tNdkqwrId1/NcJ5dXGQpFob8StHIlmdsS8ONqrd5otuLlbaEOgG6vPxiOhqNRJZJLYAxgUh+MaNibJvMqgNm8rkNqVE2PttACWpM5DZar2H5VaMs5Mxo2seaAcD4m/VGo3gT8IUWzv9arRx9swBZCXWhbNjAaO2CvlBUOwGYQyYcNAGIFKx6Yz1INSmIrJ2xwnEfy+QaAiKNc0UDNYSQ/ATiLuMrT+QXRGzl/A+CqI48PbvEJw7k/v3sWPnDNjdjUef28MTh2/f3I9Ze8g/rzhnZaVgHczhJwlG1WmNWOj+qMyzz/xLD9D/UEjNmitGdqWEqZBxPJwp81hq+blRf5u8cgyVBQmv0EXdO5regFeqbytgpUQJPMATTNmsHcqKygLeL9I7m2hvZO7xeqlAF0TFwsqAz59ed79lzHtlToH+anOHMeOfghAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 8,
+      "title": "Πάντες οί άνθρωποι τού ειδέναι ορέγονται φύσει.",
+      "link": "https://www.google.com/goto?url=CAEScQHEIkXXlfJns_0NGbA7vwvO79Vyxv7d6fLGQdi2Y1bM-Z49ci0kv_K1WZ1qk1abRBMnccM72T-sGrKf5_ehD96uGzQ8pSeWkBfiN0eEJjm4K0jvNFpKSPGpIFaiyZ79zr_E7EPPpaNztucOEYD_RvSj&gsessionid=BWgSs7HahlveJAtFILA3iVoyhwNdTzZCp9ItSvtL5d5U6LfLkH38kw",
+      "link_token": "AlmHEvddhMUOwqTjxC4dQhNM42u5QBR-xgOhIGdM7IMgWApkP2ujqjUNsHQu3nqDp_aDKB-9153aQvpvvKjv__vFA5mXQQ3aTz8zh_cADQTHU7o1M7AdJyet3s70vDOrbSfRHRVtlx-puK_htfFn9t0ZCwEC8aPWFxOJox9L65aSNoY1qKeeB43Ic5C2pvWepufhWbT9QgOI4Dzn-1Ha_AADoy3WBldk--5U2qGxpglDyIrt7z--0nD8d1GxZt5zr-c_cicYFg",
+      "source": "hallofpeople.com",
+      "domain": "www.hallofpeople.com",
+      "displayed_link": "https://www.hallofpeople.com › p...",
+      "snippet": "Πάντες οί άνθρωποι τού ειδέναι ορέγονται φύσει. ΓΝΩΣΗ. σημαίνει. Ολοι οι άνθρωποι εκ φύσεως επιθυμούν τη γνώση. Παράδειγμα. Παράδειγμα: Ολοι οι άνθρωποι ...",
+      "snippet_highlighted_words": [
+        "Ολοι οι άνθρωποι εκ φύσεως επιθυμούν τη γνώσ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAACQUlEQVR4Ae2VA6xdQRRFV9I4aVjFdVDbtm1bQW3btm3btm3btm5336k7P4/xT/a7mHdmzdHMxfsQw/OIoATULfIiGmratj531QpjZ9XsvKVdw1o1lzasvm5P62xRTZvYtkatylvaN17rtaRntU61ikxcv6C4Azp7VBlY3pqVWTmRgFdSU2Z6z1zQi1Rjmgxi8uEIVTIwSRP37XRAf6oTPZgja81pw2Yn9MM+VtPCoFMYereD35wuZgITNSEH3mAWuD1dzAWqWDRdWfx5u1/o1N9QPbi3xmLOUMKgSte7wwFA5aBBpzDW6alc20RVeCCzOix+dTwA6EhmGHQPg7zr7vCvkFdQScUMCLqEMaoAeiO3OsYbzde+KiBfWqPX70JCRJl1ZGJA4W9gAL6JR+mojtlOG40ov4pAfqncSqiqL6Ki0auaISCoefqnNGJSZixwg66kS6BQAxlCD/9Ig0m5YFDFERzUGC9JoiRspdk+Gt6knF5947ENuovuAUAXs5xBBhXF24x30afr9uBTJ0QXUVJVA2j+zcjOvNBu8Z64WuoZSqVBA9pRslDPW59q77uhT1DRf9kE0FKbfzd/XQ67oRfRwqV4I8kmgOZfzCg2WWiVuatUOk8pLQwPDOrH01uXEr9Lnf4XVHPkhXPvayP98vRKp7RXT2XR0eM++WG8+mkOWyx8NaMzfK3Uke76V2Yt2J+WBbBcZ7wDKjenzsh7cn7y84sKLp3TStq1JKvGnTqzLN7i2bXMRh8SPWt69Cfa9A0ch1cdkD6f8wAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 9,
+      "title": "Metaphysics",
+      "link": "https://www.google.com/goto?url=CAESlwEBxCJF19r-bjcVSm_IasC4e81A3JRnk-Nioj1PK2FzbZRrWaFfOeMiQOS4N5_Bs9d1F4oQN_5R88EAdhS-ZexXWqT2rPRfGawUwuWfcqtLeUfLNXE2gWnfYmhK7SI4PWsNW5G_iOi0rpIbWrYf49U98cPQT1NBPWAPPZUhLtl_67HCWGLluOriBNdcBk2tXPPPFE0lEsx2&gsessionid=BWgSs7HahlveJAtFILA3iVoyhwNdTzZCp9ItSvtL5d5U6LfLkH38kw",
+      "link_token": "32UQ-YFYkzrB6XSnWiAaIB2MjYVpyU8IPNkENx6CN1fhhzRvQf3qBESBdnbWUAuPmC5PwKsk8UqDT4fJd0_IqoNpL7ayt5ypyPULEH8UAf-sg3CO7CBm4tTqgomoa-2z7SKylEDRo5bzqqXDQpgwisL87kPBNDfKFi9md-ZHc6CzQ2gdGtUuSnvFN6OrsLS031uR7a6grJkbtPDbWjuD4HgH9Gfv_kDq8Uq8fA4rdvf_3FD8RzaXXwys2BmipDKNKpYQk39adFbaXvT06etI0qkWzPaD9xZb-K3Keg--OBtrhvfjF0s9Rlj9--K2cXEt1krGFdPC01_SOJ8Q",
+      "source": "Loeb Classical Library",
+      "domain": "www.loebclassics.com",
+      "displayed_link": "https://www.loebclassics.com › view › pb_LCL271.3.xml",
+      "snippet": "JavaScript is disabled. In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.",
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NBgkRDQgWCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5MToBCgoKDQwNDw4PFSsZHxkrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAACBgABBwX/xAAoEAABAwMCBQQDAAAAAAAAAAABAgMEABESBSEGEzFBUWFzkcIHIjb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOKyEc5vmlQYyHMLYBUE33tfa9qa+J+GIkDSGHUTXXXZQBjoUhOJ6E5eNjSiroaf/wAifzvDvtfRNEIFURRVVFG03m8hOaWy4oJzcVilNza5PYeTWh8Wtxpul6U0xr8RK4acVqelBIV+oG1gfFZzUoGB/SIkbRpa3dVZnT1lKIrMJ/MI33Urp2v6fOy/apahPWg//9k="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%80%CE%B1%CE%BD%CF%84%CE%B5%CF%82+%CE%B1%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CE%B9+%CF%84%CE%BF%CF%85+%CE%B5%CE%B9%CE%B4%CE%B5%CE%BD%CE%B1%CE%B9+%CE%BF%CF%81%CE%B5%CE%B3%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%86%CF%85%CF%83%CE%B5%CE%B9&oq=%CF%80%CE%B1%CE%BD%CF%84%CE%B5%CF%82+%CE%B1%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CE%B9+%CF%84%CE%BF%CF%85+%CE%B5%CE%B9%CE%B4%CE%B5%CE%BD%CE%B1%CE%B9+%CE%BF%CF%81%CE%B5%CE%B3%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%86%CF%85%CF%83%CE%B5%CE%B9&gl=us&hl=en&start=10"
+  }
+}

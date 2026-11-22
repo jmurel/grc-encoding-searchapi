@@ -1,0 +1,161 @@
+{
+  "search_metadata": {
+    "id": "search_dXG2jzvrlqTzAXrbjeYoaOb8",
+    "status": "Success",
+    "created_at": "2026-11-22T03:35:18Z",
+    "request_time_taken": 2.07,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 2.1,
+    "request_url": "https://www.google.com/search?q=%CF%80%CF%81%CF%89%CD%82%CF%84%CE%BF%CE%BD+%CE%BC%CE%B5%CC%81%CE%BD%2C+%CF%89%CC%93%CD%82+%CE%B1%CC%93%CC%81%CE%BD%CE%B4%CF%81%CE%B5%CF%82+%CE%91%CC%93%CE%B8%CE%B7%CE%BD%CE%B1%CE%B9%CD%82%CE%BF%CE%B9%2C+%CF%84%CE%BF%CE%B9%CD%82%CF%82+%CE%B8%CE%B5%CE%BF%CE%B9%CD%82%CF%82+%CE%B5%CF%85%CC%93%CC%81%CF%87%CE%BF%CE%BC%CE%B1%CE%B9+%CF%80%CE%B1%CD%82%CF%83%CE%B9+%CE%BA%CE%B1%CE%B9%CC%80+%CF%80%CE%B1%CC%81%CF%83%CE%B1%CE%B9%CF%82&oq=%CF%80%CF%81%CF%89%CD%82%CF%84%CE%BF%CE%BD+%CE%BC%CE%B5%CC%81%CE%BD%2C+%CF%89%CC%93%CD%82+%CE%B1%CC%93%CC%81%CE%BD%CE%B4%CF%81%CE%B5%CF%82+%CE%91%CC%93%CE%B8%CE%B7%CE%BD%CE%B1%CE%B9%CD%82%CE%BF%CE%B9%2C+%CF%84%CE%BF%CE%B9%CD%82%CF%82+%CE%B8%CE%B5%CE%BF%CE%B9%CD%82%CF%82+%CE%B5%CF%85%CC%93%CC%81%CF%87%CE%BF%CE%BC%CE%B1%CE%B9+%CF%80%CE%B1%CD%82%CF%83%CE%B9+%CE%BA%CE%B1%CE%B9%CC%80+%CF%80%CE%B1%CC%81%CF%83%CE%B1%CE%B9%CF%82&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_dXG2jzvrlqTzAXrbjeYoaOb8.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_dXG2jzvrlqTzAXrbjeYoaOb8"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "πρῶτον μέν, ὦ ἄνδρες Ἀθηναῖοι, τοῖς θεοῖς εὔχομαι πᾶσι καὶ πάσαις",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "πρῶτον μέν, ὦ ἄνδρες Ἀθηναῖοι, τοῖς θεοῖς εὔχομαι πᾶσι καὶ πάσαις",
+    "total_results": 64,
+    "time_taken_displayed": 0.2,
+    "detected_location": "Unknown",
+    "did_you_mean": "πρῶτον εν, ὦ ἄνδρες Ἀθηναῖοι, τοῖς θεοῖς εὔχομαι πᾶσι καὶ πάσαις",
+    "has_no_results_for": false,
+    "showing_results_for": "πρῶτον εν, ὦ ἄνδρες Ἀθηναῖοι, τοῖς θεοῖς εὔχομαι πᾶσι καὶ πάσαις"
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_Z2xceDNkdXNceDI2cHdzXHgzZDBceDI2aGxceDNkZW5ceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZDkySUNhX0RMRFBLeWt2UVBycHlYaVFNXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9HVmtPdUhUUlNVMXVuOVJKd1c4RFVXT0dZNWVBL2NiJTNEbG9hZGVkX2hfMC9wYyUzRDE_Y2IlM0QxMjIyNzcwNzUsX2Jhc2Vjc3M6L3hqcy9fL3NzL2slM0R4anMucy5jc0VxNTJLMF9Tby5MLlcxLk8vYW0lM0RFQUFBQUFBQUFBQUFBQUNBQUFBQUFBQUFBQUFBQUFRSUlBSUFBQUFBQUFBQUFBQUFBQUFBQUFnQmdBQUFBQVFBQUFBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBUUFLQUFBQUFBQUFBQUFBQUFCQUFBQUFBQUFBQUFBQUFBa0VBQUFBQUFBQUFBQUFGQUFBQUFBQWhBQm9RQVFBRUFBQUFBQUFBQUFBQVFLRUxBQUFBRkFRQUFBQUFBTUFEREFDOEFnQUFBQUFBQUFBQUFFQUFBQUFBQUFBQ0FFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUFBQUFBQUFBQUFBQUFBQWdBSUFBb0FBQUFBQUZVQUFBQUFnQUFBQUVBQUFBQUFBQUFBQVFZQUVTQUFBQkFBQUFBQUVBQUFBQUFBQUFBQUFBT0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBaEFBQUFBQkFBQUFBQUFBQUFBQUFnR0FBQUFBQUFJQmdBQUFBQUFBd0FBQUFFQWdDQUFBQUFBQUFBQUFBQUFBQUFSQUlRQVFBQUFRQUFBQUFBREFBQUFBQUFBQUFBQUJBQ2dCQUtBUUFDZ0FLQWdDdENnUUFBRVFJNEFFQUFJQUFBQUFBQVFFRUlFQUVnQUFBQUFBQUFCQUFBQUFBQUFBQUFBQ0VBQUFBQUVBQUFBQUFBQUFBQUFBQUNDQUFBQUFBQUFBQWdBQUVBRkFBd0FnRUFrdUlFQ0lpQUFBZ0FBRUFBQUlBQWdtSUVBQUFBQlFnRUFBQUFBQUFBQkFBQUFDQUNBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUlBRmhBQUFBQUFBQUFBQUFBQUFBQURBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQS9iciUzRDEvY2IlM0Rsb2FkZWRfaF8wL3JzJTNEQUNUOTBvR013STdHQ1gyYkltRHZoZGVfazNFM2N4Ty1xUT9jYiUzRDEyMjI3NzA3NSxfYmFzZWNvbWI6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vY2slM0R4anMucy5jc0VxNTJLMF9Tby5MLlcxLk8vYW0lM0RFQUFBQUFBQUFBQUFBQUNBQUFBQUFBQUFBQUFBQUFRSUlBSUFBQUFBQUFBQUFBQUFBQUFBQUFnQmdBQUFBQVFBQUFBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBUUFLQUFBQUFBQUFBQUFBQUFCQUFBQUFBQUFBQUFBQUFBa0VBQUFBQUJBSWdBQUFsQUFnQUFBQWhBQm9RQVFBRUFBQUFBQUFBQUFBQVFLRUxRQUFBRkFRQUFBQUFBTUFEREFDOEFnQUFBQUFBQUFBQUFFQUFBQUFBQVFnQ0FFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDb0FBQUFBQ2xVQUFBQUFnQUFBQUVBQUFBQUFBQUFBQVNZQUVTQUFDQkNCQUFBQUVBQUFPQWZqUGtHQUFBUEFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBaEFBQUFBQkFBQUFBQUFBQUFBQ0FpR0FBQUFBQUFJQmdXQUFBQUFBeEFBQUFFQWtDQUFBQUFBQUFBQUFBQUFBQUFSQUlRQVFBQUFRQUFBQUFBREFBQUFBQUFBQUFBQUJBQ2dCQUtBUUFDZ0FLQWdDdENnUUJBRVFJNEFFQUFJQUFBQUFBQVFFRUlFQUVnQUFBQUFBQUFCUUFBQUFBQUFBQUFBQ0VBQUFBQUVBQUFBS0FBQUFBQUFBQUNDQUFBQUFBQUFBQWdFQUVBRkFBd0FnRUFrdUlFQ0lpQUFBZ0FBR0VBQUlBQWdtSUVBQUFBQllqRUR3QUFRQUFBQkFBQUFDQUNBQUFBQUFBQUlBQUFBQUNBQUFBQUFFQUlBRmhBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2QlM0QxL2VkJTNEMS9kZyUzRDAvYnIlM0QxL3VqZyUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9ISkRNMVB5bjhidDVvbHNSeUVWakF1a1VyTVR3L2NiJTNEbG9hZGVkX2hfMC9wYyUzRDE_Y2IlM0QxMjIyNzcwNzUsX2ZtdDptYWRsLF9pZDpCMkp0eWQsX21hZG86ZWRceDI2cVx4M2QlQ0YlODAlQ0YlODElRTElQkYlQjYlQ0YlODQlQ0UlQkYlQ0UlQkQrJUNFJUI1JUNFJUJELCslRTElQkQlQTYrJUUxJUJDJTg0JUNFJUJEJUNFJUI0JUNGJTgxJUNFJUI1JUNGJTgyKyVFMSVCQyU4OCVDRSVCOCVDRSVCNyVDRSVCRCVDRSVCMSVFMSVCRiU5NiVDRSVCRiVDRSVCOSwrJUNGJTg0JUNFJUJGJUUxJUJGJTk2JUNGJTgyKyVDRSVCOCVDRSVCNSVDRSVCRiVFMSVCRiU5NiVDRiU4MislQ0UlQjUlRTElQkQlOTQlQ0YlODclQ0UlQkYlQ0UlQkMlQ0UlQjElQ0UlQjkrJUNGJTgwJUUxJUJFJUI2JUNGJTgzJUNFJUI5KyVDRSVCQSVDRSVCMSVFMSVCRCVCNislQ0YlODAlQ0UlQUMlQ0YlODMlQ0UlQjElQ0UlQjklQ0YlODJceDI2bWxyb1x4M2QwYTV0WHZjcUZITmFPZFg5R3pFalJwbWRDbkdOb09tdXpyamlhajllVGl4MXdzMEJIVzFpT3Nib19VQkQ5dm1zd0JSWXg5T05JVGZPd2JaSVJZLTdod0hrSmxvZFMzWmhMeGZQdlV1MDh1N3FjVTNITGpLSVJXR3lIVlo1LUVDb2VBSDI5WndceDI2bWxyb3NceDNkSTk0MDZucUY0ZUVceDI2bXJjXHgzZENBQTRnQU5RQVdBQWFBRndBSmdCQUtBQlJxZ0JBTEFCQWJvQkFRSFlBUURnQVFEb0FRQVx4MjZzY2FfZXN2XHgzZGM1YmUyMGRkNTVlYzRmOTlceDI2bWd0eXBceDNkOTBceDI2c25yXHgzZDE="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "ATHENAEUS, The Learned Banqueters",
+      "link": "https://www.loebclassics.com/abstract/atheneus_grammarian-learned_banqueters/2007/pb_LCL224.7.xml",
+      "source": "Loeb Classical Library",
+      "domain": "www.loebclassics.com",
+      "displayed_link": "https://www.loebclassics.com › pb...",
+      "snippet": "τοὺς γὰρ τραγῳδοὺς πρῶτον, εἰ βούλει, σκόπει ὡς ὠφελοῦσι πάντας. ὁ μὲν ὢν γὰρ πένης πτωχότερον αὑτοῦ καταμαθὼν τὸν Τήλεφον γενόμενον ἤδη τὴν πενίαν ῥᾷον ...",
+      "snippet_highlighted_words": [
+        "πρῶτον"
+      ],
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NBgkRDQgWCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5MToBCgoKDQwNDw4PFSsZHxkrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAACBgABBwX/xAAoEAABAwMCBQQDAAAAAAAAAAABAgMEABESBSEGEzFBUWFzkcIHIjb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOKyEc5vmlQYyHMLYBUE33tfa9qa+J+GIkDSGHUTXXXZQBjoUhOJ6E5eNjSiroaf/wAifzvDvtfRNEIFURRVVFG03m8hOaWy4oJzcVilNza5PYeTWh8Wtxpul6U0xr8RK4acVqelBIV+oG1gfFZzUoGB/SIkbRpa3dVZnT1lKIrMJ/MI33Urp2v6fOy/apahPWg//9k="
+    },
+    {
+      "position": 2,
+      "title": "PINDAR, Pythian Odes",
+      "link": "https://www.google.com/goto?url=CAESoQEBxCJF18NFspzXopEt3U-4ngdevEdkd0E4P3kLGoKA6FNP299pC63LGYrLDMP6Mp7Fb_MC5CjRziaTKC-t4shrqC82uR4ddEP-EncxgcRA1jQqcnnflGLEvVhy4Ono8ZUSHFTLurxNoA7U3XVeYHqD8hC9oazx9bBMyhbe6FlHYBVgJX55G628O-dd4pqlYOzGT9WCjpMypj28yX0drMsPKQ&gsessionid=4y45Q3DWtLh3o9i2p_LU44rrJWcmYocgOoOT8ITZfmehADKDwmMb4A",
+      "link_token": "QbLjbRl8FRtdHqZ568g6XdVClKtr6wEWwfuHSkG37iPtdgCcRIJc-iOwFi455zo8wQ2Pev-nWu697uGHwtRQ0SEGsBDNVBfWvpFPfa1j1i_bN0J-3afJaIw0B17SSP-homHpGHUFlZ-D0s8mVT9wZAAfabrYqJ-MQnkXJXxKRdm5PgTKQiy_chkqRrndjm2_enR5ocmSij6uuHJ9LxNEuUjr6XKntmYMESqYrpibz7G8HuaCsrkcLwEiHNu55F9FXOsDJHGwH1VzOf6j7M6x0ygi-9ymvrQm-5EgcMrzQC3VMbaIALzaHFV7--PtQ28-X93O3EEyXX--3Fmisf9-cJpjMFj9KM0PKQ",
+      "source": "Loeb Classical Library",
+      "domain": "www.loebclassics.com",
+      "displayed_link": "https://www.loebclassics.com › view",
+      "snippet": "Δ΄ τῷ πόλιν κείναν θεοδμάτῳ σὺν ἐλευθερίᾳ Ὑλλίδος στάθμας Ἱέρων ἐν νόμοις ἔ- κτισσε· θέλοντι δὲ Παμφύλου καὶ μὰν Ἡρακλειδᾶν ἔκγονοι ὄχθαις ὕπο Ταϋγέτου ναίοντες ...",
+      "snippet_highlighted_words": [
+        "ἐν",
+        "καὶ"
+      ],
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NBgkRDQgWCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5MToBCgoKDQwNDw4PFSsZHxkrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAACBgABBwX/xAAoEAABAwMCBQQDAAAAAAAAAAABAgMEABESBSEGEzFBUWFzkcIHIjb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOKyEc5vmlQYyHMLYBUE33tfa9qa+J+GIkDSGHUTXXXZQBjoUhOJ6E5eNjSiroaf/wAifzvDvtfRNEIFURRVVFG03m8hOaWy4oJzcVilNza5PYeTWh8Wtxpul6U0xr8RK4acVqelBIV+oG1gfFZzUoGB/SIkbRpa3dVZnT1lKIrMJ/MI33Urp2v6fOy/apahPWg//9k="
+    },
+    {
+      "position": 3,
+      "title": "https://scaife.perseus.org/library/urn:cts:greekLi...",
+      "link": "https://www.google.com/goto?url=CAESjQEBxCJF1zYgiLMWMrtjFm2Vp4XsDU8MsRcRIXPLPK6uG5xFPle_xdy-GrcdmL2o_40sE41_45_mBTSI-SciTTgW64NYsxF9IjocgnGb8057QFlwiA8PP40FkR48Kj2Xg77QPQXr_8nYElwWoTdNyxzzMee1Cq46CrMbW5dB25A5PO8nxFdXGe204oyg3KM&gsessionid=4y45Q3DWtLh3o9i2p_LU44rrJWcmYocgOoOT8ITZfmehADKDwmMb4A",
+      "link_token": "BH1TPkJ4DNl05cO2XH8GG5tmb8BRz82GCq8q-0pcw07HOHCnI3nm785NOyp4eRk1GKMzIQDGqk1uZ5Ddcz183xdiRdZ35NiVqZWe7Osvjti1nDL6Ho9WaKx7TEjI0uK9dtMU0p3Hn3SLPIx7_L5oUmG0zWxS8GFIi06Pm8E_mHi-Q1lHRLvXe1ya2y1VKNFT18SMQ6ZP6Cp1lmrAB1F1VBaF1NoU5RGk6kfeNnRaFvDPAcFMjjfMFTslMFpqtiDCku_Qk5ACy8CemOWQUhTn--OK7Kiy_ZUFvf6ash--gjf6u-WwfEY21GZuL9KDRw",
+      "source": "Perseus Scaife Viewer",
+      "domain": "scaife.perseus.org",
+      "displayed_link": "https://scaife.perseus.org › library",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 4,
+      "title": "Greek Christian Prayer from Mount Athos",
+      "link": "https://www.google.com/goto?url=CAESaAHEIkXXZlGypJowT6SFJNmbIQdUgKnIop_EC9j3fb-WcCH8QPoQutnPpmta0MD42jiF9riVn6hfgFgmsDKAv6RuATAv7t_9arBbwOB6xnwtOooVrbnFvSfx1iXMeCm5HRS2bIYMytpQ&gsessionid=4y45Q3DWtLh3o9i2p_LU44rrJWcmYocgOoOT8ITZfmehADKDwmMb4A",
+      "link_token": "PfvsDrutSBQXXfd4rXAG_ApX_Gagn9F7CDJYZQfx3eCfz-B0CBoPNvwoUfHRUGuwQOHfvjwFh3Z_pemK9NZK4XrvgXRCYEhgg1UtxBY_VNreCnxyGWmgNI3yZ-5T4rk48x2M-VZOrFWI5ByWIOzNZTgvuTfOmCZ0kkliVvnl9B6rFXso1f3twFL_rLbhDxKbN0Bi4GSCqD94UqqO--2nKy_LzJYTKxWlpX--0Xlop9E64ghS1m1zXrAdsw",
+      "source": "YouTube · Byzantine Voices of Athos",
+      "displayed_link": "80+ views  ·  2 months ago",
+      "snippet": "This video features Christian prayer in the original Greek language, accompanied by the sacred sound of traditional Byzantine chant.",
+      "snippet_highlighted_words": [
+        "in"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhUlEQVR4AWNwL/ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI+RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D///feYzXIJBeBigH04BVW/9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg==",
+      "video": {
+        "link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ6nk3_FLX2mYvAO5jlNsQ73K8NYpeQAhrS_Q",
+        "length": "18:14"
+      },
+      "thumbnail": "data:image/jpeg;base64,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"
+    },
+    {
+      "position": 5,
+      "title": "PINDAR, Pythian Odes",
+      "link": "https://www.google.com/goto?url=CAESiQEBxCJF1y0zdPBEk1L4UYZIKaDj_IkoBwo57LjeICOX-EnKBIMJ23b9ZQO_vTjlOPpkWx8TdzPnVVQhoF4e2QlkTZrvhDinWzTkC6cWdlBZXvfXQNtecoKWFdJyTaeSZsaSsujC9qj8SMNgZaJeQNoDtlUAnlqTe-VgCMEq6x4Y_oQQeumEG_mMyQ&gsessionid=4y45Q3DWtLh3o9i2p_LU44rrJWcmYocgOoOT8ITZfmehADKDwmMb4A",
+      "link_token": "EZZnlHCJzHgfCR5PoJIDvVviptvFQ2eTyjgwCC4njg5Jc9F-cYAF_1bD5nOx56pHq9bLyofXC_y8Zn2Izdk5lPBVIcunh_JNBvRa4FTpz9GavkMW5Utm-R2P5-wW91wflXUwFuLpISFMe54SaO9ypGiFwatEDg4W2HvBM66KwgZK1o-T8Vn089TDknFZjIpAYQHPS2JSHLU3W8NP8TVJ3jfAxOWqXLMqUvTpIcNg1-xij4nm4PMhEucsIWtJKsiA2dHfC92ts4mWIA--QU7-7VZgKssT4IUB--QpsYL8t9ftVhpqtczYsuyg",
+      "source": "Loeb Classical Library",
+      "domain": "www.loebclassics.com",
+      "displayed_link": "https://www.loebclassics.com › view",
+      "snippet": "Δ΄ τῷ πόλιν κείναν θεοδμάτῳ σὺν ἐλευθερίᾳ Ὑλλίδος στάθμας Ἱέρων ἐν νόμοις ἔ- κτισσε· θέλοντι δὲ Παμφύλου καὶ μὰν Ἡρακλειδᾶν ἔκγονοι ὄχθαις ὕπο Ταϋγέτου ναίοντες ...",
+      "snippet_highlighted_words": [
+        "ἐν",
+        "καὶ"
+      ],
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NBgkRDQgWCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5MToBCgoKDQwNDw4PFSsZHxkrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAACBgABBwX/xAAoEAABAwMCBQQDAAAAAAAAAAABAgMEABESBSEGEzFBUWFzkcIHIjb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOKyEc5vmlQYyHMLYBUE33tfa9qa+J+GIkDSGHUTXXXZQBjoUhOJ6E5eNjSiroaf/wAifzvDvtfRNEIFURRVVFG03m8hOaWy4oJzcVilNza5PYeTWh8Wtxpul6U0xr8RK4acVqelBIV+oG1gfFZzUoGB/SIkbRpa3dVZnT1lKIrMJ/MI33Urp2v6fOy/apahPWg//9k="
+    },
+    {
+      "position": 6,
+      "title": "PINDAR, Isthmian Odes | Loeb Classical ...",
+      "link": "https://www.google.com/goto?url=CAESjgEBxCJF11pwlocCUaIzNYe2NffFbvmaVlCGy_1jRE4C5G9d37haYztJM5O02uOms5oJtM9GKtyy2USZUHQT49r30rVegsFS2-S5vXLSR6TnL4CdCEAGiGuuxopkDkTqwC8fRo7AjzfJ5gkcgfn1iC9efLmuPWBZHU-KgX_8HyPXPayriY8E5iebATzsCzca&gsessionid=4y45Q3DWtLh3o9i2p_LU44rrJWcmYocgOoOT8ITZfmehADKDwmMb4A",
+      "link_token": "v1eaD8v2dhq9XeJiZV2u-fCNI0fOsyAoG9nljFUbrkBGwR4c5Mtd8NcJhbSVOWSG1KL7Rdi-KN_ql0jCERFce5E7Q9xME8LT8jBSN6Rc0cO_jsiGIlDMplk9GdCbmYKmM-_K_drudVHsobgXco0N7bUZ9wI8UIy6iihPaR7Yh-nfDxfT3L22UD6V3HiGdv40JbyZrQgcdG7CGimR0nmJwywqAR1UZqDaaP6QgqaaoKChtvntLIZ4vW50KV1_VR0DJ_wWVVHGL8HX9tW4jxoJ0w--cXgIwNTSE7j4NWY1---n8PCaG7Ix8fKjhiTfq_SA",
+      "source": "Loeb Classical Library",
+      "domain": "www.loebclassics.com",
+      "displayed_link": "https://www.loebclassics.com › pb...",
+      "snippet": "Pindar ; ραινε· τοῦ μὲν ἀντίθεοι 25ἀρίστευον υἱέες υἱ- ; έων τ᾿ ἀρηίφιλοι παῖδες ἀνορέᾳ 25aχάλκεον στονόεντ᾿ ἀμφέπειν ὅμαδον, ; σώφρονές τ᾿ ἐγένοντο πινυτοί τε ...",
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NBgkRDQgWCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5MToBCgoKDQwNDw4PFSsZHxkrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAACBgABBwX/xAAoEAABAwMCBQQDAAAAAAAAAAABAgMEABESBSEGEzFBUWFzkcIHIjb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOKyEc5vmlQYyHMLYBUE33tfa9qa+J+GIkDSGHUTXXXZQBjoUhOJ6E5eNjSiroaf/wAifzvDvtfRNEIFURRVVFG03m8hOaWy4oJzcVilNza5PYeTWh8Wtxpul6U0xr8RK4acVqelBIV+oG1gfFZzUoGB/SIkbRpa3dVZnT1lKIrMJ/MI33Urp2v6fOy/apahPWg//9k="
+    },
+    {
+      "position": 7,
+      "title": "ΔΗΜΟΣΘΕΝΗΣ: Περὶ τοῦ στεφάνου (18)",
+      "link": "https://www.google.com/goto?url=CAESoAEBxCJF11kdS_jur4roPqkRvONk29PbdvnnJIfk_Rghuf2t1mC26PWfm_8w7dLZRHj6G62aCszaoYbvOOt46PPNdEIVALlaWZa761cJioOes87SbDcPmWSr48c7tGjYEtCxc9HJGgiJELDUGjAdzX5vwaTfDb0YDV3HueEumqknRraEWXJBD0qFPTZ7yO4-Tx_3JITPUYPVFQk8uYG9EcVY&gsessionid=4y45Q3DWtLh3o9i2p_LU44rrJWcmYocgOoOT8ITZfmehADKDwmMb4A",
+      "link_token": "nR1muItYSWhdBqOPoOxMoRL0WPaFaupliN3RVDRVmjlZccQNBsqwUNMaKYMvYWenbqwuCLhIAmWXnMVdT0_aMruyjnrNoyWn7DxMNZU460JGQkLwPTcmopfWIbng2oz6sWKvWE50rYAt4HRoONAHp84904npvDizERkhO3i3641PyaP_o8nuzL7D_A_h3F7zh3H6VHbvGZb5w2MvzqixI9g28Hny0Hw8ArxnVGap1668vus8S7Ye7abD8Btze6vbuLF0MO5is9eb4sjpXSJdCEfw_0m1N0Na-H2p-8tSCgv-b5G5ENXFFQ--pou8pgWg4OCofX_O--l8QNXzYlyj-7_vUruy5Ivg",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "[80] Ύστερα από αυτά ενήργησα ώστε να γίνουν όλες οι γνωστές ναυτικές αποστολές, χάριν των οποίων σώθηκε η Χερρόνησος, το Βυζάντιο και όλοι οι σύμμαχοί μας. Από ...",
+      "snippet_highlighted_words": [
+        "και"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 8,
+      "title": "ΔΗΜΟΣΘΕΝΗΣ: Περὶ τοῦ στεφάνου (18)",
+      "link": "https://www.google.com/goto?url=CAESoAEBxCJF15uVNM7cYOc5se-LzQlLUSF-JVsSiE2vJBqPokg-0ifaTXEHxeDNWpJORGHSk2mqXDcF7qVDELQjwLlE4v4x3_T8quMzXeB7_LVWQRtXCm2xmEwoiRqyUr3A9eL69xcB3z55CuO5JyoCxySAK62Yw2DBj48SuBxAqfJTMpnv5ZCAEt-jSSKPEGZ-2B0urTSLeqCI1vhkfWvg70JI&gsessionid=4y45Q3DWtLh3o9i2p_LU44rrJWcmYocgOoOT8ITZfmehADKDwmMb4A",
+      "link_token": "hYTydxhyBhg2gThi28ZFHFW_jKXCj3LDH5q46RKMXkpUrAZOmjDrl8SCgS6ZP15tTkTu5O8hQfO6CMJX0cnvCtbs86uwhojrfrr3KTyUvqcQW4icvjgv4Eo_GFs8hE_aQXxZLIfZrUSN9AYTF90Jrq5hdiGzMiNgw-arIFpctuFg1DUTMG7oX8M_-M4X2vYpHsrypusDpAMDccGHvXPH8XYwfpCuv9th0NepAsnreZRKfJCXytyaXFY6d4Qo0rL2cOW6EfylK1mi2LMZRNhCrSe0t3obelqQDH50HumZKa7pq7eAhYjX5A--MpyfmnkGzeGOtzi0--6tQqad--PQOLBA6AtKeRRA",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "[181] [Ἐπὶ ἄρχοντος Ναυσικλέους, φυλῆς πρυτανευούσης Αἰαντίδος, σκιροφοριῶνος ἕκτῃ ἐπὶ δέκα, Δημοσθένης Δημοσθένους Παιανιεὺς εἶπεν· ἐπειδὴ Φίλιππος ὁ Μακεδὼν ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 9,
+      "title": "Ancient Greek Christian Prayer from Mount Athos",
+      "link": "https://www.google.com/goto?url=CAESaAHEIkXX0JCqQKSUjvdHQ-kJFIXAaNwOSc1yef0_r_cBJb02sqFjAnJVt44IEf04ggdBVgNb-d3bWdPi0rA7nHkrIoIObHGq1pVn4H3VymvWwlegWOIMFipkxZrNxRAmyPfl-G8aeGLP&gsessionid=4y45Q3DWtLh3o9i2p_LU44rrJWcmYocgOoOT8ITZfmehADKDwmMb4A",
+      "link_token": "kSk6OYid43Rr7D8n90j6q4nZe6DkOVKEFw9Fa7ztD3SKSMqv-DPfJOVfL0_nwF6emqrzqldgsuEHIwwOpwwKWBmriqC8J209UOxSqW5ndu-bWQloURobfTEvGXN249gAWQWqbxX0wMJ6dYQ34zz9arbOIK13z9vAmSnAgbudaC32YC_jdEMLH-mnMXerUNvwE9VhwPmXX9RWubmk--Y6FuRNt74Chezekh--QBLAIKXGCti0kfoLztY0hg",
+      "source": "YouTube · The Athonite Psalter",
+      "displayed_link": "270+ views  ·  1 month ago",
+      "snippet": "This ancient Greek Christian prayer is inspired by the spiritual heritage of the Holy Mountain, where generations of Athonite monks have lived ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhUlEQVR4AWNwL/ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI+RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D///feYzXIJBeBigH04BVW/9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg==",
+      "video": {
+        "link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRhUV47rgNF_96dDUbnYzPn5yHcFaqrJ2WzGQ",
+        "length": "15:37"
+      },
+      "thumbnail": "https://i.ytimg.com/vi/c4A3XnWZ0H4/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lZXxAHZUN4sKtAVWLgDPbzmYsLTw"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%80%CF%81%E1%BF%B6%CF%84%CE%BF%CE%BD+%CE%B5%CE%BD%2C+%E1%BD%A6+%E1%BC%84%CE%BD%CE%B4%CF%81%CE%B5%CF%82+%E1%BC%88%CE%B8%CE%B7%CE%BD%CE%B1%E1%BF%96%CE%BF%CE%B9%2C+%CF%84%CE%BF%E1%BF%96%CF%82+%CE%B8%CE%B5%CE%BF%E1%BF%96%CF%82+%CE%B5%E1%BD%94%CF%87%CE%BF%CE%BC%CE%B1%CE%B9+%CF%80%E1%BE%B6%CF%83%CE%B9+%CE%BA%CE%B1%E1%BD%B6+%CF%80%CE%AC%CF%83%CE%B1%CE%B9%CF%82&oq=%CF%80%CF%81%E1%BF%B6%CF%84%CE%BF%CE%BD+%CE%B5%CE%BD%2C+%E1%BD%A6+%E1%BC%84%CE%BD%CE%B4%CF%81%CE%B5%CF%82+%E1%BC%88%CE%B8%CE%B7%CE%BD%CE%B1%E1%BF%96%CE%BF%CE%B9%2C+%CF%84%CE%BF%E1%BF%96%CF%82+%CE%B8%CE%B5%CE%BF%E1%BF%96%CF%82+%CE%B5%E1%BD%94%CF%87%CE%BF%CE%BC%CE%B1%CE%B9+%CF%80%E1%BE%B6%CF%83%CE%B9+%CE%BA%CE%B1%E1%BD%B6+%CF%80%CE%AC%CF%83%CE%B1%CE%B9%CF%82&gl=us&hl=en&start=10"
+  }
+}

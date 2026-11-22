@@ -1,0 +1,141 @@
+{
+  "search_metadata": {
+    "id": "search_1XbZBxkZENuBZK0Vlv8JaLNR",
+    "status": "Success",
+    "created_at": "2026-11-22T03:34:21Z",
+    "request_time_taken": 1.6,
+    "parsing_time_taken": 0.03,
+    "total_time_taken": 1.62,
+    "request_url": "https://www.google.com/search?q=%CF%83%CE%B7%CE%BC%CE%B5%CE%B9%CE%BF%CE%BD+%CE%B5%CF%83%CF%84%CE%B9%CE%BD%2C+%CE%BF%CF%85+%CE%BC%CE%B5%CF%81%CE%BF%CF%82+%CE%BF%CF%85%CE%B8%CE%B5%CE%BD&oq=%CF%83%CE%B7%CE%BC%CE%B5%CE%B9%CE%BF%CE%BD+%CE%B5%CF%83%CF%84%CE%B9%CE%BD%2C+%CE%BF%CF%85+%CE%BC%CE%B5%CF%81%CE%BF%CF%82+%CE%BF%CF%85%CE%B8%CE%B5%CE%BD&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_1XbZBxkZENuBZK0Vlv8JaLNR.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_1XbZBxkZENuBZK0Vlv8JaLNR"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "σημειον εστιν, ου μερος ουθεν",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "σημειον εστιν, ου μερος ουθεν",
+    "total_results": 54,
+    "time_taken_displayed": 0.33,
+    "detected_location": "Jacksonville FL, Florida",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_aGxceDNkZW5ceDI2Z2xceDNkdXNceDI2cHdzXHgzZDBceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZHZtSUNhNV93QWN1bTVOb1BoZHU0bVFrXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9HVmtPdUhUUlNVMXVuOVJKd1c4RFVXT0dZNWVBL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMTUwOTM3OCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUF5QUtBQUFBQUFBQUFBQUFBQUJBQUFDQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQVFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJQUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFCQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUVBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q2dRQUFFUUk0QUdBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBQUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9IcDFFNHY0ZmdGcUlMcjU1M2xvRmJZQ0liMXJRP2NiJTNEMTIxNTA5Mzc4LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUF5QUtBQUFBQUFBQUFBQUFBQUJBQUFDQUFBQUFBQUFBQUFrRUFBQUFBQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQVFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNCQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUVBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q2dRQkFFUUk0QUdBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBQVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FBQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0gwejJmR1lzSGxRa2NlYk5qb0I4YWI4MFVMN3cvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIxNTA5Mzc4LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUNGJTgzJUNFJUI3JUNFJUJDJUNFJUI1JUNFJUI5JUNFJUJGJUNFJUJEKyVDRSVCNSVDRiU4MyVDRiU4NCVDRSVCOSVDRSVCRCwrJUNFJUJGJUNGJTg1KyVDRSVCQyVDRSVCNSVDRiU4MSVDRSVCRiVDRiU4MislQ0UlQkYlQ0YlODUlQ0UlQjglQ0UlQjUlQ0UlQkRceDI2bWxyb1x4M2QwYTRSaWRPQXl6eThPbkliUWFoLU9USEZpUlI0cktleVNQRHNjMDJFRUdhZG9EQ3FwdUZWdFRKV2JxQmVDam5vcDI2aEpyenY3cnhNLThrR1hjQTBrV25VZFBBbWJNYVFJMGFqeHRZQi1jcmdEcnNhNy1ITU9QZHZrOVp0S0pvaUZTWVd5VExabmJZWWhfYXY5VU1ceDI2bWxyb3NceDNkTEJxNW8zZXhXZVlceDI2bXJjXHgzZENBQTRnQU5RQVdBQWFBQndBSmdCQUtBQlJxZ0JBTEFCQWJvQkFRSFlBUURnQVFEb0FRQVx4MjZzY2FfZXN2XHgzZGM1YmUyMGRkNTVlYzRmOTlceDI2bWd0eXBceDNkOTBceDI2c25yXHgzZDE="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "https://vocab.perseus.org/rr/urn:cts:greekLit:tlg0...",
+      "link": "https://www.google.com/goto?url=CAESjgEBxCJF1xSZHDSPUROsLycJOoLToa4VvIvnknh0Nz5_lgr8SlypWDSfZKqAOoYHDfXdtyzpiCdu63u_i5d1IP4o4owLJEw-HrbAry1fv54AW7ssRbWb-QH9Dis-yP1hDf3pKjpA7W-JmNyGqO8Cni8qpcvmtH3sU0AqXffWQtIxXGlmbNumRE9j0d23cvug&gsessionid=SxjOqQCpBn8DEz0oNOmBdM_Oii6ihtWNx-NOfwsqHWTRCPD07iKBdQ",
+      "link_token": "uNdqK5KzJik9s-egd8fsvAbpYMJl9ZQaJfrZgidnTrBnsWtD2PEGodyjVN-xaUWuMf1eDfSA1YIQgKSv1Digfz2C81-_BN2TfzVB5mAzGeU6Chj3c0xi-p4OskmyMlU2Ldl7mOYjSplVWQo1N6xaoB3v0WqMK0DKHRkdvO26wnWl8RZ3L7_zZBtvVq5beWrfbDK8S7284aGtGlaRDFCaxXxIDFAFobhOsS41VLeN72hwur5qwSg0df0NwA9svXJhxJTOPSuQS0vgKcprd5_oEQ--vj4rCXR4J9IIe3qB--b4fWWRICvTTiAxF7Vw6yog",
+      "source": "Greek Vocabulary Tool",
+      "domain": "vocab.perseus.org",
+      "displayed_link": "https://vocab.perseus.org › urn:cts:greekLit:tlg0003.tlg00...",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 2,
+      "title": "θείην",
+      "link": "https://logeion.uchicago.edu/morpho/%CE%B8%CE%B5%CE%AF%CE%B7%CE%BD",
+      "source": "Logeion",
+      "domain": "logeion.uchicago.edu",
+      "displayed_link": "https://logeion.uchicago.edu › morpho › θείην",
+      "snippet": "Examples from θεία ...ὀρθῶς γε καὶ ἀληθῶς γένος εἰς ἀρχὰς ἔλθῃ τὰς πολιτικὰς ἢ τὸ τῶν δυναστευόντων ἐν ταῖς πόλεσιν ἔκ τινος μοίρας θείας ὄντως φιλοσοφήσῃ.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAVFBMVEXv5L3w5b706cHf1bFcWEn57cX26sKMhm8AAADj2LOzq44rKSI0MSnWzKk3NSyspIgaGRX/88lybVqknYLJwJ9kX096dWEQDwxMSTy9tJVXU0VEQTZ+ikwfAAAAj0lEQVR4AcxPxQHDMAzMyXRh5v3nLHPlvitmSP4bID9yxrpo0gemiA4lg48kJctJibS6oqxY6zehbNqaldPP6Xov5ACtMSFwunfUWqWffIKU6jduLnGSo/aNDJW7KO0bZzO5aOUbpLcGqVm4j1zbLe01acjV4TVnNnIyODfuJMPbxRD/OANIooAzHDdIEyMARWMEXLF43u4AAAAASUVORK5CYII="
+    },
+    {
+      "position": 3,
+      "title": "Greek Prose",
+      "link": "https://www.google.com/goto?url=CAESbAHEIkXX18jlyqWiIAV4hS-C6XvljSxbpFd01AIuZaCUhFp0-dsZ2GvhEpGF3NunVVVHEDW54fedkijRLPLlghkqXWdMgBVr5K00CuOrekOGirkTxXhsRw3TUCVYU55H4NYmIPm0dddkMCdguw&gsessionid=SxjOqQCpBn8DEz0oNOmBdM_Oii6ihtWNx-NOfwsqHWTRCPD07iKBdQ",
+      "link_token": "eQT5gFtex-7Ps-uiEshmZDc-6M25EjUMkeXl9BgJfaBYUJOssNEsfSn3mwCj1wyweCjJ_1ebmHGrxK_1JXOE-YIGVJiikIldTfn6923tKoWqASEwK2EdiUuqssmjrYqwmaZav92CZWj4UIrMKK71u7guU_qlfihipzERVCr8VicIt-bw_jjaz6Pht7eemV4goDGbdk7H2hYU1UByXZSTpmLc--neMr21u8xVjVpuo_--iDk7FMZWHOUQwnZHQMdN0w",
+      "source": "sententiae antiquae",
+      "domain": "sententiaeantiquae.com",
+      "displayed_link": "https://sententiaeantiquae.com › tag",
+      "snippet": "Once the messenger has arrived to his destination and he has rested for the night, let the intended recipient remove the stitches from the ...",
+      "date": "Mar 26, 2025",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEU4WOk3V+ksUOgfSegaRucxVOkoTugtUeikr/Pn6vz///8WROeeqvLV2vmDk+/y8/1UbOvu8P3e4vq4wPUALeY9XOkjS+iosvP4+f7ByPcRQufR1vkAOueUofHK0Phvgu12iO5ZcOvc4PqJmPCyu/WPnfFddOxGYuplDsAWAAABOElEQVR4AbWRRWLDQAwApUV71htGUzj5/wvLGLi1cx2x5I9QfSSMdd47a+4EhFiUAGURw3VaqsgDSUkGmSrpL+fycGSjimi0o3F2P23Kk+RF30bSMCWnH/2q8SzMdb5Iyc/DEqi++moEVus6A+PKFgBRP6R5nbNpJXVQuLfQvjAf0pabMXhVD+MkpoNtaT+kIxbQRbEN7LwumCxwHy099Rz2VuIBjkESVYvXT5nsHt6WYJjEMq8/pTjm5gSdceMjnM22dHPc10CDGGBfb9c7ONZ9txh8DWSK7BY9hH5TDxnO8C5/raKGXdjCaezCEg77tOP7caZbuXrFahr0AhzqVWfki9SU7essXtwE2rJJIj/tasu4FgknJsMv92k76OfOXV53+nKfmNDtASZdMHKDxoWz1i2iyj/zDLQeE7ps+rsUAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 4,
+      "title": "https://el.wiktionary.org/wiki/Special:Contributio...",
+      "link": "https://www.google.com/goto?url=CAESdwHEIkXXmiBwF3-gQOQtMJK0CapR6Wj1Pu09nzn6W3iDrmBAKKgdqajXqnGrttKs8Ipomve0o9QoZKApl7wVGoQETm855o88jdVU3MpeK2G_tl2q4GixH8SYiCma2kHiyGgtyhGor5eVCOUd5rx4sIZb101UvlPc&gsessionid=SxjOqQCpBn8DEz0oNOmBdM_Oii6ihtWNx-NOfwsqHWTRCPD07iKBdQ",
+      "link_token": "e1iK-0TojM0L2xoQT1j3qV4e8Pl5fgLCgMZXchwQwyVYGBMtBwqsuA_8UXpMFMi77yZvyAb-MNCPXYxi2-2pS2i9w95mazguU6zWi4yxqOxbumSi5aXvlr_NGT4Bn08YOArx1XqcGE7T8tCpftkVUaBCIACByHSmxGQdaAp1nFfvI8hLRDsvsqg85XPSOR5m0mR7YJ7fOIYwN_ULNtvs-eIZzvrtuoOH4uqd6lbTPHM--sS1iixkv4v2wL7Tx--onYZ143FpnousqdXtLDnsA",
+      "source": "Wiktionary",
+      "domain": "el.wiktionary.org",
+      "displayed_link": "https://el.wiktionary.org › wiki › Special:Contributions",
+      "snippet": "No information is available for this page.",
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAGBQQHA//EAC0QAAICAQMBBQgDAQAAAAAAAAECAwQRABIhBQYTIjFRI0FCYXGBkaEUJJIV/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMFBP/EACARAAICAQMFAAAAAAAAAAAAAAECAAMREiExEyJRofD/2gAMAwEAAhEDEQA/ALnaZG6b1d4T1K/FE9mKVf7Mp9g2RJwG+Bhu+ja2SLMJo54rVzu7yWpK8i3ZPAscZC4GecjxAk8btbO15ibrNNbNiSGBqliE4VSG3Kvh5Hv9/wBM8ajS2JL9GlJLMf5NanVFSsjbBZEuElHH+ePLHOqCltIMnMArsPvMu9nOo3L3S4JkFieHMUAkSYmUNtAd3DEYAJJ88ng40tSXYuAceuTrnXZ6WXp/UGWh1APLbS1CFc7kDROFiYgEZ8I/Hlpv/wBKDC988m4gHKqcH96Tcjs2w2muhs1jPML9uIrFxkjpVZJXjhk2yRENsk3KR8Q2+R8XmOR79e3Q61OSxatS/wAqpNLfzCC+C6Hae78yMHByNV56STR0XZ3Bwhbbj2m5kDbuOch2H39cYMRSsKIKbU3QCQBVHhPdsvHyxn86Wt2penj3FHts1zb0npLi3ZWmYTDSm7unNFhyBKyu+fUovAPoTq/RitPXVZZAkqBVcFfftB4wfnj7aKUUVaLKgCxrC8vdqoC5EDEcD0J0/wClYNNXwMuxJ/OB+gB9tC1rh4VOOJ//2Q=="
+    },
+    {
+      "position": 5,
+      "title": "text discussed by Tasos Aidonis",
+      "link": "https://www.google.com/goto?url=CAESngEBxCJF12b6mkADfQBPFkAWXq21y8ah_SpPooA0lx5f7CKGS2tTWcFZooiZUHIrEB0kMbqlGTEq1Ntj9MJtesk8tVccjuITnwUYnFHX9vz9uZnBBnyTIJy6VmFEk2Mq8hIV2T-NZ9BzZgGv5CO6LlDuxz3gRgVM3-DgZfXVfl1rY1QK6i6K2xlfCULemcMcGYnAk9ZRo1fMnfPw6nrEsg&gsessionid=SxjOqQCpBn8DEz0oNOmBdM_Oii6ihtWNx-NOfwsqHWTRCPD07iKBdQ",
+      "link_token": "izEzkCCA7-K3pIh-S3J_WM2jMnzRNT73E3EnAuDMjkZjuGTjdwhFAvOGSVHUZRezNAlhfkxkwgv1hyfToDDvGr4asdBYDIvxymxqV0rS-Ign_daR3u9Txp15KbYC5JTRgUpFiWl8-WcfYOqzYNjO2WEMlOLtWc8o1xgcbgJ-lzxb7Op_gLldkGRl0ynFBakOUZZ1hpo379BPAwlVmSk7aCoTiXza3g9NEK8IGzAeZvUh4bzmb6PDUMGF9MX6W-tTnMiJR6AsczWu7En1cfHRZcnsCw7vX2Gg_ocI9ZImpUe7llgNRe4--g_Ps3s1iLR-Z9sTl--1RSwXDGUk_F2mhl5KyRoIw",
+      "source": "Greek Summer School",
+      "domain": "www.greeksummerschool.org",
+      "displayed_link": "https://www.greeksummerschool.org › 2020/08",
+      "snippet": "[text discussed by Tasos Aidonis] προελήλυθε μοχθηρίας τὰ παρόντα. www.greeksummerschool.org",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEVHcEwCO1oCO1oCO1oCO1oCO1oCO1oCO1oCO1oCO1oCO1oCOloCPFuAlxEXAAAADHRSTlMAKYKtnUhidcKQ4ggB8MmCAAABSUlEQVR4ASSJg04tABiAv4xrW//xlDkcc7jZdlN2Q27Mts0XyO6d4vgBADcJFmMMAIB3aLzUS3UOz89UNywqsdjeApBUZTVr4sbyq4cAvJRiB2joD44BvkWWglt00Iu69gqgQNML30JMb/3yqsHbPgxYExJ76Q/OwdM8AS900vAXz4hAku3l8GIuLXYWn2Qj73WAd+TZ9SwvnHGYHpSfq9J9COHBaFOBRdetPKhOgajA+yLixPaglUKlBl6mTH5YDoTkSoL7oSRMd57xFoZaUeSDI6Qo/hjoV6Ia3OWyrv72L2D6x8eacq+Szds5wL2gAo9qA99pLgf2owx4K5Tk4r0INFTlgF1t2OXFO/DMswKfHXW78AKs7UbAS6ET4IVSnDEAqfZw55CExkcUAuAWb5FUXWmd8i0AeNulVcLMOcDzv5+IprI6WA4AGjFN6VNLbuIAAAAASUVORK5CYII="
+    },
+    {
+      "position": 6,
+      "title": "http://www.greek-language.gr/Resources/literature/...",
+      "link": "https://www.google.com/goto?url=CAESrAEBxCJF1_X-mpqspBe-Ey3T4m6iUv2nBHll0mkOGJBKJWL8rYBhp6R2cK71fL7PyPRoeE4iEnnJwSzGZG4v76WzB0QO-2ANPCNMIoYUrpak9QD4TsKE1bPOf127ov8BTDuDXXiVGIRDFcWFhbRPxGERKvILRVej960PqHaPwlsnIFC27Lvu4LiQJuEbiXu99IRRp9NsAwr9Di7oF6dXtsTLp5AbXW_klzhJ_T28&gsessionid=SxjOqQCpBn8DEz0oNOmBdM_Oii6ihtWNx-NOfwsqHWTRCPD07iKBdQ",
+      "link_token": "wJr-OAIH3m1CFm8ApJs7TKI6CD2CgXcdKm57gvRPoJCEM-9uweESslhZ6_R288gm380t10YGpJI2Q0jSOyHTnqY_-FYa56Xb76i81q6V1wEuz9J_8prXfrZPc5Jv8JFF44pLiYr76OAHbPGW0ViF-weVp6JV7haN3lwVcmMxdM4VmFteN3tCyi9RjT-1rsCxv4gratNaOEJEy6m_0ZyU6CkFdMGLK3jlOzcr-em-UwCItSnlvGJZi23XPlbOyhNU5duX7HO0zDFdPrN1_5CEd16fBlBhJcunkz_vQmY36n7UiTqRDYsfpcDc5_X6JLAvjel4DRwq5FI--52g_SMIpKnTHmIy9--keUjdtxjXmqFDANs8nnYvQ",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "http://www.greek-language.gr › br...",
+      "snippet": "No information is available for this page.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 7,
+      "title": "6.,4 ., 6 - Cyropaedia",
+      "link": "https://www.google.com/goto?url=CAESYgHEIkXXO4tv_Ed_mUifjgnFUGvzxW8V-Z4kMXUphNQsh-4d2qu3AYNtrnBZnV5_Ris-_1kpgxwQLMH01xBIc3vCySrsaWVlu3OF0wUbEnTHNVQErQnHkwwvGFmUdp_DlIIg&gsessionid=SxjOqQCpBn8DEz0oNOmBdM_Oii6ihtWNx-NOfwsqHWTRCPD07iKBdQ",
+      "link_token": "yERcRywi1A39Jq2aJhb7VUdWxf1QkNkwCRm820w-x35yhNiUyhBZLa9jKxrjslJdFFGnWseDfy20OY4jD8WURjeiCsZIycX-FzScQf7lgf_Zyisr6TCl-tQcJ67dgKqwdCQf0-2x9bo7RXgMJfMfuhkyKvugTSHUsfV-AczgxErwXPP8mutTx8czIuDIaIJZYItbAQ--aEGgMQV75rnysALB--nUzCPCp0zeXa2JBKDmDf3Q",
+      "source": "Textkit Greek and Latin",
+      "domain": "www.textkit.com",
+      "displayed_link": "https://www.textkit.com › ... › Cyropaedia",
+      "snippet": "if I say it as follows: ἐπομνύω σοι τὴν ἐμὴν καὶ σὴν φιλίαν βούλεσθαι ἂν μετὰ σοῦ ἀνδρὸς ἀγαθοῦ γενομένου κοινῇ γῆν ἐπιέσασθαι μᾶλλον ἢ ζῆν μετ᾽ ...",
+      "date": "Mar 22, 2023",
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyUrNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAADBgcF/8QAKxAAAgIBAwEHAwUAAAAAAAAAAQIDBBEABSFhBhITIjFBcVGBkSMyQrHw/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAHREAAQQDAQEAAAAAAAAAAAAAAQACAxEEEiFRE//aAAwDAQACEQMRAD8AmdOhEahvXiyQLkRp7yn6e3X8HkAa02S27RDYqlaxXkIAaMftbHKtkjun59fXOh7hQuXrdfa9vheTwoQwTIAHtkk8DgD/AB0xdktgt7bDcN6qqyyFAv6gOVGcjg9dFlkAbsT3xJijJdqBz1K8q157b0txgSvaBwJYiCCSOPT56/Y6xrVeSpO0MvDL9PQ9dOPabs3eNSzeKM+LDPh5g5igCnJJODyee7zj85ClGvdggludxpfDALY9fz99aZK2rCy+Ik0tnsbuUMkMnmEcsqKkjY5VlzgnocnTbF4ydyMs0o7ufEZcKw6ke/8AepNtrPW3SJ68jRtznun1GDwemmKvvNyRZUD+GsZwBGzLn550efGJdYSIMga0U5X9xFVZMp5gPKGxl/gfTrqV7juEktgLRlCQRKI14Hmx76LZ3OzcvLFIwWMyjvKv8ufcnk6PW2+CQSFwSRIw9tWx8b5iyoT5G/Av/9k="
+    },
+    {
+      "position": 8,
+      "title": "α΄. Σημειόν εστιν, ού μέρος ούθέν",
+      "link": "https://www.google.com/goto?url=CAEScgHEIkXX207RK9yTofRuydMYqhRS9swwOv81v6Se1zRUctGGjKivjify653lWkhzReFz0jTCn-Sy3a9aP4vDHi4Jxw2YK4VDGJq5HhbGjk3yeyLb9nvvrCUPNDDd4FuvNryuYHNh7XkYXqaVxRNjMtdr8g&gsessionid=SxjOqQCpBn8DEz0oNOmBdM_Oii6ihtWNx-NOfwsqHWTRCPD07iKBdQ",
+      "link_token": "YbWvWs3Xd5dvUMouQSYOaLTm-RZpif5vs9UiOaFuDQcuTxlQWgX4M3aWpuMoNZLpQx3oaQA-uh9rSuUkN32y0dP4L5TVlYOeX3jsV_11TqjxzvJsfafFmm9yf6wBxBaBxHYwZWEONFKGqxM0fHSTyVEsVurAF5I9of0i1C6mHBriuzmL_JTgGEEGsLAeH8B_O-fBEsBAnLlB1FqNZoUZ5T635pRRBKw8tkg--pr4bv_XnrbEkTPLh--r-4dkTikpltw4gnAE1GR_w",
+      "source": "David Boeno",
+      "domain": "www.davidboeno.org",
+      "displayed_link": "https://www.davidboeno.org › firz",
+      "snippet": "α΄. Σημειόν εστιν, ού μέρος ούθέν α΄. Σημειόν εστιν, ού μέρος ούθέν Manuscrits. Codex Vossianus Graecus.",
+      "snippet_highlighted_words": [
+        "εστιν",
+        "μέρος",
+        "εστιν",
+        "μέρος"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAllBMVEX////+6Of91tbvXVzqAADsY2PkAADnOjjgAAD/+PfoIh/hAAD6yMf3vbzzaWjzra3/7u34n5/zpaX0qqn1tbb2wsP3zs7ufXvoS0r6AADzAADsAADnAADcAAD6Wlr5MzTwAAD+39/vMzH/xMP+Mi//AAD/REL8AAD/6ur/qKf/kpD+S0r/a2r/g4D/eXf/r67/VFT/n5/dnrZ2AAAA3ElEQVR4Ab3ORQLCMBBA0dTd3XUILve/HBlcu4Nf72uTkD/E8RMoiBMoyROoqNpX0w1DNL+YZRiGbH9BRzVk4wVdz/f9IIzixGClvBlZDnvDnzHLi1JWq0o1sOp8I18m12pUDFFVDZk94Y9nbdqyxDeYocplq8TksaJEPJ/O8lAnlJf6gbxXluIp7oOFpVgULct232zM26LN87zNM3j9dwZZ3macS7Mso3T+ZAsAoHRJyADY6gnX+GqDd2d9NBdgtt2d74f1HsC5G8fs8dsNwOH2EB8O2vMSDiH5YUfOHxRkbc2z9QAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 9,
+      "title": "25175. εἰς - Greek Vocabulary Tool",
+      "link": "https://www.google.com/goto?url=CAESlQEBxCJF12_ZmhiBRo3zC_PnoXshT9jq20FNIqBcGMUU7B1-O2Rek-qhhSRqHs66vgTrXKJ0ldF5CDMt7fCbkJbwJv3i0K4U8DYeChAbfrUHoR-kKxWp-5LNoH4GKOkokjWXhJwXz_RFApJ6lv6_iolrwimb3GhQINf6xAhUi0zv3l3IdGu4Fpc_-S28UxV4C61DTEAQNg&gsessionid=SxjOqQCpBn8DEz0oNOmBdM_Oii6ihtWNx-NOfwsqHWTRCPD07iKBdQ",
+      "link_token": "6vU73xblaHFP64XbX2HGCP0elgUDXPRNSLlhEQ5Tw_bt6MXKiU-FnB47Hf8fQO60GbUyGVrMdGAbnJXw6K1GI4gWljIKnQh1TluFdC71hLkjirgdkpIrefve20EkoZZwBadQa_YjulLs4p2O6aXvJ74A9c6agmPTrbsOX2GC9L-6CUVk4LrKAO29pXj-k35UYB6_MQJmw9nQ-sJxhD6A0xtZLXgs7vsFnqSip__PiwuIOtGDVhQBCQWJYiv7yTIiO3v8bjoO1kdUWQiTOZNmgUD6CmVJVbABTp0--_wD4IIhsHRqITHKf--u5UOpsSApZ5fllEhrRNdLA",
+      "source": "Greek Vocabulary Tool",
+      "domain": "vocab.perseus.org",
+      "displayed_link": "https://vocab.perseus.org › lemma",
+      "snippet": "Greek Vocabulary Tool … indicates part of the core corpus work count freq. log ratio pseudo-Aristotle De mundo. Comparison of Lycurgus and Numa 10"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%83%CE%B7%CE%BC%CE%B5%CE%B9%CE%BF%CE%BD+%CE%B5%CF%83%CF%84%CE%B9%CE%BD%2C+%CE%BF%CF%85+%CE%BC%CE%B5%CF%81%CE%BF%CF%82+%CE%BF%CF%85%CE%B8%CE%B5%CE%BD&oq=%CF%83%CE%B7%CE%BC%CE%B5%CE%B9%CE%BF%CE%BD+%CE%B5%CF%83%CF%84%CE%B9%CE%BD%2C+%CE%BF%CF%85+%CE%BC%CE%B5%CF%81%CE%BF%CF%82+%CE%BF%CF%85%CE%B8%CE%B5%CE%BD&gl=us&hl=en&start=10"
+  }
+}

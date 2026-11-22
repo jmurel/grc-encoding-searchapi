@@ -1,0 +1,147 @@
+{
+  "search_metadata": {
+    "id": "search_JoY68Me7qNsdBJw8Nv0axRVb",
+    "status": "Success",
+    "created_at": "2026-11-22T03:34:43Z",
+    "request_time_taken": 2.14,
+    "parsing_time_taken": 0.03,
+    "total_time_taken": 2.17,
+    "request_url": "https://www.google.com/search?q=%CE%94%CE%B1%CF%81%CE%B5%CE%AF%CE%BF%CF%85+%CE%BA%CE%B1%E1%BD%B6+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%AC%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%E1%BF%96%CE%B4%CE%B5%CF%82+%CE%B4%CF%8D%CE%BF&oq=%CE%94%CE%B1%CF%81%CE%B5%CE%AF%CE%BF%CF%85+%CE%BA%CE%B1%E1%BD%B6+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%AC%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%E1%BF%96%CE%B4%CE%B5%CF%82+%CE%B4%CF%8D%CE%BF&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_JoY68Me7qNsdBJw8Nv0axRVb.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_JoY68Me7qNsdBJw8Nv0axRVb"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο",
+    "total_results": 54,
+    "time_taken_displayed": 0.27,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_Z2xceDNkdXNceDI2cHdzXHgzZDBceDI2aGxceDNkZW5ceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZDAySUNhNVNDTzllSzdOWVB3YmU5aVE0XHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9HVmtPdUhUUlNVMXVuOVJKd1c4RFVXT0dZNWVBL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMTUwOTM3OCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJQUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUFBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBQUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9FckIxbW8wckFaYTh4cHhXNjBSS0ltRXpyWjh3P2NiJTNEMTIxNTA5Mzc4LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNBQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUFBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBQVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FBQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0Z5T1h1TXpUM2pfc1I1NG1XLWJaSFo2VW1qOEEvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIxNTA5Mzc4LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUNFJTk0JUNFJUIxJUNGJTgxJUNFJUI1JUNFJUFGJUNFJUJGJUNGJTg1KyVDRSVCQSVDRSVCMSVFMSVCRCVCNislQ0UlQTAlQ0UlQjElQ0YlODElQ0YlODUlQ0YlODMlQ0UlQUMlQ0YlODQlQ0UlQjklQ0UlQjQlQ0UlQkYlQ0YlODIrJUNFJUIzJUNFJUFGJUNFJUIzJUNFJUJEJUNFJUJGJUNFJUJEJUNGJTg0JUNFJUIxJUNFJUI5KyVDRiU4MCVDRSVCMSVFMSVCRiU5NiVDRSVCNCVDRSVCNSVDRiU4MislQ0UlQjQlQ0YlOEQlQ0UlQkZceDI2bWxyb1x4M2QwYTYwMlUxcmtjZFZWSnJPd1A2UGpTakpKdVp2SElzZDZMUUc2SFdocl9waUJoMFJYU3h2WmN0UUFfQjQ0UHFKZ3ZsekhRUEJLTDMwMWhjeXpKbDNRdEdGZ096S2p6SWcyNWg4cEtUVUlERkRwNFBLTFhILUtsaTdpcnJCclRIYUJSNFN1LXQxV29GeTh3SFpzbVFceDI2bWxyb3NceDNkcHVTYzlzVnZLcGtceDI2bXJjXHgzZENBQTRnQU5RQVdBQWFBQndBSmdCQUtBQkFLZ0JBTEFCQUxvQkFRSFlBUURnQVFEb0FRQVx4MjZzY2FfZXN2XHgzZGM1YmUyMGRkNTVlYzRmOTlceDI2bWd0eXBceDNkOTBceDI2c25yXHgzZDE="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "https://scaife.perseus.org/reader/urn:cts:greekLit...",
+      "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.1.1-1.1.5/",
+      "source": "Perseus Scaife",
+      "domain": "scaife.perseus.org",
+      "displayed_link": "https://scaife.perseus.org › reader › urn:cts:greekLit:tlg00...",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 2,
+      "title": "http://www.perseus.tufts.edu/hopper/morph.jsp?l=pr...",
+      "link": "https://www.google.com/goto?url=CAESnwEBxCJF1yvipna5Hu96yXOo8Co1S-M24pVmKCA9MGGccy_9iA2hs6SuhJFkrGdYRZw2HFYUMhPMLsW1xhdj_TdBCSJS0kYzTRZjPRnC4ItGoe9TNf5h1Pq-zMqXbjluqkE9K8Ek1n0TTNFUV4TBniUueq8s69cxCGOJMalk9xDSKQDnU8olehulFUmI8f26_MGRgfhNo8F1_35td4viWE0&gsessionid=u6bKqoh97e1z0pNBe8KeQHjUExazAivV8kqVR_xMDd7sQ9_ne2Q6mQ",
+      "link_token": "AjJ01yQ1kM-iIhBiNhYP0Frb8fmWGoVTQXefgtdTY7xnBazRM58rgVeARjyrz6g6q7XBXih7S2N9lBnlTVjmtLVjf9-amx3hd4NExsY1I04NFfoNSWY2OXEXK_9eLc1FwWdPk66ZCy-2tU-xx7ehBEDQfdLGzrlbUdFal-o91kHeuuU9SI3dw63leK1Syi3oITM954Jla6T9q5PBfK8hqorFDq4DOSL96qEEx4xZcTYHANzwB2oDxLeaQixhEL0PVZD_gC_BfqlCiunLk7d6ITla2VDdRmD6XhT-_BGv-CWk5Jc5BVfL--XX02oIyeI7PWeroJ--VmeXx2FSICvuwcNK3EDnmg",
+      "source": "Perseus Tufts",
+      "domain": "www.perseus.tufts.edu",
+      "displayed_link": "http://www.perseus.tufts.edu › hopper › morph › seis",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 3,
+      "title": "Alpheios Texts",
+      "link": "https://texts.alpheios.net/text/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2/passage/4.8.26-4.8.28",
+      "source": "Alpheios Texts",
+      "domain": "texts.alpheios.net",
+      "displayed_link": "https://texts.alpheios.net › passage",
+      "snippet": "ὁ δὲ δείξας οὗπερ ἑστηκότες ἐτύγχανον οὗτος ὁ λόφος, ἔφη, κάλλιστος τρέχειν ὅπου ἄν τις βούληται. πῶς οὖν, ἔφασαν, δυνήσονται παλαίειν ἐν σκληρῷ καὶ δασεῖ οὕτως ...",
+      "snippet_highlighted_words": [
+        "καὶ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEVHcEzT7OwGITUGITUFHjPP6OjT7OxMXmgHITUGITUGITUGITXW7+/T7OzT7OzT7OwGITUDGzHT7OzT7OzT7OzT7OzT7OzT7OwAABNwg4nm+vrT7OzT7OzT7OzT7OxugYeTqKwGITUGITWHm6DT7Oze+Pfb9fXj/fzX8fAXLD3W7++Gmp4AHDGTqKzF3d6lu702SFWar7O2zc9Za3N5jJLa8/NGWGK709SOoqZBUl0nOkkKIzYADiqyyMqgtbisw8VleIAVoVGjAAAAJHRSTlMAjgtSyv7W/uQcPLohLOx8aPBXrD85FcN5+Keb5rjJt2uNgdlPtbVPAAABV0lEQVQokcWS2VbCMBCGI7QEWkFRxH2f7EnbdKMLAu//VAaOSpF7nas5853J/DN/EPq/uLicAID/eHGMTuAnJuNDNN5VpeScS5fMumy2JQWNYmPsgnKA+Z7NHaNppnFeGZXpuICnPRy4PoxTFlmlVrRIYg6nnYG0XrEPkdn0w4iUaoAzVx/1d0LlIiNx4xNVJrkUvs2LO9QfDs8dvAZeWSJAisqHKokwE/7tMhx9jeQqJktmFQUg2QJb0by7ei/s7zqNIUm0SCilUS40tuoOnXvTzsyaGa01NoIltm2Gr+7ZIERXTq0AssERYzJVbSOqertK4A17CE1ArktCVqUQdb5WK5XmN29eGwZbRdtWVUaEMRKtVdnq1q0RdCyh62Spl7q+NWkjMZp2Ln+5O3xBaVFwIsgUeV1fzvZ2FpsXb3To6OngG/Lnm1Hv918Y3z84NHAnP0J/G59LlDa5a7t/AAAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 4,
+      "title": "Alpheios Texts",
+      "link": "https://www.google.com/goto?url=CAESnQEBxCJF17eJvp2fEeOkrRBz8iNKQNVSvus6aO1t6bVbZesJFVHt3EfrnUgZ-2AqZ6Nj8-VD_8zZl5EI5_z4b4HliPuMh8MUcQOJmxKg9RR2FcqEQbF5jh17pimXgQQvNUFKc7-qx0NREGWv7hzBsN3QsGPnqAphK-l268KsKyrwQh5TlhDERmkv2_AOu3S0y2ks9ocyJ2IiXOOHOEsq&gsessionid=u6bKqoh97e1z0pNBe8KeQHjUExazAivV8kqVR_xMDd7sQ9_ne2Q6mQ",
+      "link_token": "-OT04U9RRiZAwdDCK118XPey0Myb9DhpmOfJSaOnyNybJsvk3KYcSsH3mJMHMsZalqK_3XdraFZapE4tkVfq2ddhrdA9H1XGSdd_pGQmlqdK2x7C5CoLIR1mVM0WSPHOuTmW11pm08swt37GEjBvUF1OBc7-TBOJ25C42Av0TaMa1ka8bvL-Rmvokz06wC61A1MuzTmUN_syPFIRYeC9PgG0bdQpedhbw-Xvzkn7wG-9jxn15Dl0bXPvUy4MhF3Fni9W1ebi_2BCp4NVZC1I0CDTRIMhtY-HGOQVX6dlvAs9G3DF--AlWleSv5IwlzioVK--2ptzcn8X7NFkf3zyz7uUGA",
+      "source": "Alpheios Texts",
+      "domain": "texts.alpheios.net",
+      "displayed_link": "https://texts.alpheios.net › passage",
+      "snippet": "ὁ δὲ Κορύλας, ὃς ἐτύγχανε τότε Παφλαγονίας ἄρχων, πέμπει παρὰ τοὺς Ἕλληνας πρέσβεις ἔχοντας ἵππους καὶ στολὰς καλάς, λέγοντας ὅτι Κορύλας ἕτοιμος εἴη τοὺς ...",
+      "snippet_highlighted_words": [
+        "καὶ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEVHcEzT7OwGITUGITUFHjPP6OjT7OxMXmgHITUGITUGITUGITXW7+/T7OzT7OzT7OwGITUDGzHT7OzT7OzT7OzT7OzT7OzT7OwAABNwg4nm+vrT7OzT7OzT7OzT7OxugYeTqKwGITUGITWHm6DT7Oze+Pfb9fXj/fzX8fAXLD3W7++Gmp4AHDGTqKzF3d6lu702SFWar7O2zc9Za3N5jJLa8/NGWGK709SOoqZBUl0nOkkKIzYADiqyyMqgtbisw8VleIAVoVGjAAAAJHRSTlMAjgtSyv7W/uQcPLohLOx8aPBXrD85FcN5+Keb5rjJt2uNgdlPtbVPAAABV0lEQVQokcWS2VbCMBCGI7QEWkFRxH2f7EnbdKMLAu//VAaOSpF7nas5853J/DN/EPq/uLicAID/eHGMTuAnJuNDNN5VpeScS5fMumy2JQWNYmPsgnKA+Z7NHaNppnFeGZXpuICnPRy4PoxTFlmlVrRIYg6nnYG0XrEPkdn0w4iUaoAzVx/1d0LlIiNx4xNVJrkUvs2LO9QfDs8dvAZeWSJAisqHKokwE/7tMhx9jeQqJktmFQUg2QJb0by7ei/s7zqNIUm0SCilUS40tuoOnXvTzsyaGa01NoIltm2Gr+7ZIERXTq0AssERYzJVbSOqertK4A17CE1ArktCVqUQdb5WK5XmN29eGwZbRdtWVUaEMRKtVdnq1q0RdCyh62Spl7q+NWkjMZp2Ln+5O3xBaVFwIsgUeV1fzvZ2FpsXb3To6OngG/Lnm1Hv918Y3z84NHAnP0J/G59LlDa5a7t/AAAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 5,
+      "title": "Κείμενα Αττικής Πεζογραφίας - Πύλη για την Ελληνική Γλώσσα",
+      "link": "https://www.google.com/goto?url=CAESpwEBxCJF19z_dibztrUaTuj2eBat664Z-MhldIfHK18etvnChifPYRG0tFzBPiWU1qPM9XVaLeQ6n0fEWbrNj3jMzv-sY4bKkGtR0O0-m6ApHKRjcuaQ7-UOZjtxmy1efC2QcPhSgovbWtW6mQq-gvgP1bS58Fs4AZr64A1c7jAWhA0mHX8jVUEZqXboS2GFh8uL3qQ-AMe-zUITZIM5r5uf0V2xEAZ9ug&gsessionid=u6bKqoh97e1z0pNBe8KeQHjUExazAivV8kqVR_xMDd7sQ9_ne2Q6mQ",
+      "link_token": "baY5ikx-ItTJzsx3IS50GMFUe6tPZXS_1hMtx8LZ4BEZ6VLzwC2VNBWQ27PSLsD520CZAcFaUR0UvboaGkDXup2IQCrgcYZYolUDf2fcFYD3g65DD8wPGZ3dOJDEH8zOlupxMnRYoFaNqWt_hq5FBV7T8QYe8rtdTq3POYdMHpLKJTnShKbNUrnETm5eQPQ1H3-LWj9oJ0M-hdxKzZW11ORQ78BAx7XHPO4ramPUx2epiVN8935NlMc3m9BgQW4yhVbx1tTLXvXados6C1HxfOXfF8IPs0wBswlbL2cE8fgC6hluviU409gMHzIK-oA8Dds--BUbp1wqQE3kod1YQ--Y4dV7junC7U05jtX5t7wNw",
+      "source": "Κέντρο Ελληνικής Γλώσσας (ΚΕΓ)",
+      "domain": "pyli.greeklanguage.gr",
+      "displayed_link": "https://pyli.greeklanguage.gr › ...",
+      "snippet": "Και συνήλθαν όλοι, εκτός των περί τον Νέωνα, οίτινες ήσαν μακράν των δέκα περίπου στάδια. Αφού δε συνηθροίσθησαν, εγερθείς ο Ξενοφών είπε τα εξής: «Ω άνδρες, να ...",
+      "snippet_highlighted_words": [
+        "Και"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAe1BMVEVHcEzTq4TTrIVfeYvkwZ7JpoTUrYfTrIXUrYXUromon5VuhZZlfo9jfI7TrIVqgZJifI5NZXZgZ2rSq4TTrIU+VmZifI46VGXXroYzUWTcsYcrTWOlj3hfeIpLYGxbZ21DWml4dG7AoH+GfHH///+Rg3Pq2cnauJfhx65q02KMAAAAFHRSTlMA9WXlCaBAhMMnFTWMvedGWLuTuQKEN8UAAAFYSURBVDiNlZPpcoMwDIQTEgq5mh4ytmyHM9f7P2ElHyQ4pTPVH2bYj5W0NovFP2uTFUX2NqeuiyX4Kn9lMniqcv2if8O0NoleAiit5okCQPfdAE/IcjI9fW+NROwfhMonDVRvhBCy1l503NYvtz8u1tSglgQIHIhQYC0ThQOqqlrlGhrSGTEXDRdE0xH4zvqOgKpFZJ0hQSLyg3txGB8OYHdhwBoRy8RNHeBeoVXaeTwATvwYHWTDpqOFUcFheyKg5jc9XO8wYADaOANvUZGzrNX1fL5FC8lb+CwPBJykwAswoGsRBwLwUYYhJCV0v4FukxGoVsHCajrOzs8gBxVyilFR0IhNY8Kakg2yeFL7cdMoGz7Up+M+OGLMSBirQ0oTj2b83unl5ELt3KQ198DOX6v01u723Gj1+ZWXAEmDtPLxrsxUlg6QVjFGNNdi+fpbTR22f+uT+gHl+jEZojKOqgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 6,
+      "title": "Alpheios Texts",
+      "link": "https://www.google.com/goto?url=CAESngEBxCJF1_8i9PE0qYSP_0mohTifvmUyZlSAD8AeklabA3nyjo_XXwBzizIpSKeHPQ540bCkCyHUwa2dwRFrayEhCk-JY1PMyVf1BVAeC6N2ZaVLzCMXJ2GEY8_u2v-be0zY7PDLNOYh9U8KAv9p3ZxNFHqVFmXJ3Zlqk4YuHEh89IGt5FDb8bop1TXHKWD0WMWA256byczM1OTpbuyXOA&gsessionid=u6bKqoh97e1z0pNBe8KeQHjUExazAivV8kqVR_xMDd7sQ9_ne2Q6mQ",
+      "link_token": "etxwSh8fMjj2d6QPkN5UCZb3qjKSKTIxpPep8eAxLd82TFZNWzEy0GiVar-2lFJj9e4tx1lLGNTRHtbq17bQmyqvR1xbH03ttHUSgUkZS5ETZuEHON6Y6-ZCnqcbNP353V5l3fnN8VnmHA5sCwNBF0VNCbDd7nkh6DtwNZDTBhjJKN1sx27m53kVd0wzyyzi-dvvBwvQ32jeWsoOdFih31qs9bJElRG1bbML9iKTLPLP0XB9zHitMDUu7mTm8aAj7lS0_alcm3mLFSbLyMuWP5NCeJRXXfocOp85ZiisVNjgKfA6VOs--0KaHOOfU5rJk7QD4--Sw1TdVIUMh7Qypu5qjgsVA",
+      "source": "Alpheios Texts",
+      "domain": "texts.alpheios.net",
+      "displayed_link": "https://texts.alpheios.net › passage",
+      "snippet": "Αἰγύπτιοι δʼ οὗτοι ἐλέγοντο εἶναι· ἄλλοι δʼ ἱππεῖς, ἄλλοι τοξόται. πάντες δʼ οὗτοι κατὰ ἔθνη ἐν πλαισίῳ πλήρει ἀνθρώπων ἕκαστον τὸ ἔθνος ἐπορεύετο. Alpheios ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEVHcEzT7OwGITUGITUFHjPP6OjT7OxMXmgHITUGITUGITUGITXW7+/T7OzT7OzT7OwGITUDGzHT7OzT7OzT7OzT7OzT7OzT7OwAABNwg4nm+vrT7OzT7OzT7OzT7OxugYeTqKwGITUGITWHm6DT7Oze+Pfb9fXj/fzX8fAXLD3W7++Gmp4AHDGTqKzF3d6lu702SFWar7O2zc9Za3N5jJLa8/NGWGK709SOoqZBUl0nOkkKIzYADiqyyMqgtbisw8VleIAVoVGjAAAAJHRSTlMAjgtSyv7W/uQcPLohLOx8aPBXrD85FcN5+Keb5rjJt2uNgdlPtbVPAAABV0lEQVQokcWS2VbCMBCGI7QEWkFRxH2f7EnbdKMLAu//VAaOSpF7nas5853J/DN/EPq/uLicAID/eHGMTuAnJuNDNN5VpeScS5fMumy2JQWNYmPsgnKA+Z7NHaNppnFeGZXpuICnPRy4PoxTFlmlVrRIYg6nnYG0XrEPkdn0w4iUaoAzVx/1d0LlIiNx4xNVJrkUvs2LO9QfDs8dvAZeWSJAisqHKokwE/7tMhx9jeQqJktmFQUg2QJb0by7ei/s7zqNIUm0SCilUS40tuoOnXvTzsyaGa01NoIltm2Gr+7ZIERXTq0AssERYzJVbSOqertK4A17CE1ArktCVqUQdb5WK5XmN29eGwZbRdtWVUaEMRKtVdnq1q0RdCyh62Spl7q+NWkjMZp2Ln+5O3xBaVFwIsgUeV1fzvZ2FpsXb3To6OngG/Lnm1Hv918Y3z84NHAnP0J/G59LlDa5a7t/AAAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 7,
+      "title": "Alpheios Texts",
+      "link": "https://www.google.com/goto?url=CAESnwEBxCJF1_VATKEaxfoqbe57CgBGJ3Amk2y7uOE6OcR89Da1rx6EZtqWA0deIrB3HB3Ox3NGKi_moyAUuyx0h3RFTjp4VIvLDWE8LPHcyQzdhrsXRlArmps8X-UTY1wN5UemZ4M0eROIBhOGGA3P_Mz9Q8bDssKm_PHifd7yvUcjJc1DcjBw0GTm8aIRwpTzkckF1Toj3eeZNszg5qEC-Xk&gsessionid=u6bKqoh97e1z0pNBe8KeQHjUExazAivV8kqVR_xMDd7sQ9_ne2Q6mQ",
+      "link_token": "NVT4iRyW2LEu-cir0qcGjFGr_1AHR_lQKwM8Fay5YG4yFKcVpdF1Uf85ii8IQpTa5Ph2HdNLBsSBe_RCEEG2mSHyYx0UBFBAQsDrc4V6tkLCDN5hnPalU4lQA15Ao1gOpnOTSVTZsQLtt5YriCTQ3J7q_swJn5n4NS5d4naJyz8-U-TD_wooyOYmIMyi9yHceuS9cUoCyHB_Rjl0Z0uDYeyQ2de3Lj40EhENyzJCSrZW8JVHgQT4DpLWdkxfWQb-xSTweTmPHPIQsuNPN98xtMU1vPsDfgBgqp0rD5BU5YTJSDC9lIf2--CYQPY8HDz75hSAps--SeZcY6GznjdVJAGl3ENBcg",
+      "source": "Alpheios Texts",
+      "domain": "texts.alpheios.net",
+      "displayed_link": "https://texts.alpheios.net › passage",
+      "snippet": "μετὰ ταῦτα Χειρίσοφος εἶπεν· ἀλλʼ εἰ μέν τινος ἄλλου δεῖ πρὸς τούτοις οἷς λέγει Ξενοφῶν, καὶ αὐτίκα ἐξέσται ποιεῖν· ἃ δὲ νῦν εἴρηκε δοκεῖ μοι ὡς τάχιστα ...",
+      "snippet_highlighted_words": [
+        "καὶ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAw1BMVEVHcEzT7OwGITUGITUFHjPP6OjT7OxMXmgHITUGITUGITUGITXW7+/T7OzT7OzT7OwGITUDGzHT7OzT7OzT7OzT7OzT7OzT7OwAABNwg4nm+vrT7OzT7OzT7OzT7OxugYeTqKwGITUGITWHm6DT7Oze+Pfb9fXj/fzX8fAXLD3W7++Gmp4AHDGTqKzF3d6lu702SFWar7O2zc9Za3N5jJLa8/NGWGK709SOoqZBUl0nOkkKIzYADiqyyMqgtbisw8VleIAVoVGjAAAAJHRSTlMAjgtSyv7W/uQcPLohLOx8aPBXrD85FcN5+Keb5rjJt2uNgdlPtbVPAAABV0lEQVQokcWS2VbCMBCGI7QEWkFRxH2f7EnbdKMLAu//VAaOSpF7nas5853J/DN/EPq/uLicAID/eHGMTuAnJuNDNN5VpeScS5fMumy2JQWNYmPsgnKA+Z7NHaNppnFeGZXpuICnPRy4PoxTFlmlVrRIYg6nnYG0XrEPkdn0w4iUaoAzVx/1d0LlIiNx4xNVJrkUvs2LO9QfDs8dvAZeWSJAisqHKokwE/7tMhx9jeQqJktmFQUg2QJb0by7ei/s7zqNIUm0SCilUS40tuoOnXvTzsyaGa01NoIltm2Gr+7ZIERXTq0AssERYzJVbSOqertK4A17CE1ArktCVqUQdb5WK5XmN29eGwZbRdtWVUaEMRKtVdnq1q0RdCyh62Spl7q+NWkjMZp2Ln+5O3xBaVFwIsgUeV1fzvZ2FpsXb3To6OngG/Lnm1Hv918Y3z84NHAnP0J/G59LlDa5a7t/AAAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 8,
+      "title": "Κείμενα Αττικής Πεζογραφίας - Πύλη για την Ελληνική Γλώσσα",
+      "link": "https://www.google.com/goto?url=CAEStQEBxCJF10P0dCh2Akzfd2oP_S07_DEnWo_q8WUGUH5RF8Pm35lyNDCPAapeYeFz7BgfhBLpZw7bkhEc0-2cQnjHh3xd_6JAupDdXjqNZtMz2SlDjdXWbYMk6JAzlGoTK3VjFwNkdKzC9sLNtrIgQxYv9FuzYkylDQ5Nrl42GGXDj4L7zv3luS6Z2IFHzH-p9H6YgBUonCH4d9P7A8bFyxrRViT0DpepPn5Ti41ccmv7NV5L9NEH&gsessionid=u6bKqoh97e1z0pNBe8KeQHjUExazAivV8kqVR_xMDd7sQ9_ne2Q6mQ",
+      "link_token": "zV_6px5end9TM-ehsf4hHNaGbpxY3VF-k960exqBW6Dx6W6_lAZwH8pX--acz_ZahzldzHO5jgoWft9RPmQHhPtxV9s86W5TRO3aX_rwtsV-8i8g86ShzLL6ElOymW7hnedgQrxbPE57cjVkGBnFmHJlkL7gqh1xAyxmloAy0D6eJrWHU7Cjgtu5RAIeLmwe_M7crWVtIBulZLtLTexTq4gUtsoKKx88PoK_AmHcKs6xheZv4f8qmfeSE8CwQ03yNkyurTycD6JisMxjDaKz1aoqQoIQe_FicjlTl0vnlTTo7po3Z4bDPDFXFukLIPTpzgKinhExCJUYhbyCh7YryzESZRk--Znnf3ECJr1HRZKab--Z56nw7wIs40Yhk2F6oVSsQ",
+      "source": "Κέντρο Ελληνικής Γλώσσας (ΚΕΓ)",
+      "domain": "pyli.greeklanguage.gr",
+      "displayed_link": "https://pyli.greeklanguage.gr › ant...",
+      "snippet": "«Μας έστειλε, στρατιώτες, η πόλη των Σινωπέων, πρώτα πρώτα για να σας παινέσουμε που είστε Έλληνες και νικάτε τους βαρβάρους, κι ύστερα για να σας συγχαρούμε ...",
+      "snippet_highlighted_words": [
+        "και"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAe1BMVEVHcEzTq4TTrIVfeYvkwZ7JpoTUrYfTrIXUrYXUromon5VuhZZlfo9jfI7TrIVqgZJifI5NZXZgZ2rSq4TTrIU+VmZifI46VGXXroYzUWTcsYcrTWOlj3hfeIpLYGxbZ21DWml4dG7AoH+GfHH///+Rg3Pq2cnauJfhx65q02KMAAAAFHRSTlMA9WXlCaBAhMMnFTWMvedGWLuTuQKEN8UAAAFYSURBVDiNlZPpcoMwDIQTEgq5mh4ytmyHM9f7P2ElHyQ4pTPVH2bYj5W0NovFP2uTFUX2NqeuiyX4Kn9lMniqcv2if8O0NoleAiit5okCQPfdAE/IcjI9fW+NROwfhMonDVRvhBCy1l503NYvtz8u1tSglgQIHIhQYC0ThQOqqlrlGhrSGTEXDRdE0xH4zvqOgKpFZJ0hQSLyg3txGB8OYHdhwBoRy8RNHeBeoVXaeTwATvwYHWTDpqOFUcFheyKg5jc9XO8wYADaOANvUZGzrNX1fL5FC8lb+CwPBJykwAswoGsRBwLwUYYhJCV0v4FukxGoVsHCajrOzs8gBxVyilFR0IhNY8Kakg2yeFL7cdMoGz7Up+M+OGLMSBirQ0oTj2b83unl5ELt3KQ198DOX6v01u723Gj1+ZWXAEmDtPLxrsxUlg6QVjFGNNdi+fpbTR22f+uT+gHl+jEZojKOqgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 9,
+      "title": "1",
+      "link": "https://www.google.com/goto?url=CAESngEBxCJF1_1MqlxScXnXZ-PRLX_aTFq-scGo54PPrxrFVJfRu-rBEhoXIuJb7wggdx1kAAX1EZxNZmNK2EcMLEbGp6nvY9gWGsNqnKX0XnCpBlqXSekv3eLuoqWqnJ86Rn-L6EB3NCOP44-7eYAZyu8QZwSstSQq8bNo6lqC5DBlZB2hz-4PsYbTknjbla7uki8fw_pMWOBEg78BG0wtJg&gsessionid=u6bKqoh97e1z0pNBe8KeQHjUExazAivV8kqVR_xMDd7sQ9_ne2Q6mQ",
+      "link_token": "nxVB25-3iKtgpZ4FcsWNhG9R3JdTbDFmO1UW0S99DH-7f23lRd5FER2XpjCuvsVhDKiZ-7IBnfmp8Gt2hinwfDKtwlxzKOu7I6lEMDObpAiWv387JzbeTh5zwm8Usy7tGuN-dvPTqPrYuAt1xXIX97rwBqzDu545vc09HkiU2FKgTpPiwtvegNqi276a2hW4gFPpu2qk7oEb4vFwNqE06nwSR3E38-3VrbxEbTOi72DWPXd-IEoDOw-93pDNWjouT5PvuKV-4KbHqDds7GLT8TXpkQZTLHGIpi-dqdBxMSz8lmqo0VU--abGO2ZC1ITWJVZ5w--bEpIuzDNqX2MfEhh-0FJ2Q",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "http://www.greek-language.gr › br...",
+      "snippet": "No information is available for this page.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CE%94%CE%B1%CF%81%CE%B5%CE%AF%CE%BF%CF%85+%CE%BA%CE%B1%E1%BD%B6+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%AC%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%E1%BF%96%CE%B4%CE%B5%CF%82+%CE%B4%CF%8D%CE%BF&oq=%CE%94%CE%B1%CF%81%CE%B5%CE%AF%CE%BF%CF%85+%CE%BA%CE%B1%E1%BD%B6+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%AC%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%E1%BF%96%CE%B4%CE%B5%CF%82+%CE%B4%CF%8D%CE%BF&gl=us&hl=en&start=10"
+  }
+}

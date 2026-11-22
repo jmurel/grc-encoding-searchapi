@@ -1,0 +1,144 @@
+{
+  "search_metadata": {
+    "id": "search_mMjwVJvBznTDzJxEOvynp5OY",
+    "status": "Success",
+    "created_at": "2026-11-22T01:45:50Z",
+    "request_time_taken": 1.38,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 1.39,
+    "request_url": "https://www.google.com/search?q=%E1%BF%A5%CE%AD%CF%89%CE%BD+%E1%BD%81+%CF%87%CF%81%CF%8C%CE%BD%CE%BF%CF%82+%E1%BC%80%CE%BA%CE%AC%CE%B8%CE%B5%CE%BA%CF%84%CE%B1+%CE%BA%CE%B1%E1%BD%B6+%E1%BC%80%CE%B5%CE%AF+%CF%84%CE%B9+%CE%BA%CE%B9%CE%BD%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CF%82+%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%8D%CF%81%CE%B5%CE%B9+%CE%BA%CE%B1%E1%BD%B6+%CF%80%CE%B1%CF%81%CE%B1%CF%86%CE%AD%CF%81%CE%B5%CE%B9+%CF%80%CE%AC%CE%BD%CF%84%CE%B1+%CF%84%E1%BD%B0+%E1%BC%90%CE%BD+%CE%B3%CE%B5%CE%BD%CE%AD%CF%83%CE%B5%CE%B9&oq=%E1%BF%A5%CE%AD%CF%89%CE%BD+%E1%BD%81+%CF%87%CF%81%CF%8C%CE%BD%CE%BF%CF%82+%E1%BC%80%CE%BA%CE%AC%CE%B8%CE%B5%CE%BA%CF%84%CE%B1+%CE%BA%CE%B1%E1%BD%B6+%E1%BC%80%CE%B5%CE%AF+%CF%84%CE%B9+%CE%BA%CE%B9%CE%BD%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CF%82+%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%8D%CF%81%CE%B5%CE%B9+%CE%BA%CE%B1%E1%BD%B6+%CF%80%CE%B1%CF%81%CE%B1%CF%86%CE%AD%CF%81%CE%B5%CE%B9+%CF%80%CE%AC%CE%BD%CF%84%CE%B1+%CF%84%E1%BD%B0+%E1%BC%90%CE%BD+%CE%B3%CE%B5%CE%BD%CE%AD%CF%83%CE%B5%CE%B9&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_mMjwVJvBznTDzJxEOvynp5OY.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_mMjwVJvBznTDzJxEOvynp5OY"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει",
+    "total_results": 66,
+    "time_taken_displayed": 0.22,
+    "detected_location": "Pradera, Castle Rock, CO",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_Z2xceDNkdXNceDI2aGxceDNkZW5ceDI2cHdzXHgzZDBceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZFQwa0NhOTdZQ3Vtamo5NFBfY3owd1FZXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQkFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9FbHRxS3poMkx4ZWhYUFlaVUNUY3ZlSWFqLUdRL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMTUwOTM3OCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBRUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFDQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJRUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFCQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUVBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q2dRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBQUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9IUC1Va0dlR2JHOUdyQkh5Vk5GcVQzbnBWby1nP2NiJTNEMTIxNTA5Mzc4LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBRUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFDQUFBQUFBQUFBQUFrRUFBQUFBQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJRUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNCQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUVBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q2dRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBQVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FCQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0VfZnNlZXdxV3ZMdmk0UEJiS0RlY1FzY1NjbEEvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIxNTA5Mzc4LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUUxJUJGJUE1JUNFJUFEJUNGJTg5JUNFJUJEKyVFMSVCRCU4MSslQ0YlODclQ0YlODElQ0YlOEMlQ0UlQkQlQ0UlQkYlQ0YlODIrJUUxJUJDJTgwJUNFJUJBJUNFJUFDJUNFJUI4JUNFJUI1JUNFJUJBJUNGJTg0JUNFJUIxKyVDRSVCQSVDRSVCMSVFMSVCRCVCNislRTElQkMlODAlQ0UlQjUlQ0UlQUYrJUNGJTg0JUNFJUI5KyVDRSVCQSVDRSVCOSVDRSVCRCVDRSVCRiVDRiU4RCVDRSVCQyVDRSVCNSVDRSVCRCVDRSVCRiVDRiU4MislQ0YlODAlQ0UlQjElQ0YlODElQ0UlQjElQ0YlODMlQ0YlOEQlQ0YlODElQ0UlQjUlQ0UlQjkrJUNFJUJBJUNFJUIxJUUxJUJEJUI2KyVDRiU4MCVDRSVCMSVDRiU4MSVDRSVCMSVDRiU4NiVDRSVBRCVDRiU4MSVDRSVCNSVDRSVCOSslQ0YlODAlQ0UlQUMlQ0UlQkQlQ0YlODQlQ0UlQjErJUNGJTg0JUUxJUJEJUIwKyVFMSVCQyU5MCVDRSVCRCslQ0UlQjMlQ0UlQjUlQ0UlQkQlQ0UlQUQlQ0YlODMlQ0UlQjUlQ0UlQjlceDI2bWxyb1x4M2QwYTRPcmxJcjZxa0xCTUl4dms0VzdjaFREMnhnZ1ExYVF4c0VMN3pOR2c2c1kxVkc4c3d1ZnpJbzdqVWRaUms2ckRWODBFZnRaaUM0bHNRel84T0tIZnVKN1BGbTRwa2RveVYzdDgzT2x4dFRjYmNmME1EcGtRcXFyU2xsbmxOQjRWNGl5czc0dGVJam9NVzltZ1x4MjZtbHJvc1x4M2RUUkNjQ09nd2JHc1x4MjZtcmNceDNkQ0FBNGtBTlFBV0FBYUFGd0FKZ0JBS0FCUnFnQkFMQUJBYm9CQVFIWUFRRGdBUURvQVFBXHgyNnNjYV9lc3ZceDNkMTBmNTlkMjI3M2U1NWRmZlx4MjZtZ3R5cFx4M2Q5MFx4MjZzbnJceDNkMQ=="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "http://www.perseus.tufts.edu/hopper/morph.jsp?l=pr...",
+      "link": "http://www.perseus.tufts.edu/hopper/morph.jsp?l=proei%3Dpe&la=greek&d=Perseus:text:1999.01.0233",
+      "source": "Perseus Tufts",
+      "domain": "www.perseus.tufts.edu",
+      "displayed_link": "http://www.perseus.tufts.edu › hopper › morph",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 2,
+      "title": "7.41 - Perseus Digital Library",
+      "link": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc2:7.41",
+      "source": "perseus.org",
+      "domain": "data.perseus.org",
+      "displayed_link": "http://data.perseus.org › citations",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 3,
+      "title": "ΑΙΣΧΥΛΟΣ: Πέρσαι",
+      "link": "https://www.google.com/goto?url=CAESowEBxCJF10HFaIzDXa4isYJ2zvBY5tXUVd3qgQ5fQGr7rUGgLe171rz8rlQK1hhYlIaNlFW-1X0xUSflNPrXbV0641tes8eRH5P5aWJzqYk7Qoshi84UBgJ4kUpdVbm2CaXrKlzaNQvza-CMKNXPEtHxJEPp0i8LEY-46zLjIirGvc1lwd6rjuNuboznPOGeIQWzVW6PRqWpENHK61065OTMUwNh&gsessionid=rvfNd9FO6USaDssIZgSg5LlPAkrozqnETiCyJVwIRPgx5lvblpCkrw",
+      "link_token": "TW4uW6JSt8skP2qhyso-peFsoLcwoFqhD0AWmeq5zZl_ojplS8mzPsRuH45W3AC3SJ7Gkr0R_E1mqBSn9Dx0yq2WjmcPEZfcdfUR1uYGhKnPb3cvAaGsQDCEMKsiwsCGqwAE64pNTjDZu_WL2PY--T__wB6_hlFpKGAtOp89Np8DHVTnw-gAgH8qaXCuPHvF6ZzM0WElaTpnwwOcoUFUo7rS4Hwwqc_2oHIBVpWqooY-b9O7SICzeHwRW63KuYP-mZ64STzhGJyghAh_qJ7jgDke00oBHan1WJAQ4a86CNcrLj1U12-O_EcmwUA--o0UPvZOwzN9rvTkJ--LWGz9UD9stpsHYyRePIuOw",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "Μνημοσύνη Ψηφιακή Βιβλιοθήκη της Αρχαίας Ελληνικής Γραμματείας. Μνημοσύνης δ᾽ ἐξαῦτις ἐράσσατο καλλικόμοιο, ἐξ ἧς οἱ Μοῦσαι χρυσάμπυκες ἐξεγένοντο ἐννέα, τῇσιν ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 4,
+      "title": "ΕΥΡΙΠΙΔΗΣ: Κύκλωψ",
+      "link": "https://www.google.com/goto?url=CAESogEBxCJF12R4DidkrOtkvwvJukAk2Vlnq1D45TTuAkyjRMZoqYC9c8x5JYyVej1PeJQwhCOsE4kCRRC_dnRvNf8GA3EtndQadoRP4EMrfwh2-ExpKd_jf4Amc9lS-PP3ceag3RvD5FNmbhJzwqeB___iQjYITtLYalWEazsmHn4TmJ6tRFYG_N2yEwSpUqJWIn5Grk-RBo0NbLlr7ObbTGcDsi8&gsessionid=rvfNd9FO6USaDssIZgSg5LlPAkrozqnETiCyJVwIRPgx5lvblpCkrw",
+      "link_token": "jdgrlDQJzXeNm9rI3XlW1uyN7Is9JZ_jCajIw45W9Cv7aAkd5rRu2rkkQ3YgIFe7gYTPwqTj12aeJ46dOkkaTqT9gqUbeJ534gTr-4JuC2s1oFhEc0ZmRq_pnnmCAjvHA5e6qG5279qGDsmKxNyHbD5YEe9w5kufrMdF81hKFsncTJ5YEP553l0ZuUvw912JlHStbvKqPS8edkWn3lIBKB3bAVRLD96Xh9mNjEiWvHvv6JPGWST_Fh8n6oLwOotuDaguBzIfy-pIVb45wdjsAyGRp-LT-qprCjAGe8WnrQr_8ExniXUSFrS-rw--VLpuRdzwSdjaPgHJ--8wYBYFu7hbix4w4YxZKyeQ",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "50Έλα βρε δω και βόσκησε στη δροσερή ραχούλα. Όι όι όι! Χόι χόι χόι! Θενα σού ᾽ρθει καμιά πέτρα! ... του Κύκλωπα του τσέλιγκα, που λείπει στο κυνήγι. ... π᾽ άφησες ...",
+      "snippet_highlighted_words": [
+        "και"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 5,
+      "title": "Ancient Greek Quotes on an Old Manuscript",
+      "link": "https://www.google.com/goto?url=CAESbwHEIkXXjJvLcilsKZkTHo8EYEviTB5aYSrXqRLNPQ77AW-nrmX21RXYrhMVTQiEBYwp8hgEIqeFdlCUBoNA6-kUUSi_rTCLC-qt1f4cXiNt85mHgcbTExzYkcnNF23QI47otyp7kdwF901uxsM6vA&gsessionid=rvfNd9FO6USaDssIZgSg5LlPAkrozqnETiCyJVwIRPgx5lvblpCkrw",
+      "link_token": "G60nu_h_5oUmwgNDG39xxETn4aW_Ncne3Y6E8K6UhOIWLtbahxmaxqOcdlyIMDVZ4h0KHVcxwDbJxRmO4Qw1R65Bm8Dlgg6FToWLx9fbr20sxvFDDYaQuVX7wTCDfoNN5VFcA9PdwSPaYAk-_LngjU-KdDaeUs7LhvS1Bjr83JhQ7HEevX8J4b3M16IbDPFapYbXPrK8ET5czJGKoW_QN_gJ7Xb-Hg--0lK6ppHkN0zZtWm0--Xnc-Bq7oKiJmFEhqt5fw1g",
+      "source": "Pinterest · patra9334",
+      "displayed_link": "2 months ago",
+      "snippet": "Discover inspiring ancient Greek quotes written on an old manuscript. These timeless words are written in black ink, Greek Quotes for Personal ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU+9/3QHss1rH3bxhpYTEAAL8Ibw/AOhik4gOd8y1Ee6NhTZF+IYxEe+oaeZ+Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh+E16wemD/TQ+ta8LyZ7XxUgAAAAASUVORK5CYII="
+    },
+    {
+      "position": 6,
+      "title": "ΑΙΣΧΥΛΟΣ: Ἱκέτιδες",
+      "link": "https://www.google.com/goto?url=CAESogEBxCJF16O4c24d7ibiLNW9IRu46J-zpvho6U3VvLqBik2UWCt5IO5czVLlqyr2CW80-5rtyk6BsIbM_EAk2d471ugNGM4XxmmApPJ-B_bP-n78TUFGXh0gqZUc2NzLJNubQMDe_msA04eMBEM1-31eB6dHHeZeOfKQOTWdrP7vGcP0d9AAzcVSahAeWEoPLkXm0csfEi4m0R4Tl9T7Wz-6H-A&gsessionid=rvfNd9FO6USaDssIZgSg5LlPAkrozqnETiCyJVwIRPgx5lvblpCkrw",
+      "link_token": "pdHuTRYkworno-yKjQ6eq9WJHP5UXRuuqsYbqbfe2tG97N-cxl8jbGB3YBVdAaB9av0N4FMCx5eH4tJI2Qiw4h3tr8gAN_sBjeVmMnNn3FZJosmRWxARfdojy6ebmVIbcOFo6X7kCzEPgkAypLr-dub0YjmxjMkApqFt9CjCeDSOCfJ-gUt-y5EzI57ZAYSZlyeZbuN5ZmPmKEn0gKKuHXurdnxAikzaeX_4Sfq1IQMaXwqej75vTWNPqfc_89p9_mIirADk8Czja6d17o6nTXI6ItRwq6qO6UmwjGOxoNTAb2_xW9w06e0QHA--DMlpDOvv8bGZQvNQ--OwBMfOFGaktWSAeoZPMkcQ",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "Μνημοσύνη Ψηφιακή Βιβλιοθήκη της Αρχαίας Ελληνικής Γραμματείας. Μνημοσύνης δ᾽ ἐξαῦτις ἐράσσατο καλλικόμοιο, ἐξ ἧς οἱ Μοῦσαι χρυσάμπυκες ἐξεγένοντο ἐννέα, τῇσιν ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 7,
+      "title": "Proverbs 13",
+      "link": "https://www.google.com/goto?url=CAESaQHEIkXX6Bipv8nYOOv_YyNNuXUuZkyRbYaTxNl8eFK6e45MZmvjsRx-_U5B140K4N4BmaGe9NTeFRI7X0fvsZNuoNUXCjFKO5WWW63gWxDmvlCco_ImD6HDjhZn-VA-hmT_Yu01r_9J6Q&gsessionid=rvfNd9FO6USaDssIZgSg5LlPAkrozqnETiCyJVwIRPgx5lvblpCkrw",
+      "link_token": "7PnK6MeU6JPVjewYF4fntlNLu_RUFLeH5V1Iuef7YLSZkDUu_2PbnsZXQlFJHJhMm6B_WoFODHzNY2xOT3mFgtKP-zblrLeWI3o81xjbhkIvO_A-ki7vWBQhqLfeapEdPwLx-PXgJWCzIoa7Jd8hrLiaBuZbEUlP9pQWwyT70Fnb7Z1s2WIB8xcztHsmtGoyuRBQh7gpQf4eMTNa6B8--uxOf0t3uIefb7hSR--bN0hutmayIPby2BfShZpVA",
+      "source": "E-Bible",
+      "domain": "ebible.com",
+      "displayed_link": "https://ebible.com › moderngreek",
+      "snippet": "[] Ο φυλαττων το στομα αυτου διαφυλαττει την ζωην αυτου· ο δε ανοιγων προπετως τα χειλη αυτου θελει απολεσθη. 4 [] Η ψυχη του οκνηρου επιθυμει και δεν εχει· η ...",
+      "snippet_highlighted_words": [
+        "τα",
+        "και"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABzklEQVR4AdWPw5pdQRhF92VsYxqOY4zjWT9C5v0esW1rGtu2cW3j+JRSddvuae/D+mut/X3lFUKg7anfOXqUacWZnWedH7WnmM4zL2QEJUHIML0yy3q465LgzIduUTP78Y5LzKjM6uw0Coyr209Xr+w+yi1jvCj8WM2/ntqKbuHfz2wV+Z+rFaNY5bQXgHO/8ebuZv3z8+XEMCCiN5p54W1Tu1x81yTiN5upqUP/9Hy5YpXTUtApgnE4lSL0XMZLfh87Jpz8XOEW5tLQqWN6Lu21y0V1FHSO9+3aTd+j565tqP5LwakboC6BpWkoh36M074fOKH9PnyiFPo+zqproIRIxkRFshHpvJau1/wXWkhNawS1HHBCwRkDk1/iuihHXi0rR18vI47bmDHKwV0Kajpg0rGk60W/Eb7G00+8GESGUAHnAgNFMn0XVFM2zHrfJVZdKKZngS1nQnqMAtHPQDbS82TZsAfhT54G0+KIjoJ8geNnyEUy76CiE/x7B/x86IIzgEvh530bf98IVDWChGQUmyu0FgSnTkl7AgHHO2pMxRk5MVkfMfVvYcy0TzFt9stkcsXhZHTx4Vht5suinNVGTv2rGM+o0RXlBKT7H3bAYmRe0DFFAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 8,
+      "title": "ΑΙΣΧΥΛΟΣ: Ἱκέτιδες",
+      "link": "https://www.google.com/goto?url=CAESowEBxCJF12z0D3EERwl_yBBTfw2cunkYV2--DNKx1tVbN82DVmjcrW5kg4r8SzV62eH1XZkaWehGTPJTmZry48xGVPMXBZF1mC73eC6m_lb10EpEOn8e8qlCa4k1SR6NwDVN6oDaHU3e1E2-uaqrCxJfSKIC1isLV-vvknBtsAAq0siqT9CVACwsnsn1RgppG1Xc_zLSZOJ9vzfF-CO135N4nkMY&gsessionid=rvfNd9FO6USaDssIZgSg5LlPAkrozqnETiCyJVwIRPgx5lvblpCkrw",
+      "link_token": "fD9VxPIpj9CvOo1VqqFBHBUo79H7gnXD7bS7YaIpBx55pUHiNRDTNlhYb-hkFkodCe-3fSfFdRffyD013HN6oiCG_JW_EJ8scIIwDoc_INfEy9N2vxkQdVQKzSx0Nb8Qh794u26oF0KzNWCm8zb3X1-QjiV0ugEPmqWhgVwHq3b71_FF3bFt8CixZln_ELE7JMtxRLvuEZ2gr5KUmD0z045tr5o8lXZ3YOXQpm4peohTTJUjNFYciWfI_chuHT1jl8IgPifeKixzoQ7mAajq-2cDBTODCKeDwaDOtk3VfZUqsSIzQ0U0ZiuFhLw--lt9jpCfYPV86rslb--jKhYS5askGZCTrQxAt4OAA",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "ΒΑ. τί σοι λέγειν χρὴ τοὔνομ᾽; ἐν χρόνῳ μαθὼν εἴσῃ σύ τ᾽ αὐτὸς χοἰ ξυνέμποροι σέθεν. 940 ταύτας δ᾽ ἑκούσας μὲν κατ᾽ εὔνοιαν φρενῶν",
+      "snippet_highlighted_words": [
+        "ἐν"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 9,
+      "title": "Αντιγόνη» - Θουκυδίδη «Περικλέους Επιτάφιος» (Β Γενικού ...",
+      "link": "https://www.google.com/goto?url=CAESiQEBxCJF10YP_SsBE9s4VF-YyQfCqf9RAhRZpXbRDYpea8wiP59oW5eGG3G6cSBYQ8UY1HDPc_G0O2diG2x7pIQxLgeVI1pQCmeVI2lG343MbDr86-mkdHk_xiXRusyhz4edIBX1p-RnUmQ9WOkZeoatkvJmibKt6B0dklDU0LuBLuMEcJwxqPl06A&gsessionid=rvfNd9FO6USaDssIZgSg5LlPAkrozqnETiCyJVwIRPgx5lvblpCkrw",
+      "link_token": "3mKuwitxrYiQdonO_w0NRdCorWY2dwydZDtRLC_9LJ-hPGmsqvm0uVbwpjJsZYKVR-5k6oFbCLw3JDdPMZ7_1OFqqpnheJr-9uWpwqOXaKx9cC5HNM2IfYvrLSWXN2Tew0n875ynkiF42klmOKVKOmuYiUmfRASrsCw64StXyir3OOBBO6_Mj3PSGToFwfMbQqM447qcc8KiCagjqIbKqWUSV5OG9JwqW0X6FApHMpgwxrOVTaT6T7qZDMb3Bjsvzfr1asF0Y1bxRA--PspymU5kLKOskdNZ--polVcFmS90sg5kE2nGZMZg",
+      "source": "Διαδραστικά Σχολικά Βιβλία",
+      "domain": "old.ebooks.edu.gr",
+      "displayed_link": "https://old.ebooks.edu.gr › show.php",
+      "snippet": "1257-1260. καὶ μὴν ὅδ' ἄναξ....ἁμαρτὼν (μα να,....δικό του κρίμα)· ο χορός εξαγγέλλει την είσοδο του Κρέοντα, ενώ συγχρόνως ελέγχει την όψιμη μεταμέλειά του. Η ...",
+      "snippet_highlighted_words": [
+        "καὶ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACnklEQVR4AezXQ3QlQQCF4Rrbtm1jN1jPamzbtm3btm3bRmzbqvnjpM5zjD7nC6v73nY9Yeyy4NZFgYKYgPYQECm6KOH5MAf+eIvmEEi18Lkx4TLGOzRfcv+6GLlvU8qEz712Vsy+ejrf/JsXlHBg4Z3Lb9e/edr+uINNmSM2FuUURWFYEAMF6mIztgOwtdx6wPzP6S2f3viueHw7UfjSBzfk9m8f5CGrf86M+8d4swSssNbYAp0RDJkQG5dHsd/8t1zx5E5U+KI7l+WO7x+j/n4EjNPkCAwKboShWI8wSA2iwjgSktMhlz+6JQ9a/lPDVS8xACWhs8BEZUWtBbZ9eRdVgCMhD1ub610HXmiaiQpkF/j6PpgC4Suf3g2mQERqFrDliv+89++P3RTYvfbV42UxV7l1chQYiHA9G5qCgsg/78b5fNyOeTgiBfh9hJ71HFBPX4HKuAtdh3QMNK3bH1KLUGxFXj0FolTASCzAfMVCtNJSoAGmY5piOvqiBIQhBTriNB7jkeIJukEk16IWqIIPkDqMSckC/ZR3gCZb0RUNZ185nTvBRETd1jDsxx7FXsxBFQgYfRuGcxuG7/nz/en8Wxd3E94UAmqBk3q2cxZFYPKTMIJQiZdoDAFjCrijeVIKyJgCaglDC/ihbbIUUEsctjZLvQKKR6i47OFNkwsMhQP8TCoATGJ2LBh3zJQCRVAZR/QV4B2grcBmJq8i5t0QYGgB9RbaDql1Umr2K3ZSqorAROaJgrEFYo7obbzT4CkaaSvQAzuVafm23b+/vtj04ZUkQNveX0I5JHy050dhDQohJ4TeZealE2LB7Uti3o1z1ZkD3NQSfhlVIJCiH82q46a28BRdCEhY4kaCw15ZDU+NEvWwDrX+j9JgBwD46jkJEmC6IQAAAABJRU5ErkJggg=="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%E1%BF%A5%CE%AD%CF%89%CE%BD+%E1%BD%81+%CF%87%CF%81%CF%8C%CE%BD%CE%BF%CF%82+%E1%BC%80%CE%BA%CE%AC%CE%B8%CE%B5%CE%BA%CF%84%CE%B1+%CE%BA%CE%B1%E1%BD%B6+%E1%BC%80%CE%B5%CE%AF+%CF%84%CE%B9+%CE%BA%CE%B9%CE%BD%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CF%82+%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%8D%CF%81%CE%B5%CE%B9+%CE%BA%CE%B1%E1%BD%B6+%CF%80%CE%B1%CF%81%CE%B1%CF%86%CE%AD%CF%81%CE%B5%CE%B9+%CF%80%CE%AC%CE%BD%CF%84%CE%B1+%CF%84%E1%BD%B0+%E1%BC%90%CE%BD+%CE%B3%CE%B5%CE%BD%CE%AD%CF%83%CE%B5%CE%B9&oq=%E1%BF%A5%CE%AD%CF%89%CE%BD+%E1%BD%81+%CF%87%CF%81%CF%8C%CE%BD%CE%BF%CF%82+%E1%BC%80%CE%BA%CE%AC%CE%B8%CE%B5%CE%BA%CF%84%CE%B1+%CE%BA%CE%B1%E1%BD%B6+%E1%BC%80%CE%B5%CE%AF+%CF%84%CE%B9+%CE%BA%CE%B9%CE%BD%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CF%82+%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%8D%CF%81%CE%B5%CE%B9+%CE%BA%CE%B1%E1%BD%B6+%CF%80%CE%B1%CF%81%CE%B1%CF%86%CE%AD%CF%81%CE%B5%CE%B9+%CF%80%CE%AC%CE%BD%CF%84%CE%B1+%CF%84%E1%BD%B0+%E1%BC%90%CE%BD+%CE%B3%CE%B5%CE%BD%CE%AD%CF%83%CE%B5%CE%B9&gl=us&hl=en&start=10"
+  }
+}

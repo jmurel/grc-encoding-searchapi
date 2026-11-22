@@ -1,0 +1,198 @@
+{
+  "search_metadata": {
+    "id": "search_Lmagj14Ooqudamz3w45E8MQp",
+    "status": "Success",
+    "created_at": "2026-11-22T03:35:13Z",
+    "request_time_taken": 1.64,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 1.66,
+    "request_url": "https://www.google.com/search?q=%CF%80%CE%BF%CE%BB%CE%BB%E1%BD%B0+%CF%84%E1%BD%B0+%CE%B4%CE%B5%CE%B9%CE%BD%E1%BD%B0+%CE%BA%CE%BF%E1%BD%90%CE%B4%E1%BD%B2%CE%BD+%E1%BC%80%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CF%85+%CE%B4%CE%B5%CE%B9%CE%BD%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%BD+%CF%80%CE%AD%CE%BB%CE%B5%CE%B9&oq=%CF%80%CE%BF%CE%BB%CE%BB%E1%BD%B0+%CF%84%E1%BD%B0+%CE%B4%CE%B5%CE%B9%CE%BD%E1%BD%B0+%CE%BA%CE%BF%E1%BD%90%CE%B4%E1%BD%B2%CE%BD+%E1%BC%80%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CF%85+%CE%B4%CE%B5%CE%B9%CE%BD%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%BD+%CF%80%CE%AD%CE%BB%CE%B5%CE%B9&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_Lmagj14Ooqudamz3w45E8MQp.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_Lmagj14Ooqudamz3w45E8MQp"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει",
+    "total_results": 57,
+    "time_taken_displayed": 0.2,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_aGxceDNkZW5ceDI2cHdzXHgzZDBceDI2Z2xceDNkdXNceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZDhtSUNhOVdPQmJTNG10a1BrZTdrb0FJXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9HVmtPdUhUUlNVMXVuOVJKd1c4RFVXT0dZNWVBL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMjI3NzA3NCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJRUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFCQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUVBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q2dRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1S3NDNGlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBUUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9GUmZZY3N2bmNkVmJOY3dRb0c5cmpWdEg3SE1RP2NiJTNEMTIyMjc3MDc0LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJRUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNCQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUVBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q2dRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1S3NDNGlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBUVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FBQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0V4S3FuMVlMM3JjU2FINklKOHBnVW11Zkg1TmcvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIyMjc3MDc0LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUNGJTgwJUNFJUJGJUNFJUJCJUNFJUJCJUUxJUJEJUIwKyVDRiU4NCVFMSVCRCVCMCslQ0UlQjQlQ0UlQjUlQ0UlQjklQ0UlQkQlRTElQkQlQjArJUNFJUJBJUNFJUJGJUUxJUJEJTkwJUNFJUI0JUUxJUJEJUIyJUNFJUJEKyVFMSVCQyU4MCVDRSVCRCVDRSVCOCVDRiU4MSVDRiU4RSVDRiU4MCVDRSVCRiVDRiU4NSslQ0UlQjQlQ0UlQjUlQ0UlQjklQ0UlQkQlQ0YlOEMlQ0YlODQlQ0UlQjUlQ0YlODElQ0UlQkYlQ0UlQkQrJUNGJTgwJUNFJUFEJUNFJUJCJUNFJUI1JUNFJUI5XHgyNm1scm9ceDNkMGE2U0pvX184NlhNQjlIN3dzcWd1WjN4bVBMb0N3TW9JYlNzTXFXY2dtRzA1UzZCbTFGQWw2dW5GWkxndEFCRWQ4NHBFcUJkVTl2U0I1Qmx3cTN1QVBMcGVUNUZhYWw2OUpqeUtUbjJRZHZYSUE1ejlSZXNiWEVxQzV2R1Fjb2d5R1plX2w2TUtzX21ob3lJamdceDI2bWxyb3NceDNkTUtOTUVOLWk5SWNceDI2bXJjXHgzZENBQTRnQU5RQVdBQWFBQndBSmdCQUtBQlJxZ0JBTEFCQWJvQkFRSFlBUURnQVFEb0FRQVx4MjZzY2FfZXN2XHgzZGM1YmUyMGRkNTVlYzRmOTlceDI2bWd0eXBceDNkOTBceDI2c25yXHgzZDE="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "the human and the divine in the first stasimon",
+      "link": "https://classics.nsu.ru/schole/assets/files/18-2-lima.pdf",
+      "source": "Новосибирский Государственный Университет (НГУ)",
+      "domain": "classics.nsu.ru",
+      "displayed_link": "https://classics.nsu.ru › assets › files › 18-2-lima",
+      "snippet": "... πολλὰ τὰ δεινὰ κοὐδὲν ἀν- | θρώπου δεινότερον πέλει).16 Until the second antistrophe – and strictly from the perspective for alarm but maintains that ...",
+      "snippet_highlighted_words": [
+        "πολλὰ τὰ δεινὰ κοὐδὲν",
+        "δεινότερον πέλει"
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Αντιγόνη του Σοφοκλή – μάθημα αντίστασης στην ...",
+      "link": "https://www.google.com/goto?url=CAES0wEBxCJF1y04ZqNsi0a6jwj9JI75lD3hQvcG632vQjxhnbgBENo23Vd4S7VvOe-UyCdF1-xjNgKUVtIaWMedfTaqZVm24SEiATbgG7-LwVOLjlO3F8m4zH2SG7WMtks8cnbC5i5mqUc3v59P8C4LPxftyTjupYhIZDVQAhqNlGGgHt3KQm6K0YsHL0lmyojuaCi-owQ0MVpiaZoapA17_hgL3IYwhgOlJIPXE2F7bkhPIgp-8SKmK33ZTp7tl7Lr0X3FjeTGM20ajtl4ltfYDp-ndQq8&gsessionid=v7NwrTK48s4eaOsQTHtYra7Lde45zsr-s5qkk_YfYrzxY4uVGdLsUw",
+      "link_token": "Mq6-noTO3tq_BeGuMjS0OhqErSTiCjKo7JgHd3IQT9Tn57nImtOnMRlGn62tpcZYd53fGZ5uH4SI1_Vy7f7Id6UPx1T6HEeSVUDSx1mtYwh31_rbQc3f_aD8FpYEpkg6MeABhYYaefYy5AGVEGgFtiyZC-b3bTEAJblyVrGbr4_pU8Pl4DrogZYNaEvGeTlP0kioyxXA6qr6vODblmbUHi1Tv2bHQI-B0nAkZJMSDL2ujYarmqfTKuv34aOSoDgEyayu2CNOvB6I6be2KON8SaE22hhcB0Wsf7B-PZT1C4SCixWvBD7QCeArsGlua5LGIEz5jgui7z-4mgVZF6p0VBrzj9NfdAJwtsDveqkOETeKLJzU9sfkYVXP9s-0kO5pEF9B3DB_l18w4Err--wbjQR0DkwvAyLzNC--BNyiyTucHpV9_RmvNQW8Ug",
+      "source": "Servou.gr",
+      "domain": "www.servou.gr",
+      "displayed_link": "https://www.servou.gr › 3137-antig...",
+      "snippet": "ΣτηνΑντιγόνη η δίκη δηλώνει για την ηρωίδα τα «ἄγραπτα κἀσφαλῆ θεῶν νόμιμα» (454-455), ενώ για τον Κρέοντα δηλώνει τους νόμους της πόλης που ο ...",
+      "snippet_highlighted_words": [
+        "τα"
+      ],
+      "date": "Mar 2, 2017",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACMElEQVR4AZXLA6wcURhA4ftsG2vv5mUnqW3btm3btl5Qm4vablzbiOqoQXV6py+T1PiTb+bqCHWKFSumSH6Jf+SXFKGOUjRvJf6T2iiioKDAJ6GaE+zHdH83df1L57b248SWQd+e+YTL5ULVeKmZzU/HsfbxUGoMdFKpYTG0u3at6jCnq5dPl4bx8coYjk9wo90Ju92OquGKfFoeTpVS6HxSR+ezDlpMNHD1+FQ42RY2umCNXjJwZpLaFBEWiwVN5eE6Oh7PRemYT8W2+bw72hyClehZLZtlPW2wwc70dla+bYTRaESjNM9kzKVqNGlQjpvzvXzY6eVB6WwOZJjpUcsAm+3UL2Pi20bodDo0JkceHX1pLL/dmZuLnNQtZ6BLejqYcnnZpjL7BuVhMhS91Yjc3Fw0OfkWEruMpO1hPZ2OlsSoZJFerC69K3SDUgqHe3TR3moQmZmZaJKKN0IMvkpexZK02RVGhbn1CBt/l4iBBxmZkACd2lGpRAm+bURaWhqazKZjEKMvkOiqQ7FGTSlW+IyYPgGqZ+cxNDUFTGbGKwrfNiI5ORlVeIdC2ux8Qe7sa4gRF7AvuUdYbx+nc3WQkQrpGVCmGAzpzImcHLROJCQkoAprV4gYdBox7ByR1QYQ46lFQmIi+fHxdE1NZU5aGp8yM/ko1yfkX+tEbGysTyI2No6wtquklcj9L53JyOC09M2ZT0RFRXmltxL/SW28Qp3w8HCv5JP4Rz7pa/wFU2Kgm45qwVYAAAAASUVORK5CYII="
+    },
+    {
+      "position": 3,
+      "title": "ΣΟΦ Αντ 883–943 (ΣΟΦΟΚΛΗΣ, ΑΝΤΙΓΟΝΗ)",
+      "link": "https://www.google.com/goto?url=CAESqAEBxCJF14fIJa-xD8qacspOvdMeOi6ZTvcr7Vu0c8MvKR_ADXRJw344rX8XF_2Igr07xqQqTUQhw4H0UDrYrIOmmMpTIqWeJCKqQvDrFRCdMXhDMyOCd-j3NXvY4ynZA0AjWmRgfAyqxs4T9ZFmqVXtN_GQCFf66T7ALOh9jtpqye60R1H_VPU4qeUrn_h0RY3eG2RuaoVKGIkxLSUZCSCo2c1vIj-EI5U&gsessionid=v7NwrTK48s4eaOsQTHtYra7Lde45zsr-s5qkk_YfYrzxY4uVGdLsUw",
+      "link_token": "rlWOBoCvZdcRA9FNXUtbIJXHHiEaqrt1zqDpgVVcDwW9Wfx1qQB09vhBcqjUO0Wo_eybK6iFrP_v0CY7gXzv5pXYaH5VPzd8xd4Z46FpNRRyGizvBo3Mv7mXtyzBHpWnVR6n0hS1M8Pc_bIrJR7X3Emsh6rS391EmpgXDt5iQNIxetbW79drEKYSM_Or-KcsnWcLi5LcRKpryJmTJAgMc-VMBgpK5AEXIRytcjAnQABc0e5eqlhw2D9Kln0suVa0bOvHlb9LgYGzkOmK38G5-iI7mN8V8qyOzSVaehnCVAPb68h4i-N2WHvskAgK2ucxoHeU--70uXmdotqZVzXXHB--kuQdTUJF_s4c4IH8y2ETkg",
+      "source": "glossa.edu.gr",
+      "domain": "www.glossa.edu.gr",
+      "displayed_link": "https://www.glossa.edu.gr › content",
+      "snippet": "ΤΕΤΑΡΤΟ ΕΠΕΙΣΟΔΙΟ (απόσπασμα). ΚΡΕΟΝΤΑΣ Ξέρετε τάχα, πως τα μοιρολόγια και τους θρήνους δε θα' παυε κανένας πριν του θανάτου, αν ήταν να ωφελούσαν;",
+      "snippet_highlighted_words": [
+        "τα"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 4,
+      "title": "Το πρώτο στάσιμο της Αντιγόνης του Σοφοκλή (332-75)",
+      "link": "https://www.google.com/goto?url=CAESdgHEIkXXlR8z3N9Ok0uEEqeGER1iIzfJQB9cmkR7-25YuYBnSipW3oU_wQL356pktXigfWLt2yRyn2sodqpL2qoMD5dpj9aLnF8bKsYtY5499LruidD68_TqSAEFWs9FaSPI386rhuFtw21TBfJmdegt13zsQ54&gsessionid=v7NwrTK48s4eaOsQTHtYra7Lde45zsr-s5qkk_YfYrzxY4uVGdLsUw",
+      "link_token": "4fMhvtv4BbjxzFZdiazOA1DznPOOc05KRH8OWDa3TKjR_R5perNQFMkeciKMvBYQ0c5uJ_AoTMUXherWOJBo4-YhRu5EM6s56IIsH8YlV0_OsNsuhC8JEMazxCckw5cqjBDy8atbJjtaRBIwEsdiydy1uytkKRLKNE3P0IrReJlZ9rYVRqFOEy77kkOPwm3Qu2UVjQggz-5RebmFrorkuqZ6yWFy5-55NpL9Ev-NSA--Lgbyte9iqNDQUNZv--8UECcmrmDPzAEU1RomqYHA",
+      "source": "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+      "domain": "ejournals.lib.auth.gr",
+      "displayed_link": "https://ejournals.lib.auth.gr › view",
+      "snippet": "Το πρώτο στάσιμο της «Αντιγόνης» του Σοφοκλή (332-75) είναι ένα από τα πιο αμφιλεγόμενα σημεία της φιλολογικής κριτικής και από τα πιο πολυσυζητημένα χορικά ...",
+      "snippet_highlighted_words": [
+        "τα",
+        "τα"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEX////8///z+vu83ecUoMMlo8UopMbk8fWZzd2gz96NyNsupsg3qck4qcmVyttoutE9qcdTscyEw9ew2ORyvNLa7PEAnMDP5+3D4etJrMnK5Ovs9vit1eJjtc7p9Pebzd2memqTAAAA7klEQVR4AbTLBZbFIAxA0VCSIEndff+7nM+4+38teg9wzcxdYDJz35NZpBRb5+kuDI8YRS/ligVY1pSUzzBPqVa1LTVtX6MykyhV8h5WDrJGQtvxW1RfFD2kCnmLhDi0YzVgU+krVA52ahDjZD29Qp5d2rRLmvuKn6NagHVN27u11WeY10qE1QYQBIm0zp+hCJEqoW8wrSTyDHE/DMAaEM8VwKw7PmHR3m/G8X5jO/h+6zK5tJo3koWZmHFzJVPeWfP8UYOiIqIqLJeY/AObiEhUlXGrCJvQ7EKE2N7Z3myLg9v6uzXrp9BEuNmAAAC5bw5/O5vXPgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 5,
+      "title": "Δ' στάσιμο, στ. 944 -987 Κείμενο",
+      "link": "https://www.google.com/goto?url=CAES-wEBxCJF1xoYObfWXUkYLBmhZkhhuN3Om4OOHRiK0RYOjC7p7QdSL7pKnkB-Fx5rMpoWEGlUPVQhda3ITXOx9jLgxuX2yhJcjIQszLA3-2eu9hX-NYDLRKGPqx2AkXIjw8LZUoRW6so26oHbBqr61MyZwVNWW3r-de29-dFtXUCg2Yhh_f7cMulGb4K4TakxVu2cglUT1kLKG5zk0O8Y6Gtp7C_LiwZZPe7xHdroIbmzzsvk8geJcj4veSmLxsFs_uosfXLM9Ylgt2WBJEkwISbfaGOaRVkB2oCSYp27C_poVUc-Rwrg7JIUgnJgaiZ1PL9P1dLixepGrZYuVA&gsessionid=v7NwrTK48s4eaOsQTHtYra7Lde45zsr-s5qkk_YfYrzxY4uVGdLsUw",
+      "link_token": "ZTaNB-YtXhwtiO1zkRPhRTKotX_5Kr_aUfhaLUs4oaBkRrBnVdArhtjUVZy06uqGwxy0JRNKZQNoWcs4fNagacPqxQfk-x61cavT4I_vTyM_9lnqal3_itiNRXqFwpWG3O-cNzRXhzVax4MADHF552RQhi7SS2c4R79TNYIpotG53LynzTRQPAe4kiYIQulYGVsiOUdeNV8MPK_0nJ8BQ4q650P3x0HGLFC-0D4EahnUQGxaWv73AwxhODF3PH7hdJ4qm1CiD1lkNaT-DQsvU4YHeOLWryN3Zq48PqT7Dq1RNpQGCRKw2WjP6KOTxxXE4eP8PErHEVznqcR7FSDNYFliujRDtEcFu4jBBFhjOckSkBYY9tovuBHwamYIv_73ssgUZZzOUBD89L_lNTE-WDDaoP8P1F_xsXHvZgGCrp1X9AnzJx8ZIJ7F2jOYCKwJKBMVkuW-z6qep2XMNdsLhtxn--1qvsCzDQ52Th-0Sk--jKjLryTmRw2J9L_M2Jmb6Q",
+      "source": "arnos.gr",
+      "domain": "www.arnos.gr",
+      "displayed_link": "https://www.arnos.gr › uploads › 2018/08 › Δ-στ...",
+      "snippet": "Πολλά είναι τα παραδείγματα από την αρχαία δραματουργία. Οι δραματουργοί απέδιδαν τα μεγάλα δεινά στην επέμβαση της μοίρας σε όλες τις παραμέτρους. της. Την ...",
+      "snippet_highlighted_words": [
+        "Πολλά",
+        "τα",
+        "τα",
+        "δεινά"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAh1BMVEVHcEzn6en////9/f3///////////////////+usbL9///76+npopndZlXZSjDXQivaUj3jhHjyycPULgrVNBfXPyfWPCb439z+///dWjv55OH////////hZznshEPvjUbtiUXnekHuikX////zpVr2sWH3tWXsrqbwnVv////506f4woL+/Pm6cnc8AAAALXRSTlMAOX/E7P+CY+EczP////////////////9G//8k2P///////4r//////43///jX+uCTAAABP0lEQVR4AV3SBRaDMBAEUChZnKAJ1aTu9z9fs7vIo1PvfwMxb4q/CgSACELf+08Uw5Q4WlCSZnkhy6pumINkNh/ytlMuui0yZn+2oi2H6K5nXbMlUHflFKUKzGa7I0ybdiZil7bf0zih0GNJVrLkH20POOY4a9n0wVhrjyepGAWOpmFUJ3s+Ys4bhYgjXkHTUe9kURCtVIQXL+Cm2pCxnjRh6gnYtlQ8sxjjVBIKDwBoBGPrervfrgeNCIgPrHLR3im3ilG4t0qPzRsSKl82cJhJxfd83sccaEAhuDw6Gq25jsWbcfjyfEYcLiPS+/3saWNixrI0li97+wBF4MKPqA482NuXkQ7LntBFK2nmYsybjag43el2H3A3HpOHrKYUp+94TChr+A8bZ7dfUrxbHmoxk8BxLuNfUuEgfc1X/AHPIy5mdDYe+wAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 6,
+      "title": "ΑΝΤΙΓΟΝΗ | Poeticanet. Περιοδικό για την ποίηση και τη ...",
+      "link": "https://www.google.com/goto?url=CAESewHEIkXXT_zHBp03JLAslw4Hktn8E9QyC-Icalo0cVB6mUkSRuW_CqqW3ZohMCKM1WOXRWAdt8Ai0b38knDLnOFpM7A2r0AGvIdNRz7-jdgsvclQEV4fMgKNZv54KZzvqGX4ioyWzQEuwdxL5FpIi97n0oyAt2Br4fq9eg&gsessionid=v7NwrTK48s4eaOsQTHtYra7Lde45zsr-s5qkk_YfYrzxY4uVGdLsUw",
+      "link_token": "Kpwq42FS_Kh7DTK94XUBgFnTaoTV8KnsjLV0araiWvYazh6bulZdT1wXkwVg5iCJWB-7a1ROub3Yy1vIcMO-Rx93vhRRx8_7bKCTsQCEKe0hoVgPM0BbP8NjsPPlaXP7nE1gQJeEMq25R7H4GZgg2ItXiHmnb2ydy096GC_iOU4Lnf8EmC7tVhvr25KZYcqerzgUX8sBZXoALtrbAE3bYgJ25aZ19Hk4lnZfZlV3r8I2POwtaqE--UwCYim-CqvOzytpI--w4Zf9OX_O51qa9nnarb_GQ",
+      "source": "Poeticanet",
+      "domain": "www.poeticanet.gr",
+      "displayed_link": "https://www.poeticanet.gr › antigon...",
+      "snippet": "Όταν η Πόλη είνοι καλά τότε κι εμείς είμαστε καλά και κάνουμε φίλους. Η Αντιγόνη όμως αντιδρά και επικαλείται τα «άγραπτα κασφαλή θεών ...",
+      "snippet_highlighted_words": [
+        "τα"
+      ],
+      "date": "Apr 1, 2021",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACkUlEQVR4AXVSQ4AdQRDtWKfYuMXJJbZt27ZtrG3btm3btju2Xur3Wodx1eOwPKstBTmWW/m9x3p8wq4SPnFnOV92KpovOhHP2cp/fNi2Oq769i3XlnnBHzzW4YtPxvIea3/zHqv+8TN3rPJZvtWWT2nmu/DimRrsVG8iy2I7ahxXYOslX7BFwL6rbnjvvBiVdmtQZb+KjtXQkH2BPut+gK3ER5ZL7HmWW8RAqc16lNquR5jBcfTZ8B291/6Cq+Yl8Y7mxCGZrXNcjp1XPMGWgwsAOtB0CIYXL1TAlgDTD2aj0HoTyCbazBDZaihLvSUFHQDIDrIst2HSvkKwpcDzF6qoouE2y+KoILU6cs87A5TbroOt2k3JBwzdXo8Us91CQUeAasriygMjsBUdAQh51xUPEd7eq+4il47LpJIsbca0Q9ntFRRbb0C4wVH03fCVEv4JT+3zItQOAESyFs4aV0BVgq1uAyDCI89sMTD7SDqKbTaIxDuyl5HN1WfDxNzc40mNAAUkKcNiB8bvKQVbBsi9ke0kP6/JO30TAQ/Z2iBR3AhQQbLMle5LQsGonVVIM9sFAm3DvBk1Dithpkwzq/5i4PrPsFC5A9prBJD4Wn8+SMiafywJ1Q6rUGS9iY6NorIisvP2pTIt/8P47ZWwU78uLEt2GYXHQ+nP67fxC9hyqo+kOdJApOFhBOudgJH8E8w+nI5B675gLzVE1Yq6m9RxVm2/mj99ri58jdxZjc0XAjFlfx6mHszCrIOZWHIiDo+faCHG6JBooMN/wVmmxbZPk/YVifCkXyuAOy9BhvkOxBsfQIrpHtFGJcklO2Kpw/GJWarcKaDw+Pjd5TzTYjsvsN7MKTRe0HTkiZq7PQr+A3VenkbFlI75AAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 7,
+      "title": "Αντιγόνη» - Θουκυδίδη «Περικλέους Επιτάφιος» (Β Γενικού ...",
+      "link": "https://www.google.com/goto?url=CAEShwEBxCJF17jw-DauBUtvVgmaP58HjiAwOILdcm8xlHxvOnk9O4XTY_HnXVvX_hZcnjADcxmoIHcC6pYhH4dLHui_vXq0ih6nygxQVZ5OWPoWN9oJ6EYU_-MyrK0-Ran03UGdu4cusIEp3KveYjppp4oXXk46PUcl8Eat_icHl1SycSuwdbid9SU&gsessionid=v7NwrTK48s4eaOsQTHtYra7Lde45zsr-s5qkk_YfYrzxY4uVGdLsUw",
+      "link_token": "8YQSUkA9qO5Tqxlyzedow6n4jQ8Fxyp_nUUIyQjSPJ8mbg5yjbDRNbvOgn8lBAKZlJZJzp6xlA5H1ldPj_0OmqUROTfj3js-TiO8Fr9fHQk3Mun7jlqMV2OkzTaNXrVRj712RI4OJE5ez87N-xnASCjEavUGXYHfeToeafSEJtrI2uztrKHkP3vMiTkKspoRtm9aRLYn-ofl6q0h6Y6fuur2_ncXSneAnVt7x3--znk8XLVcnv6GEdL1-iIRpjxatAPSkkLqTg--HElzoLuIZoPN8arZ--S2B0baxdbYBTvx4MWsVl-w",
+      "source": "Διαδραστικά Σχολικά Βιβλία",
+      "domain": "old.ebooks.edu.gr",
+      "displayed_link": "https://old.ebooks.edu.gr › show.php",
+      "snippet": "τῶν ἀπὸ Οἰδίπου κακῶν· η κατάρα των θεών βαραίνει πάνω στον βασιλικό οίκο των Λαβδακιδών. Η κατάρα αυτή οδήγησε τον Οιδίποδα στην πατροκτονία, την αιμομιξία, ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACnklEQVR4AezXQ3QlQQCF4Rrbtm1jN1jPamzbtm3btm3bRmzbqvnjpM5zjD7nC6v73nY9Yeyy4NZFgYKYgPYQECm6KOH5MAf+eIvmEEi18Lkx4TLGOzRfcv+6GLlvU8qEz712Vsy+ejrf/JsXlHBg4Z3Lb9e/edr+uINNmSM2FuUURWFYEAMF6mIztgOwtdx6wPzP6S2f3viueHw7UfjSBzfk9m8f5CGrf86M+8d4swSssNbYAp0RDJkQG5dHsd/8t1zx5E5U+KI7l+WO7x+j/n4EjNPkCAwKboShWI8wSA2iwjgSktMhlz+6JQ9a/lPDVS8xACWhs8BEZUWtBbZ9eRdVgCMhD1ub610HXmiaiQpkF/j6PpgC4Suf3g2mQERqFrDliv+89++P3RTYvfbV42UxV7l1chQYiHA9G5qCgsg/78b5fNyOeTgiBfh9hJ71HFBPX4HKuAtdh3QMNK3bH1KLUGxFXj0FolTASCzAfMVCtNJSoAGmY5piOvqiBIQhBTriNB7jkeIJukEk16IWqIIPkDqMSckC/ZR3gCZb0RUNZ185nTvBRETd1jDsxx7FXsxBFQgYfRuGcxuG7/nz/en8Wxd3E94UAmqBk3q2cxZFYPKTMIJQiZdoDAFjCrijeVIKyJgCaglDC/ihbbIUUEsctjZLvQKKR6i47OFNkwsMhQP8TCoATGJ2LBh3zJQCRVAZR/QV4B2grcBmJq8i5t0QYGgB9RbaDql1Umr2K3ZSqorAROaJgrEFYo7obbzT4CkaaSvQAzuVafm23b+/vtj04ZUkQNveX0I5JHy050dhDQohJ4TeZealE2LB7Uti3o1z1ZkD3NQSfhlVIJCiH82q46a28BRdCEhY4kaCw15ZDU+NEvWwDrX+j9JgBwD46jkJEmC6IQAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 8,
+      "title": "309830032 Αντιγονη Σοφοκλη PDF",
+      "link": "https://www.google.com/goto?url=CAES0QEBxCJF1xWBc8YrnTA5rx4-U0l7a3EOT50KSOrafAzmsylHU6tWVanQOlV-ZImlObW7-p2Slooi-lUY_ee2plfhH92xC2DMU3-t7EzZzRFMRO8Hai2RKQeXLvfmQsZ6nLhv6M_tEEvz7WCEDyN0CyjvEL8TuTr99hQUjotJiZutp0C8CcVgGJ-hXVMKdr_xaE-gb9sQ6oClekbq6TPMA5Olh4yFxxlvg0Ma20oG-JroAhm2RWXe9P7MuCJSxOc-17k7LAEbOEvjI1D8PLfVfqVw8g&gsessionid=v7NwrTK48s4eaOsQTHtYra7Lde45zsr-s5qkk_YfYrzxY4uVGdLsUw",
+      "link_token": "NIF4wNyx16wk9zjJmQCojNB1ozJRsRImb919_0hAY8djddQCq9BvnvmrIuDtsD9jEPVAgFs-vqDLR64kt_he3ISGV6SgOcqBCkNOPJmP9eBlOUGJt5fAw7vsUE6cJ5r299VUcUDHhPZn18Zxd7-TxiZKbYhWFXXqHDNcHZrIWBsypG8zpZlxRJSj5dR4Pk01Z3fZogAR0tnLllCusQ-I1kMflCTZ0qBrS3yoqBsRa97K6Uw6WOi_1bj05YSpXqdFhQA_Ait2ry4S3-XW7YPkqxjnt7w1aQZd0kwbMZZe2thpyft5-UWVaL4A8ajAFQrFY6w9Gcocj-reNcsPGU4XQGbFqaCpkPUCZI_JcEn-1PORinglcnavkdYkQVmcNOxoU5R5d9J1sxJBPQ--bitPJg3iB6RdXXZE--7QAJ1LBdB4zwehK80rzOxQ",
+      "source": "Scribd",
+      "domain": "www.scribd.com",
+      "displayed_link": "https://www.scribd.com › document",
+      "snippet": "τα πολλά μού προφήτευε δεινά μου, μού είπε πως θά 'ναι αυτός ο λυτρωμός μου, μετά πολύν καιρό, να φτάσω τέλος σε χώρα που «Σεμνές θεές» μού δώσουν έδρα και ...",
+      "snippet_highlighted_words": [
+        "τα πολλά",
+        "δεινά"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAflBMVEUJhkcIhkcIhkYAh0dRo3aJwKKOwaWMwaRKonMAhUXt9/L4/Prz+/h+vp0AhEP////T6t/M5tlqtI7p9e83k18di1AojlVcroSz2sbb7+Wm1L0okVqezLR4tpWp0LtnrYaZya9AnGpyr4uJuZxZpXoellzB4NC8384AjU+x2cTZS5WPAAABBUlEQVR4AYWSBQLDIAxFG6ildEnddb77X3DMhcmvIA+JWf8EQgu+jEFq3eHLGMB2XNfz8cbQ91zXseGEhXQCpcIFXfcCLUKlAkeKM3QVR3GCunt+KYkjVu4dplluCaSzQFh5lj7DggTmZVXXjZ2joOIVIradYq3AyxHfIMk+5Lgbak5HpHeYd1z7RGPIU27sLBquZ6J8uVobEMFjrqtkI4mEAXHeanNUsC0lmDspT3apNjjspQklktz7XcDbzLC27ac1aD5pow2YxRxpa9udbt4hWp7ieOi2iqfcgNg2ik+qZjN82v7yUNe7pAXQO7+kjN5T9pJsfEn2jzL5UWA/SvN3Uf/WEWKkGjSp2MmkAAAAAElFTkSuQmCC"
+    }
+  ],
+  "inline_images": {
+    "images": [
+      {
+        "title": "Πολλά γεννούν το δέος, το μέγα δέος ο άνθρωπος γεννά ...",
+        "source": {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/SelfKnowledgeInPresocraticsAndPlato/posts/%CF%80%CE%BF%CE%BB%CE%BB%CE%AC-%CE%B3%CE%B5%CE%BD%CE%BD%CE%BF%CF%8D%CE%BD-%CF%84%CE%BF-%CE%B4%CE%AD%CE%BF%CF%82-%CF%84%CE%BF-%CE%BC%CE%AD%CE%B3%CE%B1-%CE%B4%CE%AD%CE%BF%CF%82-%CE%BF-%CE%AC%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CF%82-%CE%B3%CE%B5%CE%BD%CE%BD%CE%AC-%CF%80%CE%BF%CE%BB%CE%BB%E1%BD%B0-%CF%84%E1%BD%B0-%CE%B4%CE%B5%CE%B9%CE%BD%E1%BD%B0-%CE%BA%CE%BF%E1%BD%90%CE%B4%E1%BD%B2%CE%BD-%E1%BC%80%CE%BD%CE%B8%CF%81%CF%8E%CF%80/1206238876458826/"
+        },
+        "original": {
+          "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1206238846458829",
+          "height": 1350,
+          "width": 1080,
+          "size": "74KB"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65omdbHOB0mcMd5bCEDnKV1n3oNBqaaQ1PRIJzNAReIQD34N4G6unjd8&s"
+      },
+      {
+        "title": "Πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει.» Ἀντιγόνη ...",
+        "source": {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/p/Dd67k29iHNW/"
+        },
+        "original": {
+          "link": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3997767668192081840",
+          "height": 2362,
+          "width": 3677,
+          "size": "1.0MB"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDbm0NolYq7X_5t3zQbMaIS3tvQs-lC1Pc6Yr6If1AoAou4sGqADJ2XC21tA&s"
+      },
+      {
+        "title": "Πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει.» Ἀντιγόνη ...",
+        "source": {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/p/Dd67k29iHNW/"
+        },
+        "original": {
+          "link": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3997767655281930431",
+          "height": 2379,
+          "width": 3703,
+          "size": "745KB"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZgeJ9JLaaIA0HGJLn719hU7q9x63cp2cOtmXbh7wGv2V8Wbg1aybpcUrdPA&s"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%80%CE%BF%CE%BB%CE%BB%E1%BD%B0+%CF%84%E1%BD%B0+%CE%B4%CE%B5%CE%B9%CE%BD%E1%BD%B0+%CE%BA%CE%BF%E1%BD%90%CE%B4%E1%BD%B2%CE%BD+%E1%BC%80%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CF%85+%CE%B4%CE%B5%CE%B9%CE%BD%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%BD+%CF%80%CE%AD%CE%BB%CE%B5%CE%B9&oq=%CF%80%CE%BF%CE%BB%CE%BB%E1%BD%B0+%CF%84%E1%BD%B0+%CE%B4%CE%B5%CE%B9%CE%BD%E1%BD%B0+%CE%BA%CE%BF%E1%BD%90%CE%B4%E1%BD%B2%CE%BD+%E1%BC%80%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CF%85+%CE%B4%CE%B5%CE%B9%CE%BD%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%BD+%CF%80%CE%AD%CE%BB%CE%B5%CE%B9&gl=us&hl=en&start=10"
+  }
+}

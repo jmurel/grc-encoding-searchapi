@@ -1,0 +1,262 @@
+{
+  "search_metadata": {
+    "id": "search_JBAO2bkaoPuEQ5Wx84n7XajE",
+    "status": "Success",
+    "created_at": "2026-11-22T03:35:09Z",
+    "request_time_taken": 2.11,
+    "parsing_time_taken": 0.04,
+    "total_time_taken": 2.16,
+    "request_url": "https://www.google.com/search?q=%CF%80%CE%B1%CC%81%CE%BD%CF%84%CE%B5%CF%82+%CE%B1%CC%93%CC%81%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CE%B9+%CF%84%CE%BF%CF%85%CD%82+%CE%B5%CE%B9%CC%93%CE%B4%CE%B5%CC%81%CE%BD%CE%B1%CE%B9+%CE%BF%CC%93%CF%81%CE%B5%CC%81%CE%B3%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%86%CF%85%CC%81%CF%83%CE%B5%CE%B9&oq=%CF%80%CE%B1%CC%81%CE%BD%CF%84%CE%B5%CF%82+%CE%B1%CC%93%CC%81%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CE%B9+%CF%84%CE%BF%CF%85%CD%82+%CE%B5%CE%B9%CC%93%CE%B4%CE%B5%CC%81%CE%BD%CE%B1%CE%B9+%CE%BF%CC%93%CF%81%CE%B5%CC%81%CE%B3%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%86%CF%85%CC%81%CF%83%CE%B5%CE%B9&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_JBAO2bkaoPuEQ5Wx84n7XajE.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_JBAO2bkaoPuEQ5Wx84n7XajE"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει",
+    "total_results": 61,
+    "time_taken_displayed": 0.18,
+    "detected_location": "Shreveport LA, Louisiana",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "answer": "Η φράση «πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει» είναι η εναρκτήρια πρόταση των Μεταφυσικών του Αριστοτέλη (Βιβλίο Α΄, 980a21).",
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "answer": "Μετάφραση: Όλοι οι άνθρωποι επιθυμούν από τη φύση τους να γνωρίζουν.",
+        "reference_indexes": [
+          2,
+          0
+        ]
+      },
+      {
+        "type": "paragraph",
+        "answer": "Βασικό νόημα:"
+      },
+      {
+        "type": "unordered_list",
+        "items": [
+          {
+            "type": "paragraph",
+            "answer": "Η αναζήτηση της γνώσης είναι έμφυτη τάση, όχι επίκτητη ανάγκη."
+          },
+          {
+            "type": "paragraph",
+            "answer": "Ο Αριστοτέλης το στηρίζει στην αγάπη μας για τις αισθήσεις—ιδίως την όραση—, τις οποίες εκτιμούμε ακόμη και πέρα από τη χρησιμότητά τους, επειδή μας βοηθούν να γνωρίσουμε τον κόσμο.",
+            "reference_indexes": [
+              1,
+              0,
+              2
+            ]
+          }
+        ],
+        "reference_indexes": [
+          1,
+          0,
+          2
+        ]
+      },
+      {
+        "type": "paragraph",
+        "answer": "Μπορείτε να διαβάσετε το απόσπασμα στο πρωτότυπο στη Βικιθήκη.",
+        "reference_indexes": [
+          1
+        ]
+      }
+    ],
+    "markdown": "Η φράση «πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει» είναι η εναρκτήρια πρόταση των Μεταφυσικών του Αριστοτέλη (Βιβλίο Α΄, 980a21). [0](https://www.google.com/goto?url=CAESjQEBxCJF19ekMad622_c8h-Va8tVro4AaWrhYBnsQ78ZG_uVw6WUe4fUpMKkCYiToG50HiszdYuuMyKmweQePOhj6NRYE7o7ff6vYs3mU1jTYlnurFyPmuE2jF-4mrDB0nUPUMVkHq3teYXhiQUlaq0yRUq1g3sKaXzcuLpsI41FBsxT8hqCWtmMY2i737o) [1](https://www.google.com/goto?url=CAESxQEBxCJF18hziyhmQME7WErHaM_S579Vrhh8DTpB-_49SOey2h7OSr6AUCZc_xKVb7haFwGgKz8VUB6-T5mQpcDTc_rMi2ReD7Yfb73nvLfi8DD5QKEBzJjvj64tot5VrcISZRrym2Gzrc-H1TmY1Z9pYNnX7uJdx-5DtgUaY34cmkUk-ddrsPDq6ciw8vh4zB4Fk4iFfZ7Ra7GriD92BZDKmgvqQEypadx4DHK-Epu9IsuBBhCy-Td9ENH1Y5Ka7RAU0X5GJw)\n\nΜετάφραση: Όλοι οι άνθρωποι επιθυμούν από τη φύση τους να γνωρίζουν. [2](https://www.google.com/goto?url=CAEShgEBxCJF1zbh10_Fl8rY6ce-_nDZ31Gpw9Yjmw5bD0AYURMhV6slyq15re6gaTb1NEHOoZ0bdn7wxYe01eZhRpRTEnCJA04Vl3143vambau12z7JJxd3QEHvObxaPD0hceovMial6WgV34Urm7uejyDjex8KlVQ1qFETA1NZH2AIEOSzeXD0Iw) [0](https://www.google.com/goto?url=CAESjQEBxCJF19ekMad622_c8h-Va8tVro4AaWrhYBnsQ78ZG_uVw6WUe4fUpMKkCYiToG50HiszdYuuMyKmweQePOhj6NRYE7o7ff6vYs3mU1jTYlnurFyPmuE2jF-4mrDB0nUPUMVkHq3teYXhiQUlaq0yRUq1g3sKaXzcuLpsI41FBsxT8hqCWtmMY2i737o)\n\nΒασικό νόημα:\n\n- Η αναζήτηση της γνώσης είναι έμφυτη τάση, όχι επίκτητη ανάγκη.\n- Ο Αριστοτέλης το στηρίζει στην αγάπη μας για τις αισθήσεις—ιδίως την όραση—, τις οποίες εκτιμούμε ακόμη και πέρα από τη χρησιμότητά τους, επειδή μας βοηθούν να γνωρίσουμε τον κόσμο. [1](https://www.google.com/goto?url=CAESxQEBxCJF18hziyhmQME7WErHaM_S579Vrhh8DTpB-_49SOey2h7OSr6AUCZc_xKVb7haFwGgKz8VUB6-T5mQpcDTc_rMi2ReD7Yfb73nvLfi8DD5QKEBzJjvj64tot5VrcISZRrym2Gzrc-H1TmY1Z9pYNnX7uJdx-5DtgUaY34cmkUk-ddrsPDq6ciw8vh4zB4Fk4iFfZ7Ra7GriD92BZDKmgvqQEypadx4DHK-Epu9IsuBBhCy-Td9ENH1Y5Ka7RAU0X5GJw) [0](https://www.google.com/goto?url=CAESjQEBxCJF19ekMad622_c8h-Va8tVro4AaWrhYBnsQ78ZG_uVw6WUe4fUpMKkCYiToG50HiszdYuuMyKmweQePOhj6NRYE7o7ff6vYs3mU1jTYlnurFyPmuE2jF-4mrDB0nUPUMVkHq3teYXhiQUlaq0yRUq1g3sKaXzcuLpsI41FBsxT8hqCWtmMY2i737o) [2](https://www.google.com/goto?url=CAEShgEBxCJF1zbh10_Fl8rY6ce-_nDZ31Gpw9Yjmw5bD0AYURMhV6slyq15re6gaTb1NEHOoZ0bdn7wxYe01eZhRpRTEnCJA04Vl3143vambau12z7JJxd3QEHvObxaPD0hceovMial6WgV34Urm7uejyDjex8KlVQ1qFETA1NZH2AIEOSzeXD0Iw)\n\nΜπορείτε να διαβάσετε το απόσπασμα στο πρωτότυπο στη Βικιθήκη. [1](https://www.google.com/goto?url=CAESxQEBxCJF18hziyhmQME7WErHaM_S579Vrhh8DTpB-_49SOey2h7OSr6AUCZc_xKVb7haFwGgKz8VUB6-T5mQpcDTc_rMi2ReD7Yfb73nvLfi8DD5QKEBzJjvj64tot5VrcISZRrym2Gzrc-H1TmY1Z9pYNnX7uJdx-5DtgUaY34cmkUk-ddrsPDq6ciw8vh4zB4Fk4iFfZ7Ra7GriD92BZDKmgvqQEypadx4DHK-Epu9IsuBBhCy-Td9ENH1Y5Ka7RAU0X5GJw)\n\n[[0] - Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει - ekivolos.gr](https://www.google.com/goto?url=CAESjQEBxCJF19ekMad622_c8h-Va8tVro4AaWrhYBnsQ78ZG_uVw6WUe4fUpMKkCYiToG50HiszdYuuMyKmweQePOhj6NRYE7o7ff6vYs3mU1jTYlnurFyPmuE2jF-4mrDB0nUPUMVkHq3teYXhiQUlaq0yRUq1g3sKaXzcuLpsI41FBsxT8hqCWtmMY2i737o)\n[[1] - Μεταφυσικά/Βιβλίο Α - Βικιθήκη](https://www.google.com/goto?url=CAESxQEBxCJF18hziyhmQME7WErHaM_S579Vrhh8DTpB-_49SOey2h7OSr6AUCZc_xKVb7haFwGgKz8VUB6-T5mQpcDTc_rMi2ReD7Yfb73nvLfi8DD5QKEBzJjvj64tot5VrcISZRrym2Gzrc-H1TmY1Z9pYNnX7uJdx-5DtgUaY34cmkUk-ddrsPDq6ciw8vh4zB4Fk4iFfZ7Ra7GriD92BZDKmgvqQEypadx4DHK-Epu9IsuBBhCy-Td9ENH1Y5Ka7RAU0X5GJw)\n[[2] - Αριστοτέλης - users.sch.gr](https://www.google.com/goto?url=CAEShgEBxCJF1zbh10_Fl8rY6ce-_nDZ31Gpw9Yjmw5bD0AYURMhV6slyq15re6gaTb1NEHOoZ0bdn7wxYe01eZhRpRTEnCJA04Vl3143vambau12z7JJxd3QEHvObxaPD0hceovMial6WgV34Urm7uejyDjex8KlVQ1qFETA1NZH2AIEOSzeXD0Iw)",
+    "reference_links": [
+      {
+        "index": 0,
+        "title": "Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει - ekivolos.gr",
+        "link": "https://www.google.com/goto?url=CAESjQEBxCJF19ekMad622_c8h-Va8tVro4AaWrhYBnsQ78ZG_uVw6WUe4fUpMKkCYiToG50HiszdYuuMyKmweQePOhj6NRYE7o7ff6vYs3mU1jTYlnurFyPmuE2jF-4mrDB0nUPUMVkHq3teYXhiQUlaq0yRUq1g3sKaXzcuLpsI41FBsxT8hqCWtmMY2i737o",
+        "link_token": "RSbTi0r3naxNj3kI_-bj4k1c37TXM8zQB6DgAqxVNQpwfYZKrokqLdshO0hwadmfNYJ07WlVSRm8NMtIaYE-FFZFRp5wV9tzb_bwld-D9_F_7pmu02eSoel1rVSb7cIARxR_0RlLC1AwNT4jIyullsS6wv0gP2h5PYJAVeLGW82h6Z3PBXbVUPbe-xp2G-IO3d0MMMEG-VKwUA1zT81sJB65Rv8XF7YQrOWixbIzhV2jpjbGt1CWg_sw4rHxfqG8FSpIWKuoE_4LPnMYQEqz--f5AzVwm0k135WhHX--VLBPsJw-WgglR835-64oMg",
+        "snippet": "Αριστοτέλους, Μετά τά Φυσικά Α΄. Κείμενο. Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει. σημεῖον δ' ἡ τῶν αἰσθήσεων ἀγάπησις· καὶ γὰ...",
+        "source": "ekivolos.gr",
+        "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=http://www.ekivolos.gr&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTr7Tahn4eStmQ1oPdi3RFXbC5elci8p5j4wgAvmkF3U3i64F2pMcmGNiWMj4kH3_MGdcpcfXgijLCM9i49sJm9RKr8w8WFzcDOazYP--DmSZd4cZyRYCmDbo7DP0qvvDcmWqF6oKftgPbF0sO0fmBJe_2-lg"
+      },
+      {
+        "index": 1,
+        "title": "Μεταφυσικά/Βιβλίο Α - Βικιθήκη",
+        "link": "https://www.google.com/goto?url=CAESxQEBxCJF18hziyhmQME7WErHaM_S579Vrhh8DTpB-_49SOey2h7OSr6AUCZc_xKVb7haFwGgKz8VUB6-T5mQpcDTc_rMi2ReD7Yfb73nvLfi8DD5QKEBzJjvj64tot5VrcISZRrym2Gzrc-H1TmY1Z9pYNnX7uJdx-5DtgUaY34cmkUk-ddrsPDq6ciw8vh4zB4Fk4iFfZ7Ra7GriD92BZDKmgvqQEypadx4DHK-Epu9IsuBBhCy-Td9ENH1Y5Ka7RAU0X5GJw",
+        "link_token": "SSGKCnEKMR3bG84nURK8Zn9Lsly7WOyQpBzgMENkyVZU_7E7SzukPvGRs4pi7M3vmtyeDuLWki3OORUPkHhGxGN3-5FTRB25piiC7k7JEXs_6xKBF16Cn6V3WtyYnKrKfhgfHuuhGU9aiokrtZAZTYn4w22Y1sexMYFUnHiPcC03Gnrg9d5eJGFg5kjNkBeU0yqIqHiMQ5BPg3C7y2jCZ990cDfY3BMvFz8UG5S8TepDkikUcdWFGzLrTCfUlBTcH7hfxHGg6i_2-ynl8mjvM6xAaUu2RVGI3GidYwYTqWG5x71qiQ7Hh9ol7xKjGZaa7KmBpxmesCNRt8F4cgfW6-2RDtc6QaxeyMTkP20PLNjLVnt1x1Sflek3--HEXvZufyxlmYbjUJ--9DqwGYMkzzrMPjaAxjyBFA",
+        "snippet": "980a πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει. σημεῖον δ' ἡ τῶν αἰσθήσεων ἀγάπησις: καὶ γὰρ χωρὶς τῆς χρείας ἀγαπῶνται δι' αὑτά...",
+        "source": "Βικιθήκη",
+        "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://el.wikisource.org&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 2,
+        "title": "Αριστοτέλης - users.sch.gr",
+        "link": "https://www.google.com/goto?url=CAEShgEBxCJF1zbh10_Fl8rY6ce-_nDZ31Gpw9Yjmw5bD0AYURMhV6slyq15re6gaTb1NEHOoZ0bdn7wxYe01eZhRpRTEnCJA04Vl3143vambau12z7JJxd3QEHvObxaPD0hceovMial6WgV34Urm7uejyDjex8KlVQ1qFETA1NZH2AIEOSzeXD0Iw",
+        "link_token": "cgcsAuHGTrd1C2PU37J-DsEhlzvFM7kPHFOjGiv5q_tM18V6LbCR1XoKprhoz2SjqtYtFXDXEP_aZW3afuz97YfArbFBHAcaTSN5A73YkLns5NMD6H24kqCIxnfn4J2MB91_D8_Fq__Nnxqsjv1_V6gzaMt4aEPWYKVvIypxIh6eo1bDtr-EcvGsoFaSdfSCJSS80WTLli7oY0PS3zWRc6tBWvd9bbXuh5lv_0-m11ziC0iY39KQwvcPoINWf89vcUAsMHeg--vD2glQVMiR5VwC1P--EKu2TuZ_oztI0-7uyB334A",
+        "snippet": "«Πάντες άνθρωποι του ειδέναι ορέγονται φύσει». (=Όλοι οι άνθρωποι είμαστε έτσι καμωμένοι από τη φύση ώστε να επιδιώκουμε τη γνώση)",
+        "source": "Πανελλήνιο Σχολικό Δίκτυο",
+        "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=http://users.sch.gr&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "ARISTOTLE, On Interpretation",
+      "link": "https://www.google.com/goto?url=CAESugEBxCJF15R9zUvgOcNAAg3ls_YrlvmnIH-dP-H8S-xkheICt7Mtw986fGpC3ICCJZQziyKvXIwbwAhggqf-5pFFPNb5RSw4GMXLFhPDBBx9x463ytAH7oJsl_8ZcultuqfEm9SKyRP3ULLUD3BrvG_5FvJztid7l5BR1yA2OnLE8TiXVSjxnab4Lz2fM597--lb-96gdsQVaxPHH7JP6N4Hp8E08NupDhlaoAhO-eHSXUEAYeN4xlCSoc4&gsessionid=_mPYAB3TjgSW8tZRWFSNGhv16ZtdwBlU-axwXxlNoXxmAEGk7OIy1Q",
+      "link_token": "6hJdPNmXrn-kiph9rWg2eev6X_qXcxtndep6-lFX9zpqoVZba_mH_y1Miq9HWYyMS0VTOKXCusdyatA73YMHsJMJZ9krxI1qzTVCmiRuPYCW7Sg6BuTCY4xXrdg14ul0K5Q-2v1rxacRmOT-DMlzd3XKjFN0A1KY4d5OFxHn1oHf35bKSzmE4yRbLmMm6z0qHMNAUpV6VdO11nJhOPdFIq78U9_S9ZPgQ1TbcR9p4goIKa5rzxMRBTqG2BOh0Q8KiK378kIYsFAzmD48x1M1PvsY1PvGwPChmDoKjCA5YKiuccBBibskq4c6D9AnTqnqpJ9aAKex0FXHqfjBnKgEl5T7S0QGaCDqexca--VeS5eI3Lh4AvZwx2--gSaXtKKT4BmFNKLrMeC4lQ",
+      "source": "Loeb Classical Library",
+      "domain": "www.loebclassics.com",
+      "displayed_link": "https://www.loebclassics.com › pb_LCL325.125.xml",
+      "snippet": "Aristotle. 17 a 30μὴ ὑπάρχον, καὶ περὶ τοὺς ἐκτὸς δὲ τοῦ νῦν χρόνους ὡσαύτως, ἅπαν ἂν ἐνδέχοιτο καὶ ὃ κατέφησέ τις ἀποφῆσαι καὶ ὃ ἀπέφησέ τις καταφῆσαι.",
+      "snippet_highlighted_words": [
+        "τοῦ"
+      ],
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NBgkRDQgWCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5MToBCgoKDQwNDw4PFSsZHxkrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAACBgABBwX/xAAoEAABAwMCBQQDAAAAAAAAAAABAgMEABESBSEGEzFBUWFzkcIHIjb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOKyEc5vmlQYyHMLYBUE33tfa9qa+J+GIkDSGHUTXXXZQBjoUhOJ6E5eNjSiroaf/wAifzvDvtfRNEIFURRVVFG03m8hOaWy4oJzcVilNza5PYeTWh8Wtxpul6U0xr8RK4acVqelBIV+oG1gfFZzUoGB/SIkbRpa3dVZnT1lKIrMJ/MI33Urp2v6fOy/apahPWg//9k="
+    },
+    {
+      "position": 2,
+      "title": "https://scaife.perseus.org/reader/urn:cts:greekLit...",
+      "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg017.1st1K-grc1:12/",
+      "source": "Perseus Scaife",
+      "domain": "scaife.perseus.org",
+      "displayed_link": "https://scaife.perseus.org › reader",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 3,
+      "title": "http://www.perseus.tufts.edu/hopper/morph.jsp?l=ka...",
+      "link": "http://www.perseus.tufts.edu/hopper/morph.jsp?l=katefai%2Fneto&la=greek&d=Perseus:text:1999.01.0233",
+      "source": "Perseus Tufts",
+      "domain": "www.perseus.tufts.edu",
+      "displayed_link": "http://www.perseus.tufts.edu › hopper",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 4,
+      "title": "More to explore",
+      "link": "https://www.google.com/goto?url=CAESbQHEIkXXYiYFamj10_cxci66AfUJehOK-QIr7Ek36mgxUOjS-7u88o_JCoi32jkdVNAoNHF0AHF-FMRREu1TNAJCL7TZixBn0n1-fbnSTe5orCBp0-dDzImblgjW-b_YvkfxTtktxYoFzcJRQTc&gsessionid=_mPYAB3TjgSW8tZRWFSNGhv16ZtdwBlU-axwXxlNoXxmAEGk7OIy1Q",
+      "link_token": "1EytD8a-Xznoncrs_phKGjrNPTQ4nwBvwdBrCGnQ14KLdQx60_cDFTISkb9AjbryteobqGCvZg1lgRg3uMLRujjzaH6Ei0VlM50PZgh5UwEZ7lR6v7o9RWd_98-C83GHWQ0muyWnZFkqthT9bgm3OWzMOBhCUCjdCjz3G5R6ef1_NhYkAvM4BsDSx4o8hh-k_dAzceqrCd3bK-CZnbedBmvOZg--90tGVB4t_RRGfXKW--SLWlRSiFjnI6FXHx3MTIpA",
+      "source": "Pinterest",
+      "domain": "www.pinterest.com",
+      "displayed_link": "https://www.pinterest.com › pin",
+      "snippet": "✝️ Άγιε του Θεού πρέσβευε υπέρ ημών. | St nektarios quotes, Greek. ✝️ Άγιε του Θεού πρέσβευε υπέρ ημών. More about this Pin.",
+      "snippet_highlighted_words": [
+        "του",
+        "του"
+      ],
+      "date": "Oct 16, 2026",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU+9/3QHss1rH3bxhpYTEAAL8Ibw/AOhik4gOd8y1Ee6NhTZF+IYxEe+oaeZ+Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh+E16wemD/TQ+ta8LyZ7XxUgAAAAASUVORK5CYII="
+    },
+    {
+      "position": 5,
+      "title": "B24 - Reading Heracleitos",
+      "link": "https://www.google.com/goto?url=CAESbgHEIkXXXvQgAQKMprk1rjTpYKqVsZU5Bayp6z1jTZ5d8bjKDETMdcXqxZMGDQEyJKKfi_iXSBQsOETKdsDXZeiv2m4awUZ5vnmKjsKDGrwxrhf1Yxmu-saRbHzj_x64wmbd0wb-TkfzIbvLUnoC&gsessionid=_mPYAB3TjgSW8tZRWFSNGhv16ZtdwBlU-axwXxlNoXxmAEGk7OIy1Q",
+      "link_token": "sIkGk5tl7u5dtSyZIoOtPz_lGicAbqqBxUEEO1UAgMw4KR2fFR7zEG1QTsEGCUtVofYEhx7m6ZyPPGg7-bqr79LAdYXKegV1cG4mGJJniUO-8NoZyv79lA4e8HyyUgoDZfH3FQYQE9NOHUJC95w_2qVpbD3shEQL7U5upIj2DdSN2RR19O-5hVhSvOZAhooLLZFCCqPK58C4191lZ3IVY0x3ONU--GpdPC2nnLxwCQoEh--nw-eXKSXmNA2wovj2-CYjw",
+      "source": "WordPress.com",
+      "domain": "herakleitos.wordpress.com",
+      "displayed_link": "https://herakleitos.wordpress.com › fragmenten",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 6,
+      "title": "Παντες ανθρωποι τον εἱδεναι ορεγονται φυσει",
+      "link": "https://www.google.com/goto?url=CAES1wIBxCJF1zwBEIPnHtLNPGq307R1TbVRmw9ISxClVaFy0YIU9KWooWL2_m0N1zA7wR3UyhxGHwL36V8B6flMvywfhh1o25157wxNqJ11GROXFzycwsuZcYpQKhkTA2woVklikvtI4cwF7pOwseCueo7TcnmCggyl92-yxEyuV8gixb1m_1OzoilGzi_IsW2eYZOShprHtwYoymJH6pBKwtc4HrMRrdDC17vrV_YI8-TnNEuavdVhlPWbt8B0bLc_WAdi2EGrkl6oiSTpsJPBifld3WYBJu31wViKjQD010P53Xb8RLuwrJcIqycOovkpjvb1XXDHgKL3EsxDJcvYH8_Tfj3gjNfrysVPKOjpiOzpDHDik9u6iS05-BHcY47Oxib9e0Ou7vOcbOjLj7tEyhbkh8Rbn0Bf35gzSqbe5fZs3KwYlWYviSMGn6JXcflpzfuwq7uN-Ib_&gsessionid=_mPYAB3TjgSW8tZRWFSNGhv16ZtdwBlU-axwXxlNoXxmAEGk7OIy1Q",
+      "link_token": "9sCm07bQEBxoiQCJSGeuOHvH87KJ9sbZM3gZVu_K243Y6Od5I0jRI9sJ3YMoY5hdFBzwXzEWRaPdga6fNRmCi_yhrb93jQK6y0-N8mnuaHNFx3SLnj0AzSwHdXpbGOpb8fnxSaFVM6jjLWj6TJ1spkA5H981nMCcmbR6lbzPjNsA7VgciN1Yj6YR8A3DUdYQ2pBTPaPr-osfJy65b2yoap-3owmkC33ApXj0l7e_NpPURDxV82eidrLZ0-3_85_-dioTLCqZeKdI7Ry4xDLAbHDL5jdLXJG4ds6bgyg8SiWb_wDr1yeyxY9cJGhLhaaC-6Zo5FsebLbvoh2V7zfIsky0e7TwlihVltZ6xs9u-pxNhDiYeXiD6jtuDJvweHNIA5xR7Q_-OwrHy7qFA-pImEDELvwtGGQdkYC-D-dw7xI2PrPmRwZDdd9bYV8pBpIzwPWFnVDmq9v9VCD5ThCAhhd_FzXafKtaMcJjblyeiWK9PdC73ajHL8x8p_1qFZMA7TgVpu3zlDgC_YmkM-lSdsU0V7R32ttUA41JTekZvQ54uYJ34Q2v8PJlNtIyttoH29ats9IomAkISV8wjrwxFwjtrFWIRoymoKQT8RTvuAbA7CPfCF4rUIiHndQ--IRekSHcgoWEwUh1v--bvGklVK8WF9yBTH31uMHYA",
+      "source": "Translators Cafe",
+      "domain": "translatorscafe.com",
+      "displayed_link": "http://translatorscafe.com › term",
+      "snippet": "Παντες ανθρωποι τον εἱδεναι ορεγονται φυσει — 'All humans, by nature, desire knowledge'. -This is a Greek phrase, told by Aristotle.",
+      "snippet_highlighted_words": [
+        "All"
+      ],
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzU3NzI3LTc3Nzc3LTctNy43Nzc3NzcrLi03NzctNzc3Nzc3N//AABEIABwAHAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAEBQcD/8QALRAAAgECAwYEBwEAAAAAAAAAAQIDBBEAEiEFBhQxQVEiYXGRMoGhsdHh8RP/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EAB4RAAICAQUBAAAAAAAAAAAAAAABAhEDEhMhMUEE/9oADAMBAAIRAxEAPwCpNUoi5nYKB1Jwui3jopVlZVrMsZsW4KYhvSyG+Ee9NfXxbEmfZkEU1WLZUlJCnv8AT0xP9mbS3neOfhxWpEWzOiEBxfopvbTTUduWGvo1Y3SJBJ9lfoNvUtdM8US1COh5T07xZh3XMBcYO4gd8Q3djbu8lFt/LVUYniLf5yPM5LgXsSDe59vbFZFW5AIW1x1xtgjuRsGXDBJGcOgy5kF7jL5j58s2AKiho5mLSbNF2+AslydOfufthnhZU1slPUyiJEDNZWfW50t36AYZyQ9QKNIoqeC/CUCrYECy28X4/XngxGLFyUKrm8N+2MKKZ52keQ6rZNPL+4KwWOFK7KZ//9k="
+    },
+    {
+      "position": 7,
+      "title": "Authors/Aristotle/metaphysics/l6/c3",
+      "link": "https://www.google.com/goto?url=CAESjgEBxCJF14SOJetLX_QLAjdzTwD1qasyopfow_w2gcmbiCz7x-H6xZcuGhtdL4V_A2ZEgEExeCySQpqyb5EdLr0hhqgTAQAZW_vCvnKLkdQOD61BzmNnls8dL4wigkfgPB6Tb9UTOiHYrED24uQG0Aitul1aTeR6KxwIJwyWscPePDOyKOijpqHp_PW657dl&gsessionid=_mPYAB3TjgSW8tZRWFSNGhv16ZtdwBlU-axwXxlNoXxmAEGk7OIy1Q",
+      "link_token": "eDTnFAuJV7RzWdgKs4gZnTWsc7cOgIebIRBTNLgy7jt2cX0DTyflgBtWxgX8Wk_pxuUBv8T0KDQEyggjzrQfSkAj8Co1TjeCYEW-TP4Ou3yliwKntXjwu5i1rbbDpyX-iqNXEG7_R7P21rbq_FSzT-Vf53MJFzV5d_pXtRZv2zf5Ge5amVof06TM_XCLP7hQ-LC0ZfGq8LIGAFoq-V2shRYNZkai1hQ8yXyM7jnqvOPFnXqNnJFMHEgRHRkpyraP57vRelFWwVMf0cCzv3Ddvg--dpMLDh7_I4jrw7nu--0M8anCxwntzknjDMr4CN0g",
+      "source": "THE LOGIC MUSEUM",
+      "domain": "www.logicmuseum.com",
+      "displayed_link": "https://www.logicmuseum.com › m...",
+      "snippet": "Greek, Latin, English. ὅτι δ᾽ εἰσὶν ἀρχαὶ καὶ αἴτια γενητὰ καὶ φθαρτὰ [30] ἄνευ τοῦ γίγνεσθαι καὶ φθείρεσθαι, φανερόν. εἰ γὰρ μὴ τοῦτ᾽, ...",
+      "snippet_highlighted_words": [
+        "τοῦ"
+      ],
+      "date": "Feb 21, 2015"
+    },
+    {
+      "position": 8,
+      "title": "More to explore",
+      "link": "https://www.google.com/goto?url=CAESbgHEIkXX0fLbUP8B-dU_cwQJVT8HiPgfchV0aQcXD4V9XPt04vXlomelP994928vIFEF1DhasDbaTETGSWJ6HNtJWljXXEANcd7ngJqdRxyT7oSfShNRhNb7IhYbobuqyiUsuuYjb5oLY6CDBrM3&gsessionid=_mPYAB3TjgSW8tZRWFSNGhv16ZtdwBlU-axwXxlNoXxmAEGk7OIy1Q",
+      "link_token": "Fo-SfKm3GNfxzHWGUIaCs4qCkBtCQthLoVEWPtv6xMk2ReaEpnilNZyba_V1MfIVG_GFdW3qz5myKNbv6LL8tgowUpBZbWF3wODRZt5XiJ6v8OkZrQfobaq99NkiKz2bxB0IzTUqB3kvviXpk7aIzDCutfKi92qS2KiDwppsjTDUcdo_98_jEUmGw-cBvOf3f58AEytQ84nS8wt4pJlxkdn1914--Q8eBWWVH6F0Svhaq--Ae1U6CtKiYUGGNrb-vGdtw",
+      "source": "Pinterest",
+      "domain": "www.pinterest.com",
+      "displayed_link": "https://www.pinterest.com › pin",
+      "snippet": "More to explore ; Özlü sözler | Edebiyat, Felsefe · 9 · 2 ; Greek inspirational quotes | Mahatma gandhi quote in greek, Greek quote about true men, ...",
+      "date": "Oct 27, 2026",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU+9/3QHss1rH3bxhpYTEAAL8Ibw/AOhik4gOd8y1Ee6NhTZF+IYxEe+oaeZ+Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh+E16wemD/TQ+ta8LyZ7XxUgAAAAASUVORK5CYII="
+    }
+  ],
+  "inline_images": {
+    "images": [
+      {
+        "title": "Πάντες οι άνθρωποι του ειδέναι φύσει ορέγονται». Αριστοτέλης ...",
+        "source": {
+          "name": "Rodiaki",
+          "link": "https://www.rodiaki.gr/article/438051/pantes-oi-anthrwpoi-toy-eidenai-fysei-oregontai-aristotelhs"
+        },
+        "original": {
+          "link": "https://www.rodiaki.gr/medias/2020/06/05/b70ea7e4c1eca855f0f2d039b66547e4.jpg",
+          "height": 405,
+          "width": 720,
+          "size": "58KB"
+        },
+        "thumbnail": "data:image/webp;base64,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"
+      },
+      {
+        "title": "Πάντες άνθρωποι του ειδέναι ορέγονται φύσει». Αριστοτέλης ...",
+        "source": {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/100063581679701/posts/%CF%80%CE%AC%CE%BD%CF%84%CE%B5%CF%82-%CE%AC%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CE%B9-%CF%84%CE%BF%CF%85-%CE%B5%CE%B9%CE%B4%CE%AD%CE%BD%CE%B1%CE%B9-%CE%BF%CF%81%CE%AD%CE%B3%CE%BF%CE%BD%CF%84%CE%B1%CE%B9-%CF%86%CF%8D%CF%83%CE%B5%CE%B9-%CE%B1%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82%CE%B5%CF%80%CE%AF%CE%BB%CE%B5%CE%BE%CE%B5-%CF%84%CE%BF-%CF%86%CF%81%CE%BF%CE%BD%CF%84%CE%B9%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%BF-%CE%B5/3941517009196407/"
+        },
+        "original": {
+          "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3941516935863081",
+          "height": 1200,
+          "width": 1200,
+          "size": "149KB"
+        },
+        "thumbnail": "data:image/webp;base64,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"
+      },
+      {
+        "title": "Πάντες άνθρωποι του ειδέναι ορέγονται φύσει». Αριστοτέλης ...",
+        "source": {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/100063581679701/posts/%CF%80%CE%AC%CE%BD%CF%84%CE%B5%CF%82-%CE%AC%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CE%B9-%CF%84%CE%BF%CF%85-%CE%B5%CE%B9%CE%B4%CE%AD%CE%BD%CE%B1%CE%B9-%CE%BF%CF%81%CE%AD%CE%B3%CE%BF%CE%BD%CF%84%CE%B1%CE%B9-%CF%86%CF%8D%CF%83%CE%B5%CE%B9-%CE%B1%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82%CE%B5%CF%80%CE%AF%CE%BB%CE%B5%CE%BE%CE%B5-%CF%84%CE%BF-%CF%86%CF%81%CE%BF%CE%BD%CF%84%CE%B9%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%BF-%CE%B5/3941517009196407/"
+        },
+        "original": {
+          "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=477198754411552",
+          "height": 960,
+          "width": 960,
+          "size": "250KB"
+        },
+        "thumbnail": "data:image/webp;base64,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"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%80%CE%B1%CC%81%CE%BD%CF%84%CE%B5%CF%82+%CE%B1%CC%93%CC%81%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CE%B9+%CF%84%CE%BF%CF%85%CD%82+%CE%B5%CE%B9%CC%93%CE%B4%CE%B5%CC%81%CE%BD%CE%B1%CE%B9+%CE%BF%CC%93%CF%81%CE%B5%CC%81%CE%B3%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%86%CF%85%CC%81%CF%83%CE%B5%CE%B9&oq=%CF%80%CE%B1%CC%81%CE%BD%CF%84%CE%B5%CF%82+%CE%B1%CC%93%CC%81%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CE%B9+%CF%84%CE%BF%CF%85%CD%82+%CE%B5%CE%B9%CC%93%CE%B4%CE%B5%CC%81%CE%BD%CE%B1%CE%B9+%CE%BF%CC%93%CF%81%CE%B5%CC%81%CE%B3%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%86%CF%85%CC%81%CF%83%CE%B5%CE%B9&gl=us&hl=en&start=10"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "search_metadata": {
+    "id": "search_W75dANvqloTzPJP2m4blrDJ3",
+    "status": "Success",
+    "created_at": "2026-11-22T03:35:37Z",
+    "request_time_taken": 2.8,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 2.83,
+    "request_url": "https://www.google.com/search?q=%CE%B5%CE%BD+%CE%B1%CF%81%CF%87%CE%B7+%CE%B7%CE%BD+%CE%BF+%CE%BB%CE%BF%CE%B3%CE%BF%CF%82%2C+%CE%BA%CE%B1%CE%B9+%CE%BF+%CE%BB%CE%BF%CE%B3%CE%BF%CF%82+%CE%B7%CE%BD+%CF%80%CF%81%CE%BF%CF%82+%CF%84%CE%BF%CE%BD+%CE%B8%CE%B5%CE%BF%CE%BD&oq=%CE%B5%CE%BD+%CE%B1%CF%81%CF%87%CE%B7+%CE%B7%CE%BD+%CE%BF+%CE%BB%CE%BF%CE%B3%CE%BF%CF%82%2C+%CE%BA%CE%B1%CE%B9+%CE%BF+%CE%BB%CE%BF%CE%B3%CE%BF%CF%82+%CE%B7%CE%BD+%CF%80%CF%81%CE%BF%CF%82+%CF%84%CE%BF%CE%BD+%CE%B8%CE%B5%CE%BF%CE%BD&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_W75dANvqloTzPJP2m4blrDJ3.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_W75dANvqloTzPJP2m4blrDJ3"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "εν αρχη ην ο λογος, και ο λογος ην προς τον θεον",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "εν αρχη ην ο λογος, και ο λογος ην προς τον θεον",
+    "total_results": 65,
+    "time_taken_displayed": 0.2,
+    "detected_location": "Oklahoma City, Oklahoma",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_Z2xceDNkdXNceDI2cHdzXHgzZDBceDI2aGxceDNkZW5ceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZENtTUNhOXVtTzZxNW10a1BqX21iMEFZXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQkFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9FbHRxS3poMkx4ZWhYUFlaVUNUY3ZlSWFqLUdRL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMTUwOTM3OCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJQUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUFBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SlVDSWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBQUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9GcEQ3TXRFdzdfVUhFeW10RDFTbGJUb1I1R0ZnP2NiJTNEMTIxNTA5Mzc4LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNBQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUFBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SlVDSWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBQVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FCQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0hBTHJMZFZ3TGk0anNOMVU1Q0RuOElkMC1oM3cvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIxNTA5Mzc4LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUNFJUI1JUNFJUJEKyVDRSVCMSVDRiU4MSVDRiU4NyVDRSVCNyslQ0UlQjclQ0UlQkQrJUNFJUJGKyVDRSVCQiVDRSVCRiVDRSVCMyVDRSVCRiVDRiU4MiwrJUNFJUJBJUNFJUIxJUNFJUI5KyVDRSVCRislQ0UlQkIlQ0UlQkYlQ0UlQjMlQ0UlQkYlQ0YlODIrJUNFJUI3JUNFJUJEKyVDRiU4MCVDRiU4MSVDRSVCRiVDRiU4MislQ0YlODQlQ0UlQkYlQ0UlQkQrJUNFJUI4JUNFJUI1JUNFJUJGJUNFJUJEXHgyNm1scm9ceDNkMGE3dW15V0FhSTkxNW53X1J3ZHEtVnRwa3B5aXRGdjlUYkFfV211X3duZFNVeDJESnE2eGZtTTNucnEwS3pZYnZnMlFvck5SVEJEcktWZU1xbW52aUF1RGRhbTl3NS01ZGc1ZHMzRy1Rd0xFMms5T1F2TDQta1RkYVJHY1FnMnNkc1A1aVFWVUh3XHgyNm1scm9zXHgzZFRyYzFVeVlHck9rXHgyNm1yY1x4M2RDQUE0a0FOUUFXQUFhQUJ3QUpnQkFLQUJScWdCQUxBQkFib0JBUUhZQVFEZ0FRRG9BUUFceDI2c2NhX2Vzdlx4M2RjNWJlMjBkZDU1ZWM0Zjk5XHgyNm1ndHlwXHgzZDkwXHgyNnNuclx4M2Qx"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Βιβλίο της Γραφής Αριθμός 43—Κατά Ιωάννην",
+      "link": "https://www.google.com/goto?url=CAESbAHEIkXX6fhsigh1NgtMPEwAFra7xfG3ZAI__uYfu6vJpTgq9XiwWuf6oqDr6P1M58lpTaYWyv2cPaXwIRWj-C05brcLPj49nBbe_vhW69QrU5BCqGFKfRhb_W8HAf3NAXwUWuC3t79oNU0dnw&gsessionid=OS5dmQ2As7UMgqyu-wait3TrmhP22RHlriTCM-oysWvUxPx2ZVAndA",
+      "link_token": "s2Ciw6jbRx2sWtYobvZCkgp9Ztfb7NFWquNlA1CMYoGG0pWmPiKN5STszwVDpbRft9NaUoY8oE1Mre5PW3evbl89uS7fFjSrWf9CS9LNZppNVyhhgWICqxM2z5EWjB-y9gEksEkvCIIj3E1tGYRe_sX4vEQdhvSJR5d72GPMlbFUv6760ZJzwBLx96aZqYods5E1-fLdHt9lwIvMyUJRsvhw--0b9SiKaJrzZhwqal--XcwHmWG7OL3hjWD7yu7W9g",
+      "source": "Watchtower ONLINE LIBRARY",
+      "domain": "wol.jw.org",
+      "displayed_link": "https://wol.jw.org › wol › lp-g",
+      "snippet": "Βιβλίο της Γραφής Αριθμός 43—Κατά Ιωάννην. Συγγραφέας: Απόστολος Ιωάννης. Τόπος Συγγραφής: Έφεσος ή γειτονικός τόπος. Ολοκλήρωση Συγγραφής: περ. 98 Κ.Χ.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEV6oM1zm8twmcpznMt5n83O3O3k6/Xo7/fD0+emv93s8fiQsNXX4vD///+2yuOcuNry9vr9/f9+pM957YyzAAAAZUlEQVR4Ac3LRRIDMRAEwR0Qs/7/VzO0wkfT1jWjtp1GzCKkREoizLSYsc6HmHJOMXhnDSrbUnItrfdWai7F8orQx5Dcio4ANQ20kXSDJCEm2TCdsI6pe8cCvaCFLohK/IjA9tURsrIMY5U6e5EAAAAASUVORK5CYII="
+    },
+    {
+      "position": 2,
+      "title": "https://www.bible.com/el/bible/116/ECC.1.NLT/76",
+      "link": "https://www.bible.com/el/bible/116/ECC.1.NLT/76",
+      "source": "Bible.com",
+      "domain": "www.bible.com",
+      "displayed_link": "https://www.bible.com › bible › ECC.1.NLT",
+      "snippet": "No information is available for this page.",
+      "favicon": "data:image/png;base64,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"
+    },
+    {
+      "position": 3,
+      "title": "Ιωάννης (Ευαγγέλιο) — ΔΙΑΔΙΚΤΥΑΚΗ ΒΙΒΛΙΟΘΗΚΗ της ...",
+      "link": "https://www.google.com/goto?url=CAESbAHEIkXXONpMQwf9nO_sAQl9Wblh9lwp0-Jl_4Czdz8rPH9cqXln3NPZBAlI7MlPJwt3LwEjnnhgYlFXyeXzIifWaYVXY2MXYveeZjQeChoOAaxCvRfz1vEUz9z9KiNPUtjkUo_c5SbvYAuyIw&gsessionid=OS5dmQ2As7UMgqyu-wait3TrmhP22RHlriTCM-oysWvUxPx2ZVAndA",
+      "link_token": "7JMCkZvNLrewe3Hv1kanXYzaEbY23FCJ9N90wbiNWJydEqAP0Upmgfsu1k1m9imcozc_4H2GMgZsBmYpb_B-i6fa85N39LDS_7Dn_EYAzA0D0WIP7VP7gHwaniIiRczBxx0IavtbFNYd4_KHQCkW7G-E7aAx015UwJ41dFDLCkWvnwyXokeu9oqqDbFdRrsodBmGNQ4Z2CC--XZICvF437IU--rhEpYAm9uaoknYfG--DT_bmZas7BQ25nniyLLoXw",
+      "source": "Watchtower ONLINE LIBRARY",
+      "domain": "wol.jw.org",
+      "displayed_link": "https://wol.jw.org › wol › lp-g",
+      "snippet": "Αφήγηση της επίγειας ζωής και διακονίας του Ιησού Χριστού, η τέταρτη και τελευταία που καταγράφηκε. Συγγραφή. Αν και το βιβλίο δεν κατονομάζει το συγγραφέα ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEV6oM1zm8twmcpznMt5n83O3O3k6/Xo7/fD0+emv93s8fiQsNXX4vD///+2yuOcuNry9vr9/f9+pM957YyzAAAAZUlEQVR4Ac3LRRIDMRAEwR0Qs/7/VzO0wkfT1jWjtp1GzCKkREoizLSYsc6HmHJOMXhnDSrbUnItrfdWai7F8orQx5Dcio4ANQ20kXSDJCEm2TCdsI6pe8cCvaCFLohK/IjA9tURsrIMY5U6e5EAAAAASUVORK5CYII="
+    },
+    {
+      "position": 4,
+      "title": "https://anikoula.gr/en/βιβλίο/to-kata-iwannhn-evan...",
+      "link": "https://www.google.com/goto?url=CAES5wEBxCJF1-sdDxU200CNIGPphvyiUNIGbjMsc-o-ENYD6YH_CQN-BCcW5KmTh8og0iMxXsbol2eB0zKMLWPH3yq1lDadreZ_TRCcR8IGPcfZrpYxEd2PshhB-HRmo5PuyIbXZ-Qk0uWBaDO5Yk-OX81lA3rTPG7J47rUSFqbE3A2r15WUMxfVhF8URTpAPiAhcGCx5kEnHSvKUXWFlmPqLPMG5AEf7mf89fS62ENhpEB3eCwLJlIlec8ZijwQxQxl08LnlQa2ojCtOKeJ-YlhiGAjNbteTcxeVm9ACzTf4UG-MBcom4-pms&gsessionid=OS5dmQ2As7UMgqyu-wait3TrmhP22RHlriTCM-oysWvUxPx2ZVAndA",
+      "link_token": "npb23yrzhtOPHR6Mdknqta2j504ZwOc-VfgUWb79kyU88IFSXyL9sStbDL43TGMNyRswKLjjnMVmbeRwZ49XsMxyL3cfdyemaLYl9W0tPakrFBKEyTXhjRzdvGOvQlJoE0kmKtcvGXQtnGbaEQkI9vf-kV688tnR6AABWyC7UEQ5ENgLHXV3xoSrFwD6IsflML3ADwuU94bT7Q0ewC16XAunic3FDnDtAnf0UW5acdEqIcG9HsNlBuYdJoIxbpoXiY_cgUa-x39BhtMQMTv3zLAe4xDYDbHsd52gLJX6b2_RtxlDPNc5pjwJa-6Oq6bpdB5vMcYPhqKc3DiUfjEJUmPhw7ZRKdT_g92-cUdJI-yMi9AWIPBkICnTAs1Jm_7UNacStZd6H2EUQWfno53Cw6bVlKzPkD8UaLXjH9B-EIFFqh4VuyRJ--7X32GJfOoNfu-vKw--Z4L1voL2Xt_dAD5_uWjn7Q",
+      "source": "Βιβλιοπωλείο Ανικούλα",
+      "domain": "anikoula.gr",
+      "displayed_link": "https://anikoula.gr › βιβλίο › to-ka...",
+      "snippet": "No information is available for this page.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEVHcEz1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giD1giC5vHiXAAAAEXRSTlMANIbM6/9jF9u5mqhRCngi+NSfmboAAADsSURBVHgBXZIBDoQgDASBdgRQwP+/9i40oLKJIcvoZi24JR9EQSV4t+tQlvT4oJgANJeSFSDFVyJAiGZiAPBvdrqXzodG4NgaABaUjO002TozYxEpcSaPLxTMXwxd5kBHmzBcHfsX1GEDeBcgmiPY0mbN4AS1nGztPdm8kp1OI3RXa+3IfFkdlAU9wISF+wN7/mvCk/sTa0We2PG8YUdWofUrO+zQ1hB2GKCv8e0Q1EaaR3UZ8VGK1bEhJ2huUwNZh912BvW5Jrk+qOb9ElG6mV4wNlUF4JbzlBtAqnvrSiyly+3qLSfVlFtfWz9+vgkmIW1o5AAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 5,
+      "title": "αποκαλυψη ιωαννου 1",
+      "link": "https://www.google.com/goto?url=CAESXgHEIkXX2GIkIcJMyISLRh1-LqEYCPMLbyLmqrfMv-Uopov29jSzMQDjeCFHU7L2hcHHURZtUeIgVCgmfL_CjxaqU7N0a6o0cxw4ZVWM1cu8h-i5B2mWb5LelUZ94VE&gsessionid=OS5dmQ2As7UMgqyu-wait3TrmhP22RHlriTCM-oysWvUxPx2ZVAndA",
+      "link_token": "1Or9APA-cLyO0n-UN_yiMdi2eBKTz9WokElR-jYXl_kKzy7Q4Kk32qr2E_w_Cb2dtxey_OW70x73kGgfMSenfXaTVF-hWvkfhoZnCoM4VkUPpo3OERxal2sR5uNcDy4oCf2Hrxs9PPXANGW8_hsYoYWTAcWkwDvIffAmJTld1-rFrjUCJ-vWWQd2gjxJqPc--d5xjEs5-PBOEAJ2P--kThuJcuIP4hVgn3t269V7A",
+      "source": "ebible.gr",
+      "domain": "ebible.gr",
+      "displayed_link": "https://ebible.gr › mnb-ref › rev.1.3",
+      "snippet": "1Αποκάλυψις Ιησού Χριστού, την οποίαν έδωκεν εις αυτόν ο Θεός, διά να δείξη εις τους δούλους αυτού όσα πρέπει να γείνωσι ταχέως, και εφανέρωσεν αυτά ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAyVBMVEVHcEzzrRf+whv+wxz+vx/9vCD+xTX+0Gj9wCn67db7/P38///7tBr71ZH4+vz1og3yu2zzpSfz7+fuyp3rwZovHgDz4870niT2oRXzmAnw9PnzlxzykQTx0KnymiPvqVzZcgDtoVTxkR3geADq7/PuhBTvixrmtJDtfAbrfhbokk/mmmbqdxCNOADj6e7pcQDj6/LiaADk0MTnaQDEQQDkhU/kw7Dl2tO8QADh4uTh5uvinn3VSgBpGgDXRgDieEfcTQDfaDaWIwAcrAaTAAAAQ3RSTlMAEzRLdd3///j////C//93//3///8L////2////////z///1r///////////8b////3v//jf///3P////NKOb//v9R4ucr1AAAAWhJREFUeAGMjoUBgzAQAPG4B3f2H7LBoX6Rd/H+xQ/CMPDfRqI4AY4kjl7iEQQIEwdGAEb3MgoQwRsEAepfYjHDN1h8RinD/AZmdI8JOdvzXZmlFFtThTjXRkqjOUd2kyo9CrO8cKgsU6s8SsuMV6bOHbWUi2xaXmXl0rXTVWWbeqbvF9G0VVV188LDWM3BaaYfF9EY5xqHR+NyYeAwFAIAlBnO/SpxIcRd9x+q8OveF8F5uJx/aV8vuiHmcxX0Z27974ampYv53JZgvXBLXc4cTdNMy2aW66jovWjalyND30MeBp5wHBWCF43Q9oGFkUZmHAdBHDvOOvJlFIJIXB6mWZ5nKeP4kpqkuQUIP46orAiRSrcuVSwpj31QkhSxEpjnm4RSORSvTU3VEaqbV9hou5ovSn7WP6w7H3bapo+IJ4zPor5p4cBrMqRZiURYZumQvMKxNumGse/HoUtaOPfaTkUxta/wmBUXoUURU2nd9AAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 6,
+      "title": "Evangelizo",
+      "link": "https://www.google.com/goto?url=CAESigEBxCJF10IYi7kVYU0GGKptqGoSGpDP-9qEka-pMChjceGdu5oSnldRdyRWdP7CM4RRDH8sbgpwVXDPhBM-qY-sNVY-ADOCCq8BCqsuG8v5970ZNJrNdH7X97-lZDJhStxY2kwgHC_xqwTQZbpK7rG9HlWFEo2DUCZqi-gJAS8h7e45cHmPXnXZRJY&gsessionid=OS5dmQ2As7UMgqyu-wait3TrmhP22RHlriTCM-oysWvUxPx2ZVAndA",
+      "link_token": "hrVyyknSlvB-kbTRwpvKysngHKYrwbMfKOf-utwzUt6v-Ejdn4oyXVYTCrGarhs2E0vB0qwHhuP1hDDW0XPQMx1-grMuzjzkTX7qLL6E1daskZNgKa6ylwzjaATmmjNbBJy80AalgkL03MzD6okVYHokU_GFB4bb0k_SH78pxscDL8RU8FH8aCih94tb2E5wOHADN5R1a_d_cGoRDvhCm61gxLmcuArSZ5633Rh3xP2WnHQUZ21jur7As2iydsDdcHjalMd3DSK8Czw--YlTdb6ohy8Y6EoJ8--soNyLMmAub8TTjhZdE_nMw",
+      "source": "Daily Gospel",
+      "domain": "dailygospel.org",
+      "displayed_link": "https://dailygospel.org › display-saint",
+      "favicon": "data:image/png;base64,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"
+    },
+    {
+      "position": 7,
+      "title": "ΚΑΤΑ ΙΩΑΝΝΗΝ 1:29 - Σύγκριση όλων των μεταφράσεων",
+      "link": "https://www.google.com/goto?url=CAESbAHEIkXXKmC20Q0zun5qiLwEeOg4rlnRpZC834yXFT8YFpd7Vp0xKjravDWj_7MiNS3_kgobVkejHQHI5-FGoii5z-j64ziUbi-91I3UhZHfvWeS7ofL4q57f8-uYr0FTjA4pCi1HN-zyF8Flw&gsessionid=OS5dmQ2As7UMgqyu-wait3TrmhP22RHlriTCM-oysWvUxPx2ZVAndA",
+      "link_token": "LNgi70kcz3rVc3618L8NuymXQPOy1tbzni4nNCOdFeAXCSZenVyY96YMl6SCD7ctbJqmefDJ9sQtXktNLC4RJaim0GPHAjlaKxNgPJ4FqQQpBrVqVhaacSXdtvivynKXZ5wJnpun3d8X3LTLNjL3GdOJlAMx13wPiPw7p3hV4CZ79qPIjbXMo51rX1x13VXnkcnph1C2laj0Fer6JqZp88l7--kgaImSpIgXjQc_V2--kwLa1XELiJ3L2Ezjtx59-A",
+      "source": "Bible.com",
+      "domain": "www.bible.com",
+      "displayed_link": "https://www.bible.com › JHN.1.29",
+      "snippet": "Την άλλη μέρα, ο Ιωάννης βλέπει τον Ιησού να έρχεται προς το μέρος του και λέει: «Αυτός είναι ο αμνός του Θεού, που παίρνει πάνω του την αμαρτία των ανθρώπων.",
+      "snippet_highlighted_words": [
+        "προς"
+      ],
+      "favicon": "data:image/png;base64,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"
+    },
+    {
+      "position": 8,
+      "title": "κατα ιωαννην 4:5-42 tgv",
+      "link": "https://www.google.com/goto?url=CAESbgHEIkXXbZAG2eioB_xOHZNHD7aQa_BOWAlDtRf4QXE9TdKc_xgoCibyicMsZA37iBIKy8oGuU-Ig7ey0-Yav4rfvbSj183H1PzvxuBuo2WnGblmKtzhlakczafUFWV_97uBwW6CmGOpYOsDL9iK&gsessionid=OS5dmQ2As7UMgqyu-wait3TrmhP22RHlriTCM-oysWvUxPx2ZVAndA",
+      "link_token": "nRju2g0BxIFBJp-FdQTa4Jj6B-roSfvwkEWulpkQFogXf6A9VfROQ8qy-QJBR6eNLSwhNH08IxarKMjvXGkXPmG6EKmcZn3pgftvU7IRtiFXkM-_9FikdDzAEpIGNxVhzD8Mi9KSOhEfDYQRZrYFCpVtLUX8GHD45Kdx9KUwcUjGs55rcIQCY3XLVOPgLk3Dt32KNUWd5eoL75zq_KeUr6PUtY0--LR3ioN-Q_MsbeTsn--2-JkmHD4mFOGiAAlh7qlvQ",
+      "source": "Bible.com",
+      "domain": "www.bible.com",
+      "displayed_link": "https://www.bible.com › bible › JH...",
+      "snippet": "Ο Θεός είναι πνεύμα. Κι αυτοί που τον λατρεύουν πρέπει. Του λέει τότε η γυναίκα: «Ξέρω ότι θα έρθει ο Μεσσίας, δηλαδή ο Χριστός· όταν έρθει εκείνος, θα μας τα",
+      "favicon": "data:image/png;base64,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"
+    }
+  ],
+  "inline_images": {
+    "images": [
+      {
+        "title": "Εν αρχή ην ο Λόγος, και ο Λόγος ην προς τον Θεόν",
+        "source": {
+          "name": "YouTube",
+          "link": "https://www.youtube.com/watch?v=DoJ7NQ0Dlho"
+        },
+        "original": {
+          "link": "https://i.ytimg.com/vi/DoJ7NQ0Dlho/maxresdefault.jpg",
+          "height": 720,
+          "width": 1280,
+          "size": "81KB"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTU1wK1P53RsSoVJ9OvvB2msqtDjZz0xEp3R3YRWnw&s"
+      },
+      {
+        "title": "Ο ΕΝ ΑΡΧΗ ΛΟΓΟΣ ΚΑΙ ΑΡΤΟΣ ΤΗΣ ΖΩΗΣ",
+        "source": {
+          "name": "Άγιος Νικόλαος Κρήτης",
+          "link": "https://www.evaggelistria.gr/homepage/%CE%BF-%CE%B5%CE%BD-%CE%B1%CF%81%CF%87%CE%B7-%CE%BB%CE%BF%CE%B3%CE%BF%CF%83-%CE%BA%CE%B1%CE%B9-%CE%B1%CF%81%CF%84%CE%BF%CF%83-%CF%84%CE%B7%CF%83-%CE%B6%CF%89%CE%B7%CF%83/"
+        },
+        "original": {
+          "link": "http://www.evaggelistria.gr/homepage/wp-content/uploads/2014/12/DIMIOURGIA_ZOGRAFIKI.jpg",
+          "height": 720,
+          "width": 700,
+          "size": "138KB"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9IG9O1WB_Bw85f4Spizf5JIReo4JOJ8xry47zBgDE6sr_SHYx3wpwMmI&s"
+      },
+      {
+        "title": "Εν αρχή ήταν ο Λόγος, και ο Λόγος ήταν ως προς τον Θεό, και ...",
+        "source": {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/100076790363182/posts/%CE%B5%CE%BD-%CE%B1%CF%81%CF%87%CE%AE-%CE%AE%CF%84%CE%B1%CE%BD-%CE%BF-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82-%CE%BA%CE%B1%CE%B9-%CE%BF-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82-%CE%AE%CF%84%CE%B1%CE%BD-%CF%89%CF%82-%CF%80%CF%81%CE%BF%CF%82-%CF%84%CE%BF%CE%BD-%CE%B8%CE%B5%CF%8C-%CE%BA%CE%B1%CE%B9-%CE%B8%CE%B5%CF%8C%CF%82-%CE%AE%CF%84%CE%B1%CE%BD-%CE%BF-%CE%BB%CF%8C%CE%B3%CE%BF%CF%82%CE%BA%CE%B1%CF%84%CE%AC-/535440365692304/"
+        },
+        "original": {
+          "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=535440345692306",
+          "height": 1800,
+          "width": 1440,
+          "size": "468KB"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX6kd7tMn24HTky5NZ39I_sRvHOYvoQQ6Tg8CHRoTsdX8lsvkCzUylPO-F_A&s"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CE%B5%CE%BD+%CE%B1%CF%81%CF%87%CE%B7+%CE%B7%CE%BD+%CE%BF+%CE%BB%CE%BF%CE%B3%CE%BF%CF%82%2C+%CE%BA%CE%B1%CE%B9+%CE%BF+%CE%BB%CE%BF%CE%B3%CE%BF%CF%82+%CE%B7%CE%BD+%CF%80%CF%81%CE%BF%CF%82+%CF%84%CE%BF%CE%BD+%CE%B8%CE%B5%CE%BF%CE%BD&oq=%CE%B5%CE%BD+%CE%B1%CF%81%CF%87%CE%B7+%CE%B7%CE%BD+%CE%BF+%CE%BB%CE%BF%CE%B3%CE%BF%CF%82%2C+%CE%BA%CE%B1%CE%B9+%CE%BF+%CE%BB%CE%BF%CE%B3%CE%BF%CF%82+%CE%B7%CE%BD+%CF%80%CF%81%CE%BF%CF%82+%CF%84%CE%BF%CE%BD+%CE%B8%CE%B5%CE%BF%CE%BD&gl=us&hl=en&start=10"
+  }
+}

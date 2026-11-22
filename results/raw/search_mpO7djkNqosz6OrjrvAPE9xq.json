@@ -1,0 +1,151 @@
+{
+  "search_metadata": {
+    "id": "search_mpO7djkNqosz6OrjrvAPE9xq",
+    "status": "Success",
+    "created_at": "2026-11-22T01:46:14Z",
+    "request_time_taken": 1.61,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 1.63,
+    "request_url": "https://www.google.com/search?q=%CE%BA%CE%B1%CF%84%CE%AD%CE%B2%CE%B7%CE%BD+%CF%87%CE%B8%E1%BD%B2%CF%82+%CE%B5%E1%BC%B0%CF%82+%CE%A0%CE%B5%CE%B9%CF%81%CE%B1%CE%B9%E1%BE%B6+%CE%BC%CE%B5%CF%84%E1%BD%B0+%CE%93%CE%BB%CE%B1%CF%8D%CE%BA%CF%89%CE%BD%CE%BF%CF%82+%CF%84%CE%BF%E1%BF%A6+%E1%BC%88%CF%81%CE%AF%CF%83%CF%84%CF%89%CE%BD%CE%BF%CF%82&oq=%CE%BA%CE%B1%CF%84%CE%AD%CE%B2%CE%B7%CE%BD+%CF%87%CE%B8%E1%BD%B2%CF%82+%CE%B5%E1%BC%B0%CF%82+%CE%A0%CE%B5%CE%B9%CF%81%CE%B1%CE%B9%E1%BE%B6+%CE%BC%CE%B5%CF%84%E1%BD%B0+%CE%93%CE%BB%CE%B1%CF%8D%CE%BA%CF%89%CE%BD%CE%BF%CF%82+%CF%84%CE%BF%E1%BF%A6+%E1%BC%88%CF%81%CE%AF%CF%83%CF%84%CF%89%CE%BD%CE%BF%CF%82&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_mpO7djkNqosz6OrjrvAPE9xq.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_mpO7djkNqosz6OrjrvAPE9xq"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "κατέβην χθὲς εἰς Πειραιᾶ μετὰ Γλαύκωνος τοῦ Ἀρίστωνος",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "κατέβην χθὲς εἰς Πειραιᾶ μετὰ Γλαύκωνος τοῦ Ἀρίστωνος",
+    "total_results": 37,
+    "time_taken_displayed": 0.21,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_aGxceDNkZW5ceDI2Z2xceDNkdXNceDI2cHdzXHgzZDBceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZFowa0NhN0tsRHJLSDdOWVBrZFRaMFFzXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9HVmtPdUhUUlNVMXVuOVJKd1c4RFVXT0dZNWVBL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMTUwOTM3OCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJQUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUFBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBQUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9FckIxbW8wckFaYTh4cHhXNjBSS0ltRXpyWjh3P2NiJTNEMTIxNTA5Mzc4LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNBQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUFBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBQVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FBQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0Z5T1h1TXpUM2pfc1I1NG1XLWJaSFo2VW1qOEEvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIxNTA5Mzc4LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUNFJUJBJUNFJUIxJUNGJTg0JUNFJUFEJUNFJUIyJUNFJUI3JUNFJUJEKyVDRiU4NyVDRSVCOCVFMSVCRCVCMiVDRiU4MislQ0UlQjUlRTElQkMlQjAlQ0YlODIrJUNFJUEwJUNFJUI1JUNFJUI5JUNGJTgxJUNFJUIxJUNFJUI5JUUxJUJFJUI2KyVDRSVCQyVDRSVCNSVDRiU4NCVFMSVCRCVCMCslQ0UlOTMlQ0UlQkIlQ0UlQjElQ0YlOEQlQ0UlQkElQ0YlODklQ0UlQkQlQ0UlQkYlQ0YlODIrJUNGJTg0JUNFJUJGJUUxJUJGJUE2KyVFMSVCQyU4OCVDRiU4MSVDRSVBRiVDRiU4MyVDRiU4NCVDRiU4OSVDRSVCRCVDRSVCRiVDRiU4Mlx4MjZtbHJvXHgzZDBhN3VtZjlEODY2ZTdkU1NqSU9EX010Uk1oV3c1bFRpak5TSjdKYXR1Sk53dGl2ekt5X1VYQkpEZVoxTURiNWRsQThYSUlHaEU4YnpiUmJEZVZNcU9fR21Vc3dXUWdkUUtkUnNseTc1c2wteFZ0LWhCQnFCWTM2OGdzQWVNOC1HbWRhR1FvbDlzOUVudnpWd2pvSVx4MjZtbHJvc1x4M2R0VVZSSjhrTWFoUVx4MjZtcmNceDNkQ0FBNGdBTlFBV0FBYUFCd0FKZ0JBS0FCUnFnQkFMQUJBYm9CQVFIWUFRRGdBUURvQVFBXHgyNnNjYV9lc3ZceDNkMTBmNTlkMjI3M2U1NWRmZlx4MjZtZ3R5cFx4M2Q5MFx4MjZzbnJceDNkMQ=="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Αρχαία γνωστό - Η \"Πολιτεία\" του Πλάτωνα σε 10 λεπτά",
+      "link": "https://www.youtube.com/watch?v=EgBnjiyJ78U",
+      "source": "YouTube · Yiannis Fasoulas",
+      "domain": "www.youtube.com",
+      "displayed_link": "19.3K+ views  ·  6 years ago",
+      "snippet": "Το νέο εκπαιδευτικό βίντεο αφορά την πλατωνική \"Πολιτεία\". Η εξήγηση της Αλληγορίας του Σπηλαίου και οι απαντήσεις σε όλες τις \"hot\" πιθανές ...",
+      "snippet_highlighted_words": [
+        "του"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhUlEQVR4AWNwL/ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI+RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D///feYzXIJBeBigH04BVW/9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg==",
+      "video": {
+        "link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRNq6sXe6aGYuPYVpaecD07HXKFHsuO9ljDNw",
+        "length": "10:22"
+      },
+      "thumbnail": "data:image/jpeg;base64,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"
+    },
+    {
+      "position": 2,
+      "title": "Πλάτωνας - Πολιτεία | PDF",
+      "link": "https://www.google.com/goto?url=CAESdgHEIkXXhUfdJAhTsxngXDpwUCllxTyw9G6GYFcpQ53whtAnB5e2LT4RuIHrb0rhKUQUjVSBxlwGXP-B_WNoqbw18zVxGs7y1xmWuQXbnl7tZdUfemujihRnSj-O5migQKu_x0mTAu9nf3UluFUeSyoTGTFVAww&gsessionid=QJaBJHOFDZhDjN6rqNUO5-8sFRjZiXHyE7IUvo5oT6yiPAWN4efe4A",
+      "link_token": "D9tR0aGlcMlRdSi47Da0knoGsBpg_sHffMKS8kNPSb5x8pvyMZDxOeM_iWo2Uq6m2h7jQz6N5JuvYc-f5eNphF3j9P0wkhCM6POpRmbYzrsnn3KnKo5jFZYKGnRDeCW-5DD-Yl_TItfx2cjcR_EGDXgud2CFcWjRg4liqsDFDh6k5GPrKU_4jfngqdrHiDHYSs6RVLsi6w_BlO_wpIuzU5t2ITlsI6g6sCEfJO0iDg--SzE8qgLQDfeokIdx--Ygn18ABS747W5gcxZTmKyw",
+      "source": "Slideshare",
+      "domain": "www.slideshare.net",
+      "displayed_link": "https://www.slideshare.net › slides...",
+      "snippet": "Νεανικές φιλοδοξίες και απογοητεύσεις 1. Ποια ήταν η αρχική επιδίωξη. 12 ΠΛΑΤΩΝΑ ΠΟΛΙΤΕΙΑ 4. Γνωρίζετε άλλα γεγονότα που πιθανώς ώθησαν τον Πλάτωνα να σκεφθεί ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAARVBMVEVHcEz/qlX/qlX/qlX/qlX/qlX/qlX/qlX/qlX/qlX/q1X/rVXwoFWye1X/sFV1VVYJG1YcJFbWkFUpKVYxLlZHOlardlXkbWvEAAAACnRSTlMAM4fD7P9gF+A+1qVdbgAAANFJREFUeAF8klUChSAUBaljS6r7XyoNL5nfgdukQRkXgOCMkk8mgYaY3tS84I1l7m7FF+vANTvjJzlyzbftnZg3uqm64+xEG2uuPUilTUXbDRChdzTproqJEpSwHHPbpDIu0iUjPOez1t4qcTfJiYgOIZ1WUoY65WOqFCR/1OG5kgjsXaJL90MK9J+JJ6Y4clheZbCJK9R27EgFsS5d4pahL0QYoVVWbokCTePbD20aTYoy+N2ejVBLZqor6+uqCst42eMzyXbgxqc5Pmo/HNkBALQOFyMeJu0yAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 3,
+      "title": "ΠΛΑΤΩΝ: Πολιτεία",
+      "link": "https://www.greek-language.gr/digitalResources/ancient_greek/library/browse.html?text_id=111&page=65",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "Τὸ ποῖον; ἔφη. Πρῶτον μὲν αὐτῶν τούτων, καίπερ ὄντων γενναίων, ἆρ᾽ οὐκ εἰσί τινες καὶ γίγνονται ἄριστοι; Εἰσίν. Πότερον οὖν ἐξ ἁπάντων ὁμοίως γεννᾷς, ἢ προθυμῇ ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 4,
+      "title": "Κριτήρια Αξιολόγησης Πλάτωνας",
+      "link": "https://www.google.com/goto?url=CAESpAIBxCJF164QIHlDiy3iotc4tH3HoYHRb3v1L7Ne9EZYVS01J1LIT8ODbyCue7puU1Uyorxhn524PlQxAZliwQrBsvqmiOr0CGSV2MgEM7agF85v-wW_FHTPhMNqSmov056forZfbyiT0GymR7cUcVP0XyjqpuhdlMY00DVd0rb8ffmXX6UG-F59HZopqKaInseM7lSreP8dsIFn8zxH7T_uiGQt5n7V9Aaz1CQ3YQPoXPg2d1D_qA9_1pYy0uscLmE6eIiEhr4JCERnHKYdq0cI1-KgZWNmDOeyM70YnE76zK6XDb7ycFiO-GEvGiRyclvFes3SkSTNX3OeRLoOrpJCURjooQspWfhjSsN3SlqQwI-wbY_2QBAIwShSgw10WNj8Bbk2&gsessionid=QJaBJHOFDZhDjN6rqNUO5-8sFRjZiXHyE7IUvo5oT6yiPAWN4efe4A",
+      "link_token": "WtmjAlkzI6pkrPqPnkJkheGI0gBUd83hREfaFWfyhAAmpyrygRzQcUnTFWSfiEdmDWls9yLItTo2IXa_u_dnAUbt_prTC9SDwWWfGXwGHe_8PGZqk-QHQ0VaWKAvwocvMxIoxiwsgAWlK9cfaEo6yTWeZW-o-WQiNm66_gXhw2-m_J0E_gTGaG-xrcW7d1ILZ3vqyCxfCuSfJPu_eBWeNrzuIYIT_ySRYU_mHwOt3teDYhrJI9r08NdRE3G9gFMNETPZJg0I-NXDrRV1yFaWlOgn_Sztlgz5E7N1a0yQRKQkVSScBLG2vQZ49-UlA9OALLYDBBQZ3BTreHVc-aV6-G8M73XaVcBrb2FDPIzOmRGxt-yaW5KF_kUfjZip0OPgQWrvnbvdbnbwxWvjd7n8zCZyEuCJtnzQHhXnx7MY1dHcvghldRlTCiyTu6ee69N0ly4jRWYIJtI244n4BaXWiSTitoVOQiZAMdwcXg7GAeEqC1ZZXFhCi9W4K8WGhPon-QYt8TYtpYRQ3gPz7hm2k5tjilwFukad--j7fzlJ3l0jEOtEp---tjRKGb4yEny35QwPSS0F-Q",
+      "source": "Filologika.gr",
+      "domain": "filologika.gr",
+      "displayed_link": "https://filologika.gr › uploads › 2017/05 › Κριτή...",
+      "snippet": "Η παρούσα ψηφιακή έκδοση «Κριτήρια Αξιολόγησης Πλάτωνας» διατίθεται ελεύθερα από την ιστοσελίδα www.filologika.gr, και επιτρέπεται η εκτύπωση και η χρήση ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABX1BMVEVHcEwgrvwDpPkAl/UXtv8AnvkAlPAAlfMksf07KysCnvAFm/QHpPVaRzkOovkEitLcqiz9rgBQOjUBlvMClPMcndkQsPoAf8X8rga2tLPlrycAk/FPO0xHODtTNywAi9ZIOToHl+9LNzZMWmUAnfkOuP//rgIvr+W9rmIkodGCg3dPOTYiYY1bKRRqTzMMnenYrUkAmvmto2ZJt9nyrACcnZwIkL6E1v//xCheMB5UMidLOztJPkJwUzFyUCsEe5ysVgAAuP6Zr5FXr868mjTY2Neuv59EmdLFy814oK1Kvv////9KOzs1vv/7//8AkfNFOTwxuv4BmvwAl/YAeZw5w//n+/8AdZMCgbQPp/gAhsJFKBsAfKoptf3w/v/Q9P8AAABbyf8+MjcAitgEjt5Mv/4Pmc/E7PqO3f9EREsdEBSt6P/FzMZ00f5sZWMAleTe9//19vZNGAAQDy8jIybTJP0oAAAAZHRSTlMA/izJ/Xbm/v7+PgcU/fz9I3J4jlAg3v4+/v1kJZpWe9uy7Avc7FH+kP7+xvsv/f5d7/W0nv7+/v4W2air+sXhbr+dl/v+/f7+/f/////////////////////////////////+cc8JjQAAAfpJREFUKJFtkQdz2jAYhs2U2SvMQICEnb3Tvds0wjaWt9kjzECStv//KtPYwF2fk2Wdnns/fZYJYsWrnf1MMEn8h2Rwv7okkzrc2zA7qUy1WtNUr4bfu2921mTw9b9U1fPuyOPB9u1a2OxOBnc1WatVPUfvD/ecLsO5ToGNSDl6PWx7jt8fzTnOvAoCACwHvxxL6tMzLwBbhnQCwDDcQc1Rr9cdkyhiAK6ks80w3rsupTz6fP1ja/deYZiQIUMM1aZha6ZwCI1FCJ+6IOvWZZYUIU3TcOZlriFeQbprMTqyjLUd/NwrOKet2zmnLnNtSMPb+DO8vqNhPI6LtCJ6uy77CMKHTqcC5ywd70wvId3ybr9It30O4WVnOhGLvnal82cB4ewxbcjhCD4vPLcPicT30WLyDYrFvv6h7lN1OBZbT/PKzc1Xqi22ZsUGZzPORKo8LF81BonEj+hVuazKnCEJO0CqL9rnuJ9nCA2ifRlxQG+IsHCA5xUvswSZZGnA2Y2bDyGV51mBYkmyyVKCzDeQJazLrQHPy4KmmiTJCkOJV1cX7/rQkBSBotjloFi+IRlB/EMln8CaTKQ2SFI4ltLEGmktwL5kWSFLbPDJionkyaY1Ym3mwxvOHyiVzs8vSnnrl4vPkZPAyYYsFGJ+fyDmtOEpHAsUlrt/AXY1eWm5f7I9AAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 5,
+      "title": "ΠΛ Πολ 346e–348b (ΠΛΑΤΩΝ, ΠΟΛΙΤΕΙΑ)",
+      "link": "https://www.google.com/goto?url=CAESnQEBxCJF17JgJeX-0PkACYkK8W0E9LeX7FXOnqHddrtoiMkfBEa83Da_HpGyWu6tH8Cdg64sjHMQyvJBObOassJJWfMIKqt9Z_7_9YIiY_OhahXI7LZs5w6myQaPCtwK7FuOu0KxT0BVRPEgkg0bFP7hejzdKt1oJo6F_ECmoTo98GIfVZvV-xYAwUGi5zRkU-_XNDBjK9ibc-30e47J&gsessionid=QJaBJHOFDZhDjN6rqNUO5-8sFRjZiXHyE7IUvo5oT6yiPAWN4efe4A",
+      "link_token": "TsnfjGnOPET-BrwI1I3ARfi8di_Xma0I1KHYBUKY5OR8DzkR5GTxj4x9oo3RNNfDp0XnMnKkAruayKIxyGqgbbQhh6PRfkfCvvkglcUm15WIw4HjhfqyyIuaAbK4XfGO6ruwydj6UJkRl1KVie6pRewOYsbCIZQWVo5EWADL8SnPh2JGVJ3WNDqLik6mwCGELsQnZ_3obE2tK1ZX9RBB06BuK5_3w7EgSrQctHHJEgesCa2ZAgBqcaBwOo_w1eEAZlc20BIh4USI6Df8AdUTuQpxmvzwPWNuShMPQVIfrax32K_D--ZB2ST_R5LwpNAWrA--_WBZ5jEJtGohpPWD6zGgZw",
+      "source": "glossa.edu.gr",
+      "domain": "www.glossa.edu.gr",
+      "displayed_link": "https://www.glossa.edu.gr › content",
+      "snippet": "Νομίζω ότι η ζωή του δίκαιου ανθρώπου έχει περισσότερα πλεονεκτήματα. Άκουσες, είπα εγώ, πόσα πλεονεκτήματα ανέφερε τώρα δα ο Θρασύμαχος ότι έχει η ζωή του ...",
+      "snippet_highlighted_words": [
+        "του",
+        "του"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 6,
+      "title": "ζητοῦμεν... ἀεὶ δή τί τῶν τιθεμένων πρὸς ἀρετὴν φέρει",
+      "link": "https://www.google.com/goto?url=CAESnAEBxCJF1zc0Rbff-o4NQSbvjbRjVmY4qrDxFsV_fRv8nYp1As6VIoIN3IlboBjE_2y4OhN48d1mPRSY3k5iMTc7pOL7gC2fFFKGWUY6G_1isihfexO6y_lYWq0h0j49pMkSyH16l7c6-dH_aT0Dy2i9xBUDoDruYCYthOpajI4b9CnNG37MtOUHcg3d7I8lDy71yTIVLKTZNMkpN0o&gsessionid=QJaBJHOFDZhDjN6rqNUO5-8sFRjZiXHyE7IUvo5oT6yiPAWN4efe4A",
+      "link_token": "4F2lloViHVg_6iepqiWZJJc6cPdehEEMJWc0jCDoJ6fkNfMgxuZgVRXAc32TGIIKb_YoRzTaiDJRRrnChkXx2xvN_GMxzRR4iu4sfYeG3HtdSq4dzE-39G8N5v2pZqJr0wem1uzeE-OXd_nRzUBjGhO-XPlSKMVVplTMySj9zapjUMNhth_TKXZoJX_xJ5fsC8gdSyAgwW8WofVBgT0xvtTDjWlmZpO3yNUEGSZ2kd9QMK2HGdEDM-kFQL6kWkdwlKymnJ-hkYXwPgRo2wHTwyBNNnNh6v7UgSRtDGn5VAe4ccE--SVDpHoP2O1cJWnY0--a-45h71OnSPEB3hOo3Ci1A",
+      "source": "ekivolos.gr",
+      "domain": "www.ekivolos.gr",
+      "displayed_link": "http://www.ekivolos.gr › ...",
+      "snippet": "(3) Ἡ κίνηση τοῦ φανταστικοῦ ἔχει ἀφετηρία τὸ πραγματικό. Ὅμως τὸ πραγματικὸ δὲν εἶναι ἀκριβῶς τὸ Ἱστορικὸ - παροντικὸ ἀλλὰ τὸ παραδειγματικὸ πού ἀποδίδει ἡ ...",
+      "snippet_highlighted_words": [
+        "τοῦ"
+      ]
+    },
+    {
+      "position": 7,
+      "title": "ΠΛΑΤΩΝ: Πολιτεία",
+      "link": "https://www.google.com/goto?url=CAESoAEBxCJF12DvXoa82wDhCC6gGWkWhBLkm__GSkrNmOxpEsgoWX0xNlbPdJfY1TJEbai815YgwN6n_cgebsem4CgYhsDX2kIZZd2bhvxEjHkzZdhAbuJvBir8TIP5SHz-FPYP68Ou7YIpYlIz8CerorzKNX_wOb1d8bskmgGxmpVxCu9DblHt6ofpCaP_MDjbuD4LdOJiKGNX4HFwUnklyDSw&gsessionid=QJaBJHOFDZhDjN6rqNUO5-8sFRjZiXHyE7IUvo5oT6yiPAWN4efe4A",
+      "link_token": "UCzFh5WLV32AZ2S-7n7jysJff_d6PUfKh5qp1BpKkPDxb5oFumztnAUMSJ_8HKdJq0aHdVMjqsvMmmK0IG3dhHEKqhhxcz2qp4k95NOR1v_lJy63SeT4a2nx9WzGwAk5J6GELuugn6BezelNix5R-bhqVVzJCXP0cuQE9gtJKu3Uw4s19mG5PEO8lNjQNmlHBSFosSwFnjyKG3VXcvZuJStzX9JwqTPcP2p-txha3jBgUEHHckHiztMzNMCAe-bpBjhdkqXr8qnuHuiOaqmt69bi5Hy0jQjoGnrrq9EcfdI4gmp1oOV8-A--sg_IOFtufyKPnGcE--MAGFZ1PJDMtAw621mPPJzQ",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "Πῶς θέμενοι, ὦ Πολέμαρχε; Τὸν δοκοῦντα χρηστόν, τοῦτον φίλον εἶναι. Νῦν δὲ πῶς, ἦν δ᾽ ἐγώ, μεταθώμεθα; Τὸν δοκοῦντά τε, ἦ δ᾽ ὅς, καὶ τὸν ὄντα χρηστὸν φίλον· [ ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 8,
+      "title": "ΠΛ Πολ 487e–489d (ΠΛΑΤΩΝ, ΠΟΛΙΤΕΙΑ)",
+      "link": "https://www.google.com/goto?url=CAESmQEBxCJF12R9-WsxCRdbZ4ILNcqwyL9OfbnC8TnBfeCLI-Q8-Yngvv3EZwXj7WjD52AHCWSvtJf8MwT_Nl6JScnRm_MHWy7SZh1X_oK2PSbWeNqT83v54uT00N31uSIvk_qdeDGiX_n1Ole97Weatj8NfuHXaYX44SP1ZCEkvLQjCUisG-T966-VMohGUq-4nS7BMNu7lFd8j50&gsessionid=QJaBJHOFDZhDjN6rqNUO5-8sFRjZiXHyE7IUvo5oT6yiPAWN4efe4A",
+      "link_token": "ZpC55Q4UbUq5Ix7IcBFAKx19Z381O1KP5VA9eoqjcYRZ1wwXejgJWN_NiHBEXltTVlRrO_NiLrLULQ-WlKok2M4yadANGm0DVfoeXkTcjh85I8zg3XB-LNsccuWzXKcw_wvgNqoxJ67U8RH_7afifEmckxpiEfVekcjHbmm4WUi83DSrF2FxasiPTFBH4ldZOXQfq-9MNUVrsogEkk5u1P8rgWBbdwoO-dG0-Y4dU0QhYaJ-vS6M2cj-x3Gn__GEB_B9GRuPEBprCph9SI3Y_8I_aqbhVW45drdJBPqm3Q--4xv21NSdwogkMDM_--d3MPddaIDQyppIFsgBgofA",
+      "source": "glossa.edu.gr",
+      "domain": "www.glossa.edu.gr",
+      "displayed_link": "https://www.glossa.edu.gr › content",
+      "snippet": "Καὶ μάλα, ἔφη ὁ Ἀδείμαντος. Οὐ δή, ἦν δ' ἐγώ, οἶμαι δεῖσθαί σε ἐξεταζομένην τὴν εἰκόνα ἰδεῖν, ὅτι ταῖς πόλεσι πρὸς τοὺς ἀληθινοὺς φιλοσό- φους τὴν διάθεσιν ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 9,
+      "title": "ΠΛΑΤΩΝ: Πολιτεία",
+      "link": "https://www.google.com/goto?url=CAESoQEBxCJF1_xevg6vPXLRVB4EWUwp4j9QBvBhOko4TLdGuLD4dbrCp8wFkBz3qROR8cWUKqGBQJZmOgs4xJ2b3i73S2qdH8xBjQpBSTTAkEMO8C4yexL3RPs7s-FlSwaTCl5AR7qvERdAzCkqEB8mS5A4AzRLDJ-nKKYmI-A6PA-328Wl2__W2WBMCRalHP6qWccNA5mya6cyLSGAbDld4NTi8A&gsessionid=QJaBJHOFDZhDjN6rqNUO5-8sFRjZiXHyE7IUvo5oT6yiPAWN4efe4A",
+      "link_token": "MKxgkkDaLjoxopkWvadETdLl7z9MB8888eYw2eBU3b2aeLaiUcKgRh7SjJ3ejmbOMu9BOaIhQ2xgnHHHiRwXcpxXPdCChN9l6tmOihE89vtKWtmvMF2JR0elC2qYRI4x9QrpQ2P16i95xlaCHeAaJ-lf3P8XLpLplPO14k3msINerlsokmVijrCDTF6Tub461_IN_YHOf-54Kzk_lIpW669HurqnCCjWUH8q3M631GnReQQesaLjjlwdadnmJ43qdpXpLGrgnRj-Q1l1lIJ9H0DgaiC7rgYQdmMBcNiq0RMKM_n4k9D3i3gf--wctAl3OwAv_mPH3q--zFMNn6Jkbzryh45uGEAhRA",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › b...",
+      "snippet": "Οὐ πάνυ, ἦν δ᾽ ἐγώ, ἔτυχες οὗ λέγω. Ποῖα μήν, ἔφη, λέγεις; Τὰ μὲν οὐ παρακαλοῦντα, ἦν δ᾽ ἐγώ, ὅσα μὴ ἐκβαίνει [523c] εἰς ἐναντίαν αἴσθησιν ἅμα· τὰ δ᾽ ἐκβαίνοντα ...",
+      "snippet_highlighted_words": [
+        "εἰς"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CE%BA%CE%B1%CF%84%CE%AD%CE%B2%CE%B7%CE%BD+%CF%87%CE%B8%E1%BD%B2%CF%82+%CE%B5%E1%BC%B0%CF%82+%CE%A0%CE%B5%CE%B9%CF%81%CE%B1%CE%B9%E1%BE%B6+%CE%BC%CE%B5%CF%84%E1%BD%B0+%CE%93%CE%BB%CE%B1%CF%8D%CE%BA%CF%89%CE%BD%CE%BF%CF%82+%CF%84%CE%BF%E1%BF%A6+%E1%BC%88%CF%81%CE%AF%CF%83%CF%84%CF%89%CE%BD%CE%BF%CF%82&oq=%CE%BA%CE%B1%CF%84%CE%AD%CE%B2%CE%B7%CE%BD+%CF%87%CE%B8%E1%BD%B2%CF%82+%CE%B5%E1%BC%B0%CF%82+%CE%A0%CE%B5%CE%B9%CF%81%CE%B1%CE%B9%E1%BE%B6+%CE%BC%CE%B5%CF%84%E1%BD%B0+%CE%93%CE%BB%CE%B1%CF%8D%CE%BA%CF%89%CE%BD%CE%BF%CF%82+%CF%84%CE%BF%E1%BF%A6+%E1%BC%88%CF%81%CE%AF%CF%83%CF%84%CF%89%CE%BD%CE%BF%CF%82&gl=us&hl=en&start=10"
+  }
+}

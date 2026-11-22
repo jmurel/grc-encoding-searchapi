@@ -1,0 +1,153 @@
+{
+  "search_metadata": {
+    "id": "search_6dAL2p4KqYsd30l9rk7wnGOm",
+    "status": "Success",
+    "created_at": "2026-11-22T01:45:48Z",
+    "request_time_taken": 1.82,
+    "parsing_time_taken": 0.07,
+    "total_time_taken": 1.89,
+    "request_url": "https://www.google.com/search?q=%CE%BC%CE%B7%CE%BD%CE%B9%CE%BD+%CE%B1%CE%B5%CE%B9%CE%B4%CE%B5+%CE%B8%CE%B5%CE%B1+%CE%A0%CE%B7%CE%BB%CE%B7%CE%B9%CE%B1%CE%B4%CE%B5%CF%89+%CE%91%CF%87%CE%B9%CE%BB%CE%B7%CE%BF%CF%82&oq=%CE%BC%CE%B7%CE%BD%CE%B9%CE%BD+%CE%B1%CE%B5%CE%B9%CE%B4%CE%B5+%CE%B8%CE%B5%CE%B1+%CE%A0%CE%B7%CE%BB%CE%B7%CE%B9%CE%B1%CE%B4%CE%B5%CF%89+%CE%91%CF%87%CE%B9%CE%BB%CE%B7%CE%BF%CF%82&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_6dAL2p4KqYsd30l9rk7wnGOm.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_6dAL2p4KqYsd30l9rk7wnGOm"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "μηνιν αειδε θεα Πηληιαδεω Αχιληος",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "μηνιν αειδε θεα Πηληιαδεω Αχιληος",
+    "total_results": 69,
+    "time_taken_displayed": 0.16,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "«μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος» کسی می‌تونه صرف ...",
+      "link": "https://www.reddit.com/r/AncientGreek/comments/67bd1i/%CE%BC%E1%BF%86%CE%BD%CE%B9%CE%BD_%E1%BC%84%CE%B5%CE%B9%CE%B4%CE%B5_%CE%B8%CE%B5%E1%BD%B0_%CF%80%CE%B7%CE%BB%CE%B7%CF%8A%E1%BD%B1%CE%B4%CE%B5%CF%89_%E1%BC%80%CF%87%CE%B9%CE%BB%E1%BF%86%CE%BF%CF%82_can_someone/?tl=fa",
+      "source": "Reddit · r/AncientGreek",
+      "domain": "www.reddit.com",
+      "displayed_link": "5 comments  ·  9 years ago",
+      "snippet": "«μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος» کسی می‌تونه صرف فعل‌هاش رو برام توضیح بده؟ دارم یونانی باستان رو خودم یاد می‌گیرم، ولی من تو جنوب ...",
+      "snippet_highlighted_words": [
+        "μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAhFBMVEVHcEz/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/PQD/NgD+XS32dlf5vK3////64dusLADUz9H+jXLOPAoSHiFrLBm3uLn3/f7jVS/b6e77pJDJo6H718//RQDw9ffs5+jm8fPIXlHqKwD5+PjolIP/VgP/SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb//////////////////////////8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT////dm6Enc+MZH8Qz2V3Je/rj7Lgekec659N/fIgPnn+yCULaYaYwsCqShYhiQXQ+dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK/caJUygTMzN7eTnxdBXMcb3+0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB/TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg+vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F+rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1+vt1Z4HeDI/1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 2,
+      "title": "\"μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος\" može li netko ...",
+      "link": "https://www.reddit.com/r/AncientGreek/comments/67bd1i/%CE%BC%E1%BF%86%CE%BD%CE%B9%CE%BD_%E1%BC%84%CE%B5%CE%B9%CE%B4%CE%B5_%CE%B8%CE%B5%E1%BD%B0_%CF%80%CE%B7%CE%BB%CE%B7%CF%8A%E1%BD%B1%CE%B4%CE%B5%CF%89_%E1%BC%80%CF%87%CE%B9%CE%BB%E1%BF%86%CE%BF%CF%82_can_someone/?tl=hr",
+      "source": "Reddit · r/AncientGreek",
+      "domain": "www.reddit.com",
+      "displayed_link": "5 comments  ·  9 years ago",
+      "snippet": "\"μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος\" može li netko objasniti konjugacije? Učim stari grčki sam, ali živim u Južnoj Kaliforniji i čini se da ...",
+      "snippet_highlighted_words": [
+        "μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAhFBMVEVHcEz/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/PQD/NgD+XS32dlf5vK3////64dusLADUz9H+jXLOPAoSHiFrLBm3uLn3/f7jVS/b6e77pJDJo6H718//RQDw9ffs5+jm8fPIXlHqKwD5+PjolIP/VgP/SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb//////////////////////////8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT////dm6Enc+MZH8Qz2V3Je/rj7Lgekec659N/fIgPnn+yCULaYaYwsCqShYhiQXQ+dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK/caJUygTMzN7eTnxdBXMcb3+0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB/TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg+vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F+rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1+vt1Z4HeDI/1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 3,
+      "title": "Ασπίδα - Μηνιν αειδε, θέα, Πηληιαδεω Αχιληος ουλομενην, ...",
+      "link": "https://www.google.com/goto?url=CAESnwQBxCJF1z6zTtMY8Q0aDHT5HEf5PePfW_sJb1iHo5uPl_m_vbWqeuIH_Uv4XnJ5yTCdm5F7yxxF1hloYmiSpWwZw3wrIIFT7QwVoplfrwf0giodl10zjX9izGxv3vAdQa5YmoUgMVc9eX0tn8EZsAhb91JLG5P2jtl5uicVm5Ekm0JpZFTou7i4M8T54e-eiZCgS0SAufiB5X5naUNiQK5DMIvZEvx8cgYNmzV_-qGVTV4Uh08bTz6ws2wYpCt_hlsLSYwB8MT_e3V3_IMTSVBPRup05swNYPmlR3ZsdgYxJ6vdWbFYdzsTFuU7iO1Z1Nf9HGg558YEL8x7fm_sp5E8FqRIj2rXSt_V86xgx6x23vgQia6ZwZzXbH0m4YENtzRJhQuVMk0eIx1PFpk8T4dbVqO0Ix5ciKz-CVB2KH8r4zRYJFK55csfBDiyLxzi3nDIB-nYLoy4yufyvr030kbocY046nh9peD1wSMgJtN0DDQ4qW2VTVl4J86jwKNhIQIS1ewYqK6IvADpcxzbH9OpP-m5eqGLjBXE533OT5LUFZeLmdsGIwsYxL_egY3C2ihhRQ9d9DuvlCnNeZTEgbSgVCL-E3d2PJuyPbKDfbmQYhMhm83pdaMvK0nQ3vNAEGdmVCQqed_VQq7kIT95jKSvidiqIbTvrCxP7gW6TaNd_PG1cTiuDN9PZWT52TkFS-ROPHfaufkepYagWblIgic&gsessionid=zOF7OVQA-TOKJrxMCLrl2cztaOM8Va5dwFTRFjtLU1R4ipBKQkxLYA",
+      "link_token": "d8IMLhS4qhHClOYFeh1tbE6hc4obuyZQYVb2DfyHq8eRgHjv_GbkNpwULDzGPOBwrhL4K4dzQ7ptBZKr-Ilpn5lFLy-0rM-5ZEa30KRtrqb-efC--fBFhUvxPZbedFxYbgx88R6EuKa5gBd3ZK0EuomzopfkuRY5XI2qsqQQi3drLzBSkuyriwYy8-u8tXjLEEIJCkP6TpWXht3qKCFhrKUH2UAnk2LgD-P3eEER8Hqx_DitmY-meUEtWkXIBnMRyvFGnzSxt_PfCpp1a7bsFUjUXpL7YmFzrY4zTXKrE1HRDq1x6mnqmHOUBWuJGTh8W5wA8tyEnbWjj2JLXFrCrE2k_Tn5MlKDsmnA0oj7tp770s058OrJB_nUBrTJifOxhIdIs_MsFX2ojEpZO25nGACaXKJgEw3giIH1hDvI9udKfl6NH3mjle2rUPnjGnopCu6v91b9RpyRolCKq4y33DWsn5D6u69QGPlYA8c2qLtd9lRuZ3Vioiy-sgkjhjC9X5W8ROTT50DHl-sIBwzvJ_FO7Gr4JSF_kbnnGZVrn7C0ZXEs6jijqhmLXwYnMVhfh2kLKdCg5JdFYhjJfYvJZKENNQD1c899acKt7U7zBBATeLxUcAcGszmjcMKjs2Cbmpav-gThsoanhvBJQfaqhG1P-D5O_mtnfN4TRhN69ulgUphvWAVj-E6V4KKkdkRXesdFYPzDqqDeIIgo-DGMgJJajuTF48YEo_pZlon_i4Xz3vQs6giZVdVo2-wNt548uUwzjByJgaZoHh6mGHI8aaK0yimPAVhrUzYDwh85-kkZckQ6TC-w063rIHyb1koGHgbE4ztEESNMAYR296uPCFCUBdhbztiqKL5ieG_gN_FAbm4HVXrswjnywvfPrRhjRuwBBsfVaNaE3syNCFoiP49ZyRCFDn0Xt8v_DFgYqZSoEI7WakF08_z0Vf3ftP1h0_-1xirUHCwI6Dcl6JMMJu2g8tnwGhM--afPiePBeIoeF0orU--0lzPbfLADGl4_LI44s5ang",
+      "source": "Facebook · Ασπίδα Μακεδονίας",
+      "displayed_link": "4 reactions  ·  5 years ago",
+      "snippet": "Μηνιν αειδε, θέα, Πηληιαδεω Αχιληος ουλομενην, η μυρι Αχαιοις αλγε εθηκε, πολλάς δ ιχθυμους ψυχας Αιδι προιαψεν ηρώων, αυτούς δε ελωρια ...",
+      "snippet_highlighted_words": [
+        "Μηνιν αειδε, θέα, Πηληιαδεω Αχιληος ουλομενην"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII="
+    },
+    {
+      "position": 4,
+      "title": "Great Poetry Around the World (10): Iliad by Homer ...",
+      "link": "https://www.google.com/goto?url=CAESkgEBxCJF11bV74M4SZHmN2buwsG7nIKfTwG58H1X82ECQJwvQrL4oZ4U-MJ5o6QH5nNGSiH0RK3ngm3-MaY-FTZ698NgBZWS_ReLTpZXzGL86nCnQZurNfd5n1qez6S_g_IAsxnYc87H-LicfCCWV91AKu_9t39vWlo5hlVXxG47bW4Gzi81Qww1qrcjLOhiEeUJVA&gsessionid=zOF7OVQA-TOKJrxMCLrl2cztaOM8Va5dwFTRFjtLU1R4ipBKQkxLYA",
+      "link_token": "XIzgYOnM-OeAEzZ2k-0zri3dyNi07okUPu2IerFNuILdtbCTlRwb1z7DDCFEB_HiLP6Tu9O28Hx5z9qFqd718sZVxJKdSRlB-voMWkGMWRlpuKiye-WhRkUVMrpgrPdUhoQN8F9A3zZXQezQWRGCil-h6Ln6679jWSkOmY8j_Pv6wOZyxuNDzbRabbH70mUW-7fmUP1aO8ywlWC8WO4z97HSigxUyuMeICHzZbhOE7zSjqBn0ColM96qjgF8go8hnE2EpmeECtBWcFedaMrnjarKe3iFcQ--cXfgQKVAIq5JoUAu--kDGL1FcqM0zsxKWA33ibXQ",
+      "source": "Blogger.com",
+      "domain": "adblankestijn.blogspot.com",
+      "displayed_link": "https://adblankestijn.blogspot.com › 2021/02 › great-po...",
+      "snippet": "The title is taken from Ilios or Ilion, the ancient Greek name for Troy, a city located in Asia Minor on the northwest coast of Anatolia. The ...",
+      "date": "Feb 25, 2021",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEz+ZgL+///+ZgL+WwD+49j+vJD+6+H+8+3+gzP+oXD+eiD+2cj+xKXrGQLoAAAAAnRSTlMARXAleCcAAACpSURBVCiRpdPZDsQgCAVQK+CC+v+/O2Ksa21mMjz2BHsrVKkLDnWps4meDeA7xFqPyCYSUTQeN0Sja7nkV2yWy8yIPJgmP2NpdPmVRXlGeWg5hJAE04wkjex9KK2Wa+SO2llra2KXcMEp1E8ox+ZyTyiBpNgtKCFJPiUXS6o44H0JcvXlWNMReA10vPjWuI9ssDZshDLsMm+45913CHHblD+273Wp336HDzfYCtDpHI3hAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 5,
+      "title": "\"μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος\" kan någon bryta ner ...",
+      "link": "https://www.google.com/goto?url=CAESywIBxCJF1_kQFHx-172KgYb0Pvm7fFSqmXdPjyPqqko1bs7qDRm4_v9Lxm0lIwCYAdSZnjOJoB9mciXUnsmkYdOnViZbIoLUNdDciLMBRheP89ZpVxgQ0vs7fcDwZyz_DG0JwJCcD_sS9b3p_B_Q-IanOWDd1Oj893eTpRY0gXvXho4fPw1fg-sUPxIavAzKV52N14es4uoKur9AfsdkDNuwEVi0NWiSftC9slFj-xcllT8wW05w4yHgjz8NhK5v-dRL3Ujar-VkfYAJmIyJNCsI8xmZ9Y1UO52hNwN447OQeuVIBADIvAdw0rbhfsD-MOaNSlzorFKS1RSbjPwqpMnZ-Ai-gh0UWuK4qYb2xAna9VoLwUggzaopqo_4A-eXREg7U66eUedDy8y5hJ5s4n5mkfIo-MU7V_CqOoHe3cltai_CZ0qSngN3fQXV&gsessionid=zOF7OVQA-TOKJrxMCLrl2cztaOM8Va5dwFTRFjtLU1R4ipBKQkxLYA",
+      "link_token": "ZR23tEoa_f8vLa2o9r9xty6s4DEiDFIYuVqFLeS-SPefQM775Z0sAfVIqrTtTrTAZQbidr66s01u_0csgdOcYEBT1g9ofbqA8F5kVTOUgJsSg92W6m3qxcyPvAAGvkc4HA1LIRVwD6ZV0ynHgvsuU1SVLhdl_WCFwHqa0CLm_q7YPvnPnTbU0t53Lv6SNfVxNY6aXzZa0-R5ONSXHLByBd0sQQXpefVHwpIAxHf_gzoBKk1RYbkSeEsLBxlrhwqgGzOMJ4BbhaDohPTTrkYNPS4xRz0jbGqGr5I7JVWkqRhXfL6dNMHuVIwHP0cyI-7DRz0JrE9_e5Q6rQAlFqvEpqVy7NdMqO0Z9ly4OFfXYQdIRRCOZLmkHZB_vfECjnBtkOF5fVu5gHJDZJX-9n4XybCGizsP4h2b4NJ_iXlWRCO2X4-Xxc2oSuaGHK9xdqVHqXxz-CcyjBXVygZHlLlGozN-zPpLMl9KFrsBiPqST_jK3H04Om9H53NimXgADM6-pqecPFxOmCUymK1ULBzZEo9s-_XwbLe5Q-9qrQZjHMUhhr3fmCXIXD_DswwaZ39nFZM2JgzYNaW8p47pj3HX92hBTGTMXQUCQHaWSA--sl0p9UPXO64RF5YG--q3JXsRC05omW0GfEc73ybg",
+      "source": "Reddit · r/AncientGreek",
+      "displayed_link": "5 comments  ·  9 years ago",
+      "snippet": "Aeide är imperativ, inte infinitiv, menin är ackusativ och Axileos är genitiv och hör ihop med Peleiadeo \"...Achilles, Peleus' sons, vrede.\" Så ...",
+      "snippet_highlighted_words": [
+        "Aeide är imperativ, inte infinitiv, menin är ackusativ och Axileos är genitiv"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAhFBMVEVHcEz/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/PQD/NgD+XS32dlf5vK3////64dusLADUz9H+jXLOPAoSHiFrLBm3uLn3/f7jVS/b6e77pJDJo6H718//RQDw9ffs5+jm8fPIXlHqKwD5+PjolIP/VgP/SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb//////////////////////////8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT////dm6Enc+MZH8Qz2V3Je/rj7Lgekec659N/fIgPnn+yCULaYaYwsCqShYhiQXQ+dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK/caJUygTMzN7eTnxdBXMcb3+0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB/TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg+vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F+rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1+vt1Z4HeDI/1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 6,
+      "title": "„μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος“ може ли някой да ...",
+      "link": "https://www.google.com/goto?url=CAESywIBxCJF10i4gl2A7hMDT7zCYqNeVzqw7NaBZRc8w8vDe6T-9amDEi_YPLIGQlWLi6d2bD3ktQmV_CeheQJQtY2YHOI062B42nf6BDgS-kk9rzoWjlpq1o0LhmkyoXHx4MI9qEBasSBjc4fEiFNguJ9wiHCl0QeHyhD2gSAfFeLV9S4a83GECEwxeJSPtiyrG6eTE5AxtXwIzop4cVR4Zw2a3A_vjgrqtxwrjjephKn30vdVZAhFikVp5j8qgf9sqLGg9bAaBXCeLlwDFJJuZ6pcmyUM2PNH6k0g9KMa9l0NLuEhKGdMwK0DdeoOLch2TmLg3EoRIWFdC_swIZcA1Zn4JjMkHJ7cFI9ncv6JKmzFUtxI2FXCZdcIQiGegpno9r55iZPlTIXzyOBZgz5fYKCNwLuZ4ybQ1n1ZW58VjgaytcLWPZDRwLxhBwpP&gsessionid=zOF7OVQA-TOKJrxMCLrl2cztaOM8Va5dwFTRFjtLU1R4ipBKQkxLYA",
+      "link_token": "BrJXlRTJdvfYr-FtWdMezhCseDe3hlxhyebC-FnJLo3aH5UXba4rx2i9svJWbp3llAYhv-Y2sC1jUJf_sr8dZkyEWvmj4OHkaNqq-7iRABVRlakBLV3S_2b8HfAGa5-d-8BsGEtHlldMLfVtUgbPjwC3JwSgGWuQJy739XeG3vP-QV5J-EyDItMzbwLXtpnGig3g73995RZU0Y8Wk4gfpzPa1xv40QRFuRS2RvnNRPwtUEc0kUCBsSc829IIyL2y8T1ITH8pl-gufJsQVrLWg7xCr2iwVj7P4fShQ462hzGlz5ojq-VFXVQGcOKscQKpZyxc6Q9PDq-BNf-lEkXJQ-e1VkQxNMlI0vwZNoX9BU4eTeS0bReZ2vcAy6mBJp6XvKqqA4f8SayuVT8CL_u8mmpo7iIcNK4mFoawxJCKavUlsx5I4CzBWyf4otcAhDRfezzGykR56DgMBVjscTCtzt1_nAER9H87uGMY1VOScnx3y9z7ggRLmpRHRSZItDtRwc62G2AHXlPt00jayU7U_9eTeIuVAOMEIvOSh25iU3HjsE56dRqoA8PxxbNalsi2pYWEXQrsRv77OvvokzoUPg7B6uTDf_tEw_kKCA--zRfa9viLwvfp1lqZ--fKu0VGeCll5O1KQ9Zq3CBg",
+      "source": "Reddit · r/AncientGreek",
+      "displayed_link": "5 comments  ·  9 years ago",
+      "snippet": "„Aeide“ е в повелителна форма, не в инфинитив, „menin“ е в винителен падеж, а „Axileos“ е в родителен и върви с „Peleiadeo“ „…гневът на Ахил, ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAhFBMVEVHcEz/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/PQD/NgD+XS32dlf5vK3////64dusLADUz9H+jXLOPAoSHiFrLBm3uLn3/f7jVS/b6e77pJDJo6H718//RQDw9ffs5+jm8fPIXlHqKwD5+PjolIP/VgP/SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb//////////////////////////8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT////dm6Enc+MZH8Qz2V3Je/rj7Lgekec659N/fIgPnn+yCULaYaYwsCqShYhiQXQ+dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK/caJUygTMzN7eTnxdBXMcb3+0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB/TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg+vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F+rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1+vt1Z4HeDI/1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 7,
+      "title": "Μήνιν άειδε,θεά,Πηληιάδεω Αχιλήος ουλομένην,η μυρί ...",
+      "link": "https://www.google.com/goto?url=CAESvQQBxCJF11sNK1NLyZZjAfikVDbQWCvNSJjazfP5K5ESzG4srzW4gA8A8EfJ4ybERdR9-oR2EJO4iusjpA9gTfPNALDRaarZuGkDc4j1zDXL52my4C8gHCJ7X2hiYdPJMR-uxQmGUVI_K8T6xpEk56Si1I1wipz96cegoRt5o6ECmQF2jS-8Z6xXM0gWIxWvw_BN6Z4HZirxKl2B3-eucXuKXIhQ8XkQ4RPMDcNfHkuFjtRAFDx3hUlktW-Q5bR-IoPYnPHbJsoKRYzawd4IyQnbvunFSM6ooYia9KFqnoiPyN0dXgUT4ZTImpspx5iWhxc4POEcwQL73uZmPKEkVGvJO2S3pAZu53UPsvaeTEiOmzJzzNMAD_Z9TGGJVISd-4DpQ8kUBuSVj5KCsz2rhnpgxeSRl-M_Bxg0E1OXoPwogI4mDaMXxbWu84MClOMoYgeenkHIegllFm9cEeydTPGnps56UB8sIOKEarEyuUI6gFjBUs2pzkugOq8sGs3oxwKhMqB-MTiTmECn5DWuhOxR4bYSFoLfNUiqFnXwo_2xkV476lEI90R7rheBExUj7jxPr0ktqn_9EDpNXrxQN6_laHO9hQGgVkLN2U9Bb8AypfeFrdphnia57iGKFEVR3kSKnntZsgv10KVbq0bOQR0pGgDANwhzLrOjnFXSoIlYe6o9-C_VYLouIeQWlLxKT_rF9xpttrN3WR6vPPDLx5hjAv8S2_Z_UM4sPAC9mV-zXr9qqopFOPoszpMhuX4&gsessionid=zOF7OVQA-TOKJrxMCLrl2cztaOM8Va5dwFTRFjtLU1R4ipBKQkxLYA",
+      "link_token": "qmSZB7jo79tMqD90xMo5zLC2UNp3G-dtMt7MT7fcPUojw8cegGKLQ0GufrekbTMfVDHi3hixCplCBoXu9BZrVCXw1UQDrcrRNeQRNVErXmyCxvmi-8x_47jxI_MdQmmdr6rYCqzinDKfreJw1uLLn17F7UqHx1wx9PccH7-8_XUdb0ihTJYyzxZ21KT8kaTZt9XbPI4kR_ceQ6GUwacv0jz2ouuF2xb3QRv1dHdfWKD7PkULRd-aqBnq484K8cQY5wPq3hDlOhWQlmxy0LL3_kwxIovsWpckaDlW5BlJGuOKbH9xcoHBfQtWxSDnsvKTyHcam-jaUopR4FxCdYCFl0cbvCETh2Eapq5cZHXcH83RzBDhQLgjJXkUTifly2cSwl-3VXXKY1mHV9wxcwE4pNUmHsnrMPVNENrIdoglqaXQcFgFQc7GkwfDpqoguaS58w4yMenXb5xMz9D_9WtZcKQ2qfay7ril4aQYXgDnorThpEGQnOW-ATfcYEz88X_3SYUEJrtHUbqyx3cd4J_qRhVFfYiaJiRnB5P6c-TM3xXHv1BnErOfOfUi5th0dw-A4OGwgyMTTFsNkN2iEjVnxY3AQSfW7lTgIlcL4PKHF4UfxleHoneHDsrjRSz5wEMiLkMh7MQWHqYLGf6lr4qqFDgGgCzOGkvuidaoyM-faXWNF1nu0ZvsSEmjMy_e2sQW9pKMaWyEtrhkTlP8S6YCCnlFCHKy1Ba8WZleJltoP-_mxz44KLkvnfuY7MLXWyfsDHqix5JXcV3kYf41td9BJdejOLt87Q4v2Hgi4Lwt4qKO9-OLIHWRc91pCpXhf53DXy6TCG4_n6Eoh0WCTmr9s3pc1ACzPNdzJMz0pKVaCOVeWz35cL0j-2Ea8GXQuAtXP7R-xz7ePDHEo4nKwNKSXZNbJ6DZ0GClG_joTSqaI83Sm9VYr3vTd7pLek_py2ukDwd7K1bqgmpAncnoibL7iCn4VVXxno_JpSjs0Mn4USxXCwhlU7a7Nhae6DjJ2_3bsGmN87BsJMNyCMGaeNwo--BmOMCV7DP_ge4beI--c12S-kp8mFIc8yh5Kus1IQ",
+      "source": "Facebook · ΦΙΛΟΣΟΦΗΣΕ ΤΟ",
+      "displayed_link": "8 reactions  ·  8 years ago",
+      "snippet": "#εσωτερισμος «Μήνιν άειδε,θεά,Πηληιάδεω Αχιλήος ουλομένην,η μυρί Αχαιοίς άλγε έθηκεν...» Από τους πρώτους στίχους της Ιλιάδας -ένα απ΄τα ...",
+      "snippet_highlighted_words": [
+        "«Μήνιν άειδε,θεά,Πηληιάδεω Αχιλήος ουλομένην,η μυρί Αχαιοίς άλγε έθηκεν"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII="
+    },
+    {
+      "position": 8,
+      "title": "Iliade 11-8 - μῆνιν ἄειδε θεά Πηληϊάδεω Ἀχιλῆος",
+      "link": "https://www.google.com/goto?url=CAESjAEBxCJF11Ib9-D2g7YB6D-fOHAmplqkEF3UZgM2hXOGiXbezwLexeX1PwMLnkCK1sMxDsV0CLqMbdzt2CYIVztb5j7JzRuaTcdYeNYJqopgfF0SWeljj6tV5STKObdvwJ5T2-HtHtflwy5LUEAWWEuBWcATg9j55-emowrRPJ_tRjuWXDiu-pXCkjTA5g&gsessionid=zOF7OVQA-TOKJrxMCLrl2cztaOM8Va5dwFTRFjtLU1R4ipBKQkxLYA",
+      "link_token": "bUQp5Fr_oI_Z_ysLefPRqWFAWxWA-BELDatXFVCrAYmUsiIjLITNsvycfz896VJkIcV7PNSeax5ljdHsOW0_C8s3P5Q9g0g1HX3TrwntZmYGwl7h6JqmKAjiFvXhwQKjlTn-h22hq0q4O34vy9h9beDKoK99aUFJKxOf4aR1ZTJVG5TI9ZKScMESU4KZ685A5pRGoZkbFxxCwfSs51oEvXck_Okx1exGTzn5QlV8DlEFIPiOF7Nykn5931LqZRC8q3Ui6h0R1ehvgtuVDxE--VaeU5a5avbRy3WU_--W-vaM7_Zk-wRaSLyMlMzmA",
+      "source": "Moodle@Units",
+      "domain": "moodle2.units.it",
+      "displayed_link": "https://moodle2.units.it › content › greco",
+      "snippet": "Testi greci a supporto della prima lezione su Ennio. Iliade 11-8 μῆνιν ἄειδε θεά Πηληϊάδεω Ἀχιλῆος οὐλομένην, ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε,.",
+      "snippet_highlighted_words": [
+        "μῆνιν ἄειδε θεά Πηληϊάδεω Ἀχιλῆος"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACG0lEQVR4AWIYnADA5jwAyRFEYQD+u6dnNrNnK7ZtO2XFtpNCrDJjFWPbKKUUOymEhbOx3tH1TJ99X5vv3bp5E7m5uVg0f4Eyafz4hPGjx/ZcMG9+kspkvHnzFs0x1Fu+YTuUqDgpmPu/89XLV8acPX1mlK5pfTnnqe6IiE+OEEeGDh8OSAzNkZOHdiHKrSrZhSWjKzze5X6/b3aZX+tYHggxXsnRQVUvkdiOOz9v4pruMRMIJRRM9skz9oft/6/AhvTomJFdULKaSGwep3IvDYrbYRyKosAwTahCG31+SslaI88cL4Q9BLSmkBzrxa5rNK7LbWn/5M5xnLlyPLHdrxSVlsVohjmCcxu6rkMhtrVxqJQyJsWaBWH3ByU2IaDV80HVbSZso4x1rPitd6QsEPL99KUmx+Z4oxgKPdT8K0U/TXLHPprXr3w7EZUTQKViosYuIRL1CMN3G4L3AzfmMwH0gcODc6K9PkLzLFslcJLkUjE8cR/1/M0iSJwGYAKAfDjOd6n3NJ3/e5kDzvsBiKOi0owTpp4OmwMQkIiAizqOKjmO4lIBwAFQPwoB2Q2ACICgBiWy6zcoLSaShBoQgKhtAgJNUL/XGqMd+2VDCOaUfAQctKPpEWlnn0VsueAAsIKH+gICFgh0AKH6lGuqUXMOIIwmGgADAmGGlu4D+AzArG6l9UHOVLd71S1Y3bSqQQ2uBtI9YIsGHAAAxnf2EcnJk9MAAAAASUVORK5CYII="
+    },
+    {
+      "position": 9,
+      "title": "🎂🎉10 ΧΡΟΝΙΑ ΕΠΥΛΛΙΟΝ «Μῆνιν ἄειδε, θεά…» Με την ...",
+      "link": "https://www.google.com/goto?url=CAESogQBxCJF17SF_POUD07M4-GZv2997HeixnRjWuWQPkPdqI8TSEzHXWoDThcYIPzc-4ahBc2sNdQZxVtFeuD5O3Atyqj6mdHPRdbItKyYmtzqNlUMz2NtF0tADVWJAhvrdIupd04tvzn-wwlPNKzRW-fuyGJxit8AT2CJHpbF4Z-aQ6ru3PgLRkbW6w-7V0UJuq4dAf6zJ-u1_UFDsmij5lcRq69nx16KVzOtlI79_E-OfUN1Bm5KEfoBR0tIvehK6lP3916OBjK1cG3CCvF99n0b0ltBIg4_NA1it1oLshRGztYvlHTqVabNbTlnYJp3A7_BG7GE6zIeXFF0Z3kirYJ_wsR2HbG4v7RoQpJt32OpJ_4YIE10aSEDgv1x8oxRaycut5IuoWPjP0LtT30jsdeRX95jZhWoYf7e7BhlL87XaWXn6SJAmUABi8sTBte6JiC6mnV3Twgz6XJh8PMWl9oXBNQRz2CBRgndsVJAAkv309qOcfFUpy2jjfXeQG08mXhCZk62-NlX3pWB9v_TXFziGr6F4o4g_uDG-QXOyNDnmGBmDFnzlfwE_tbS6qxoVvj5Mh6IcFjmblJJPeraCHoynY8FXtSzC-QK2Emuq2FynJq3Kwktu7kGCaF1KAc7tQ0c2CE4s4heT2-UU56kMr0hzZ3CYEVedZtA2GDEKaz9mYWlOKmE1OqVvBSfJoY9_YF5hNviv3SXAeFuUYKiCJDgVpE&gsessionid=zOF7OVQA-TOKJrxMCLrl2cztaOM8Va5dwFTRFjtLU1R4ipBKQkxLYA",
+      "link_token": "_KkS4v756P0QA1iFfdn3-IzDyDeKLDGekZitRaaIgtoFrOOvgANwqD0g87ssX2MBiXfaY0CHGbVlcuL8iev78jdcwGGM1V2j14SDjCImu1zbyxMf7ZRHFfW1H6OyZOTt3VDIZCY9ziZBZgKzr2-L8mByV0S7sc_L1IRxJ5v9Emhl9vian4PhOe6WPNVmDn7joJnWtFr_fKHr0y3O4qNeK3SXgfRxL1pz_Lf3rNGVBgonFp8sujBS75bZ9cQHBoAcqhsZqTlCKdsvfobHkzaYBmdkG1VSHbA-c3jrBGfTj71At0HK2q7Z2tarJAzZJE46YvC2uz6UfF58uBkVKtkJeVQtYdIcoKWZClYVNbKJeHlYi_D69m4eRBwp887IN5aVyQOwZxYJonpL4x-obH-4X4j8B21OPC5qYJIlglpJFnQr6R8Fzv2N8WqZ_C5gtXBMkP4F2IWfYkK4NmTtqS7SGxJD1ASkIgGOkrzWeov8hC9CgWct3PhEo6SnvenOpVmfgJx0Y0NRLS5XPvcKESiqJNVfvv1F3ZERgh3EjR30yRneT26iaQhonmmSGBOPYZWB0S6060f6cqy74RfKvQTRKNLfPj4EDAJfZmDerbXVpiBoYbZBnp4_gPwI6ics0UN9802uz-sNKSB76Z5Yc3ndB8sHRiqX0VlhM0EAvN5QBLbwQuvZCc7MNNPWJpygsq3ijapoMw6GFnJHsFZXQ_YT6VdlzeZBz1tO-NruSvKMnvc4rqZC9juF1fTiDz6tfQ-nrVMptfNj5F76J0Qnkw1MOCGOScMuuOT8ITzHn9e2qbNGsLj1G8ahp_sNiPvQM1v6vMZppiOYN3QjAKK9Ef2eDlmT6TqbarFWXtdg386GijMsRcqEryGbn0_mPI7spbG1LBOL7kzJVFZEfQRlLqVm_NImvwS27hR1_0cIgrDvkyqbV7LCzVQBfTpA514kHo2Hzwo38SQWWkhFaDJYao2PP4se66RhhzuUyufF--L7MCOIUsItiiEc6Z--wLBCLDGNClbNN9rkDFVdUA",
+      "source": "Facebook · Επύλλιον Εκπαιδευτικό Κέντρο",
+      "displayed_link": "80+ reactions  ·  1 month ago",
+      "snippet": "10 ΧΡΟΝΙΑ ΕΠΥΛΛΙΟΝ «Μῆνιν ἄειδε, θεά…» Με την μῆνιν του Αχιλλέα ξεκινά η Ιλιάδα. Κάπως έτσι, κάπως παράξενα, με την δική μου \"μῆνιν\" ...",
+      "snippet_highlighted_words": [
+        "Μῆνιν ἄειδε",
+        "θεά",
+        "μῆνιν",
+        "μῆνιν"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CE%BC%CE%B7%CE%BD%CE%B9%CE%BD+%CE%B1%CE%B5%CE%B9%CE%B4%CE%B5+%CE%B8%CE%B5%CE%B1+%CE%A0%CE%B7%CE%BB%CE%B7%CE%B9%CE%B1%CE%B4%CE%B5%CF%89+%CE%91%CF%87%CE%B9%CE%BB%CE%B7%CE%BF%CF%82&oq=%CE%BC%CE%B7%CE%BD%CE%B9%CE%BD+%CE%B1%CE%B5%CE%B9%CE%B4%CE%B5+%CE%B8%CE%B5%CE%B1+%CE%A0%CE%B7%CE%BB%CE%B7%CE%B9%CE%B1%CE%B4%CE%B5%CF%89+%CE%91%CF%87%CE%B9%CE%BB%CE%B7%CE%BF%CF%82&gl=us&hl=en&start=10"
+  }
+}

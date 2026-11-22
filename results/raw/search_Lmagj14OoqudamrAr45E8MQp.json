@@ -1,0 +1,173 @@
+{
+  "search_metadata": {
+    "id": "search_Lmagj14OoqudamrAr45E8MQp",
+    "status": "Success",
+    "created_at": "2026-11-22T03:34:53Z",
+    "request_time_taken": 4.37,
+    "parsing_time_taken": 0.0,
+    "total_time_taken": 4.37,
+    "request_url": "https://www.google.com/search?q=%CF%81%CC%94%CE%B5%CC%81%CF%89%CE%BD+%CE%BF%CC%94+%CF%87%CF%81%CE%BF%CC%81%CE%BD%CE%BF%CF%82+%CE%B1%CC%93%CE%BA%CE%B1%CC%81%CE%B8%CE%B5%CE%BA%CF%84%CE%B1+%CE%BA%CE%B1%CE%B9%CC%80+%CE%B1%CC%93%CE%B5%CE%B9%CC%81+%CF%84%CE%B9+%CE%BA%CE%B9%CE%BD%CE%BF%CF%85%CC%81%CE%BC%CE%B5%CE%BD%CE%BF%CF%82+%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%85%CC%81%CF%81%CE%B5%CE%B9+%CE%BA%CE%B1%CE%B9%CC%80+%CF%80%CE%B1%CF%81%CE%B1%CF%86%CE%B5%CC%81%CF%81%CE%B5%CE%B9+%CF%80%CE%B1%CC%81%CE%BD%CF%84%CE%B1+%CF%84%CE%B1%CC%80+%CE%B5%CC%93%CE%BD+%CE%B3%CE%B5%CE%BD%CE%B5%CC%81%CF%83%CE%B5%CE%B9&oq=%CF%81%CC%94%CE%B5%CC%81%CF%89%CE%BD+%CE%BF%CC%94+%CF%87%CF%81%CE%BF%CC%81%CE%BD%CE%BF%CF%82+%CE%B1%CC%93%CE%BA%CE%B1%CC%81%CE%B8%CE%B5%CE%BA%CF%84%CE%B1+%CE%BA%CE%B1%CE%B9%CC%80+%CE%B1%CC%93%CE%B5%CE%B9%CC%81+%CF%84%CE%B9+%CE%BA%CE%B9%CE%BD%CE%BF%CF%85%CC%81%CE%BC%CE%B5%CE%BD%CE%BF%CF%82+%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%85%CC%81%CF%81%CE%B5%CE%B9+%CE%BA%CE%B1%CE%B9%CC%80+%CF%80%CE%B1%CF%81%CE%B1%CF%86%CE%B5%CC%81%CF%81%CE%B5%CE%B9+%CF%80%CE%B1%CC%81%CE%BD%CF%84%CE%B1+%CF%84%CE%B1%CC%80+%CE%B5%CC%93%CE%BD+%CE%B3%CE%B5%CE%BD%CE%B5%CC%81%CF%83%CE%B5%CE%B9&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_Lmagj14OoqudamrAr45E8MQp.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_Lmagj14OoqudamrAr45E8MQp"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει",
+    "total_results": 754,
+    "time_taken_displayed": 0.36,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_cHdzXHgzZDBceDI2aGxceDNkZW5ceDI2Z2xceDNkdXNceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZDNtSUNhNGY2RjV1d2hiSVBuNXVHNFE0XHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFnQUFBQUFBRUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUtBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9HVEJxT2NWMGtXeFNqSDgxVTJvV1k3V25fUUt3L2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMTUwOTM3OCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2hBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJQUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUVBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q2dRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SlVDSWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBUUFBQUFCQUFBQUNBQ0FBQUFBQUFBRUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9FR3F4azNLTXpTQXlVWUJsNEU1WXVoNnh2aFd3P2NiJTNEMTIxNTA5Mzc4LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQWdrRUFBQUFFQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2hBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNBQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUVBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUFBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q2dRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRUFBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SlVDSWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBUVFBQUFCQUFBQUNBQ0FBQUFBQUFBTUFBQUFBS0FBQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0daVDBGcXdfeEs4QS0xdmhVZllrV0l2YU9RQWcvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIxNTA5Mzc4LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUNGJTgxJUNDJTk0JUNFJUI1JUNDJTgxJUNGJTg5JUNFJUJEKyVDRSVCRiVDQyU5NCslQ0YlODclQ0YlODElQ0UlQkYlQ0MlODElQ0UlQkQlQ0UlQkYlQ0YlODIrJUNFJUIxJUNDJTkzJUNFJUJBJUNFJUIxJUNDJTgxJUNFJUI4JUNFJUI1JUNFJUJBJUNGJTg0JUNFJUIxKyVDRSVCQSVDRSVCMSVDRSVCOSVDQyU4MCslQ0UlQjElQ0MlOTMlQ0UlQjUlQ0UlQjklQ0MlODErJUNGJTg0JUNFJUI5KyVDRSVCQSVDRSVCOSVDRSVCRCVDRSVCRiVDRiU4NSVDQyU4MSVDRSVCQyVDRSVCNSVDRSVCRCVDRSVCRiVDRiU4MislQ0YlODAlQ0UlQjElQ0YlODElQ0UlQjElQ0YlODMlQ0YlODUlQ0MlODElQ0YlODElQ0UlQjUlQ0UlQjkrJUNFJUJBJUNFJUIxJUNFJUI5JUNDJTgwKyVDRiU4MCVDRSVCMSVDRiU4MSVDRSVCMSVDRiU4NiVDRSVCNSVDQyU4MSVDRiU4MSVDRSVCNSVDRSVCOSslQ0YlODAlQ0UlQjElQ0MlODElQ0UlQkQlQ0YlODQlQ0UlQjErJUNGJTg0JUNFJUIxJUNDJTgwKyVDRSVCNSVDQyU5MyVDRSVCRCslQ0UlQjMlQ0UlQjUlQ0UlQkQlQ0UlQjUlQ0MlODElQ0YlODMlQ0UlQjUlQ0UlQjlceDI2bWxyb1x4M2QwYTZFMDZzNTdsN2JjNG1yQUtHY1VtNE1UUC1BczloQk5ldS1nazJpa2V2NXVmTFNLYldNTjZvejhwTGVxNmJZcERUV19EbXBMZ0dxYXhLSmdCdG1CS3RYVElEQnpOY0V1QnVPX1ZxdWkxeV9laThnOVMwTS1lNHB3aEhnWmRCaDQtM3h4SE1ceDI2bWxyb3NceDNkamJocFpvTXc5RkVceDI2bXJjXHgzZENBQTRnQU5RQVdBQWFBRndBSmdCQUtBQkFLZ0JBTEFCQUxvQkFRSFlBUURnQVFEb0FRQVx4MjZzY2FfZXN2XHgzZGM1YmUyMGRkNTVlYzRmOTlceDI2bWd0eXBceDNkOTBceDI2c25yXHgzZDE="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Αλεξιάς/Προοίμιο - Βικιθήκη",
+      "link": "https://www.google.com/goto?url=CAEStgEBxCJF1_LQ-6xtdPoodAN5shHgYdBBM0CZMGeoETXYkEB6nsMjGAibH-OPoKc6r02GvGp5gpfLoZR0bkl_FtLRPn4UvXOq6uz_9s6yV3VWH4vg9X08K59BAzEahtBgy-gFVC451MaUKm_OnNGmXT40qLyjvN6pip-ATx9gyCjjTJvhD_AshIo584hqSvRINWqneAov6ZwNAq79u8ak_JBNEXmXroHn9eIyNrUfOhZqbzrabqNNww&gsessionid=aRdTV7KvjUfMgi0HpCpnDHfMf0e8C-e8AS_cVgGUnpM1nB54qGnGAg",
+      "link_token": "o4NLouRWWNk18omXYiezIlrjwwxcmAljwc922VBzY3z9E8URPMWQ_sxZpdrpV4Hru0d8aouKZPoiAzWB4OGaZopO6YBtEit6QCb6rVmQodZyJFDVLARUq5t4Pssy-09iIUOW4eAq7rSOGDA64SavjYEB-mpqbfinhvixLofJ57HBq4XjkBFMr_AGIM0oWfLW8BLvF1_CZBq6aQSmCCJT_zVJAr6PvffFqtFSk75IDlmYtgS_rch1IB-shAB5ETVH-ZkStyIy0fKvj_sSeLgMHU3V1t-BEUe4m20Jh2Pxp5f5klBarTBrWn-tBDmBEPmRPVlEQJgTKYJYXoYTapaa2NNSaDYu1A--__zqT1KVYbnUeB9D--8RGq7JUGPKZrqPJvva13MA",
+      "source": "Βικιθήκη",
+      "domain": "el.wikisource.org",
+      "displayed_link": "https://el.wikisource.org › wiki › Π...",
+      "snippet": "1. Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει καὶ ἐς βυθὺ ἀφανείας καταποντοῖ ὅπου μὲν οὐκ ...",
+      "snippet_highlighted_words": [
+        "Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί",
+        "κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει καὶ"
+      ],
+      "date": "Jan 9, 2021",
+      "favicon": "data:image/png;base64,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"
+    },
+    {
+      "position": 2,
+      "title": "Ἄννα «Ο χρόνος ρέει ακάθεκτος παρασύροντας τα πάντα ...",
+      "link": "https://www.google.com/goto?url=CAESqgQBxCJF17uKbxBfzipK_28ARlyTYpBZmxa0GxAudSMn957IKAkky72K6E6rWlQXL9G-cSaIy1GSO0Muc216Ci_B0BEQ3jb1xK3hckqCgCY3rHQOYHZzk96Wkgq7uEN6zpjvi8baOHwO3G0npg0OH5gU5tqhwpSr8cls8x4jfdznhMs9Sei2JzAcmMvL5FKHxo65FeNczCdcvXx8ikVe8oyq4u9bGSk8Q1o6WS_kKYEBaB0w2YhDiQq0Pfx9CyEzENeyvvYSuysdbhRQ4iAq0mb_XG5j4sYR8f3meYvoRJJrH3vqFB_GtYZc4NodxtBmV8pMuIl5YA7puNHHzUNRjZSqvPmVA1waMjrfgyz3vy_jwoLRxka6UUE224inVc2Fb2gysrHFZywHGvj0mE7H6fe9rZTgtsS5bQx2BvJcpByZwPPkUnyU91Gziznpq2yXQcnChuoS7WWb1DI-31VEXpoTXF-Q4BWSo_PutJrBH1rTl16O8t5skwD6NPmpwcRY7Vi6MyvqT2E6djBCg3X5o4hlT43Tr2EhpwWaK7VlQY7DZNTyxYxPw_jhIJ_pLwJBpnSdEDldpSAfG4dM3buovEJF7FyxAjwUu6Qu9BMwfrufkqIbdzyavREeYWEFt2-zmYKxMP0cNtav_-3pQPb1Puf1BmDstT6fTTUusoylvUhsgcGqLdiuRo1QGjsfX6cyljfGXkbbaVgwS13XZxc2JX6jrcnYvAfBMFx4jw&gsessionid=aRdTV7KvjUfMgi0HpCpnDHfMf0e8C-e8AS_cVgGUnpM1nB54qGnGAg",
+      "link_token": "PfGl3-U6nVwtqP3dq9WLWPzjGZMRiPuD01oKmObTzM9W8DDLoOJt4mmflXWA5ogR3QawlQdnwZ9l-LTiTCLYvHkTSfDMAmTZBHJG4sbRcfH0fdhdwStvq4hFE2Lxd3rqHu76uB3klQLmyatVwuS3O-3-C1AUGKAhfOU073QMDn7c30_irGaU-12bt8Oo9IBO2lEX3ga_hYkYalNL_Wo-wp8SzkPMayOMiGENzXDznYiBVi7QXO9yoR4JTvIC43xDfCJj9_GLqwX6UYryGXSMvxcnWPACOYgxZpAlw6xsjtFuCOSFd7dj-ukU3G504ULnplYUsChphXZolMq9FMgZSZkODs5OpGSh95NwTJSzVShi0m8gTL8EbCa83tZIISJiNXUjbmgjaXcmEZe6v7fC7DeIihJXquoEWDL3yGQEoiPRDzosOSX9FOOjM2g6rxw37scxqcuVRRepifXz47FzRXNDLdTUuncNhCDUiDYCZjbnvuXS6co_wPXfPoBrhmoJwvPCAdtE4ECIXvUycYOz-MThoZcF23PK0SaJ_eSVKLYpIyLAkZPLFGVpgqVD8Q8DULnXGbYmyy_gmtN7D6ex9THkbnpV4PQKrtTU8-CiAXUduk35EtWfN9AdN824HXlVD1qThFuEYuFrnPUYdRx8BkX1uz3GJjGonlDo8H2sHv62FhGzfOLpDEpyEg5MMVc9rBmBmAEwglTuaSZL0ftMMeVlVNLWdRDuzLU9nZwWsrJ69SbZy7dciOt6anIOhIgKcIHfu81pIo5CJEKuho20P-SUMPHYk3p2aSfLxAbNwLgMpshX1EqIstSwvAFCxz3geMr-QqJ3kwh0XW5WOieRwxS7UPqQWlFwVltmpZhbj8hH-ihy6Z5bEABjw9EQ5CeF6YjGu38G6C-e59wS1GYZtpEgSquc5UXzmkTXET9vCAUwjxCn3TeDoeeAOJpX-VEx3ups14Zafb0Xo5htTsS8BJ4ihoeu7kqc_9MbAvqXreNmWlIbwPM--tVz9NaZGvpBHd5MX--Z-y9rHM93Rts_qGSCK30FQ",
+      "source": "Facebook · Ἑλληνική Ἱστορία",
+      "displayed_link": "390+ reactions  ·  7 years ago",
+      "snippet": "» Άννα Κομνηνή, Προοίμιο Αλεξιάδος «Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει καὶ ἐς βυθὸν ...",
+      "snippet_highlighted_words": [
+        "Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί",
+        "κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει καὶ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII="
+    },
+    {
+      "position": 3,
+      "title": "Alexiod | PDF",
+      "link": "https://www.google.com/goto?url=CAESbQHEIkXXyrJxSadZdInqWoNI9xE0M2_Ai2Gd1HOa4K2WzrWtjsAX6AhRK1rWqW2keEFZQODE0OLZy5NBJtCZ_PPhWfD6XVG1yKdUaT-LCDogSeZvHkyHIaJJac2hSexEatC71JdP2KrCQVOrEZM&gsessionid=aRdTV7KvjUfMgi0HpCpnDHfMf0e8C-e8AS_cVgGUnpM1nB54qGnGAg",
+      "link_token": "mBQVVFgvhxU3ZthBu4zAEe1t1AEFnSjZ3tybUnO99F4h2uPp10096Qwdpl2SG1woMCJlsFk8_DIXfmEWz5EQtbrmjBndGeJ-LRo2gqrWG-4LuQ61UTrUv6F7WkYPRXswnpgX9ioad5yJvQjfJrzhY0qnIvnB2vsKC1WRCqZM7v5q_iaBGtT-VO7sei2WjGWyt2JGe_nqQJtgX5F1pplIx2H_Gg--1LE2Equ0ocOI49Wn--s7h3zNyPquT19E4ZwtRTig",
+      "source": "Scribd",
+      "domain": "www.scribd.com",
+      "displayed_link": "https://www.scribd.com › document",
+      "snippet": "P1 (1) Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος. παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει καὶ ἐς βυθὸν. ἀφανείας καταποντοῖ ὅπου μὲν οὐκ ἄξια λόγου ...",
+      "snippet_highlighted_words": [
+        "Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAflBMVEUJhkcIhkcIhkYAh0dRo3aJwKKOwaWMwaRKonMAhUXt9/L4/Prz+/h+vp0AhEP////T6t/M5tlqtI7p9e83k18di1AojlVcroSz2sbb7+Wm1L0okVqezLR4tpWp0LtnrYaZya9AnGpyr4uJuZxZpXoellzB4NC8384AjU+x2cTZS5WPAAABBUlEQVR4AYWSBQLDIAxFG6ildEnddb77X3DMhcmvIA+JWf8EQgu+jEFq3eHLGMB2XNfz8cbQ91zXseGEhXQCpcIFXfcCLUKlAkeKM3QVR3GCunt+KYkjVu4dplluCaSzQFh5lj7DggTmZVXXjZ2joOIVIradYq3AyxHfIMk+5Lgbak5HpHeYd1z7RGPIU27sLBquZ6J8uVobEMFjrqtkI4mEAXHeanNUsC0lmDspT3apNjjspQklktz7XcDbzLC27ac1aD5pow2YxRxpa9udbt4hWp7ieOi2iqfcgNg2ik+qZjN82v7yUNe7pAXQO7+kjN5T9pJsfEn2jzL5UWA/SvN3Uf/WEWKkGjSp2MmkAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 4,
+      "title": "Anne Comnène : Alexiade : livre I (bilingue)",
+      "link": "https://www.google.com/goto?url=CAESdwHEIkXXV2SmW8-o8Q8P9q0GjuV0DeZFMq0a42iuHIgdEpEepyAH0D983uaE61XA4TcXE7aNkuAQuWkm_rrpMEhDmOuHP280tN9hGJu6NB2WUuymG5OwdabHVYX3rkiFs3EsSXUPj4sDceckiScKNNOeIsZG6qHt&gsessionid=aRdTV7KvjUfMgi0HpCpnDHfMf0e8C-e8AS_cVgGUnpM1nB54qGnGAg",
+      "link_token": "JWmqONGSpfI5MujeKP9GEQlvlPygflxeRijawblkC76h_ArOOc5AY_IddvOZvZtnTGufaPl68fVcVHEwIE4WbZUczqH1E_E7QRSBGnyLXfjutlyEka6sVauT0BglUVaknD5wlXiMDERqYHE4skmEMmUpMOqcbqrzKMVROO2MyzjJz91PBhtnbWVyIGdaK_7k56iB2yknCmBz04lMmZPYx3OxuXCW9Tt_X2URLdA8GLo--mwM5yHvjEXM4cmsC--kMDwH6UF7QOgza3jl62wEg",
+      "source": "Site de Philippe Remacle",
+      "domain": "remacle.org",
+      "displayed_link": "https://remacle.org › alexis",
+      "snippet": "I. 1 Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει καὶ ἐς βυθὸν ἀφανείας καταποντοῖ ὅπου μὲν οὐκ ἄξια λόγου πράγματα, ...",
+      "snippet_highlighted_words": [
+        "Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAkFBMVEX///9vNQhxMwZ1NAWAQgmITgv9+dhsLwR/NwVjKwOJOwdnKQNhKQRZJAPw4MNxKwRdIwR4MAaSSg3dy65VIANZIgSHRR1IOCtOHQLMxsLt38jJtpyVTRW+bS6UcFOqqqk9Hg/PtpLk0K3Gr4+7bidLGgL169Tv7++Pj4+ZURXcw5ngyKD47921cDfj4+Nvb299xvtnAAAAi0lEQVR4AY3NAxbEQAwA0NTNeNvR2tb9T7c2+5/iwFcBPAujOIkA0mueRXkeYYZ4yTEkJM8wCi6LlDFknDGO4pQzTilymbFE0GOu+KEpVY2zojzm2kijlFFGq9OCdZnWRnupvSiOhXqjbLqWR83bnfOLbq8/GAzdaDyZwsV0Nl8sl6s1PNhs5yFUtAeecAh5XAI5VgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 5,
+      "title": "Άννα Κομνηνή_Αλεξιάς.pdf",
+      "link": "https://www.google.com/goto?url=CAES7QEBxCJF11gJH_SyW8ojiv2-BuI1YDH7RwqwH2BxLUguFYnbfOYP4tFMjPJJh30f6UzdmNG5TxQUFIrPzRfqubZi6ZJBLxc3murP4avUT2qPLqRjxfKf1CkwuYXiI1pfHU6LheEhnCalnLdApO1nI8Sz_Sx7uyfKIuBYzlImWOo_IJsGiYgn6GCELxB6RB-FyRgyQOAUwpSzpQ_fsCefReKrbs3c7OKcaNFyy9Fbxpg0QPzzpfT5GGb9Pyc1x1XXNoNLS3Me0lUDGkxbqsU4GHQUqt-Q9jesO9YFIZjp5IS5veebG2B0lI-1XA-DeXc&gsessionid=aRdTV7KvjUfMgi0HpCpnDHfMf0e8C-e8AS_cVgGUnpM1nB54qGnGAg",
+      "link_token": "xBihW8TsZ71R0hwlsaIj8B76jUx8bk2KXpKH5xpjuj7jnlNCqgIsWb-6UiBuSN0sZBmzttEBzqZqpmFWyRb4noFzghM9cYVU4EB7U3KBb6jxCywk09b7m39aQ3lsBXqOlVRwew5mH0Sdk7mQcfnGT3Onx9KcT-QP70IM-aCGx7Me4WJFsMXmzK81w7nqdD7akgZVaBMj6EygElrdN5VVAvaz6fQ6_NSrL2CgSWxrx5IKfjjAyW7AkdHWAMzW0UVtQAqRvhXpiH-SF30b8c-9VmrUK8EhdhPediWoLAp-ETqmT_VGd9tX_nLXW2IgP9Bii8ZAuc003p3MWG3m0rTZ4cdkgLIOpa77OgIl0rUFXZQBkJL6kXYNW26Qtcem6DogaflyuOlS27nwcAmVY16igqOWe_fajO8CoImBVvOUcO7zmS5fPGB6j3JeubrZPA4--hHmei61-g32fFKnq--FNS83muRZ3g8ebwht25F4Q",
+      "source": "eClass Upatras",
+      "domain": "eclass.upatras.gr",
+      "displayed_link": "https://eclass.upatras.gr › file.php › LIT2217",
+      "snippet": "Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τά ἐν γενέσει καί ἐς βυθόν ἀφανείας καταποντοῖ ὅπου μὲν οὐκ ἄξια λόγου πράγματα ...",
+      "snippet_highlighted_words": [
+        "Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παρα"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEVHcEzis2TGk1iyfk+rdUz81HLCjlWqbEuCOTd7LDBwNDefYEWjUT+TLi+EST2MVUJ6QDtiLDW5f094Hir/+o6ueFCRIS2ZPTjInoPat5bSq5Dy38P58un27N7s1bfv2779+vf159L////p0LDhxKPjv43ar3jy4suBmL/zAAAAFnRSTlMAUpC0xCCw///////////////g/wr27Z2kFAAAAcNJREFUeAFdUgWCJCEMrFSAtnX5/wPXpZkeJLmR88KJi+A35AD4Ab9/fhGjHOAQAaR6/YfIWeBAUxWn2Jf9RbyrcHFBm7MnqIvwGYDigEdNZalSriYddj6aueicz5J3IUNwKQKBg+VjgFNeT5LUujS/l2ARp+1mrcGlOBQPsiSUx5aaI1K8x5KaVE1minaZa7tvaGMbJaNPJdnVewRrV4xDipMkSlApUx/YW6oRBlQKse7E9wajHGmbRospw1wobV0K5eKgFd99E+tAh3MvgyjJdkWJ6dscilDcySphr6Wrqo+B4qqF8w4bLrqkBucGU2pUZeztoMdCm0tpqIitw4wOnvMqEloJHEWjpOaY4PRxW9+8seOiBdA6Ehz+VnAk7oeRmmrAxjxXH9g8wNO8BlekzsGRWkhweg8KSjVdL/aF2Ab0D5ZgUipKzAQKv+QiVyiCNlq92ycbBg6ZzhKfj4zNFOZTifyau7ZQdlRWf1nq0nKHAv2ShXUdpFcXWLOvOS8uGUci5nUypb8pp1CKWzrQTkTBAQ/SrEbZZAbCuuTZG5//tGYa1Q2VpgvgOdu/TW0X3A87gQurV/yHB2E4gPLw++sHTm0T2TuGHHAAAAAASUVORK5CYII="
+    },
+    {
+      "position": 6,
+      "title": "Άννα Κομνηνή , η πορφυρογέννητη",
+      "link": "https://www.google.com/goto?url=CAES9gEBxCJF13I2WCMMF3s9SPqeA0hKlMWoA05JU1TVb7iTUuhl6hbJFkx-Ml1AjgcNVHoYNDQLMUTS7SJXvX-s_DYTP8KJ0FKlkRFHJOd8By5qWOzQvR40rXfw2zWRLLiyokqe3Xx1jDAQZagpsuj3uIatVa3_iAsW00f-0Ca3WBZq3HI86Rn1BC2HpMVggCF-VK0X4xENo1lKOv2ZvinsSTznGtqYmGE_VcBRSwLyBnSVCXrceUlDxHg8SDjmdXf6a6vrQgnLd9iO1wPWZesN9tkEqzEuhaeNzcp70_SuYSaiRHk7TdIcd4s70OEVxEqP839ep7gf3R0&gsessionid=aRdTV7KvjUfMgi0HpCpnDHfMf0e8C-e8AS_cVgGUnpM1nB54qGnGAg",
+      "link_token": "II0RymsTYh7NLtiiloW9LbJAp-BGhA7_ixRywC3Riq2oi6hO0yxrSV93tuEiu-d5Y7OJAyiQVMO95bC7yhFcKp23rXBQ3dBq6p92pMmzcyxsQ2iU4OX1kGdI4N7ZjHc7ZQF_DtJr6JWsixPem1AGaEF5Jlsr4PFtuZIlR7DbjY4b-V_dCukxhOk6VroP8iwgdPtIPO-NTOq7HeVEvEJ7Sd2CjuTTbetgNUYIr89dY0C7_Bc5rZPthx2_RfY2kw3cDjKvbTm8wNM7SpjbUfN6xvdJPoVe0iCtIrxFNd7LQTJRuGAxCwyHm33ycqsLxWoJ6ck048wckDOjQ6uc_c8g2iCu-WEq2eXDJ9m-_fd3OV2bBEnBxxrGlmPB5RMPlZKpBPrdCpapb2S-mEwddwWwG69tq9PZnmKVwNn_B7cTS50XipomwNNcHWtx3DnQdEBs-r4o2wcSfXcgQ80--jX0syjEylKtyrd45--x3qFkdnZDG7Wl7XcEFgH7g",
+      "source": "pallineus.gr",
+      "domain": "www.pallineus.gr",
+      "displayed_link": "https://www.pallineus.gr › άννα-κο...",
+      "snippet": "Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει καὶ ἐς βυθὺ ἀφανείας καταποντοῖ ὅπου μὲν οὐκ ἄξια λιθιου πράγματα, ...",
+      "snippet_highlighted_words": [
+        "Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει"
+      ]
+    },
+    {
+      "position": 7,
+      "title": "Αρχαία Γνωμικά-Ancient Greek Quotes – 2",
+      "link": "https://www.google.com/goto?url=CAESeQHEIkXXjf7d4xjilOiihx-4GEuIsy4Gv0rY_PfMPIr4VAVFKY8iiLh8Lo59ij1yqA5IJJ87l50DJU3PrnHpgdXw9jSEUHcDTRiuAOCiKY4M8Je3cLq-NZfxeko6vgFLjiAo-t3Q9AHW4fIzHsAOm5L6ZklyJ5-eEUU&gsessionid=aRdTV7KvjUfMgi0HpCpnDHfMf0e8C-e8AS_cVgGUnpM1nB54qGnGAg",
+      "link_token": "D1lEaHvmWlWy0h_fownckMW7wmHmZu7tJppQ1XWbj5NymkRwE4w4rXuyGRewHttBFyBw1EnHx7Yft6Zj2CSPkB72H6piq3NgukJWd2j28l0bq1ajf8ms2lW19ZsWqSDl6i-48Vk9bmSWXthqSwO6UFzXOTZhmjI5IUhU6wifk89WiZ7AG25ogf7LvcaKgS1zaW9d8IB3aSvzoz6UtFreJ9Su1JHbhdHZs4DtHI5u8g8a4Rw--LtBrb9ZJfg1SVIg1--kXwElHnsDCYiflL7IP-EgA",
+      "source": "Γνωμικολογικόν",
+      "domain": "www.gnomikologikon.gr",
+      "displayed_link": "https://www.gnomikologikon.gr › ...",
+      "snippet": "χρόνος αποκαλύπτει τα πάντα και τα φέρνει στο φως. Ρέων ο χρόνος ακάθεκτα και αεί τι κινούμενος παρασύρει και παραφέρει πάντα τα εν γενέσει",
+      "snippet_highlighted_words": [
+        "χρόνος",
+        "τα πάντα και τα",
+        "χρόνος ακάθεκτα και αεί τι κινούμενος παρασύρει και παραφέρει πάντα τα εν γενέσει"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAolBMVEWpAACqAACtAACRAAODNTSGMjGJNzeVAAL0+v3////6+fv5+Pjk6uhvAABQEhRdUlSztLf28/NTRUVOGx1OICJQJCVUODpiW129wsPe4N7z9fNjJytkAACjAAC8urhiLC9uFRfl5OaGcnKGAQWosLJ5BAafAQCDAwZ0BgjQzc5YCwxmCAtHAABpBwpdCg1QKiqJiYh6eHlzcnI8AABTDA1VDA1lXa2WAAABB0lEQVR4AYWPBZLEIBQF3w9jwLi7u+v9r7Z8iCdV21HoaigAkJcHgYilKBSzlMosyStUpFRKm9v8WJRS1ZqLRb3RlFpr1Wp3ut1efzA0oxFL1h7VRqbU44nHYDqUykiAGG82V1wuPDdcriSX1oLiEvCwdtJeRkpfwh5uM1pZaUBMOrDeBpKSktcq7/aUXzJ2d+dZqlD6dVjGJUKP7J4Uz4H0Uez73zKUKl8ir0SsVE4iBQG+HHMJuIDV3lL25SwBhBBlITZzaWxrUU6AA7PZ2VL3NwlwPB5r02m9ZaSWp/N0ujvuAnC5THunkQxYDa+3EJzP98fzFfH+3EPwNVzjfCNwTvP9hfwBR+cs1qsjNcEAAAAASUVORK5CYII="
+    },
+    {
+      "position": 8,
+      "title": "Σελίδα:Annae Comnenae Alexias, I–II (1884).djvu/33 - Βικιθήκη",
+      "link": "https://www.google.com/goto?url=CAESswEBxCJF17fsMtUxbQk9ZNTtBfEdWP6QdvVQMxr0PzED0hZLkWnGGnuAvqyzpO5Fcn4qB5AqwBlSNtri0lg4CO7qEA4Uyk0qQEMtRf26itMg03esf6pJYRcM-DQVtrZJEAvvpfT0F-SJCm3UQxuaOmtJRnKAf4X5Ui8JRPe8yHcqS0WX2NVyJglq-tVaCR0-c6ks5mv7VJEOwDkkR3BSwjfRCfSg3S83-GpEBX48aoN94nt9Nw&gsessionid=aRdTV7KvjUfMgi0HpCpnDHfMf0e8C-e8AS_cVgGUnpM1nB54qGnGAg",
+      "link_token": "cd_FIogIZ48UQG1zWYTI5jg2k5aPTq8ajn0PmvXZH7FQvz3kh_XFAqETFOfRu4J42Tzi5nLA5ZehNamLIDuk8p0HDUUmV7kD7_1v5dM5W1cRTGbF7M58qA63eOE9jsB1Kv1PpDPTIHoz0cYD-TgespU8TmuMr74Ay_nvldVmcljvM3-PtBfuUnlHpUW_djHFWBqMpmGeiC9gv1oByDGVLt7TELj7yuxgMwHegTkHQPBaR0S-q1bZ4DEWF4UqsLVbxA5hmalOTTzP5eAms1IOm6TzxIuufPCovNgwUIn3WQRcP1eAhZbDNgRUOlKubk1YwKfG9zhry5m9uGG4Nxu0QO_3--qnu69nfYC2ZF-iiy--mfE9UpfkixVLdQzIbi4UVQ",
+      "source": "Βικιθήκη",
+      "domain": "el.wikisource.org",
+      "displayed_link": "https://el.wikisource.org › wiki",
+      "snippet": "1. Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει καὶ ἐς βυθὺ ἀφανείας καταποντοῖ ὅπου μὲν οὐκ ...",
+      "snippet_highlighted_words": [
+        "Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί",
+        "κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει καὶ"
+      ],
+      "date": "Oct 21, 2023",
+      "favicon": "data:image/png;base64,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"
+    },
+    {
+      "position": 9,
+      "title": "Ἄννα - Ἑλληνική Ἱστορία - WordPress.com",
+      "link": "https://www.google.com/goto?url=CAESigEBxCJF1xTryQ-a6wQX-0Q-w0K0isKXzDBnuBcaI9lja11lAElsZQ6yr0415XVTJOYGHe6LZ7cbVqV_JQzeITrw3yJC0MQwR9JGNi8kiXJOQaA0ksC92giittKhEVaUt6wFSbTKza1_EJiBB6FNbmOtjS1uN3w-t-ymVD75BEdwIEbTRDXwGHbcS_8&gsessionid=aRdTV7KvjUfMgi0HpCpnDHfMf0e8C-e8AS_cVgGUnpM1nB54qGnGAg",
+      "link_token": "z0mvtYFGVmyt0W-EWC2nWTYdqRhusdiX9CWEZvQElCdMfYQw5lhZluV8H81E5Tz2DubmgV1zJ9b6VbdclPMzzBVAXwr-EbgpbbXtPeMwkpDD4D2qS0A0IAr2gu7rU2Sih5kMEEbCYSfkj9wXhZQD8erPm4Vo8VxNyulnbbMR-wvHSc5r5yMuexFwmFIIvgk6GPc4CxMja3TbCrZ5kDKD8lJ2qMKXaW2w9aoSkU00Xde91lIbYqygF66AJL2gUuG0QqyNizIByyXOyIo--NZVZMlAoqictdfNI--llRVwcEF5_7r2TD0wnI5GQ",
+      "source": "WordPress.com",
+      "domain": "ellinikihistoria.wordpress.com",
+      "displayed_link": "https://ellinikihistoria.wordpress.com › ...",
+      "snippet": "«Ο χρόνος ρέει ακάθεκτος παρασύροντας τα πάντα και επαναφέροντας τα στην αρχή τους και σε βυθό αφάνειας καταποντίζει τόσο τα ανάξια λόγου ...",
+      "snippet_highlighted_words": [
+        "χρόνος",
+        "τα πάντα και",
+        "τα",
+        "και",
+        "τα"
+      ],
+      "date": "Aug 5, 2019",
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzM3Nzg3NzcvNzc3NTU3LzU1NTc3OP/AABEIABwAHAMBEQACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAGBQcEAP/EACgQAAICAQMDAwQDAAAAAAAAAAECAwQRAAUSEyFBBjFhFFFxgSKRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQMA/8QAKREAAgIBAgUCBwEAAAAAAAAAAQIAAxESIQQTIlFhMUEygZGhweHwI//aAAwDAQACEQMRAD8Aa71YoyWo60Nywl989FIhkEfKn+J9vY9/tqfXfW505jjUWhNeNpDdr0e5xG3WlkkLBXxH08RgHJx39uR8+dONyymnHz/cUU2atUp3RSsV3kaSPggPPmO6j8an21OkcrsVpmO9b0wtrHTsziOOMKSrFQx+/wDuhStCMkRpq7R7RtuVM3PVAjU2MrK3J6seW5d2GDkAZ7/15Op/DVs7sD3O8fPEcnhwcZ2Gxl/rQyrNFDPJPwjMySyhiePkZPkZx8fnOqS0kEpacoe/2kR7gwDIMN4k91kuiw6MyMFKyxGPhKo9g3H9H4OgdTYpSwj12PbxDrda2DoD5HeZ9unpe1BZxWb6pHHPqBuAySe2MHRLagGGG4jxsaw6g2B9fzHsFrctmkMj1ojHfsoqS8+8JPhl9s485xpbhxykGROuC8QcK3wj+xOT1M9jab0e5ytQUtN0yqI4FjKkHPvg4+fnVgOrLoEhlGVtU9U9UQpA9ywxVOPFy65ZlGSGDA4OMnwDpG1NO3eOUZsPTDW8esVitD6EKIWXkDJkFiSTnGslpL7mUkqrVeo+sR9R902umbjF168ZZPYOSwXv+tYrv0wR/m7FexnRbrwz3mqypygEKnp5OM5+2iI65iGPLz5gf1JD9Gu5RQyydCtMpSF25IeUYJBB/J0zWAzYMFnKVh12xDm8xpNaWZx/KSMMe5wCfto6CVUqPab2qGIY+4n/2Q=="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%81%CC%94%CE%B5%CC%81%CF%89%CE%BD+%CE%BF%CC%94+%CF%87%CF%81%CE%BF%CC%81%CE%BD%CE%BF%CF%82+%CE%B1%CC%93%CE%BA%CE%B1%CC%81%CE%B8%CE%B5%CE%BA%CF%84%CE%B1+%CE%BA%CE%B1%CE%B9%CC%80+%CE%B1%CC%93%CE%B5%CE%B9%CC%81+%CF%84%CE%B9+%CE%BA%CE%B9%CE%BD%CE%BF%CF%85%CC%81%CE%BC%CE%B5%CE%BD%CE%BF%CF%82+%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%85%CC%81%CF%81%CE%B5%CE%B9+%CE%BA%CE%B1%CE%B9%CC%80+%CF%80%CE%B1%CF%81%CE%B1%CF%86%CE%B5%CC%81%CF%81%CE%B5%CE%B9+%CF%80%CE%B1%CC%81%CE%BD%CF%84%CE%B1+%CF%84%CE%B1%CC%80+%CE%B5%CC%93%CE%BD+%CE%B3%CE%B5%CE%BD%CE%B5%CC%81%CF%83%CE%B5%CE%B9&oq=%CF%81%CC%94%CE%B5%CC%81%CF%89%CE%BD+%CE%BF%CC%94+%CF%87%CF%81%CE%BF%CC%81%CE%BD%CE%BF%CF%82+%CE%B1%CC%93%CE%BA%CE%B1%CC%81%CE%B8%CE%B5%CE%BA%CF%84%CE%B1+%CE%BA%CE%B1%CE%B9%CC%80+%CE%B1%CC%93%CE%B5%CE%B9%CC%81+%CF%84%CE%B9+%CE%BA%CE%B9%CE%BD%CE%BF%CF%85%CC%81%CE%BC%CE%B5%CE%BD%CE%BF%CF%82+%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%85%CC%81%CF%81%CE%B5%CE%B9+%CE%BA%CE%B1%CE%B9%CC%80+%CF%80%CE%B1%CF%81%CE%B1%CF%86%CE%B5%CC%81%CF%81%CE%B5%CE%B9+%CF%80%CE%B1%CC%81%CE%BD%CF%84%CE%B1+%CF%84%CE%B1%CC%80+%CE%B5%CC%93%CE%BD+%CE%B3%CE%B5%CE%BD%CE%B5%CC%81%CF%83%CE%B5%CE%B9&gl=us&hl=en&start=10"
+  }
+}

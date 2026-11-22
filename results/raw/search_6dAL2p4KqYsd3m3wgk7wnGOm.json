@@ -1,0 +1,151 @@
+{
+  "search_metadata": {
+    "id": "search_6dAL2p4KqYsd3m3wgk7wnGOm",
+    "status": "Success",
+    "created_at": "2026-11-22T03:35:40Z",
+    "request_time_taken": 1.78,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 1.79,
+    "request_url": "https://www.google.com/search?q=%CF%80%CE%B5%CF%81%E1%BD%B6+%CF%80%CE%BF%CE%BB%CE%BB%CE%BF%E1%BF%A6+%E1%BC%82%CE%BD+%CF%80%CE%BF%CE%B9%CE%B7%CF%83%CE%B1%CE%AF%CE%BC%CE%B7%CE%BD%2C+%E1%BD%A6+%E1%BC%84%CE%BD%CE%B4%CF%81%CE%B5%CF%82%2C+%CF%84%E1%BD%B8+%CF%84%CE%BF%CE%B9%CE%BF%CF%8D%CF%84%CE%BF%CF%85%CF%82+%E1%BD%91%CE%BC%E1%BE%B6%CF%82+%E1%BC%90%CE%BC%CE%BF%E1%BD%B6+%CE%B4%CE%B9%CE%BA%CE%B1%CF%83%CF%84%E1%BD%B0%CF%82+%CF%80%CE%B5%CF%81%E1%BD%B6+%CF%84%CE%BF%CF%8D%CF%84%CE%BF%CF%85+%CF%84%CE%BF%E1%BF%A6+%CF%80%CF%81%CE%AC%CE%B3%CE%BC%CE%B1%CF%84%CE%BF%CF%82+%CE%B3%CE%B5%CE%BD%CE%AD%CF%83%CE%B8%CE%B1%CE%B9&oq=%CF%80%CE%B5%CF%81%E1%BD%B6+%CF%80%CE%BF%CE%BB%CE%BB%CE%BF%E1%BF%A6+%E1%BC%82%CE%BD+%CF%80%CE%BF%CE%B9%CE%B7%CF%83%CE%B1%CE%AF%CE%BC%CE%B7%CE%BD%2C+%E1%BD%A6+%E1%BC%84%CE%BD%CE%B4%CF%81%CE%B5%CF%82%2C+%CF%84%E1%BD%B8+%CF%84%CE%BF%CE%B9%CE%BF%CF%8D%CF%84%CE%BF%CF%85%CF%82+%E1%BD%91%CE%BC%E1%BE%B6%CF%82+%E1%BC%90%CE%BC%CE%BF%E1%BD%B6+%CE%B4%CE%B9%CE%BA%CE%B1%CF%83%CF%84%E1%BD%B0%CF%82+%CF%80%CE%B5%CF%81%E1%BD%B6+%CF%84%CE%BF%CF%8D%CF%84%CE%BF%CF%85+%CF%84%CE%BF%E1%BF%A6+%CF%80%CF%81%CE%AC%CE%B3%CE%BC%CE%B1%CF%84%CE%BF%CF%82+%CE%B3%CE%B5%CE%BD%CE%AD%CF%83%CE%B8%CE%B1%CE%B9&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_6dAL2p4KqYsd3m3wgk7wnGOm.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_6dAL2p4KqYsd3m3wgk7wnGOm"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "περὶ πολλοῦ ἂν ποιησαίμην, ὦ ἄνδρες, τὸ τοιούτους ὑμᾶς ἐμοὶ δικαστὰς περὶ τούτου τοῦ πράγματος γενέσθαι",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "περὶ πολλοῦ ἂν ποιησαίμην, ὦ ἄνδρες, τὸ τοιούτους ὑμᾶς ἐμοὶ δικαστὰς περὶ τούτου τοῦ πράγματος γενέσθαι",
+    "total_results": 42,
+    "time_taken_displayed": 0.4,
+    "detected_location": "Childs Park, St. Petersburg, FL",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_Z2xceDNkdXNceDI2aGxceDNkZW5ceDI2cHdzXHgzZDBceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZERHTUNhLVRhT29lc210a1B5dTNTVVFceDI2YXN5bmNceDNkX2Jhc2VqczoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9hbSUzREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQkFJZ0FBQWtBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUWdBQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNJQUFBQUFDZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBU0FBQVFBQUNBQ0JBQUFBRUFBQU9BZmpQa0dBQUFOQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFDQUNBQUFBQUFBQUFBQVdBQUFBQUFCQUFBQUFBa0NBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBQUFBQUFnQUlBQUFBQUFBQkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFBQUFBQUFBQUFBQUFBQUFBRUFBQUFLQUFBQUFBQUFBQUNBQUFBQUFBQUFBQUVBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFHRUFBQUFBQUFBRUFBQUFCWURBRHdBQVFBQUFBQUFBQUNBQUFBQUFBQUFBSUFBQUFBQ0FBQUFBQUFBQUFFQUFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZGclM0QwL2JyJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0dWa091SFRSU1UxdW45Ukp3VzhEVVdPR1k1ZUEvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIyMjc3MDc1LF9iYXNlY3NzOi94anMvXy9zcy9rJTNEeGpzLnMuY3NFcTUySzBfU28uTC5XMS5PL2FtJTNERUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFBQUFBQUFBUUlJQUlBQUFBQUFBQUFBQUFBQUFBQUFBZ0JnQUFBQUFRQUFBQUFBQUFBQUFBQUFBQUNBQUFBQUFBQVJBS0FBQUFBQUFBQUFBQUFBQkFBQUFBQUFBQUFBQUFBQWtFQUFBQUFBQUFBQUFBRkFBQUFBQUFoQUJvUUFRQUVBQUFBQUFBQUFBQUFRS0VMQUFBQUZBQUFBQUFBQU1BRERBQzhnZ0FBQUFBQUFBQUFBRUFBQUFBQUFBQUNBRUFDQUFBQUFBQUFBQUFBQUFBQkVBQUFBQUFBQUFBQUFBQUFBQUFBQUFnQUlBQW9BQUFBQUFFVUFBQUFBZ0FBQUFFQUFBQUFBQUFBQUFRWUFFU0FBQUJBQUFBQUFFQUFBQUFBQUFBQUFBQU9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQWhBQUFBQUJBQUFBQUFBQUFBQUFBZ0dBQUFBQUFBSUJnQUFBQUFBQXdBQUFBRUFnQ0FBQUFBQUFBQUFBQUFBQUFBUkFJUUFRQUFBUUFBQUFBQURBQUFBQUFBQUFBQUFCQUNnQkFLQVFBQ2dBS0FnQ3RDZ1FBQUVRSTRBRUFBSUFBQUFBQUFRRUVJRUFFZ0FBQUFBQUFBQkFBQUFBQUFBQUFBQUNFQUFBQUFFQUFBQUFBQUFBQUFBQUFDQ0FBQUFBQUFBQUFnQUFFQUZBQXdBZ0VBa3VJRUNJaUFBQWdBQUVBQUFJQUFnbUlFQUFBQUJRZ0VBQUFBQUFBQUJBQUFBQ0FDQUFBQUFBQUFBQUFBQUFBQUFBQUFBRUFJQUZoQUFBQUFBQUFBQUFBQUFBQUFEQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQkEvYnIlM0QxL2NiJTNEbG9hZGVkX2hfMC9ycyUzREFDVDkwb0dWaU1waEV0SUl2LXotS0lfLXNIQVB6UlZvUWc_Y2IlM0QxMjIyNzcwNzUsX2Jhc2Vjb21iOi94anMvXy9qcy9rJTNEeGpzLnMuZW4uSWVxYm5GMkFWcEEuMjAyMy5PL2NrJTNEeGpzLnMuY3NFcTUySzBfU28uTC5XMS5PL2FtJTNERUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFBQUFBQUFBUUlJQUlBQUFBQUFBQUFBQUFBQUFBQUFBZ0JnQUFBQUFRQUFBQUFBQUFBQUFBQUFBQUNBQUFBQUFBQVJBS0FBQUFBQUFBQUFBQUFBQkFBQUFBQUFBQUFBQUFBQWtFQUFBQUFCQUlnQUFBbEFBZ0FBQUFoQUJvUUFRQUVBQUFBQUFBQUFBQUFRS0VMUUFBQUZBQUFBQUFBQU1BRERBQzhnZ0FBQUFBQUFBQUFBRUFBQUFBQUFRZ0NBRUFDQUFBQUFBQUFBQUFBQUFBQkVBQUFBQUFDQUFBQUFBQUFBQU1BQUFnQUlBQ29BQUFBQUNrVUFBQUFBZ0FBQUFFQUFBQUFBQUFBQUFTWUFFU0FBQ0JDQkFBQUFFQUFBT0FmalBrR0FBQVBBQUFBQUFBQVVJQUFBQUFBQUFBQUFBQWhBQUFBQUJBQUFBQUFBQUFBQUNBaUdBQUFBQUFBSUJnV0FBQUFBQXhBQUFBRUFrQ0FBQUFBQUFBQUFBQUFBQUFBUkFJUUFRQUFBUUFBQUFBQURBQUFBQUFBQUFBQUFCQUNnQkFLQVFBQ2dBS0FnQ3RDZ1FCQUVRSTRBRUFBSUFBQUFBQUFRRUVJRUFFZ0FBQUFBQUFBQlFBQUFBQUFBQUFBQUNFQUFBQUFFQUFBQUtBQUFBQUFBQUFDQ0FBQUFBQUFBQUFnRUFFQUZBQXdBZ0VBa3VJRUNJaUFBQWdBQUdFQUFJQUFnbUlFQUFBQUJZakVEd0FBUUFBQUJBQUFBQ0FDQUFBQUFBQUFJQUFBQUFDQUFBQUFBRUFJQUZoQUFBQUVBQUFBd0FGNFBNQVFUUUVBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFBQUtZQTBsQUFBZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlU1SVF0QVFBQi9kJTNEMS9lZCUzRDEvZGclM0QwL2JyJTNEMS91amclM0QxL2ljaGMlM0QxL3JzJTNEQUNUOTBvRlpHcFROTlJ3a3Y5ZFZzeklUejRkMFNPWFlxUS9jYiUzRGxvYWRlZF9oXzA_Y2IlM0QxMjIyNzcwNzUsX2ZtdDptYWRsLF9pZDpCMkp0eWQsX21hZG86ZWRceDI2cVx4M2QlQ0YlODAlQ0UlQjUlQ0YlODElRTElQkQlQjYrJUNGJTgwJUNFJUJGJUNFJUJCJUNFJUJCJUNFJUJGJUUxJUJGJUE2KyVFMSVCQyU4MiVDRSVCRCslQ0YlODAlQ0UlQkYlQ0UlQjklQ0UlQjclQ0YlODMlQ0UlQjElQ0UlQUYlQ0UlQkMlQ0UlQjclQ0UlQkQsKyVFMSVCRCVBNislRTElQkMlODQlQ0UlQkQlQ0UlQjQlQ0YlODElQ0UlQjUlQ0YlODIsKyVDRiU4NCVFMSVCRCVCOCslQ0YlODQlQ0UlQkYlQ0UlQjklQ0UlQkYlQ0YlOEQlQ0YlODQlQ0UlQkYlQ0YlODUlQ0YlODIrJUUxJUJEJTkxJUNFJUJDJUUxJUJFJUI2JUNGJTgyKyVFMSVCQyU5MCVDRSVCQyVDRSVCRiVFMSVCRCVCNislQ0UlQjQlQ0UlQjklQ0UlQkElQ0UlQjElQ0YlODMlQ0YlODQlRTElQkQlQjAlQ0YlODIrJUNGJTgwJUNFJUI1JUNGJTgxJUUxJUJEJUI2KyVDRiU4NCVDRSVCRiVDRiU4RCVDRiU4NCVDRSVCRiVDRiU4NSslQ0YlODQlQ0UlQkYlRTElQkYlQTYrJUNGJTgwJUNGJTgxJUNFJUFDJUNFJUIzJUNFJUJDJUNFJUIxJUNGJTg0JUNFJUJGJUNGJTgyKyVDRSVCMyVDRSVCNSVDRSVCRCVDRSVBRCVDRiU4MyVDRSVCOCVDRSVCMSVDRSVCOVx4MjZtbHJvXHgzZDBhN3RDUUZzeVdBUFQwRGhrVlBfa2lud0t5SW12UVc2UllTZEsteWRZQ2tvWGMtZXNZTzFSTDVRRnowYUl6RWxJTS03djBsc2cwN2tIMTNNVWpaYVBCSXlMbUtZOVh5ekxRSGVTWk9RSS1YTXFpeTl1Z2h1YXF4NWExdmlFOWRmaV9jUmJxSXE1RDJZUkdWREJnXHgyNm1scm9zXHgzZG5YdldRV2M0Y3JzXHgyNm1yY1x4M2RDQUE0eUFSUUFXQUFhQUJ3QUpnQkFLQUJScWdCQUxBQkFib0JBUUhZQVFEZ0FRRG9BUUFceDI2c2NhX2Vzdlx4M2RjNWJlMjBkZDU1ZWM0Zjk5XHgyNm1ndHlwXHgzZDQ0XHgyNnNuclx4M2Qx"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "https://scaife.perseus.org/reader/urn:cts:greekLit...",
+      "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0544.tlg001.1st1K-grc1:1.1/",
+      "source": "Scaife / Perseus",
+      "domain": "scaife.perseus.org",
+      "displayed_link": "https://scaife.perseus.org › reader",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 2,
+      "title": "ARISTOTLE, Politics",
+      "link": "https://www.google.com/goto?url=CAESnQEBxCJF11VwdNlCbyHTU_wZaS0214rKmihDtFgyjYWk9W3SJIfYgGIF3xno_TCgC8RRsGsKErounTaEtx5AMb2_2-h4FvCW-cefig8Gknw6rGmUVWGRPE2oOmZC8JfRJPiq1xdieMVHBFRMux4DQZZV9AIpwOCODjf5IGXhAys8MuQMWB9c21iCSae_7fFj4ixSQqRy_DeG41gel6Zp&gsessionid=KuajF7dk2mrFo80V3edRysCbnNIqb1J6DvNAI7QnVwcLJHUvh2Id0g",
+      "link_token": "rlbX4bI78HpbChuwq-ZakVqBKXu4U3vHaDJnJzpFzB9SDHzTC7A4OgRA8hRbdLuLskQEkTB4S6pVEt16D81FHF7JRc1aAiiUBeXjC-W0LF20UHDKsgHZ8VdNcoODyyZg9bNihYLuXhbt-rlz-hpUzZhyf0JVxXuaLOtE7zVrTfOhv7YF1BdvFwSzVg2p5vBY92Qp9jpGIhUWWaLghJ7URAlztxmcWpQ_cZDje-vetwje6THIL-73qy1cq66-EZghATPPPiu7dOQ2vCFD_tBI4-miLn-jrUV1bl85fVq2L1oZFbV5--AQ3KE6AFIQN7TpVH--y5QzwGKGtlbgy5GdGaCSOA",
+      "source": "Loeb Classical Library",
+      "domain": "www.loebclassics.com",
+      "displayed_link": "https://www.loebclassics.com › pb_LCL264.497.xml",
+      "snippet": "ἀλλὰ περὶ μὲν τοῦ ἴσου καὶ τοῦ δικαίου, κἂν ᾖ πάνυ χαλεπὸν εὑρεῖν τὴν ἀλήθειαν περὶ αὐτῶν, ὅμως ῥᾷον τυχεῖν ἢ συμπεῖσαι τοὺς δυναμένους πλεονεκτεῖν· 5ἀεὶ ...",
+      "snippet_highlighted_words": [
+        "περὶ",
+        "τοῦ",
+        "τοῦ",
+        "περὶ"
+      ],
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NBgkRDQgWCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5MToBCgoKDQwNDw4PFSsZHxkrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAACBgABBwX/xAAoEAABAwMCBQQDAAAAAAAAAAABAgMEABESBSEGEzFBUWFzkcIHIjb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOKyEc5vmlQYyHMLYBUE33tfa9qa+J+GIkDSGHUTXXXZQBjoUhOJ6E5eNjSiroaf/wAifzvDvtfRNEIFURRVVFG03m8hOaWy4oJzcVilNza5PYeTWh8Wtxpul6U0xr8RK4acVqelBIV+oG1gfFZzUoGB/SIkbRpa3dVZnT1lKIrMJ/MI33Urp2v6fOy/apahPWg//9k="
+    },
+    {
+      "position": 3,
+      "title": "GR - Perseus Tufts",
+      "link": "https://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg2018.tlg002.perseus-lat1:1.8.6",
+      "source": "Perseus Tufts",
+      "domain": "www.perseus.tufts.edu",
+      "displayed_link": "https://www.perseus.tufts.edu › hopper › text",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 4,
+      "title": "ARISTOTLE, The Athenian Constitution",
+      "link": "https://www.google.com/goto?url=CAESowEBxCJF15vHh5hTx1qmlIidslNr12EyXSwKkLakf-BssKqbSNgjon45xjlqloexCk1TxEvUaWw3kqyxsygM24sdL3MwUoeAsMj0uBneUtSHTrgKAZQUpP_aYCeX9LNVhdTP7_lEL6LJGMvqqKDL9_1tRrU8D_g6cEF0plrViSPZwXzxYrLusEtTMGeCv8AbqDIZUBp_IMCyKs5yxXRzit63ec2V&gsessionid=KuajF7dk2mrFo80V3edRysCbnNIqb1J6DvNAI7QnVwcLJHUvh2Id0g",
+      "link_token": "nLBoRBQCETQ2duFHUx-iEEZ_I-GmQXfxLI3FgM7B6_a1e4FixDsj_o7FGsUQrdakNGOzQBF14NmzCUeB5bEzFAYnapmXYGc5lybbgsLY60iflNwTfCFlVTEvyAW1zXkDyPfWcpc2SsFplnsRNakuiJ6ZqSlmPn037m16o-492tGiSg8WNGzdH9zG4ouwKRWCIwe84vlEuEBjdDO6F0KdyvC7stxasIAYSJzKjk4n8ow_-IsXi7pM-IPKMOE_JtDgS4mI27O4vGq0ZcF21HpZGWQFn4C-eA06ysP0031sgcT2f3QMlxQmDwQmNdo--VDWEDU8nPu5iNjLr--_CUStClI6gFQPqvJhYq8KA",
+      "source": "Loeb Classical Library",
+      "domain": "www.loebclassics.com",
+      "displayed_link": "https://www.loebclassics.com › pb_LCL285.81.xml",
+      "snippet": "ἄγειν εἰς αὑτούς. μετὰ δὲ τὴν ἐν Σαλαμῖνι ναυμαχίαν ἑνὸς δεῖ πεντηκοστῷ ἔτει ἐπὶ Πυθοδώρου ἄρχοντος ὁ πρὸς Πελοποννησίους ἐνέστη πόλεμος, ἐν ᾧ κατακλεισθεὶς ὁ ...",
+      "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NBgkRDQgWCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5MToBCgoKDQwNDw4PFSsZHxkrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIABwAHAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAACBgABBwX/xAAoEAABAwMCBQQDAAAAAAAAAAABAgMEABESBSEGEzFBUWFzkcIHIjb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOKyEc5vmlQYyHMLYBUE33tfa9qa+J+GIkDSGHUTXXXZQBjoUhOJ6E5eNjSiroaf/wAifzvDvtfRNEIFURRVVFG03m8hOaWy4oJzcVilNza5PYeTWh8Wtxpul6U0xr8RK4acVqelBIV+oG1gfFZzUoGB/SIkbRpa3dVZnT1lKIrMJ/MI33Urp2v6fOy/apahPWg//9k="
+    },
+    {
+      "position": 5,
+      "title": "ἐπέεσσιν",
+      "link": "https://www.google.com/goto?url=CAESlAEBxCJF1wDTHDUxskeWPpEV8Bxmrc69za1uDszUNyIzCvBRvuxe3op1QWI-e2aZqOXHtjI2jzmFTsBgCp7Q-KlJGjSzdG3p8dRCgg8VQ7CjMN27E9EOmvxJCknCcwaVSe3vzVummZy2YydFGJrM6NEkavA7aL71BwknJIN08FbNCGp5B8EjJHfmbXV1mKQ01eIUdfZO&gsessionid=KuajF7dk2mrFo80V3edRysCbnNIqb1J6DvNAI7QnVwcLJHUvh2Id0g",
+      "link_token": "hcnGn-oDW62-RQTGPdBJGvFMS9YtP7pBUByV2I0Ijb65bweu4BS3Z6kMI96_LDByUGq4ZvtI7O6amCsup0KEDroXePUihWm6flTtF4TWw9E8QxyRNvhNtxhHoOCBWBLNM9Glf1Drg27G9Dv9LrV7hqVhymE6AwhPaf4X9spYDkbx2p9Egq6PCoSHXHntsfd_OpXZeNoh1yK8jsxERqcSnXJjh3j8u0aMNc2k1b3TGqHWxqOPqeDQwcTTPVwcA8bDQqwFky3ZI-0aAeNYEnWLDGxs75Spkghs--uPJNlt9p-oSGp8IN---PPCJ-HUNLwT_GlRkHfXOQ",
+      "source": "Logeion",
+      "domain": "logeion.uchicago.edu",
+      "displayed_link": "https://logeion.uchicago.edu › morpho › ἐπέεσσιν",
+      "snippet": "αἰσχύνομαι οὖν ὑμῖν εἰπεῖν, ὦ ἄνδρες, τἀληθῆ · ὅμως δὲ ῥητέον. ὡς ἔπος γὰρ εἰπεῖν ὀλίγου αὐτῶν ἅπαντες οἱ παρόντες ἂν βέλτιον ἔλεγον περὶ ὧν αὐτοὶ ἐπεποιήκεσαν.",
+      "snippet_highlighted_words": [
+        "ὦ ἄνδρες",
+        "ἂν",
+        "περὶ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAVFBMVEXv5L3w5b706cHf1bFcWEn57cX26sKMhm8AAADj2LOzq44rKSI0MSnWzKk3NSyspIgaGRX/88lybVqknYLJwJ9kX096dWEQDwxMSTy9tJVXU0VEQTZ+ikwfAAAAj0lEQVR4AcxPxQHDMAzMyXRh5v3nLHPlvitmSP4bID9yxrpo0gemiA4lg48kJctJibS6oqxY6zehbNqaldPP6Xov5ACtMSFwunfUWqWffIKU6jduLnGSo/aNDJW7KO0bZzO5aOUbpLcGqVm4j1zbLe01acjV4TVnNnIyODfuJMPbxRD/OANIooAzHDdIEyMARWMEXLF43u4AAAAASUVORK5CYII="
+    },
+    {
+      "position": 6,
+      "title": "ἐπέεσσί",
+      "link": "https://www.google.com/goto?url=CAESjgEBxCJF1zCuLPxZEbGzpvV6mbjxnJssz13I6C3IwIe2jqFRmkk2q0XyrXxxf2-2qvIlNylOoJ9kbyciKexgnlApo299sGCf7apbaDxstD-lSGl6pURqRDis-azx8t5qX29q6uQBt-Czq2tXyfQPLLbkHW0SisxXrmSZr4h3tSYmIHsQOeWHLkFIeII55AfK&gsessionid=KuajF7dk2mrFo80V3edRysCbnNIqb1J6DvNAI7QnVwcLJHUvh2Id0g",
+      "link_token": "ibrqatDIvjlhrCTcuxBXwErJMGIwNjnUn47xWVSwEi__weIBL0mO5bc6d4oaR7XSxzhSXdrN7ZwjjMJQd1GD8u8phWNJOnl0Hi7vWPEYpCYkqAohad4CM5ZMdURltjy7bx6IlvAdLMwCRthzdLeCi9NTcz3SJ15Uz7iX5vHmz09okTghHIiay4KYxl3wKD8iJugnj_yjdexNjx8IABQszcLbPRvi6pBSUDK2Cw5PkxoNEu_XlDKI85L6Aph8ELV8ErLjQaX6DGiPfnLBkuETfA--emCst451c5sH4TA4--jbULK1sDvjbSRaCqIcKkqQ",
+      "source": "Logeion",
+      "domain": "logeion.uchicago.edu",
+      "displayed_link": "https://logeion.uchicago.edu › morpho › ἐπέεσσί",
+      "snippet": "αἰσχύνομαι οὖν ὑμῖν εἰπεῖν, ὦ ἄνδρες, τἀληθῆ · ὅμως δὲ ῥητέον. ὡς ἔπος γὰρ εἰπεῖν ὀλίγου αὐτῶν ἅπαντες οἱ παρόντες ἂν βέλτιον ἔλεγον περὶ ὧν αὐτοὶ ἐπεποιήκεσαν.",
+      "snippet_highlighted_words": [
+        "ὦ ἄνδρες",
+        "ἂν",
+        "περὶ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAVFBMVEXv5L3w5b706cHf1bFcWEn57cX26sKMhm8AAADj2LOzq44rKSI0MSnWzKk3NSyspIgaGRX/88lybVqknYLJwJ9kX096dWEQDwxMSTy9tJVXU0VEQTZ+ikwfAAAAj0lEQVR4AcxPxQHDMAzMyXRh5v3nLHPlvitmSP4bID9yxrpo0gemiA4lg48kJctJibS6oqxY6zehbNqaldPP6Xov5ACtMSFwunfUWqWffIKU6jduLnGSo/aNDJW7KO0bZzO5aOUbpLcGqVm4j1zbLe01acjV4TVnNnIyODfuJMPbxRD/OANIooAzHDdIEyMARWMEXLF43u4AAAAASUVORK5CYII="
+    },
+    {
+      "position": 7,
+      "title": "παίδεσσι",
+      "link": "https://www.google.com/goto?url=CAESkQEBxCJF1wUaD9zkYrhyWGxJBwwzK22ZBd39FDdA4mBER0qtuDa2B1gaswzdM3bGBhdvPMM1OoQ0q4n2vEWk9DHrwaXvWqrDgQn24tlkD22v-YxmPYxRQ13GU-8xVzHnhhJgS5HzPveOxsFFFZqLuONX3NQjOpz-5RbJvsvxnCPU11NckPXk-csuaslBZvYZVvH7&gsessionid=KuajF7dk2mrFo80V3edRysCbnNIqb1J6DvNAI7QnVwcLJHUvh2Id0g",
+      "link_token": "3aRpqLdw-e7E4izqqnuYeITUvlaIgaggkZKvPP3AjeB2k_Pe4ooCLYZd9S_A7kRfxSfU-92QkMpMAKEf1I9FvjBVPimaB_3XqTVoa2RUtsJOKMDQY79vgwegYCJawMJUbw1o2AtK0QFSzuezfEAv8vvhC36KmsVpJIIQPo33ku1nSpPD7Xy6tQy6Q4dLVu6XSbo1OuKXE_3a70VzmTEMGIJYaeOC5QAHwa3ZZPk7bg6YD2r-FbjaeT3wWYj3i56o9RpbPxbsbW31sAkAn4xeByrdfk0--1IpeKPyZKpRzk045--eKZSzI0r-qeAgSmOJr3Xbg",
+      "source": "Logeion",
+      "domain": "logeion.uchicago.edu",
+      "displayed_link": "https://logeion.uchicago.edu › morpho › παίδεσσι",
+      "snippet": "If you like, you can compare the output of Morpheus. Parsed as: παῖς. ✓ common dative plural. Short Definition. παῖς, παῖς, παιδός ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAVFBMVEXv5L3w5b706cHf1bFcWEn57cX26sKMhm8AAADj2LOzq44rKSI0MSnWzKk3NSyspIgaGRX/88lybVqknYLJwJ9kX096dWEQDwxMSTy9tJVXU0VEQTZ+ikwfAAAAj0lEQVR4AcxPxQHDMAzMyXRh5v3nLHPlvitmSP4bID9yxrpo0gemiA4lg48kJctJibS6oqxY6zehbNqaldPP6Xov5ACtMSFwunfUWqWffIKU6jduLnGSo/aNDJW7KO0bZzO5aOUbpLcGqVm4j1zbLe01acjV4TVnNnIyODfuJMPbxRD/OANIooAzHDdIEyMARWMEXLF43u4AAAAASUVORK5CYII="
+    },
+    {
+      "position": 8,
+      "title": "3 δ. Δευτέρῃ δὲ λέγουσι (ενν. Πέρσαι) γενεῇ µετὰ ταῦτα ...",
+      "link": "https://www.google.com/goto?url=CAES8gEBxCJF10zW6Jx65uJNzLw-QGe-mso3-yaDVlhuKdPaQaPmB92k8IRow1CATWxQkNDckmbhqL6jW19jrqh8qLythWISsQu3KZaf9F_DEI1hLOLGKB_BusdArWV5NPx0EK0KbKqnqhARpAy8dZ1f0mzKmtwAL7CSxuT9TBqMkam5z6NEFud4BpeGR8SPtEzQHo9QQ9K_P23Tv-0kgzDMrPxPjcZND-xGbrWyBxUxvycBkxL25DTjcs8Gbi7ulbg6-4DW950CDI9K_HviA1A9WF2Te9hMkoQMu5F9YubPts0xmP3EvPwrBPtsMp5lTwMqjfmWdQ&gsessionid=KuajF7dk2mrFo80V3edRysCbnNIqb1J6DvNAI7QnVwcLJHUvh2Id0g",
+      "link_token": "wEVkxeP6-D_PVq_cha2eG4I-5bac4Sr20oKAJG57A10OGW3mSPcRnuzR-r4ZhGW5UpFuRBgD2WnoSMxt9JOr0a3aAr4lOvRMsPyoYGv96mCNyTOXyxhK3BlFP6ZLvCN9FNhZZ5GMFRF1ak7rFBNuNXfVY6xRGruRHczHfrboOiVgXBwPW3YMx-pkrbZA1zkmJM6iHKjuSAELZRFjQDBsRH37mD-yXFOme1LHJyiUcVB_xG6aNVczO0YiAOMcBdLaFXKWVbci8ynBOtuRGPH8MVje-UPz4uk3UKNxmMzPNEc3Mtfr8WQ3Ylix1KY8jVfhOe4b8g_5GcEoO-bNw2itq3YnB_vG-azL1SjyWH8mxg-i8kELkvFJAk7JDEwAK75Jw8pYjQYc1nZaeS62xgzxLq0fBtE1y3-fDX-HPB6LsPrZs_NchcbZn3RIUYaBtCuqHuprO-d3--OvazcsI2OR96c6-9--k_4PqueYcv9mFC40v__u9g",
+      "source": "eclass UoA",
+      "domain": "eclass.uoa.gr",
+      "displayed_link": "https://eclass.uoa.gr › file.php › PHIL2212",
+      "snippet": "1 Περσέων µέν νυν οἱ λόγιοι α. Φοίνικας αἰτίους φασὶ γενέσθαι τῆς διαφορῆς·. τούτους γὰρ ἀπό τῆς Ἐρυθρῆς καλεοµένης θαλάσσης ἀπικοµένους ἐπὶ τήνδε τὴν.",
+      "snippet_highlighted_words": [
+        "γενέσθαι"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAq1BMVEVHcEwAAAAAAAAAAAAAAAAAAAC0tLT///8AAAAAAAAAAAAiIiK1tbX////////59fbe09ateIaFGzx/AC6RPVSJKEQAAABqamr7+vqgX297ACWEFTmGIUCHI0Gvr6/t6er////18fKCCzTb29u4i5X////5+fmmannn2dzPs7qAgIAXFxfEoamaUWRDQ0N2dnZZWVnIyMgxMTHSuL+ioqKtra2EhIT///+3t7e9drv1AAAAOXRSTlMATpPK7P2VThOk/////6QQ//////+Q6v///////////x7/////6pb//////////////////+r/yuzLggnAAAABX0lEQVR4AW3RRZbDMBAEUJkCPakwMzPz/U82cvkpxr8tNdkqwrId1/NcJ5dXGQpFob8StHIlmdsS8ONqrd5otuLlbaEOgG6vPxiOhqNRJZJLYAxgUh+MaNibJvMqgNm8rkNqVE2PttACWpM5DZar2H5VaMs5Mxo2seaAcD4m/VGo3gT8IUWzv9arRx9swBZCXWhbNjAaO2CvlBUOwGYQyYcNAGIFKx6Yz1INSmIrJ2xwnEfy+QaAiKNc0UDNYSQ/ATiLuMrT+QXRGzl/A+CqI48PbvEJw7k/v3sWPnDNjdjUef28MTh2/f3I9Ze8g/rzhnZaVgHczhJwlG1WmNWOj+qMyzz/xLD9D/UEjNmitGdqWEqZBxPJwp81hq+blRf5u8cgyVBQmv0EXdO5regFeqbytgpUQJPMATTNmsHcqKygLeL9I7m2hvZO7xeqlAF0TFwsqAz59ed79lzHtlToH+anOHMeOfghAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 9,
+      "title": "ὅλος",
+      "link": "https://www.google.com/goto?url=CAESdQHEIkXXEz5olT56rJT4HceYVoRUV6ChvHFuBR8AESHzHaPz_eezVc4v16duzK2qnBJ1lQVw0chXQ7S-xCsebTuK50D50_hsQe-C-71Pq6fNLGw0HKEy4xad3dmO0KQY43iTzk_ENY7L-74fHh9h4ibEsHHYuA&gsessionid=KuajF7dk2mrFo80V3edRysCbnNIqb1J6DvNAI7QnVwcLJHUvh2Id0g",
+      "link_token": "Y8cUZ64l8I4JT5d3WbUe2ssU41OiYgHvoMRMMGJVh-ICGZ4T31A_EPVO8NDx5mY7_FBgVvhxqcep8yOosqcwK0oYkd5Lmd7wtSlkvWIb_BUfZ26IRi-6WMnIZvDuiupVXUpgADha1jhOWnpgkTXx68zJjov6IdjrCZU2XxcctF1thHUGAUD7H5MAQd97ZhVVge0lPBw6jjJVI7Pl1p3aieSuJus8o6Ga03tey0Cj--60WcfaXLHGdEhcIn--O8xM8jBYVfHmCxhJCVMPFw",
+      "source": "Logeion",
+      "domain": "logeion.uchicago.edu",
+      "displayed_link": "https://logeion.uchicago.edu › ὅλων",
+      "snippet": "whole, entire, complete in all its parts, of persons and things, ἄρτος οὖλος a whole loaf, Od. πόλις, the city as a whole,",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAVFBMVEXv5L3w5b706cHf1bFcWEn57cX26sKMhm8AAADj2LOzq44rKSI0MSnWzKk3NSyspIgaGRX/88lybVqknYLJwJ9kX096dWEQDwxMSTy9tJVXU0VEQTZ+ikwfAAAAj0lEQVR4AcxPxQHDMAzMyXRh5v3nLHPlvitmSP4bID9yxrpo0gemiA4lg48kJctJibS6oqxY6zehbNqaldPP6Xov5ACtMSFwunfUWqWffIKU6jduLnGSo/aNDJW7KO0bZzO5aOUbpLcGqVm4j1zbLe01acjV4TVnNnIyODfuJMPbxRD/OANIooAzHDdIEyMARWMEXLF43u4AAAAASUVORK5CYII="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%80%CE%B5%CF%81%E1%BD%B6+%CF%80%CE%BF%CE%BB%CE%BB%CE%BF%E1%BF%A6+%E1%BC%82%CE%BD+%CF%80%CE%BF%CE%B9%CE%B7%CF%83%CE%B1%CE%AF%CE%BC%CE%B7%CE%BD%2C+%E1%BD%A6+%E1%BC%84%CE%BD%CE%B4%CF%81%CE%B5%CF%82%2C+%CF%84%E1%BD%B8+%CF%84%CE%BF%CE%B9%CE%BF%CF%8D%CF%84%CE%BF%CF%85%CF%82+%E1%BD%91%CE%BC%E1%BE%B6%CF%82+%E1%BC%90%CE%BC%CE%BF%E1%BD%B6+%CE%B4%CE%B9%CE%BA%CE%B1%CF%83%CF%84%E1%BD%B0%CF%82+%CF%80%CE%B5%CF%81%E1%BD%B6+%CF%84%CE%BF%CF%8D%CF%84%CE%BF%CF%85+%CF%84%CE%BF%E1%BF%A6+%CF%80%CF%81%CE%AC%CE%B3%CE%BC%CE%B1%CF%84%CE%BF%CF%82+%CE%B3%CE%B5%CE%BD%CE%AD%CF%83%CE%B8%CE%B1%CE%B9&oq=%CF%80%CE%B5%CF%81%E1%BD%B6+%CF%80%CE%BF%CE%BB%CE%BB%CE%BF%E1%BF%A6+%E1%BC%82%CE%BD+%CF%80%CE%BF%CE%B9%CE%B7%CF%83%CE%B1%CE%AF%CE%BC%CE%B7%CE%BD%2C+%E1%BD%A6+%E1%BC%84%CE%BD%CE%B4%CF%81%CE%B5%CF%82%2C+%CF%84%E1%BD%B8+%CF%84%CE%BF%CE%B9%CE%BF%CF%8D%CF%84%CE%BF%CF%85%CF%82+%E1%BD%91%CE%BC%E1%BE%B6%CF%82+%E1%BC%90%CE%BC%CE%BF%E1%BD%B6+%CE%B4%CE%B9%CE%BA%CE%B1%CF%83%CF%84%E1%BD%B0%CF%82+%CF%80%CE%B5%CF%81%E1%BD%B6+%CF%84%CE%BF%CF%8D%CF%84%CE%BF%CF%85+%CF%84%CE%BF%E1%BF%A6+%CF%80%CF%81%CE%AC%CE%B3%CE%BC%CE%B1%CF%84%CE%BF%CF%82+%CE%B3%CE%B5%CE%BD%CE%AD%CF%83%CE%B8%CE%B1%CE%B9&gl=us&hl=en&start=10"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "search_metadata": {
+    "id": "search_W19X7MebbAtL8nPjye68NbDz",
+    "status": "Success",
+    "created_at": "2026-11-22T03:35:12Z",
+    "request_time_taken": 1.57,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 1.59,
+    "request_url": "https://www.google.com/search?q=%CE%94%CE%B1%CF%81%CE%B5%CE%B9%CE%BF%CF%85+%CE%BA%CE%B1%CE%B9+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%B1%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%B9%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%CE%B9%CE%B4%CE%B5%CF%82+%CE%B4%CF%85%CE%BF&oq=%CE%94%CE%B1%CF%81%CE%B5%CE%B9%CE%BF%CF%85+%CE%BA%CE%B1%CE%B9+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%B1%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%B9%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%CE%B9%CE%B4%CE%B5%CF%82+%CE%B4%CF%85%CE%BF&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_W19X7MebbAtL8nPjye68NbDz.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_W19X7MebbAtL8nPjye68NbDz"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Δαρειου και Παρυσατιδος γιγνονται παιδες δυο",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "Δαρειου και Παρυσατιδος γιγνονται παιδες δυο",
+    "total_results": 38,
+    "time_taken_displayed": 0.2,
+    "detected_location": "Toledo OH, Ohio",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_Z2xceDNkdXNceDI2aGxceDNkZW5ceDI2cHdzXHgzZDBceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZDhHSUNhNi0wRmEtbXB0UVA1SktkbVFFXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUNBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9HVmtPdUhUUlNVMXVuOVJKd1c4RFVXT0dZNWVBL2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMjI3NzA3NCxfYmFzZWNzczoveGpzL18vc3MvayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFDQUFBQUFBQUFBQUFrRUFBQUFBQUFBQUFBQUZBQUFBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTEFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBQUFDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0FJQUFvQUFBQUFBRVVBQUFBQWdBQUFBRUFBQUFBQUFBQUFBUVlBRVNBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFPQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFBQWdHQUFBQUFBQUlCZ0FBQUFBQUF3QUFBQUFBZ0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUlBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQUFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJBQUFBQUFBQUFBQUFDRUFBQUFBRWdBQUFBQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0FBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFFQUFBSUFBZ21JRUFBQUFCUWdFQUFBUUFBQUFCQUFBQUNBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUVBSUFGaEFBQUFBQUFBQUFBQUFBQUFBREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBL2JyJTNEMS9jYiUzRGxvYWRlZF9oXzAvcnMlM0RBQ1Q5MG9HZklJUTJkVDg4bVZ6dTE1cUYxUGhlTmpCZnd3P2NiJTNEMTIyMjc3MDc0LF9iYXNlY29tYjoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9jayUzRHhqcy5zLmNzRXE1MkswX1NvLkwuVzEuTy9hbSUzREVBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBQUFBQUFBQVFJSUFJQUFBQUFBQUFBQUFBQUFBQUFBQWdCZ0FBQUFBUUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFRQUtBQUFBQUFBQUFBQUFBQUJBQUFDQUFBQUFBQUFBQUFrRUFBQUFBQkFJZ0FBQWxBQWdBQUFBaEFCb1FBUUFFQUFBQUFBQUFBQUFBUUtFTFFBQUFGQUFBQUFBQUFNQUREQUM4Z2dBQUFBQUFBQUFBQUVBQUFBQUFBUWdDQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNvQUFBQUFDa1VBQUFBQWdBQUFBRUFBQUFBQUFBQUFBU1lBRVNBQUNBQ0JBQUFBRUFBQU9BZmpQa0dBQUFQQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFoQUFBQUFCQUFBQUFBQUFBQUFDQWlHQUFBQUFBQUlCZ1dBQUFBQUF4QUFBQUFBa0NBQUFBQUFBQUFBQUFBQUFBQVJBSVFBUUlBQVFBQUFBQUFEQUFBQUFBQUFBQUFBQkFDZ0JBS0FRQUNnQUtBZ0N0Q0FRQkFFUUk0QUVBQUlBQUFBQUFBUUVFSUVBRWdBQUFBQUFBQUJRQUFBQUFBQUFBQUFDRUFBQUFBRWdBQUFLQUFBQUFBQUFBQ0NBQUFBQUFBQUFBZ0VBRUFGQUF3QWdFQWt1SUVDSWlBQUFnQUFHRUFBSUFBZ21JRUFBQUFCWWpFRHdBUVFBQUFCQUFBQUNBQ0FBQUFBQUFBSUFBQUFBQ0FBQUFBQUVBSUFGaEFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZCUzRDEvZWQlM0QxL2RnJTNEMC9iciUzRDEvdWpnJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0ZyR0RlOEdXMm54aFBNN2dOV21ZemZiZV9qc2cvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIyMjc3MDc0LF9mbXQ6bWFkbCxfaWQ6QjJKdHlkLF9tYWRvOmVkXHgyNnFceDNkJUNFJTk0JUNFJUIxJUNGJTgxJUNFJUI1JUNFJUI5JUNFJUJGJUNGJTg1KyVDRSVCQSVDRSVCMSVDRSVCOSslQ0UlQTAlQ0UlQjElQ0YlODElQ0YlODUlQ0YlODMlQ0UlQjElQ0YlODQlQ0UlQjklQ0UlQjQlQ0UlQkYlQ0YlODIrJUNFJUIzJUNFJUI5JUNFJUIzJUNFJUJEJUNFJUJGJUNFJUJEJUNGJTg0JUNFJUIxJUNFJUI5KyVDRiU4MCVDRSVCMSVDRSVCOSVDRSVCNCVDRSVCNSVDRiU4MislQ0UlQjQlQ0YlODUlQ0UlQkZceDI2bWxyb1x4M2QwYTZlUHc4Qk95YkQycUIyS0VhdzVWQ2czZkVyYkZ2RUNEVUh1bGNpZkNSYm9yZlVHbnphdXRtUkNKUFU2LVFtYVEwY3QyVHNYVDJEeDM3aVFEQlJocWpKT1A5WFQyQXZVVGk1UjdsdHVNUGVGWmNBT1F2YU1DRGpJVFh2QllMR0dOQldjb2tTWS1VZlhFZWxceDI2bWxyb3NceDNkMTB4UWRnTEJ1cndceDI2bXJjXHgzZENBSTRrQU5RQUdBQWFBQndBSmdCQUtBQkFLZ0JBTEFCQUxvQkFRSFlBUURnQVFEb0FRQVx4MjZzY2FfZXN2XHgzZGM1YmUyMGRkNTVlYzRmOTlceDI2bWd0eXBceDNkOTBceDI2c25yXHgzZDE="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "https://scaife.perseus.org/reader/urn:cts:greekLit...",
+      "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2:1.1.1-1.1.5/",
+      "source": "Perseus Scaife",
+      "domain": "scaife.perseus.org",
+      "displayed_link": "https://scaife.perseus.org › reader › urn:cts:greekLit:tlg00...",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 2,
+      "title": "Γιάννης Η. Χάρης: 49. Δαρείου και Παρυσάτιδος;",
+      "link": "http://yannisharis.blogspot.com/2007/08/49.html",
+      "source": "Blogger.com",
+      "domain": "yannisharis.blogspot.com",
+      "displayed_link": "http://yannisharis.blogspot.com › ...",
+      "snippet": "Θα ήτανε σωστή ασέβεια στην ανώτερη καλαισθησία των ανθρώπων εκείνων, να υποθέσουμε πως μπορούσαν να συνεννοούνται μεταξύ τους λέγοντας ιίι, ιίι ...",
+      "date": "Aug 2, 2007",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEz+ZgL+///+ZgL+WwD+49j+vJD+6+H+8+3+gzP+oXD+eiD+2cj+xKXrGQLoAAAAAnRSTlMARXAleCcAAACpSURBVCiRpdPZDsQgCAVQK+CC+v+/O2Ksa21mMjz2BHsrVKkLDnWps4meDeA7xFqPyCYSUTQeN0Sja7nkV2yWy8yIPJgmP2NpdPmVRXlGeWg5hJAE04wkjex9KK2Wa+SO2llra2KXcMEp1E8ox+ZyTyiBpNgtKCFJPiUXS6o44H0JcvXlWNMReA10vPjWuI9ssDZshDLsMm+45913CHHblD+273Wp336HDzfYCtDpHI3hAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 3,
+      "title": "http://www.perseus.tufts.edu/hopper/morph.jsp?l=pa...",
+      "link": "https://www.google.com/goto?url=CAESngEBxCJF1x4qpO74k2cp9bGNMLaNYbccT5fy-s3teMs9jvqsrIbaivJgJnSxnis15v9VMwmz4OL8qZB2lh3qtNd9w-9B3P0I9YMRiIKygf8T42l9mMcx4ruo_qwSzrMdQ4rqOzZCRTjcT0hmemdv6DtROfbnjrqang2XDHTzwxyeBgGwDJQHVjl4O5z6TOfUog_leTgG1OYtb-c9TljVFg&gsessionid=BybZ7qndyuVS3UZO2Xxz5kklZUYauO-OP1OtDuKGLBOrAuCv2pBSmw",
+      "link_token": "7dEZYjLJwzvGJhlpDeKILERuN9fWxPKiiWk7IJtW7uNCmmMAtAF5GiAEokwpJa9e7UxKmMWVQcRKd3g2AaCwUOSxxUdVEyBRmsj19DRi-Y4jJHleFxFXaD24PFb8nMV6wLrYfHro1_7FfCK2gyLkvUEfkzPMVa7CDT2JwWtHtCUIwMzhe-Zgd8GfwerhBINhd6QxnC9GHU9uFh6oFoFtiu5E2CRRKfyLTmO1Te4OfqkzIPGo1BHiQHcN9_fB7QcGIUIQi_Uzg3736vjVdotRDsAnUMQ35anEWoyOpz5VyCgg9Bk1L-0--RX7kfMNCbJZ9fU28--8YxM6WEUohdB0hZA_PygBg",
+      "source": "Perseus Tufts",
+      "domain": "www.perseus.tufts.edu",
+      "displayed_link": "http://www.perseus.tufts.edu › hopper › morph › cetai",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 4,
+      "title": "https://kypros.org/Sxetikos/Parimies/Books/Biblio-...",
+      "link": "https://www.google.com/goto?url=CAESewHEIkXXmBUSi_V5fybgHoOo86up8sRzIaQl3KLCMijcRHvb7QlfFjSMmZoY0YRHYeURzGGAbW6bYdWRWwDk4fGI874iQAzw_4wLfuS3CYfGxjr9YkTtdIbAoByO4zeJQDhmYI0GG6tHFelvc13wW-R7cPDx5_-DZmrcqA&gsessionid=BybZ7qndyuVS3UZO2Xxz5kklZUYauO-OP1OtDuKGLBOrAuCv2pBSmw",
+      "link_token": "NLlqrU4zSlVzHHZZyZ_dq9HwO__KE6O-IxlyIL8wx-C5fESgRXwc_YOkYeojWTywJE_ILDOPXeLv-mpWNRxdjaGnIDU49Ltl4mTNqCHX2NX7B8yGkzf_83ETvo4RYxvxacPjOavQOrz4lxMoK0gUciqwWMwqMYxGrxawGm0Uyp4NOC6wGhOeW2wzOuchr7QlHavwyrNjApbVMXsPmAb30zDS2uGbcwLxYtV5pDtziztNFYRE4Vw--54-kQyJ4v5ph3BDs--t4WJ3vHD_4DBg_LDzW9bHw",
+      "source": "Kypros-Net",
+      "domain": "kypros.org",
+      "displayed_link": "https://kypros.org › Books › Pa-K-2"
+    },
+    {
+      "position": 5,
+      "title": "1",
+      "link": "https://www.google.com/goto?url=CAESngEBxCJF1-4JvR8OLutZw9zy29NpO51Bx_hSLTgX56H421TVIN0HMp6so1WUtxPVOHkAKdBhiM-wWQ-OqdraLmBn6ukF0yKj-hmc_v5N1QQ7KdV2uu6HQekd522lf4kIDW3vgjzRi_4HYwOz5BI2jjZHkXv9A-SEvRxloKMObCCiZdPqBm40RmDqOXF1LKWPpQeLmGliGSZehv7n7zWkJA&gsessionid=BybZ7qndyuVS3UZO2Xxz5kklZUYauO-OP1OtDuKGLBOrAuCv2pBSmw",
+      "link_token": "_rrpUf7RpEfaBf3MBL4w93vTj3Evu1XJflDLS87BAtkI-4qrU54ek1G2RhpymtzMQui1YS-lDr7snRBM-PmsfIjAHSTAXTifJLbhJXrRk8esgVWAnhULVCtAVaz-19gmo5-8XkKe9ZLYA2gaF5wYteEevq4POPPhtU_34PnQ59ngHh0O0l488hzIDh0-BXcPPES4weVf4tb_yltcyAAcHRApuAFqoUTDD6Ix02y7-WeXv6_L4FyVWsdL0dyhPTzY1s3IZds5I3-988a8rRzhSMj6VUVQkuFYxp-Iiws79h_NxUEvKW4--NhHa9TSmYWCj1lbu--gjAuCM3_uIbgtS4dhcoMhg",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "http://www.greek-language.gr › br...",
+      "snippet": "No information is available for this page.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 6,
+      "title": "Αρχαία Ελληνικά Κείμενα από Μετάφραση - Ηροδότου ...",
+      "link": "https://www.google.com/goto?url=CAEShwEBxCJF13lNc4hob9xqh19omVH13CcT_-RNWZD4e3lqQcxgPAogeUVnwcvHGjoNmN3y2pHqyWAMgapaF-PxOlDfdy5tkJ8horWAX7AthDHgDT8cchBhXUpdtNbp1Kh3kLcTsbGBPiE_Nzj4lWAF1A-k98D4Q4lBtXaM0SCbzeBvqgIFNNXNQJU&gsessionid=BybZ7qndyuVS3UZO2Xxz5kklZUYauO-OP1OtDuKGLBOrAuCv2pBSmw",
+      "link_token": "5To497r0V5c6mAtBtLxernqytqWiVl6taie4u4KTwR7TUkJzXqGMy-tE7sqMeaPKgO8EkvkEiqQ8JR3iFb_HXrX3Lh9kRaD4zp6My638wB_MW0uZpElhQlhxU7YtjaMe7QJizlNcpWUtJUTA9r0RZqnuMXLwEDdHKngoIT8ya0bAvCRM-F5eVbVztvEuJO1Lg6iZD5Qpyu5mbkGUQ-GekFW_aJQNY1TxgBpenlp4Rkoqb_r8hdPAqwAsgFW3-RcRCCV3xrWzqA--5AeMmTmt5AuUwSHS--7viM0yAP9bAOxfdFyntYBA",
+      "source": "Διαδραστικά Σχολικά Βιβλία",
+      "domain": "old.ebooks.edu.gr",
+      "displayed_link": "https://old.ebooks.edu.gr › show.php",
+      "snippet": "Η μούσα Ερατώ. ΠΕΡΙΛΗΨΗ. Τα τέσσερα τελευταία βιβλία της ῾Ιστορίης αποτελούν μιαν ευρύτερη ενότητα, στην οποία ο ιστορικός αφηγείται τη σύγκρουση Ελλήνων- ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACnklEQVR4AezXQ3QlQQCF4Rrbtm1jN1jPamzbtm3btm3bRmzbqvnjpM5zjD7nC6v73nY9Yeyy4NZFgYKYgPYQECm6KOH5MAf+eIvmEEi18Lkx4TLGOzRfcv+6GLlvU8qEz712Vsy+ejrf/JsXlHBg4Z3Lb9e/edr+uINNmSM2FuUURWFYEAMF6mIztgOwtdx6wPzP6S2f3viueHw7UfjSBzfk9m8f5CGrf86M+8d4swSssNbYAp0RDJkQG5dHsd/8t1zx5E5U+KI7l+WO7x+j/n4EjNPkCAwKboShWI8wSA2iwjgSktMhlz+6JQ9a/lPDVS8xACWhs8BEZUWtBbZ9eRdVgCMhD1ub610HXmiaiQpkF/j6PpgC4Suf3g2mQERqFrDliv+89++P3RTYvfbV42UxV7l1chQYiHA9G5qCgsg/78b5fNyOeTgiBfh9hJ71HFBPX4HKuAtdh3QMNK3bH1KLUGxFXj0FolTASCzAfMVCtNJSoAGmY5piOvqiBIQhBTriNB7jkeIJukEk16IWqIIPkDqMSckC/ZR3gCZb0RUNZ185nTvBRETd1jDsxx7FXsxBFQgYfRuGcxuG7/nz/en8Wxd3E94UAmqBk3q2cxZFYPKTMIJQiZdoDAFjCrijeVIKyJgCaglDC/ihbbIUUEsctjZLvQKKR6i47OFNkwsMhQP8TCoATGJ2LBh3zJQCRVAZR/QV4B2grcBmJq8i5t0QYGgB9RbaDql1Umr2K3ZSqorAROaJgrEFYo7obbzT4CkaaSvQAzuVafm23b+/vtj04ZUkQNveX0I5JHy050dhDQohJ4TeZealE2LB7Uti3o1z1ZkD3NQSfhlVIJCiH82q46a28BRdCEhY4kaCw15ZDU+NEvWwDrX+j9JgBwD46jkJEmC6IQAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 7,
+      "title": "Η Ελληνική Αρχαιότητα: Πόλεμος - Πολιτική - Πολιτισμός",
+      "link": "https://www.google.com/goto?url=CAESmgEBxCJF1_tQrM1kbkudYcxhvOrpgJ5wQ-AedT3HaJmDCzOtS3gKocXRZ3Ry1iPPSAIQj-27D5Q83DMQcaLMjduosdngCQub-0RzBoyBmhaqZbCVJrEc35lgHJFaf8dzdA5s5iOSR8e5v4y2eTIfrkyo5BEP9wbcVlpYO2qmIQquYVMwLn1d-o4GFmcmT_VPWzgXyyLMNSnI6Pkr&gsessionid=BybZ7qndyuVS3UZO2Xxz5kklZUYauO-OP1OtDuKGLBOrAuCv2pBSmw",
+      "link_token": "fcqq1-QGbZbTGa-agGUY2vGDtF-B_sOOHLthyrRZTsLRElD4kA9WxiLpybgYiIWBUTEnev7j1ZEWmezoMA8osRCjMR2SqoxlW2gYrtBKjUCTDwvnCDotCTVcc0aGVZmluxG2i94tOVf-DtB5SwUbRBWiL9iw7qbnD49jYzpNqSicJhItsMfcvMWucdneYkrCYh4K30n1s2FqTjZh8P7axj-WPCb2XRC4Z5HWvcwsDgw9nejpEDrbhrOvItDSV_K8dfpTeHHUvikYOROTiW9IyvUkernR1iPNANLo40IQ7_0--EGO-N2Nickuy1Qvp--V5eqszOQ19o8jm_h8kFfNw",
+      "source": "Η Πύλη για την ελληνική γλώσσα",
+      "domain": "www.greek-language.gr",
+      "displayed_link": "https://www.greek-language.gr › p...",
+      "snippet": "Ο κόσμος του Ησιόδου ήταν οργανωμένος σε πόλεις. Οι περισσότεροι άνθρωποι κατοικούσαν μέσα στα τείχη για προστασία, αλλά είχαν τα κτήματα τους στους γειτονικούς ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAn1BMVEUBAQFHcEwkJCQiIiIdHR0UFBQaGhowMDA2NjYVFRU0NDRCQkIAAAAICAgRERExMTFcXFwvLy89PT0AAAAAAAAKCgpvb2+hoaEICAhmZmaNjY2CgoJ7e3t7e3uKioqxsbHMzMyzs7OioqIuLi65ublKSkoGBgZRUVGUlJRERERHR0cAAAAtLS1bW1t0dHSampqLi4sqKio3NzdeXl69vb0xX5t7AAAANHRSTlMHAKmaiHuQ/f5c8v8zQE6//en/Eg4op/xG3tHHvc7g8///7eP/bxqZ/v9eA0eF8/zvzqWyts8UJwAAAYNJREFUeAGtkgV2wzAQRHfNzMqa2W4M4dz/bJXL/Khj0Lz5Ygn+FP6hv6EgSrIkCk9SZFl5Mi8hqKqmaeqLPjpuQVcM05AtW3csx/U8lxe6bck8VHRA2w98HSCMgO2IdgyiEEDnoY2Asa9qSZrleVFWdV2VRZ5naaKpfsyh46tGklLTlEVb121RNg2liaH6zlNLs4tZ1tMwPuz3D+NAfcbiztxacjh1VpQ3NKPkeRLO1OSR1U0v0OysMO9pBiUIFJipz0PrY8sXqGlvcPoCF8U0leVXGAT/Bp1ttuPn2Y58tm+b8Lnlh6XYHLJogygFgYQbjBiHNgLjp+Pra9bQwRaCQLAP1GSr7vNzZOAbmqp5xz2dzsdJVafj+UT7o8dDw4eLy2/F9XamU3G7bq440XlzgnuBMQzHCFnR0IA4jogDNQXDaMsBuZZ1196bdOBoHNLm3u7WZcthAcDwRqfyTOcZceZFeaJbiMDRsiwI6+DY6zwzRDbPq+0MKyAHgG9aPhWbHgHNDzfTjJJVawAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 8,
+      "title": "Κείμενο 3: Tριανταφυλλίδης, Μ",
+      "link": "https://www.google.com/goto?url=CAESeQHEIkXXbMUKvp5a60EYYJlOM1I69jQj_TLwU582Wp8pXtn3zi9LrRoCXQ_yK2oTQwh8xxas_-bdAsm4ghBCszuqazLxu7Ij9qhse69VRihG3dY8kp-7jMuHVq0uh5M70KTHrJbxTJpo0ONz4eIBOY7PVozB6md4EGw&gsessionid=BybZ7qndyuVS3UZO2Xxz5kklZUYauO-OP1OtDuKGLBOrAuCv2pBSmw",
+      "link_token": "xjDwpSuPZlcErsxoRI6TvqnFfAM-yqvsDbfeymHBId44Ql-ycAZQY2vlJoJqjFL-kAn8qlALpwAs1Xq-TkHDCO8GeoiX5zJ6rnycWA8DS35srecCvopY1nY8vHIw5lcqV-jh0w0Mj0X48WML1WfsJTP1d3ycqcXzHsKHQuCgO0tJnEpMEWLoPUcZG9q1Zey-zX3pUchRObjR-h0i1Y2abOlugfJ90LiwwV9RmZt5Q0PS9LM--0j0m6pSlXmndaHD0--5YMhDdSCth571ADrj9MZlw",
+      "source": "Ηλεκτρονικός Κόμβος",
+      "domain": "www.komvos.edu.gr",
+      "displayed_link": "https://www.komvos.edu.gr › odigos",
+      "snippet": "Είναι ιερωμένοι καθώς ο ιεροδιάκονος Γρηγόριος Κωνσταντάς και ο ιερομόναχος Δανιήλ Φιλιππίδης, ο φιλόσοφος και σχολάρχης Αθανάσιος Ψαλίδας, οι πρώτοι ποιητές ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAnElEQVR4AV3PEQwEMRCF4eWz07OV9aRYrcPaelKHcSrX6ykWx6q14/q4jMu7tHtpcvfjBy95G35LE7SRtdQWdApV9B2z3tBtwizyDT6sAR1QT/UeEBNRZICLvFvAPa4vbFwl9nPL0KIDXmPqOAjIDQNCQHma5mtJUgaop4fRvlNFmQB2pgFEyFUngAOrakusuAGSLnclWV9WE9JfH9IWwnyVyMfaAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 9,
+      "title": "Έτσι οι λέξεις αλλάζουν σημασία: η λέξη",
+      "link": "https://www.google.com/goto?url=CAEShwEBxCJF104k8QxfhHT1IaDazNBRDieOcI6LsJXYvQ4-mPZcYGEealNt7z4WUL12MlyIJ6S535anShSe6-tvc6bNin_29QlAiWbjERq3DDr0c1ro-ZFiy4-_QKqk8cOdyVAdVmXVki8FUtwNJR8oMGGdoic_7OhPB4BO4f15zt-WnoUJL3jykVo&gsessionid=BybZ7qndyuVS3UZO2Xxz5kklZUYauO-OP1OtDuKGLBOrAuCv2pBSmw",
+      "link_token": "oO7lI3eSD4ZB7OsLPNWaujoBs1ian005Rux1lzDGaQbr4u8pHWCS0E0W0ix36nf1UScbUA1lq_-ntNXf37smmmjlG_Ud2d6tMc7duLqK4RrSyc9Oe0_mJpqg4_GNBxNCDmwdX_JjIO_FqncmBL2tnWU-txzfBH8BqRNUtPVcci5IU8uPghyMrXM0LZ7JAlY53Nl4hSsviKp6EJDn9SSGwcA8yEy2OJAgxlt9hazIsxdbREt-3lSCZVkkmZDXgLJG0llxmWiSVQ--BoV5r5vzLvqWxIRF--LKR4J2KsTfl-HxPG1FHnlg",
+      "source": "Διαδραστικά Σχολικά Βιβλία",
+      "domain": "old.ebooks.edu.gr",
+      "displayed_link": "https://old.ebooks.edu.gr › show.php",
+      "snippet": "Oι λέξεις αλλάζουν όπως αλλάζουν και οι άνθρωποι που τις χρησιμοποιούν. Oι δυναμικές που μεταπλάθουν τις ανθρώπινες κοινωνίες μεταπλάθουν και τις γλώσσες.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACnklEQVR4AezXQ3QlQQCF4Rrbtm1jN1jPamzbtm3btm3bRmzbqvnjpM5zjD7nC6v73nY9Yeyy4NZFgYKYgPYQECm6KOH5MAf+eIvmEEi18Lkx4TLGOzRfcv+6GLlvU8qEz712Vsy+ejrf/JsXlHBg4Z3Lb9e/edr+uINNmSM2FuUURWFYEAMF6mIztgOwtdx6wPzP6S2f3viueHw7UfjSBzfk9m8f5CGrf86M+8d4swSssNbYAp0RDJkQG5dHsd/8t1zx5E5U+KI7l+WO7x+j/n4EjNPkCAwKboShWI8wSA2iwjgSktMhlz+6JQ9a/lPDVS8xACWhs8BEZUWtBbZ9eRdVgCMhD1ub610HXmiaiQpkF/j6PpgC4Suf3g2mQERqFrDliv+89++P3RTYvfbV42UxV7l1chQYiHA9G5qCgsg/78b5fNyOeTgiBfh9hJ71HFBPX4HKuAtdh3QMNK3bH1KLUGxFXj0FolTASCzAfMVCtNJSoAGmY5piOvqiBIQhBTriNB7jkeIJukEk16IWqIIPkDqMSckC/ZR3gCZb0RUNZ185nTvBRETd1jDsxx7FXsxBFQgYfRuGcxuG7/nz/en8Wxd3E94UAmqBk3q2cxZFYPKTMIJQiZdoDAFjCrijeVIKyJgCaglDC/ihbbIUUEsctjZLvQKKR6i47OFNkwsMhQP8TCoATGJ2LBh3zJQCRVAZR/QV4B2grcBmJq8i5t0QYGgB9RbaDql1Umr2K3ZSqorAROaJgrEFYo7obbzT4CkaaSvQAzuVafm23b+/vtj04ZUkQNveX0I5JHy050dhDQohJ4TeZealE2LB7Uti3o1z1ZkD3NQSfhlVIJCiH82q46a28BRdCEhY4kaCw15ZDU+NEvWwDrX+j9JgBwD46jkJEmC6IQAAAABJRU5ErkJggg=="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CE%94%CE%B1%CF%81%CE%B5%CE%B9%CE%BF%CF%85+%CE%BA%CE%B1%CE%B9+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%B1%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%B9%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%CE%B9%CE%B4%CE%B5%CF%82+%CE%B4%CF%85%CE%BF&oq=%CE%94%CE%B1%CF%81%CE%B5%CE%B9%CE%BF%CF%85+%CE%BA%CE%B1%CE%B9+%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%B1%CF%84%CE%B9%CE%B4%CE%BF%CF%82+%CE%B3%CE%B9%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9+%CF%80%CE%B1%CE%B9%CE%B4%CE%B5%CF%82+%CE%B4%CF%85%CE%BF&gl=us&hl=en&start=10"
+  }
+}

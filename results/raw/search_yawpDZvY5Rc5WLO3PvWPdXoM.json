@@ -1,0 +1,146 @@
+{
+  "search_metadata": {
+    "id": "search_yawpDZvY5Rc5WLO3PvWPdXoM",
+    "status": "Success",
+    "created_at": "2026-11-22T01:45:33Z",
+    "request_time_taken": 2.23,
+    "parsing_time_taken": 0.01,
+    "total_time_taken": 2.25,
+    "request_url": "https://www.google.com/search?q=%CF%83%CE%B7%CE%BC%CE%B5%E1%BF%96%CF%8C%CE%BD+%E1%BC%90%CF%83%CF%84%CE%B9%CE%BD%2C+%CE%BF%E1%BD%97+%CE%BC%CE%AD%CF%81%CE%BF%CF%82+%CE%BF%E1%BD%90%CE%B8%CE%AD%CE%BD&oq=%CF%83%CE%B7%CE%BC%CE%B5%E1%BF%96%CF%8C%CE%BD+%E1%BC%90%CF%83%CF%84%CE%B9%CE%BD%2C+%CE%BF%E1%BD%97+%CE%BC%CE%AD%CF%81%CE%BF%CF%82+%CE%BF%E1%BD%90%CE%B8%CE%AD%CE%BD&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_yawpDZvY5Rc5WLO3PvWPdXoM.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_yawpDZvY5Rc5WLO3PvWPdXoM"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "σημεῖόν ἐστιν, οὗ μέρος οὐθέν",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "σημεῖόν ἐστιν, οὗ μέρος οὐθέν",
+    "total_results": 65,
+    "time_taken_displayed": 0.19,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_cHdzXHgzZDBceDI2Z2xceDNkdXNceDI2aGxceDNkZW5ceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZFBVa0NhNVhQT3FXcXdia1A2OEdheUFJXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBRUJBSWdBQUFrQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFnQUFFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUFDSUFBQUFBQ2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNBQUFRQUFDQUNCQUFBQUVBQUFPQWZqUGtHQUFBTkFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFXQUFBQUFBQkFBQUFBQWtDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFBZ0FJQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBS0FBQUFBQUFBQUFDQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0VBQUFBQUFBQUVBQUFBQllEQUR3QUFRQUFBQUFBQUFDQUFBQUFBQUFBQUlBQUFBQUtBQUFBQUFBQUFBRUFBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2RnJTNEMC9iciUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9GR05YMTJSYlNRU1ltNndoYjVXa2ViRU9WbzBnL2NiJTNEbG9hZGVkX2hfMC9wYyUzRDE_Y2IlM0QxMjE1MDkzNzgsX2Jhc2Vjc3M6L3hqcy9fL3NzL2slM0R4anMucy5jc0VxNTJLMF9Tby5MLlcxLk8vYW0lM0RFQUFBQUFBQUFBQUFBQUNBQUFBQUFBQUFBQUFBQUFRSUlBSUFBQUFBQUFBQUFBQUFBQUFBQUFnQmdBQUFBQVFBQUFBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBUUFLQUFBQUFBQUFBQUFBQUFCQUFBQUFBQUFBQUFBQUFBa0VBQUFBQUFBQUFBQUFGQUFBQUFBQWhBQm9RQVFBRUFBQUFBQUFBQUFBQVFLRUxBQUFBRkFBQUFBQUFBTUFEREFDOEFnQUFBQUFBQUFBQUFFQUFBQUFBQUFBQ0FFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUFBQUFBQUFBQUFBQUFBQWdBSUVBb0FBQUFBQUVVQUFBQUFnQUFBQUVBQUFBQUFBQUFBQVFZQUVTQUFBQkFBQUFBQUVBQUFBQUFBQUFBQUFBT0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBaEFBQUFBQkFBQUFBQUFBQUFBQUFnR0FBQUFBQUFJQmdBQUFBQUFBd0FBQUFFRWdDQUFBQUFBQUFBQUFBQUFBQUFSQUlRQVFBQUFRQUFBQUFBREFBQUFBQUFBQUFBQUJBQ2dCQUtBUUFDZ0FLQWdDdENnUUFBRVFJNEFFQUFJQUFBQUFBQVFFRUlFQUVnQUFBQUFBQUFCQUFBQUFBQUFBQUFBQ0VBQUFBQUVBQUFBQUFBQUFBQUFBQUNDQUFBQUFBQUFBQWdBQUVBRkFBd0FnRUFrdUpVQ0lpQUFBZ0FBRUFBQUlBQWdtSUVBQUFBQlFnRUFBQVFBQUFBQkFBQUFDQUNBQUFBQUFBQUVBQUFBQUFBQUFBQUFFQUlBRmhBQUFBQUFBQUFBQUFBQUFBQURBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQS9iciUzRDEvY2IlM0Rsb2FkZWRfaF8wL3JzJTNEQUNUOTBvSGZmSGpCTXV5dm5YR05EcWFodHNCczdIWmRWZz9jYiUzRDEyMTUwOTM3OCxfYmFzZWNvbWI6L3hqcy9fL2pzL2slM0R4anMucy5lbi5JZXFibkYyQVZwQS4yMDIzLk8vY2slM0R4anMucy5jc0VxNTJLMF9Tby5MLlcxLk8vYW0lM0RFQUFBQUFBQUFBQUFBQUNBQUFBQUFBQUFBQUFBQUFRSUlBSUFBQUFBQUFBQUFBQUFBQUFBQUFnQmdBQUFBQVFBQUFBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBUUFLQUFBQUFBQUFBQUFBQUFCQUFBQUFBQUFBQUFBQUFBa0VBQUFBRUJBSWdBQUFsQUFnQUFBQWhBQm9RQVFBRUFBQUFBQUFBQUFBQVFLRUxRQUFBRkFBQUFBQUFBTUFEREFDOEFnQUFBQUFBQUFBQUFFQUFBQUFBQVFnQ0FFQUNBQUFBQUFBQUFBQUFBQUFCRUFBQUFBQUNBQUFBQUFBQUFBTUFBQWdBSUVDb0FBQUFBQ2tVQUFBQUFnQUFBQUVBQUFBQUFBQUFBQVNZQUVTQUFDQkNCQUFBQUVBQUFPQWZqUGtHQUFBUEFBQUFBQUFBVUlBQUFBQUFBQUFBQUFBaEFBQUFBQkFBQUFBQUFBQUFBQ0FpR0FBQUFBQUFJQmdXQUFBQUFBeEFBQUFFRWtDQUFBQUFBQUFBQUFBQUFBQUFSQUlRQVFBQUFRQUFBQUFBREFBQUFBQUFBQUFBQUJBQ2dCQUtBUUFDZ0FLQWdDdENnUUJBRVFJNEFFQUFJQUFBQUFBQVFFRUlFQUVnQUFBQUFBQUFCUUFBQUFBQUFBQUFBQ0VBQUFBQUVBQUFBS0FBQUFBQUFBQUNDQUFBQUFBQUFBQWdFQUVBRkFBd0FnRUFrdUpVQ0lpQUFBZ0FBR0VBQUlBQWdtSUVBQUFBQllqRUR3QVFRQUFBQkFBQUFDQUNBQUFBQUFBQU1BQUFBQUtBQUFBQUFFQUlBRmhBQUFBRUFBQUF3QUY0UE1BUVRRRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBS1lBMGxBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCVTVJUXRBUUFCL2QlM0QxL2VkJTNEMS9kZyUzRDAvYnIlM0QxL3VqZyUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9GRzItWE55amxkUjMyOFRBY1B1NGxjYmFSbS1BL2NiJTNEbG9hZGVkX2hfMC9wYyUzRDE_Y2IlM0QxMjE1MDkzNzgsX2ZtdDptYWRsLF9pZDpCMkp0eWQsX21hZG86ZWRceDI2cVx4M2QlQ0YlODMlQ0UlQjclQ0UlQkMlQ0UlQjUlRTElQkYlOTYlQ0YlOEMlQ0UlQkQrJUUxJUJDJTkwJUNGJTgzJUNGJTg0JUNFJUI5JUNFJUJELCslQ0UlQkYlRTElQkQlOTcrJUNFJUJDJUNFJUFEJUNGJTgxJUNFJUJGJUNGJTgyKyVDRSVCRiVFMSVCRCU5MCVDRSVCOCVDRSVBRCVDRSVCRFx4MjZtbHJvXHgzZDBhNDc5Z2REdnA4Z0xiMTVnNWlGSzBGY2JRR1A3dFJCYlRKcEtGZkE3YU5INTJZeXM0OGhFSnVtd0tNeGNlZnVOSUNualBUMExPNXI4VldIbV8wSWpmQ1lxb1d2VDhfZk9wY3p6UmJobUVXNTZCMFZ1S05pdi0xUkNKX0dFd0VRcU03U1BaR1BceDI2bWxyb3NceDNkQ0Z0aktsY0Z5WGNceDI2bXJjXHgzZENBQTQ1QU5RQVdBQWFBQndBSmdCQUtBQkFLZ0JBTEFCQUxvQkFRSFlBUURnQVFEb0FRQVx4MjZzY2FfZXN2XHgzZDEwZjU5ZDIyNzNlNTVkZmZceDI2bWd0eXBceDNkOTBceDI2c25yXHgzZDE="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "https://scaife.perseus.org/reader/urn:cts:greekLit...",
+      "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1799.tlg001.perseus-eng2:10.def1.1/?right=perseus-eng2",
+      "source": "Scaife Viewer",
+      "domain": "scaife.perseus.org",
+      "displayed_link": "https://scaife.perseus.org › reader › urn:cts:greekLit:tlg17...",
+      "snippet": "No information is available for this page."
+    },
+    {
+      "position": 2,
+      "title": "Euclid's Elements - book 10 Postulate 14",
+      "link": "https://www.google.com/goto?url=CAEShAEBxCJF1zy23JTtOwyThpBF6J5ojnFfMqkcjgn2uxCTt7agOXIc94XNL-xP-9nYri0eWCpJfSN-7uJ3rq_El2YyKW7Q2whV75OD9SlUkCL08m21UzVHPRLbTnPmhQKahu82dGthJL_K39D4g9-_kq1amD5WsNzYtHYTS7e4LEvOevRYo48&gsessionid=hShnrQP_jIhNCXqzS_zdDuPsyzSCL3wV-9z5QzVDQK7vyU5G4Tzmmw",
+      "link_token": "E8TcdNtgYP6vIeSdnoYvvkIvsXESDH_JaviKL-kvrSLH0SJ5iMZ2WNh4r1QL4sRB1d1L4gsNbIlqRQg-utstJU8Rb3MsaVb5c4kdzHgXv-foUvPrTzBcQ-3YSzHTMPg17zdO7LfSjnrB1InXX2SCIxG3NoGRX4PJ1_wyA9xqURws1pqJtb4JjhnSArpalQcOC6ybensk-SmTRt7YAb1h1HPAJTEKMQY_CWiO4FX0gIqeQ2Ux2rblE28VC_X22CWHDbdy--4JbgDN5EMbPJTQXo--eqXKzrex8zNS61sUQQaRlg",
+      "source": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ",
+      "domain": "www.physics.ntua.gr",
+      "displayed_link": "https://www.physics.ntua.gr › mourmouras. › euclid › po...",
+      "snippet": "Ἔστωσαν τέσσαρες εὐθεῖαι ἀνάλογον αἱ Α, Β, Γ, Δ, ὡς ἡ Α πρὸς τὴν Β, οὕτως ἡ Γ πρὸς τὴν Δ, καὶ ἡ Α μὲν τῆς Β μεῖζον δυνάσθω τῷ ἀπὸ τῆς Ε, ἡ δὲ Γ τῆς Δ μεῖζον ...",
+      "snippet_highlighted_words": [
+        "Ἔστωσαν τέσσαρες εὐθεῖαι ἀνάλογον"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEVHcEx/f383NzdhYWGhoaEaGhppaWmKioocHBxUVFSfn591dXUMDAz////s7OyhoaHd3d2Tk5Ourq7GxsYDAwOnp6f09PTV1dXl5eWCgoJ5eXn6+vrAwMC7u7tXV1e1tbVkZGTNzc1KSkpubm4zMzOampoeHh6gas+0AAAADXRSTlMApQK82V6u/iCkCLAxuX/xlgAAAkxJREFUOI1lU1d2GzEMXNmSKcsBe+/covsfMaDcE/zse4sBZjAEluUrni6nc8M4ny5Py/9xfcuWcuUpb2DLy/Xf/OugLBeoY5NGZQPq9Xe5AGcPCNxy8LnJdIxEfjS5Sshb4gD+8IBhs6wUzBfi2oAYajFRRZwAfriUi/9CCGoMtg6QjqAmYKw0sBqAfOiD4psXVjtQ5B2x9U3WzvlD6XVkwXmofk0Aa141fugadN3vUCbJGwTriejAd3BR1MimzF7yISk8o38FxuBEGixf2V7jVgCckoyZ0UDelksCDyQ65KZ1ZSzuAlV6T0hRDOhlOdG944R5UkMlURyBgxq8E+ax6GU502NQzJGA84tYGNskFAGMcX4kOC9Fpvxwb+dRV0d76HcYZbJmlGuWRlFelNgiItAHZrTmRWJHR9UDIIkEfCN0x6ESLRFAFXYI3FQPbGnKe7ByskDR+g5Bd3AGRHCezg5nxhO4AwcBhfUAd7RcWDgEb4KiyFPizMKYHKVOmF7RqOxilJ7NMS9UoB/iwYEPiH4eAM1A7IryadRT8R1LgGO10NgoaguN0vsuHANzW5YX2ApSzvZOT0u0hjzUuhLn5mMt1wzvM8zc9JRqyVQnAqnb9X1h1CdifayLizb1ATqlj9UmEIV7pLfQJ1ZkHJQ2Gj+X1ljJMgUVK9mmiqSV3qpi32ttuOEh14672HstsI8QLfvz4zAIEG/u+yPurbEhUvh9fa8KLDvYIwRanH+f3mzy3KgzYduCcVQ+/3e8GLfL27lJKc8vl9v3379/ckCHiyejHwAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 3,
+      "title": "Euclid's Elements - Book 1 Postulate 31 - Original Greek Text",
+      "link": "https://www.google.com/goto?url=CAESiQEBxCJF133AJf02iqBBlsjHb-Unz4CkpFRqA1HdEB74uj-BdriKzgZAHQUlFAmHuJt66QKaBwqZGOhaYnRMAfDPbK2WQ4be8e4yJhPwwKoYIhL9dqvHzPbSb1Ows-c9QtVZr6ZcA5JL0VxcBg_BsOkO86Zs6OqCeToGwdCtqi3kOIxsoIPXv_C7uA&gsessionid=hShnrQP_jIhNCXqzS_zdDuPsyzSCL3wV-9z5QzVDQK7vyU5G4Tzmmw",
+      "link_token": "8tHq8DxYlgSjP8yhadZRIuuwWx8Ug7JxuazpNoef0o3zQaaQ_FDurLkfXcRXGUCJoXyLmcceS5WnBXx8P7YZJ5xUItwVx11Jo_0j7IrCGKA7X47kYUhKubqFR__MVMFqL_E7aczjrPqlLWqrfq4KIsrgHtHFw2vSQJ0knVBlkED8E_EpFPxBySrqmB_oLvTbt8M-xniAMCYI8Noi71INcdfvHnJV8mHKzJm8NAaWqzlg4AvI0gB9dMidgbkoKBTD_W_3cs2cNMisxw--ksGSuQGvlLVmKDsD--pgkqeVtvHIuWmOa2urBhCA",
+      "source": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ",
+      "domain": "www.physics.ntua.gr",
+      "displayed_link": "https://www.physics.ntua.gr › euclid_desktop › postulate31",
+      "snippet": "Διὰ τοῦ δοθέντος σημείου τῇ δοθείσῃ εὐθείᾳ παράλληλον εὐθεῖαν γραμμὴν ἀγαγεῖν. Ἔστω τὸ μὲν δοθὲν σημεῖον τὸ Α, ἡ δὲ δοθεῖσα εὐθεῖα ἡ ΒΓ· δεῖ δὴ διὰ τοῦ Α ...",
+      "snippet_highlighted_words": [
+        "σημεῖον"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEVHcEx/f383NzdhYWGhoaEaGhppaWmKioocHBxUVFSfn591dXUMDAz////s7OyhoaHd3d2Tk5Ourq7GxsYDAwOnp6f09PTV1dXl5eWCgoJ5eXn6+vrAwMC7u7tXV1e1tbVkZGTNzc1KSkpubm4zMzOampoeHh6gas+0AAAADXRSTlMApQK82V6u/iCkCLAxuX/xlgAAAkxJREFUOI1lU1d2GzEMXNmSKcsBe+/covsfMaDcE/zse4sBZjAEluUrni6nc8M4ny5Py/9xfcuWcuUpb2DLy/Xf/OugLBeoY5NGZQPq9Xe5AGcPCNxy8LnJdIxEfjS5Sshb4gD+8IBhs6wUzBfi2oAYajFRRZwAfriUi/9CCGoMtg6QjqAmYKw0sBqAfOiD4psXVjtQ5B2x9U3WzvlD6XVkwXmofk0Aa141fugadN3vUCbJGwTriejAd3BR1MimzF7yISk8o38FxuBEGixf2V7jVgCckoyZ0UDelksCDyQ65KZ1ZSzuAlV6T0hRDOhlOdG944R5UkMlURyBgxq8E+ax6GU502NQzJGA84tYGNskFAGMcX4kOC9Fpvxwb+dRV0d76HcYZbJmlGuWRlFelNgiItAHZrTmRWJHR9UDIIkEfCN0x6ESLRFAFXYI3FQPbGnKe7ByskDR+g5Bd3AGRHCezg5nxhO4AwcBhfUAd7RcWDgEb4KiyFPizMKYHKVOmF7RqOxilJ7NMS9UoB/iwYEPiH4eAM1A7IryadRT8R1LgGO10NgoaguN0vsuHANzW5YX2ApSzvZOT0u0hjzUuhLn5mMt1wzvM8zc9JRqyVQnAqnb9X1h1CdifayLizb1ATqlj9UmEIV7pLfQJ1ZkHJQ2Gj+X1ljJMgUVK9mmiqSV3qpi32ttuOEh14672HstsI8QLfvz4zAIEG/u+yPurbEhUvh9fa8KLDvYIwRanH+f3mzy3KgzYduCcVQ+/3e8GLfL27lJKc8vl9v3379/ckCHiyejHwAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 4,
+      "title": "Euclid : Book 1 : Definition 9 - Hive.blog",
+      "link": "https://www.google.com/goto?url=CAESfgHEIkXXAGo98EPDHr3kN8KwQFms-NwtQmvsyYjGTOCSVRSzXXehir8lmvM3Zha-s8_ZRQ76fOsdttByJjRD1PdM14TxKB51H149ihnls1UNVmq3agYTqHylwVzvr7QZ3xCIjDG8ao3nywRAuV2zdKamD3MJYOolk939_HAIIg&gsessionid=hShnrQP_jIhNCXqzS_zdDuPsyzSCL3wV-9z5QzVDQK7vyU5G4Tzmmw",
+      "link_token": "tr2Gfwk7g6Z7DdcnNeyZYRs4eHo_pMfVB5Fl8tdYHTdV53uutS_NCiEfCVwUsmnd6ZNwK4Ol_85C2Lp8ipGyjfWzWYgbvtBUO161dUrwmqkQsNhDT_sWSJ5acFYegXQHCxjECHA-RHE-M4PyZkqYVvC2ajUodkrJbGBwNkfHBLTj4P_odMGZ-ftMx0LCk-5Q-bRoIy1aAAT4z2kdORB8itD7HseGB1DaebwEfsCmmEZtoci5G1S2Uv6B--2roLx2EbNdLcUxRd--Am8bEXxl4kAdMjx5AXQidQ",
+      "source": "hive.blog",
+      "domain": "hive.blog",
+      "displayed_link": "https://hive.blog › euclid › euclid-book-1-definition-9",
+      "snippet": "Some editions of Euclid include the word εἰρημένην [eirēmenēn] between τὴν and γωνίαν, so that the passage reads: And when the lines containing the said angle .",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEVHcEzfBw3fBRPgAxjhACThACXgBxHgAR7fCATgAiDhACbgFgDhACfgCwHgBBfgAhvgAh/fDQABjuY4AAAAEnRSTlMASHWb//pdyTLj9ArtIouy2Bev9SHaAAAA/klEQVR4AaWRQY7EIAwEnYBDYjok/P+z27IFi2aOUxeEkEttWn5l20VS1nyIFB6nrFxWpV7AVeU2oMjCrpZEjgxtIk1Bw6QqoFQVg97UABQNHgOMqlNhDw08KArODKJUJUPe3JBvCV4QD9PBIwyeyXM4DMNk0H0aiCGA3W6xLhVESBuPHmbLlp8wUNQzJkrVnlrqbsjV1xjYO9eLrdZH/D8eBmtSP7SN2ioCQIU3XQMdDJQ8ZfwvllVGMwq80WWI10YYZHRaDCS69H/bPGpwz4/nhJ6+pM7clMVEhqXxwRNgTKCPaiZcIH1XMijKMg22ljk5OdHe8nLi4dHlR/4AxB0QYfZ4uQwAAAAASUVORK5CYII="
+    },
+    {
+      "position": 5,
+      "title": "Euclid's Elements - book 10 Postulate 81",
+      "link": "https://www.google.com/goto?url=CAESggEBxCJF1zVipMs_odPo2DIvaA3wZCmi45QxJJqCoTG2DXeNAPKbY_iaW_zL8codH4yZM9qpTE9IRe0lIgFcHpnoW6J5O3HFhftKbWuvIU89VQOQrCDxgLxtXkrGDyRfjYqlL9cNMEJ7f8PcAjSHr9K3UFrgX7hkjpFsaA5a-BdE1P9x&gsessionid=hShnrQP_jIhNCXqzS_zdDuPsyzSCL3wV-9z5QzVDQK7vyU5G4Tzmmw",
+      "link_token": "8fZ5AHh46MJnHTRNXFKSBEXcW5SYN9OpyzJpUkvnrOaOK1VEuF3fRTP6QN6Du3YNWAhq9tS2lgzusokGQ9k1teu3a3cQcICSk1-sw1-yjdm2WNWlCgNRXR4vnB8jum6z2DzAZTQWibnBY3BqkW1EanHLmGamOdHD9aM091X0DsYJQdlOH1DX5j0J_YGApg0d-HwscTAosOOJdM9CAvIFQC_JA60PZ5G5Cb_p6rmeaKZXdxs5PoG6O1w7CGf209qk--8eK28BH4kxsSEcki--Itd_98NbNz3mtJaJL1cxfw",
+      "source": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ",
+      "domain": "www.physics.ntua.gr",
+      "displayed_link": "https://www.physics.ntua.gr › mourmouras › euclid › po...",
+      "snippet": "Ἔστω μέσης ἀποτομὴ δευτέρα ἡ ΑΒ καὶ τῇ ΑΒ προσαρμόζουσα ἡ ΒΓ· αἱ ἄρα ΑΓ, ΓΒ μέσαι εἰσὶ δυνάμει μόνον σύμμετροι μέσον περιέχουσαι τὸ ὑπὸ τῶν ΑΓ, ΓΒ· λέγω, ὅτι τῇ ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEVHcEx/f383NzdhYWGhoaEaGhppaWmKioocHBxUVFSfn591dXUMDAz////s7OyhoaHd3d2Tk5Ourq7GxsYDAwOnp6f09PTV1dXl5eWCgoJ5eXn6+vrAwMC7u7tXV1e1tbVkZGTNzc1KSkpubm4zMzOampoeHh6gas+0AAAADXRSTlMApQK82V6u/iCkCLAxuX/xlgAAAkxJREFUOI1lU1d2GzEMXNmSKcsBe+/covsfMaDcE/zse4sBZjAEluUrni6nc8M4ny5Py/9xfcuWcuUpb2DLy/Xf/OugLBeoY5NGZQPq9Xe5AGcPCNxy8LnJdIxEfjS5Sshb4gD+8IBhs6wUzBfi2oAYajFRRZwAfriUi/9CCGoMtg6QjqAmYKw0sBqAfOiD4psXVjtQ5B2x9U3WzvlD6XVkwXmofk0Aa141fugadN3vUCbJGwTriejAd3BR1MimzF7yISk8o38FxuBEGixf2V7jVgCckoyZ0UDelksCDyQ65KZ1ZSzuAlV6T0hRDOhlOdG944R5UkMlURyBgxq8E+ax6GU502NQzJGA84tYGNskFAGMcX4kOC9Fpvxwb+dRV0d76HcYZbJmlGuWRlFelNgiItAHZrTmRWJHR9UDIIkEfCN0x6ESLRFAFXYI3FQPbGnKe7ByskDR+g5Bd3AGRHCezg5nxhO4AwcBhfUAd7RcWDgEb4KiyFPizMKYHKVOmF7RqOxilJ7NMS9UoB/iwYEPiH4eAM1A7IryadRT8R1LgGO10NgoaguN0vsuHANzW5YX2ApSzvZOT0u0hjzUuhLn5mMt1wzvM8zc9JRqyVQnAqnb9X1h1CdifayLizb1ATqlj9UmEIV7pLfQJ1ZkHJQ2Gj+X1ljJMgUVK9mmiqSV3qpi32ttuOEh14672HstsI8QLfvz4zAIEG/u+yPurbEhUvh9fa8KLDvYIwRanH+f3mzy3KgzYduCcVQ+/3e8GLfL27lJKc8vl9v3379/ckCHiyejHwAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 6,
+      "title": "Euclid's Elements - book 6 Postulate 26",
+      "link": "https://www.google.com/goto?url=CAESgQEBxCJF109zES_25A9cKRY5Iu7iURn-jr6GjYbr2aTrnolNuDILBp3IDcR8_N7x47eZ-hPhCmovFp9g7bQ3rjeKv4UAX8NiN7PW5VtWQCLxReeGorwOvNEnsk7WzHpUoXFg2JUmsskJ2pO_CAugz7MNpWLDEQiJAKmogRKbhxjKHJ8&gsessionid=hShnrQP_jIhNCXqzS_zdDuPsyzSCL3wV-9z5QzVDQK7vyU5G4Tzmmw",
+      "link_token": "kDmHwrGZVyjsmkvInftL7MMrRQLMd21dx7cQp7e4l5jpt-ysBzYrAhPo_Lxp3Z6T4ygMuR-Xno7N3QFVsd7cQYeVHAjqd400UFkTDfQZ9osqdB0B5X1EJhuwrvtLZQgZ5pCbqL5sONy9fUiTCjH8dL_0RWJITFFhz2Hw2_d5kBtBJOST_jcn50VppFKNbCU4nVWzDcpaM9iK99RMqIY09eXl2W0OK7ZOF3zJ1Nm-G3KUbo_2_BDsR4WhNfpQcrM--AKgVKHwLaKi6iKaY--d93oaL7ckMuPP92DJZAbiA",
+      "source": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ",
+      "domain": "www.physics.ntua.gr",
+      "displayed_link": "https://www.physics.ntua.gr › mourmouras › euclid › po...",
+      "snippet": "ἡ ΗΑ ἄρα πρὸς ἑκατέραν τῶν ΑΚ, ΑΕ τὸν αὐτὸν ἔχει λόγον. ἴση ἄρα ἐστὶν ἡ ΑΕ τῇ ΑΚ ἡ ἐλάττων τῇ μείζονι· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα οὔκ ἐστι περὶ τὴν αὐτὴν ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEVHcEx/f383NzdhYWGhoaEaGhppaWmKioocHBxUVFSfn591dXUMDAz////s7OyhoaHd3d2Tk5Ourq7GxsYDAwOnp6f09PTV1dXl5eWCgoJ5eXn6+vrAwMC7u7tXV1e1tbVkZGTNzc1KSkpubm4zMzOampoeHh6gas+0AAAADXRSTlMApQK82V6u/iCkCLAxuX/xlgAAAkxJREFUOI1lU1d2GzEMXNmSKcsBe+/covsfMaDcE/zse4sBZjAEluUrni6nc8M4ny5Py/9xfcuWcuUpb2DLy/Xf/OugLBeoY5NGZQPq9Xe5AGcPCNxy8LnJdIxEfjS5Sshb4gD+8IBhs6wUzBfi2oAYajFRRZwAfriUi/9CCGoMtg6QjqAmYKw0sBqAfOiD4psXVjtQ5B2x9U3WzvlD6XVkwXmofk0Aa141fugadN3vUCbJGwTriejAd3BR1MimzF7yISk8o38FxuBEGixf2V7jVgCckoyZ0UDelksCDyQ65KZ1ZSzuAlV6T0hRDOhlOdG944R5UkMlURyBgxq8E+ax6GU502NQzJGA84tYGNskFAGMcX4kOC9Fpvxwb+dRV0d76HcYZbJmlGuWRlFelNgiItAHZrTmRWJHR9UDIIkEfCN0x6ESLRFAFXYI3FQPbGnKe7ByskDR+g5Bd3AGRHCezg5nxhO4AwcBhfUAd7RcWDgEb4KiyFPizMKYHKVOmF7RqOxilJ7NMS9UoB/iwYEPiH4eAM1A7IryadRT8R1LgGO10NgoaguN0vsuHANzW5YX2ApSzvZOT0u0hjzUuhLn5mMt1wzvM8zc9JRqyVQnAqnb9X1h1CdifayLizb1ATqlj9UmEIV7pLfQJ1ZkHJQ2Gj+X1ljJMgUVK9mmiqSV3qpi32ttuOEh14672HstsI8QLfvz4zAIEG/u+yPurbEhUvh9fa8KLDvYIwRanH+f3mzy3KgzYduCcVQ+/3e8GLfL27lJKc8vl9v3379/ckCHiyejHwAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 7,
+      "title": "Euclid, elem.1.post.1",
+      "link": "https://www.google.com/goto?url=CAESiAEBxCJF1zQixo5e9GFOqnW_bHFxAiVEE7D26sw9Tey4ng39mZki0EHe1RUl_FTcN7H52esxE8qprHm4rIW2FYL-Pt--CTNzgZvzNx4AJgQom-di-w2A0IAa-YNRoACiLOBuc0Aot3uaNqqDP-5d60RvMIiKg02ErDpZUM4xL9J5TS4434C9BDuh&gsessionid=hShnrQP_jIhNCXqzS_zdDuPsyzSCL3wV-9z5QzVDQK7vyU5G4Tzmmw",
+      "link_token": "S-Darg3yP3zIctPdKh2HtV3X66YCDfHLtOUfE-mbx7a4ZIM16xmXzj8rwG81pBTbqwDZncr1HLxf1zAtnvRDq06cDrlMlWMx0S0GeU9jJ-z2MN4WwBI5VkpItlEWZgxNZLITt9KuokPpHDn4Zal8tfJXH7KHt4z0g-tSPG9He8Z5tmNf8j_PnoveY-DqhhsxaXCXK8zPhsi5PLQ6rjbnq6Mo6QD0MghQ_dioF6y6hKIQzYLNk3avunhLOYOd6m6B_rezxGVxUxI--I5vYrR2v4wPmR11W--50WuZwhyQw5OVHkv9eDosQ",
+      "source": "Clay Mathematics Institute",
+      "domain": "www.claymath.org",
+      "displayed_link": "https://www.claymath.org › historical › euclid › files",
+      "snippet": "Let the following be postulated: To draw a straight line from any point to any point. Ἠιτήσθω ἀπὸ παντὸς σημείου ἐπὶ πᾶν σημεῖον εὐθεῖαν γραμμὴν ἀγαγεῖν.",
+      "snippet_highlighted_words": [
+        "σημεῖον"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAk1BMVEUWQZQAPpYAPZgAO5kAPZeNZ2bAfETJgTi9e0ebbV5jWHvNgjWpc1VSUoFHToddVX2KZmnpjgjRhDKCZGkAOprtkAAANJ8AOZsAN5wANp2lcVjGfz1+Ym5pWnjXhiweQ5EAOJzgiiB0XXWyd0wRQJU2SYorRo7mjRN2X3IALqJpWnSJZ2QAO5reiSKqdE1PUYOfb1pI0KK3AAAA6UlEQVR4Ad1OA7bEQBBMI+ZMbGOd+1/u27jA1kOzoNwXAAkZ/r6xqumGaTH9cSfbcT0/MIQMlec7fBWJ4gQgzfLEK0TpE1WFRV+YdWo1ojHbrPNtp3cGOUbvx6mNq37uFnUt524WVb8d7PpDGVpxzGCCtO5PYjm3xrpJ+qDO5XhxU1BwEtcrIM3XNYX3o6cnN7sPeIndSI2DlJNe1u9cihnOy77KMKOIr6vl2Xwx30JBdWlT2DVfi0vVbW9NP2S5vuMbdVhXYSIQ+aYmm92Tly0T7fTGPWPELw0jEULkjasOyj+Y8EzKPeERKq4TUawYtF8AAAAASUVORK5CYII="
+    },
+    {
+      "position": 8,
+      "title": "Euclid's Elements - book 10 Postulate 64",
+      "link": "https://www.google.com/goto?url=CAESggEBxCJF15nU32UkshCm3LD88IHlkwpqv0fmd4WOn60o6BDAhhQTaNUmka1l1Y0mit6xMc85kzcIjSATNVoFrK-1ccbqYdaN1VmErHibhLoqKDbIRvS_-cFh6P8iw_cdneq9yfZ4TFplxzQ3_mDUCRo7pGGh5MbTNwdttkisn6ybfCNG&gsessionid=hShnrQP_jIhNCXqzS_zdDuPsyzSCL3wV-9z5QzVDQK7vyU5G4Tzmmw",
+      "link_token": "KY0HigRXnI6ZmHXOtknBU6bVngf-03fzUP4BdYFX4PvYizrCUD0_hK5Uz63CdBINZ-bDKtIu7vDq8GxulT7O3haWZFN-X5OE9eDYmsCzcyVpkGKsTAWkDToQmDyQOmCSLEGJrp3RZE3lykGAyYd9pWNE0d6tGBm4vHI7BbjILsr4gEepdIV6AULzAj5DIgAL14KRtfB3vfDBy0KcmubfXVlwvUF88VPpNF4pU4qDPUxu-7PceD6tQDhQ1CEmo_6s--pFEwAAk9IE9XjBzU--M3Wv1q6txqu0wEDfbIkr3w",
+      "source": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ",
+      "domain": "www.physics.ntua.gr",
+      "displayed_link": "http://www.physics.ntua.gr › mourmouras. › euclid › pos...",
+      "snippet": "Ὁμοίως γὰρ δειχθήσεται, ὅτι τὸ ὑπὸ τῶν ΔΚΜ ἴσον ἐστὶ τῷ ἀπὸ τῆς ΜΝ, καὶ ἀσύμμετρος ἡ ΔΚ τῇ ΚΜ μήκει· ἡ ΔΜ ἄρα τῆς ΜΗ μεῖζον δύναται τῷ ἀπὸ ἀσυμμέτρου ἑαυτῇ. καί ...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEVHcEx/f383NzdhYWGhoaEaGhppaWmKioocHBxUVFSfn591dXUMDAz////s7OyhoaHd3d2Tk5Ourq7GxsYDAwOnp6f09PTV1dXl5eWCgoJ5eXn6+vrAwMC7u7tXV1e1tbVkZGTNzc1KSkpubm4zMzOampoeHh6gas+0AAAADXRSTlMApQK82V6u/iCkCLAxuX/xlgAAAkxJREFUOI1lU1d2GzEMXNmSKcsBe+/covsfMaDcE/zse4sBZjAEluUrni6nc8M4ny5Py/9xfcuWcuUpb2DLy/Xf/OugLBeoY5NGZQPq9Xe5AGcPCNxy8LnJdIxEfjS5Sshb4gD+8IBhs6wUzBfi2oAYajFRRZwAfriUi/9CCGoMtg6QjqAmYKw0sBqAfOiD4psXVjtQ5B2x9U3WzvlD6XVkwXmofk0Aa141fugadN3vUCbJGwTriejAd3BR1MimzF7yISk8o38FxuBEGixf2V7jVgCckoyZ0UDelksCDyQ65KZ1ZSzuAlV6T0hRDOhlOdG944R5UkMlURyBgxq8E+ax6GU502NQzJGA84tYGNskFAGMcX4kOC9Fpvxwb+dRV0d76HcYZbJmlGuWRlFelNgiItAHZrTmRWJHR9UDIIkEfCN0x6ESLRFAFXYI3FQPbGnKe7ByskDR+g5Bd3AGRHCezg5nxhO4AwcBhfUAd7RcWDgEb4KiyFPizMKYHKVOmF7RqOxilJ7NMS9UoB/iwYEPiH4eAM1A7IryadRT8R1LgGO10NgoaguN0vsuHANzW5YX2ApSzvZOT0u0hjzUuhLn5mMt1wzvM8zc9JRqyVQnAqnb9X1h1CdifayLizb1ATqlj9UmEIV7pLfQJ1ZkHJQ2Gj+X1ljJMgUVK9mmiqSV3qpi32ttuOEh14672HstsI8QLfvz4zAIEG/u+yPurbEhUvh9fa8KLDvYIwRanH+f3mzy3KgzYduCcVQ+/3e8GLfL27lJKc8vl9v3379/ckCHiyejHwAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 9,
+      "title": "Euclid's Elements - book 3 Postulate 4",
+      "link": "https://www.google.com/goto?url=CAESiAEBxCJF1-3CodsEgs4-kF3rP1XRndKy_8BQFPlGkbwcTo8o9Os-qFfLtaP8QqOeBO13UXPYsraUtgTj0PN3oAZpKdjsjkAXBIYHyVB5b9zuMLyDxIR76y0nO-g_u0QJwzyS8_WcVqaHY-5KBMM_sF2UwAkRGy71IQnnXanrFegmPOkbff0fFr4r&gsessionid=hShnrQP_jIhNCXqzS_zdDuPsyzSCL3wV-9z5QzVDQK7vyU5G4Tzmmw",
+      "link_token": "D_26xNNvNlSYH65KtRE1dKxIZNIN0b9xV2AM6svRtet-LUjVnB8gAdir-kEDPsKB9CGEJKNbpZoKZxKKwemsE6oxnC6Zn1faSog1dzD_bMvi3DtSnGmvpEcQgzebX__iHqMkNNZFTa72nGPkvtahW7IwTB6_B3CjZXviRzfYCULQeFp9DhfvVpTsnqkddzKAuuAWuQyNCJm2ocsIMD_Izc0Jl9_J35jKqtI9afZO-8uq_Svrl1q91_fdxK7x9AnPAzap7ktY3fE--kG8C-heTwUX341wh--kovRgxBXsu7iacVs4WcqaQ",
+      "source": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ",
+      "domain": "www.physics.ntua.gr",
+      "displayed_link": "https://www.physics.ntua.gr › euclid_desktop › postulate4",
+      "snippet": "οὐκ ἄρα αἱ ΑΓ, ΒΔ τέμνουσιν ἀλλήλας δίχα. Ἐὰν ἄρα ἐν κύκλῳ δύο εὐθεῖαι τέμνωσιν ἀλλήλας μὴ διὰ τοῦ κέντρου οὖσαι, οὐ τέμνουσιν ἀλλήλας δίχα· ὅπερ ἔδει δεῖξαι.",
+      "snippet_highlighted_words": [
+        "οὐ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEVHcEx/f383NzdhYWGhoaEaGhppaWmKioocHBxUVFSfn591dXUMDAz////s7OyhoaHd3d2Tk5Ourq7GxsYDAwOnp6f09PTV1dXl5eWCgoJ5eXn6+vrAwMC7u7tXV1e1tbVkZGTNzc1KSkpubm4zMzOampoeHh6gas+0AAAADXRSTlMApQK82V6u/iCkCLAxuX/xlgAAAkxJREFUOI1lU1d2GzEMXNmSKcsBe+/covsfMaDcE/zse4sBZjAEluUrni6nc8M4ny5Py/9xfcuWcuUpb2DLy/Xf/OugLBeoY5NGZQPq9Xe5AGcPCNxy8LnJdIxEfjS5Sshb4gD+8IBhs6wUzBfi2oAYajFRRZwAfriUi/9CCGoMtg6QjqAmYKw0sBqAfOiD4psXVjtQ5B2x9U3WzvlD6XVkwXmofk0Aa141fugadN3vUCbJGwTriejAd3BR1MimzF7yISk8o38FxuBEGixf2V7jVgCckoyZ0UDelksCDyQ65KZ1ZSzuAlV6T0hRDOhlOdG944R5UkMlURyBgxq8E+ax6GU502NQzJGA84tYGNskFAGMcX4kOC9Fpvxwb+dRV0d76HcYZbJmlGuWRlFelNgiItAHZrTmRWJHR9UDIIkEfCN0x6ESLRFAFXYI3FQPbGnKe7ByskDR+g5Bd3AGRHCezg5nxhO4AwcBhfUAd7RcWDgEb4KiyFPizMKYHKVOmF7RqOxilJ7NMS9UoB/iwYEPiH4eAM1A7IryadRT8R1LgGO10NgoaguN0vsuHANzW5YX2ApSzvZOT0u0hjzUuhLn5mMt1wzvM8zc9JRqyVQnAqnb9X1h1CdifayLizb1ATqlj9UmEIV7pLfQJ1ZkHJQ2Gj+X1ljJMgUVK9mmiqSV3qpi32ttuOEh14672HstsI8QLfvz4zAIEG/u+yPurbEhUvh9fa8KLDvYIwRanH+f3mzy3KgzYduCcVQ+/3e8GLfL27lJKc8vl9v3379/ckCHiyejHwAAAABJRU5ErkJggg=="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CF%83%CE%B7%CE%BC%CE%B5%E1%BF%96%CF%8C%CE%BD+%E1%BC%90%CF%83%CF%84%CE%B9%CE%BD%2C+%CE%BF%E1%BD%97+%CE%BC%CE%AD%CF%81%CE%BF%CF%82+%CE%BF%E1%BD%90%CE%B8%CE%AD%CE%BD&oq=%CF%83%CE%B7%CE%BC%CE%B5%E1%BF%96%CF%8C%CE%BD+%E1%BC%90%CF%83%CF%84%CE%B9%CE%BD%2C+%CE%BF%E1%BD%97+%CE%BC%CE%AD%CF%81%CE%BF%CF%82+%CE%BF%E1%BD%90%CE%B8%CE%AD%CE%BD&gl=us&hl=en&start=10"
+  }
+}

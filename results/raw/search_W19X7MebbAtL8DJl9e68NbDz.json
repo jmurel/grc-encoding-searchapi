@@ -1,0 +1,153 @@
+{
+  "search_metadata": {
+    "id": "search_W19X7MebbAtL8DJl9e68NbDz",
+    "status": "Success",
+    "created_at": "2026-11-22T01:46:24Z",
+    "request_time_taken": 1.45,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 1.47,
+    "request_url": "https://www.google.com/search?q=%CE%BF%CC%94+%CE%B2%CE%B9%CC%81%CE%BF%CF%82+%CE%B2%CF%81%CE%B1%CF%87%CF%85%CC%81%CF%82%2C+%CE%B7%CC%94+%CE%B4%CE%B5%CC%80+%CF%84%CE%B5%CC%81%CF%87%CE%BD%CE%B7+%CE%BC%CE%B1%CE%BA%CF%81%CE%B7%CC%81&oq=%CE%BF%CC%94+%CE%B2%CE%B9%CC%81%CE%BF%CF%82+%CE%B2%CF%81%CE%B1%CF%87%CF%85%CC%81%CF%82%2C+%CE%B7%CC%94+%CE%B4%CE%B5%CC%80+%CF%84%CE%B5%CC%81%CF%87%CE%BD%CE%B7+%CE%BC%CE%B1%CE%BA%CF%81%CE%B7%CC%81&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_W19X7MebbAtL8DJl9e68NbDz.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_W19X7MebbAtL8DJl9e68NbDz"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ὁ βίος βραχύς, ἡ δὲ τέχνη μακρή",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "ὁ βίος βραχύς, ἡ δὲ τέχνη μακρή",
+    "total_results": 74,
+    "time_taken_displayed": 0.15,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_cHdzXHgzZDBceDI2Z2xceDNkdXNceDI2aGxceDNkZW5ceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZGNVa0NhNkJGMktqRnp3LXJrOWJ4REFceDI2YXN5bmNceDNkX2Jhc2VqczoveGpzL18vanMvayUzRHhqcy5zLmVuLkllcWJuRjJBVnBBLjIwMjMuTy9hbSUzREFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQkFJZ0FBQWtBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUWdBQUVBQ0FBQUFBQUFBQUFBQUFBQUJFQUFBQUFBQ0FBQUFBQUFBQUFNQUFBZ0FJQUNJQUFBQUFDZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBU0FBQVFBQUNBQ0JBQUFBRUFBQU9BZmpQa0dBQUFOQUFBQUFBQUFVSUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFDQUNBQUFBQUFBQUFBQVdBQUFBQUFCQUFBQUFBa0NBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBQUFBQUFnQUlBQUFBQUFBQkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFBQUFBQUFBQUFBQUFBQUFBRUFBQUFLQUFBQUFBQUFBQUNBQUFBQUFBQUFBQUVBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFHRUFBQUFBQUFBRUFBQUFCWURBRHdBQVFBQUFBQUFBQUNBQUFBQUFBQUFBSUFBQUFBQ0FBQUFBQUFBQUFFQUFBQUFFQUFBQXdBRjRQTUFRVFFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFLWUEwbEFBQWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJVNUlRdEFRQUIvZGclM0QwL2JyJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0dWa091SFRSU1UxdW45Ukp3VzhEVVdPR1k1ZUEvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIxNTA5Mzc4LF9iYXNlY3NzOi94anMvXy9zcy9rJTNEeGpzLnMuY3NFcTUySzBfU28uTC5XMS5PL2FtJTNERUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFBQUFBQUFBUUlJQUlBQUFBQUFBQUFBQUFBQUFBQUFBZ0JnQUFBQUFRQUFBQUFBQUFBQUFBQUFBQUNBQUFBQUFBQVJBS0FBQUFBQUFBQUFBQUFBQkFBQUFBQUFBQUFBQUFBQWtFQUFBQUFBQUFBQUFBRkFBQUFBQUFoQUJvUUFRQUVBQUFBQUFBQUFBQUFRS0VMQUFBQUZBQUFBQUFBQU1BRERBQzhnZ0FBQUFBQUFBQUFBRUFBQUFRQUFBQUNBRUFDQUFBQUFBQUFBQUFBQUFBQkVBQUFBQUFBQUFBQUFBQUFBQUFBQUFnQUlBQW9BQUFBQUFFVUFBQUFBZ0FBQUFFQUFBQUFBQUFBQUFRWUFFU0FBQUJBQUFBQUFFQUFBQUFBQUFBQUFBQU9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQWhBQUFBQUJBQUFBQUFBQUFBQUFBZ0dBQUFBQUFBSUJnQUFBQUFBQXdBQUFBRUFnQ0FBQUFBQUFBQUFBQUFBQUFBUkFJUUFRQUFBUUFBQUFBQURBQUFBQUFBQUFBQUFCQURnQkFLQVFBQ2dBS0FnQ3RDQVFBQUVRSTRBRUFBSUFBQUFBQUFRRUVJRUFFZ0FBQUFBQUFBQkFBQUFBQUFBQUFBQUNFQUFBQUFFQUFBQUFBQUFBQUFBQUFDQ0FBQUFBQUFBQUFnQUFFQUZBQXdBZ0VBa3VKVUNJaUFBQWdBQUVBQUFJQUFnbUlFQUFBQUJRZ0VBQUFBQUFBQUJBQUFBQ0FDQUFBQUFBQUFBQUFBQUFBQUFBQUFBRUFJQUZoQUFBQUFBQUFBQUFBQUFBQUFEQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUVBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQkEvYnIlM0QxL2NiJTNEbG9hZGVkX2hfMC9ycyUzREFDVDkwb0dfSDBEMmhHTDBWWXNRMGgtUVdjdXdzRi1DaUE_Y2IlM0QxMjE1MDkzNzgsX2Jhc2Vjb21iOi94anMvXy9qcy9rJTNEeGpzLnMuZW4uSWVxYm5GMkFWcEEuMjAyMy5PL2NrJTNEeGpzLnMuY3NFcTUySzBfU28uTC5XMS5PL2FtJTNERUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFBQUFBQUFBUUlJQUlBQUFBQUFBQUFBQUFBQUFBQUFBZ0JnQUFBQUFRQUFBQUFBQUFBQUFBQUFBQUNBQUFBQUFBQVJBS0FBQUFBQUFBQUFBQUFBQkFBQUFBQUFBQUFBQUFBQWtFQUFBQUFCQUlnQUFBbEFBZ0FBQUFoQUJvUUFRQUVBQUFBQUFBQUFBQUFRS0VMUUFBQUZBQUFBQUFBQU1BRERBQzhnZ0FBQUFBQUFBQUFBRUFBQUFRQUFRZ0NBRUFDQUFBQUFBQUFBQUFBQUFBQkVBQUFBQUFDQUFBQUFBQUFBQU1BQUFnQUlBQ29BQUFBQUNrVUFBQUFBZ0FBQUFFQUFBQUFBQUFBQUFTWUFFU0FBQ0JDQkFBQUFFQUFBT0FmalBrR0FBQVBBQUFBQUFBQVVJQUFBQUFBQUFBQUFBQWhBQUFBQUJBQUFBQUFBQUFBQUNBaUdBQUFBQUFBSUJnV0FBQUFBQXhBQUFBRUFrQ0FBQUFBQUFBQUFBQUFBQUFBUkFJUUFRQUFBUUFBQUFBQURBQUFBQUFBQUFBQUFCQURnQkFLQVFBQ2dBS0FnQ3RDQVFCQUVRSTRBRUFBSUFBQUFBQUFRRUVJRUFFZ0FBQUFBQUFBQlFBQUFBQUFBQUFBQUNFQUFBQUFFQUFBQUtBQUFBQUFBQUFDQ0FBQUFBQUFBQUFnRUFFQUZBQXdBZ0VBa3VKVUNJaUFBQWdBQUdFQUFJQUFnbUlFQUFBQUJZakVEd0FBUUFBQUJBQUFBQ0FDQUFBQUFBQUFJQUFBQUFDQUFBQUFBRUFJQUZoQUFBQUVBQUFBd0FGNFBNQVFUUUVBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFBQUtZQTBsQUFBZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlU1SVF0QVFBQi9kJTNEMS9lZCUzRDEvZGclM0QwL2JyJTNEMS91amclM0QxL2ljaGMlM0QxL3JzJTNEQUNUOTBvRmp6WEVjMGFNY0pjaHg2S05SdUIzbUJ6enRWQS9jYiUzRGxvYWRlZF9oXzA_Y2IlM0QxMjE1MDkzNzgsX2ZtdDptYWRsLF9pZDpCMkp0eWQsX21hZG86ZWRceDI2cVx4M2QlQ0UlQkYlQ0MlOTQrJUNFJUIyJUNFJUI5JUNDJTgxJUNFJUJGJUNGJTgyKyVDRSVCMiVDRiU4MSVDRSVCMSVDRiU4NyVDRiU4NSVDQyU4MSVDRiU4MiwrJUNFJUI3JUNDJTk0KyVDRSVCNCVDRSVCNSVDQyU4MCslQ0YlODQlQ0UlQjUlQ0MlODElQ0YlODclQ0UlQkQlQ0UlQjcrJUNFJUJDJUNFJUIxJUNFJUJBJUNGJTgxJUNFJUI3JUNDJTgxXHgyNm1scm9ceDNkMGE2b0R1TlVxaVRnQ1loMHdUa0FuTTdkNk9HUkYxVkp3RFdvNTNDQTM5V3gtWGZGY3hmQzFMWWw3Vm5uSmlsUFhzRUhHQTlyanppWmtKdUZlVWhENTNIMnF3NTJqaW1XZlRYczBuTk5qQy1raDRiYnNoVjdyQTUzU2hMU285empCSWIyU1NTMlpBXHgyNm1scm9zXHgzZG94QUYtWnV6M1AwXHgyNm1yY1x4M2RDQUE0Z0FOUUFXQUFhQUJ3QUpnQkFLQUJScWdCQUxBQkFib0JBUUhZQVFEZ0FRRG9BUUFceDI2c2NhX2Vzdlx4M2QxMGY1OWQyMjczZTU1ZGZmXHgyNm1ndHlwXHgzZDkwXHgyNnNuclx4M2Qx"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Ars longa, vita brevis (Χάρης Καλαποδάς, Απρίλιος 2020)",
+      "link": "https://www.socialistikiekfrasi.com/XGr/Articles/Political/200427_01.php",
+      "source": "Sosialistiki Ekfrasi",
+      "domain": "www.socialistikiekfrasi.com",
+      "displayed_link": "https://www.socialistikiekfrasi.com › ...",
+      "snippet": "... βίος βραχύς, η δε τέχνη μακρή, ο δε καιρός οξύς, η δε πείρα σφαλερή, η δε κρίσις χαλεπή» ars longa, vita brevis (στα λατινικά), που σε ...",
+      "snippet_highlighted_words": [
+        "βίος βραχύς, η δε τέχνη μακρή"
+      ],
+      "date": "Apr 27, 2020"
+    },
+    {
+      "position": 2,
+      "title": "Η τέχνη μακρά, ο βίος βραχύς (ars longa, vita brevis.)",
+      "link": "https://www.facebook.com/groups/tritoprogramma/posts/10167071389447646/",
+      "source": "Facebook · Φίλοι Τρίτου Προγράμματος • Maestro",
+      "domain": "www.facebook.com",
+      "displayed_link": "2 comments  ·  7 months ago",
+      "snippet": "Η τέχνη μακρά, ο βίος βραχύς (ars longa, vita brevis.) Παγκόσμια Ημέρα Τέχνης ! Γιορτάζεται κάθε χρόνο στις 15 Απριλίου, ημερομηνία γέννησης ...",
+      "snippet_highlighted_words": [
+        "Γιορτάζεται κάθε χρόνο στις 15 Απριλίου"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII="
+    },
+    {
+      "position": 3,
+      "title": "«Ars longa, vita brevis» - Η τέχνη είναι μακρά, η ζωή είναι ...",
+      "link": "https://www.google.com/goto?url=CAEStQMBxCJF1yXV8o6JoGH_zSzSgmMS4MJF8L-9KQm-ZRwQBvuxR52W_F7b1D-YjB45VIcpsmQ5OrOFH_a58pb1OGkGamsKo2f244sANKKG2TSQX6JUiVH-OS5oEjh9t41o0E4_GXX8FdsRJN4ToxLcUlNMBsnDAtEScIlIVY8S0vkbc8Lk6kwVw-7georFHGTv4_cA9Tltg1gJWd1_AU7ZXbcQ3SEvt4bvxyl_JT0ntAAVG54S_1CXSYOGA8AMUZDcvxeB33zT644ASJxwjYxiAX9ltCI8A_MjLGvu0Cl6KGG5WEdWtmlDOp6cPjfaKHuiSUbU2luzBNpdmYDiqYpyaWyCaTHQuKmhIDgHz98sptRouboSJrGDHTABCzCh-foJ92aCFD0s7KqXgv8ChE_RwqRDbTK_30tt44B9bIpvJNwmays4TZuJvY0ZuwS7zhbpD9AaG6R3FjOaVk6A7a6DOoXtljOblpX7t_9rLV2dVTB8vvyC1prcCS_jnR-jz_5oaueXB0knmkxwMhBquk_oWT1qq2aNY1bsZvpvKbUbeJAUbWih4YblmcvqI2QMrJppocMpJ3x2yQ&gsessionid=ZnAXl9u1VDkHlgqei5rfBQhXFtHKRbqgtt9Sfgj7zyC_CrfCiixj1Q",
+      "link_token": "ICrLh86TItfLVZl8vOLmx_koOvu9UVo45svvStnoCDAXZNVoXU32r7xrLbLEO2uhNneH8KHd_MlxDztF3yUeCOQrHrggjvGMQiHXj6wZXpLhZYdTxY6T2jaZq-XiTzYgNpRJIxIPqpuX4WzOAkredOKCSkJJjOWO-SYHSthJ6jbWNX1FnarJdJjTv0KwHOcJ2Ry-RSHaqNQw3ha29A8RGeqsuujtk1nX7yWEFz0aj3-nLuoGf67p47U77FGLHk_iPMmIumSn_OvRdM_av17BU1O91IuHmORY8uT069a_zQsIRGraX3zWhhZDYxdQJ41w_9AFUe-maVHPHP6v8kgju_DXdDCCz1IW6T2no3RSDcAX6sFYrUg2vuvuGGauHH7sMKjix8tjcFGvl_QnOltnPOIlHsi9Al1_ejKD5ryPleYWcM_e0IFIv_5VQF8GqMCM-iwrKaCvUTcVnSTahQ3Gs2FRGUsol7iobOcFoKyGhoQTAt8BQefJpFJ6qYbPF5nsCwamc64gKNND7NLwwWFC2mLA3KKwSlBIjRoks7oH6zxgDs5y1Zx-gxa07lCg5Np16kFRqBkrUNFqqXVkvUr4h21Vjwp1K-Dt7eyTXl7bJL9zcI5gwdUUTdh_OM6SIFnqNbAonviqBn1rdmSpQEdoAQTf8qjTYem3K-Mq2E31RaGNAeCQcd0KMUGq_PHvPo_SPxqSSnCSHmhZl1RkUU61Z_AG0Go6xa8pd8XWZtlF46KBLflIKHhNAq6pdc1cPNGaLgnYH2G_galrlVpXVCEqsq4fTlcibuXP6Ig--z8Adm7jY5phKOPzm--aeh9qGWSxqR5b4AwzHLQcg",
+      "source": "Facebook · mononews.gr",
+      "displayed_link": "1 reaction  ·  1 month ago",
+      "snippet": "«Ars longa, vita brevis» - Η τέχνη είναι μακρά, η ζωή είναι βραχεία- είναι ο τίτλος του αφιερώματος #mononewsGR · Οι ιδρυτικοί μέτοχοι της ...",
+      "snippet_highlighted_words": [
+        "«Ars longa, vita brevis» - Η τέχνη είναι μακρά, η ζωή είναι βραχεία"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII=",
+      "thumbnail": "data:image/webp;base64,UklGRrwFAABXRUJQVlA4ILAFAADQFwCdASpKAFwAPvk6vl8qoiqqmAFQHwljANF4y4YD2b/KeGvYJzu8ha5vezL6QAfU/9TuRnjc72/0DZPah3SV9CUa/DqJG9fb12hCLwQ2lMJmsIPojnLwENJq5o1eUTmGaETbRbf1umFh9CEFqLYpNkSQMpD/ORWuOp5uA91rxnRo4zyKzy5PXvzlAKOWAPi7WUcC7/7nebl5vlaw8VsY82w87nvLOCJoFPEM3/UiahsMQX/6tbn2RPOkp3v/5COAVvR0KWAAAP5J2NRmUT/h88yLCAU5X807S/sBcPCGmujaoXlkiyiZvjd6ETtJPdyOjZDtyD0NJ/ENqiTc7g4uiLIbpnzsi/fXD9cAwl7e1BmU/s+ZDXLiu9SFIcpyVduMmLHmS3l0ddj3yEdTTjjH7kDhijaFAutMaQiUMjWotrqRJgVdowTNWWxp+gu4d1g3dMckFvBoS7ND/LlPg04gCmyFCLYxRwKzc12rZ9juiw3D5FPpPCe3jMazMnjPCFbYcNvXdUXFFdAUBkHcDCp1bkTnO+lEJLchNQqJvFLzM/WTnF/RdLf7DjFnrjsF3JQMmXANkDbZ0XDJMBx1pNBsQYj8Sj8oZr6hqy633OyYyzH0FMX6kCOLocXOMkWEI3cUzYoQFXskkN0GN9cw4nvWfNHg4vL62IebeMNc8REi2Hx+vBwCjDHBUB23EEsdB5ftCEKZAPmzwq/xaJqhMMhKntJHXjkXhunESklBnBUkDpSbtlD12aIa7mtQkaCsbBJhiQHkh64yzTNwzU2Nyuh/6tkqwHHehbsQazwFxK3s1ooaj7RgVTeF1yfuKtJRejhQRN86mtzdxLl2+x8QCaiIObMpDpXSAHZATnLkpF0ZH7vej0zrfBhztyuoxv58uf65KGFTpDaIgP+PvoBaI2LaKe/tZqHzAmbmLsgCdxg4REv31Ow1dE6ewn9MQrEowmR0N5w/cQkkBEbzyVXC71eHyWOFYOriXk1MDqF5pQ00sp7QEND/qhnqeCx+1kcRgxJtcHK+zmYtVKJ6qy8VCtP1ZwaxeGI4vMEs2ehaFn6/wCEx/yIjjdl2rCXPRnvPGA5UhsCUgpOHcO0XA4nZAQluTHPNJYjsuM53Cd2BL/viSgLg1hlsRv8z/RJYToa0zlo/swE7SGNWoV4PWj/JzwCeIzPuAFDat7xb9+AsjkoNla2lFaBKZsUbes3zIrnrOYsdXddJKiJiifAIL21RJ6mKkCjTqj96oK7YeKo7n1i++1Z+MR/80GXP0MhYrpY6/iZXKjf9YdvBzp66v+BcsE6wSYB+qAd8nOuuAqJQGp92msyw2wkKtz0uV4CgeJ6ykFoxxB6EOQJ5/VpWyKA4wLFvzl0fs3fOpUd69i3IpupSDKiIodpRCRvMKCL56mSWearQ/KbU1Gm6X3hAx+mU71QMbKKvqrNEKylzFvr+xi6w2cKwVvkjNPPFIMI9XT4TW48G/UKiviwoObSKUbCw7BOHTov33HgwjOcivdJlY8flPaPY+bQsNc01gQMvNLd2Fbl4L8xwYdOyQ4v/ZsFH3yU7lLjgoYjeGKyF0s81oMSoOhQSqlWJU30pXikwwbobuJnETRd1KjIBi2gT/NBQ/OWBye9S85t4q7eL2Yg5meBzHzooLVpuhQTIjF8xPi+8aJthE4WL6E5p3UVc8mi9Brw3riJgO2ZplxII+Y8jr2NBagyzG3Tjjop1Q7ny31vra5PgYKhaQkqfZv3rvKgLUB+HGcC81axMk/z4PXz1+IpjEsnN6OE71tc19Tx+nZUf2uLkjnT+5gNbYV8H6BSjLu5yFXkv1EVP7UhHh1wXbTgOY6ze1iABUe78adFkPokJyZ7IhtRwmmMtOgzz4jR1UPnM1eOdhgbpsLBulpvGO3dpW+yCpEdbYrJBM19E+7o4zvsTQoaX2is5xiKn4stvgAAA"
+    },
+    {
+      "position": 4,
+      "title": "Έκθεση Β΄ Λυκείου: Ο μεν βίος βραχύς, η δε τέχνη μακρά",
+      "link": "https://www.google.com/goto?url=CAEScwHEIkXXMXm6LhhtX5_XaYHJxZzMjhYU9D7o9enxtaWZWubLYhCbQ45U_YLtaOSEg5GTG8r2i2OS18e6WFM_BoEJcYpbcHZZwaIIwoGtoFUWxrWT3tf_q8MrOltQ3X7ETQxXmOchKECja4Vv4BLBjZRAAyo&gsessionid=ZnAXl9u1VDkHlgqei5rfBQhXFtHKRbqgtt9Sfgj7zyC_CrfCiixj1Q",
+      "link_token": "pWLu8sTT3_Vf-odHerEXwDabVFSyseehBtWq2TY-QIcEsi3YrrvF19uSERv2p1uK3AzWX0B086MkfAev1LbsRRSqXwTQFDsewJJq86Tcu7iFrqgwxi7Et7HCdunuGXYIpni1cvPDhJbcgfDh77p2RfrUPzEIanc9W_6SDo7UkWQ5lGvMLLoTCYE53cHSYsVugah31cP81jfkedFVFR8HGuWjLZBYWF67s7z7--npbeqEGAUhugg63s--hZeSt32omKKPrOmBo5OPGQ",
+      "source": "Σημειώσεις του Κωνσταντίνου Μάντη",
+      "domain": "latistor.blogspot.com",
+      "displayed_link": "https://latistor.blogspot.com › blog...",
+      "snippet": "Η τέχνη επιτρέπει στον δημιουργό να μετουσιώσει τις προσωπικές του εμπειρίες, όπως και τις προσωπικές του διαπιστώσεις σχετικά με τη ζωή, σ' ένα διαχρονικό έργο ...",
+      "snippet_highlighted_words": [
+        "τέχνη"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEz+ZgL+///+ZgL+WwD+49j+vJD+6+H+8+3+gzP+oXD+eiD+2cj+xKXrGQLoAAAAAnRSTlMARXAleCcAAACpSURBVCiRpdPZDsQgCAVQK+CC+v+/O2Ksa21mMjz2BHsrVKkLDnWps4meDeA7xFqPyCYSUTQeN0Sja7nkV2yWy8yIPJgmP2NpdPmVRXlGeWg5hJAE04wkjex9KK2Wa+SO2llra2KXcMEp1E8ox+ZyTyiBpNgtKCFJPiUXS6o44H0JcvXlWNMReA10vPjWuI9ssDZshDLsMm+45913CHHblD+273Wp336HDzfYCtDpHI3hAAAAAElFTkSuQmCC",
+      "thumbnail": "data:image/webp;base64,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"
+    },
+    {
+      "position": 5,
+      "title": "https://www.dropbox.com/s/aqwcqih7w3y030t/Ο%20μεν%...",
+      "link": "https://www.google.com/goto?url=CAESqwIBxCJF14x4g4J3BfcxLCJCaoCdro8et3ILXnGp079tQ7Jreamiw1tTstpxr1LBSxAaraNDi8g5vs_3CYyiWv8B-sNE9-9J0yLlBWgwxiqp7dFgxI7OLF9q2HoqRvLJHGP8gETeL4zZ5Y4xGLhgFK9J6Z3Zc4ONWB9HALGQtRd0SNQnOnlSARUag7HzrHGx5_u7kAFaGQVe9AHrqYM8ICsBYL6dcJiY6sTDB0fED1x90_kWlw1JytRMs_RLiQIB0-7oS_sHDLu4FCal-WYtcT66n4C3Fw_pkgC0x0CMIAoaGsXuOOrluRK8w1pyaca4DphcsB9M4AeqTqJhTLxLNSsPEsTOKweP5wGha8KAWKZ9hl76UitqJNFbDbi7Maka0aCGGQ8EQFXiTqHzLQ&gsessionid=ZnAXl9u1VDkHlgqei5rfBQhXFtHKRbqgtt9Sfgj7zyC_CrfCiixj1Q",
+      "link_token": "oZdkF47Yot4XZGZllgawMbrexb_8sSXbz3-lq6wQ-ObI3TOpJVq5Tr-PHWcHA5CPhS14EvYxDaCnudxj8faW53CgFveN0ZjZIxnTYPUH0N-Hqzk7eyVN4_eMf66lE416S6GZMt8i1M1kdlYdQ2eU5DqYNSxKFEFMTosDwZue37eI55XpMkrvzr4gnXnZqZEmaQkQVgJNPZ3Tau5XRdrH482L3AqWsJHlxiS-Rn_njR7agWAUoulP1QNO-g2bEcKf9umB_Ki1ETZYNoF485jeWXGu2ja9Q_bNHJz0jupNqVYj8vmO3md7PVCB8DeVe4M8NiI68Uh-EembQU29pGMRQhXiAenvpuuu9NaXhYXx6mV86rie5IIwNkSFTmdexddmBYXTdgIuVhoEv2rIbIImzW0Mlm9FpFDzOJ4014bE6m_aG7KtiowdgJm2t9EQWxeSNpcvoNm9EtaFk4YsOogFC9yCE4Yi1rZKiJFRmnlUkAxfiNXVV1dyyPv2VdN_Zw07D34eIaDzSD3M-KYfOypM-He1dWwhzd2Iudce9kduG_8NgA--1whJqUGKdUUkG9Z8---Jr2Jlk2jBPsGcrefnkw2w",
+      "source": "Dropbox",
+      "domain": "www.dropbox.com",
+      "displayed_link": "https://www.dropbox.com › Ο μεν...",
+      "snippet": "No information is available for this page.",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEUAYf4AYf4AYf4AYf4AYv4AW/8AV/8AXv4AUf8ba/0zd/1Lhfzc5/Rzn/qPsfj///G/0vX8+fL19fJilvqjwvbvRrWYAAAABHRSTlPl8//xvC4l4QAAARZJREFUeAGNkwcSwyAMBG2iBhLFmP+/NSK9TzTthqPcgliW9Wu5F77Wuhx+mesfJiAFOIlACE8msMQkeFKUQALcTSBRs0w+KJTNVAhuJsVSvZqSpDZViXQxGdXq1vtW+773szLFy0rUNse2bqrWXdTebmYgyL7WfDOJxWq1DHRPi5hGU0ZXrG0kwoe0QbCMJAyTaQw8s7h5IZmbiTjJVElu23IatfbuLEnbWY3EFxTaTyieOOc+haNk4mvaNCZL0xi1nUnosnLeJ2azAtqaQjHLLAz3tIiqZ8QSVRHvaWfNg7d5c9124tfH5t0u17rzeycIFmfoBeRTm6Do6SnDJxOCxCgBvjQYEAH82ZqHn6359h0Ot1qXI499EmUV2IG9AAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 6,
+      "title": "Καλλιόπη Λεγάκη: Ο βίος βραχύς, η τέχνη μακρά",
+      "link": "https://www.google.com/goto?url=CAESgwEBxCJF17Crc9ei5tCoP6XBAEYezIY_VjppEkHwQmCFQIGV460ffMr7-lmxHm9PLW6WMzTbla-WTMap9zGat-fOXjsF3eUaZYSQ6kzkfJFF9XWTQmCv61aRh6IeJrtaPArq_ruho9tKk4mbElmPM4XQz4X7OTBiL7aaFhDqDz03FB7gHQ&gsessionid=ZnAXl9u1VDkHlgqei5rfBQhXFtHKRbqgtt9Sfgj7zyC_CrfCiixj1Q",
+      "link_token": "Gl5z7myJj3vcwijPk-1jv4ViCliTyYWMM7bWEHvZj967OTEzB_IpuS4E21C_7cIs6Yi48XMq122Hz4NII7JqLUmfXPvCNs95qWo_P9tx_GDrWQ2uv8Plh1NhbCUAe05nB2IOKXsfR_ipE7m0nmWT9S3_xT_aWVz3dsjhYvC1jB5gvWArPlkjuoQlq3iwd-Gz5okuUHWESTLC7X9cisoJ8zaMLNAmguQXY_IhEt6ufSDQuV5GfaUdmr_YVKgNB_oQpeQ--HtCbKn1pR1g7Gb-l--H3NU1XEFGKXpQqPjaJ7gaw",
+      "source": "CultureNow.gr",
+      "domain": "www.culturenow.gr",
+      "displayed_link": "https://www.culturenow.gr › kallio...",
+      "snippet": "Διαλέγω να μιλήσω για το πάθος μας να γνωρίσουμε και να αποτυπώσουμε ζωές, πρόσωπα και σχέσεις που διαφορετικά θα έμεναν στο σκοτάδι, να ...",
+      "date": "May 12, 2015",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAe1BMVEX////+8u/6yL/5uK30hG7zbVHwNwDwOwD4s6fwPwDxRRL0f2nzZETxSBjxSh7//Pv95+PwKwDxQQnwMgD5vLL2no/3pJX95N/2k4H2mYj2lYP+9vT4rJ31jXr6zMT71M371c7vHgD0dVvyXz36zcb97er6xLryUyvzblCjXcF6AAAA20lEQVR4AbyRVYKDMAAFHxZrIYa7w/0vuO5sfjvxTDx4BJ4PN0EINxFxO49Q97qMi5tT3uOESIdTmhubumTIsjzAL4qyqkugAQoAaAE0XVX273agNsc4zWgneGg5mOaa4YNmWVGaZAw1/E1SMJIUP2+ITphqsehrdGhn/KbVCYYJ64QC6vquI/wdDWP4l32Wxabi7WoaS6kghNBYr9dpNEkSw1+z8iJDkcS2SkmcxMlF0sSIAdjuNCHFHzcQcnv/kNzS/I+s7Y4PiuP4I0/v5/7ql/vzxc3zKE3GAFNqDMrUimB5AAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 7,
+      "title": "Ancient Greek Quotes on an Old Manuscript",
+      "link": "https://www.google.com/goto?url=CAESbQHEIkXX5WOVoy44lPHYQzc3m1xMq3Z6B7pA8a8Rp1a5vr7TY9t-suLbDQyQ3eq-uh1-L-H0lBD_k6sUmnmdobocNqITr6w9JbzfmXZeeylMtDdX-AG2Ojf0xUpuAQaYljag-x05XXIKuSRPVKU&gsessionid=ZnAXl9u1VDkHlgqei5rfBQhXFtHKRbqgtt9Sfgj7zyC_CrfCiixj1Q",
+      "link_token": "yH61sVTgjQJX9Oh1r6yWy0wwTp6Q1x0mUSF1WviLo8GsgEAIqum_GiopVKqoIqZ4wS0fimisFIofJsubbHbHw2WTysUZGQ3n86RttlLGKyzNYvWBCV3znxk6HfVQF-8fdpKre5Ehq299InXnsrjRXVI__V7e05xWmvF81UuSHLMn6HIM_zAyjrHnQ79wZjCEoARkED0dvh3oo-QEJStK4S4pWA--5uHUYI59vmE4_ac2--9_50tK6FHBVtZrun9H4iIw",
+      "source": "Pinterest · patra9334",
+      "displayed_link": "2 months ago",
+      "snippet": "Discover inspiring ancient Greek quotes written on an old manuscript. These timeless words are written in black ink, preserved for ...",
+      "snippet_highlighted_words": [
+        "ancient Greek quotes written on an old manuscript"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU+9/3QHss1rH3bxhpYTEAAL8Ibw/AOhik4gOd8y1Ee6NhTZF+IYxEe+oaeZ+Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh+E16wemD/TQ+ta8LyZ7XxUgAAAAASUVORK5CYII="
+    },
+    {
+      "position": 8,
+      "title": "«Το - Ιπποκράτης Ὁ βίος βραχὺς, ἡ δὲ τέχνη μακρὴ, ὁ δὲ ...",
+      "link": "https://www.google.com/goto?url=CAESvQQBxCJF10gWJo3NY0Qk2fjPTXrHHNBbOi6p5H6_Pd9NcXKeJjW7CY5_d0hzRQnckMITftI2lEPxsHPO_FCwdnygvOz0oAGvZJFoTvi9f2eswBeSqHj_yWQDWU5NmGT7HTPQdhgbIyNMhVvqTvEXNTOzlsAhthmm8JHXkcp6w1e6Nqm2ehjCa1BkrG_7j3lcbPtibWk7xNrPh0uvpnVMOHUggIgkRCsCi8U525if1pKtZLgcWdWyHFnYwyA1P3E1GMVgwYm9v0chClyXvid74tZDsh6xVUxWZJJDkCdvSmtCJXdPdi2y_DANGobT0JwnvcphoFhO3Saqfc-aTw3V7ooqoe70PDugGPyLhK8NpFWr1MpUBFgPh2Wl_fbc81Ogmn2NivCAg_kMxsBtXyzThv_jkTnukXfESafvjXlFXFgqu1cbxedHrT-PKb9D2HJPqmMTfSQiHXvI6my3C1ruvozruGl8ddiR2-YPa6eojR5JQO7IWk3wQ8W2JKqXC4UPtx9I5ovlMR-WHbEKpnkJ7hicSEkFYKuyC0QsVb44eaYwdcuueIp9K6DMeL4t2UFFGUMG2nZY5cpVZuyDs-Jwe6b8a8LgzsrcwsZKCxD32BJzKWK9G7V2Z6Q7EXU19UbEOLgscUNQiU0eki8qxNn-ciVBUcPHuLJQc_P5LqptFbS0A2pDpIKGBDjcwcj-XZgvjUF1acNDddlbzf1txGLQroWjTlIoiNlcJ5ohcqaPkEVuINli5-ElRnci2cV0pDc&gsessionid=ZnAXl9u1VDkHlgqei5rfBQhXFtHKRbqgtt9Sfgj7zyC_CrfCiixj1Q",
+      "link_token": "IyxFda01rampw_13vf0U-bLo3srutvazlgZPALsrQyBag4hJmmGTfJhx8GZGvpSjab4GbJtEk-YAOgKM-6yoxdDGEVpr_sWN2nLi0y8heTgth9VfAT0qgDyGRFoTSG9wpnvRRaVoe8cbSw4YjpHxSYnOzgTGwMUB5859OeEx22OZYZQj4auMVhU77d3M2kFKSBOYOAyiBRJwyxDE8Pvmv2A2kMajp-10dDylG_g7OEW3CWBFfMYIyzlCl2RWLkwD1b3LuYWIunm4rGjFz7KmmksjAWD9cN1oPtBmROI70rmowILfKUtalRfVJZ9jzkGSQUi5OGkg_WT0zO34nR9u8-hieFDK9XGRA9qDOtukuT-DYmKtqFA_-iSXzo7k-sMnvk40FGVGGzgmzpsRpJWZsIeXEdAB-Iu8Y6Y2rleNYTjDUl3lERf3bvvTGOsSA7psw4apQfD3232In-m4S7xWWn_zQ1UEDapQjYA-BTuV_q89yJGs7vjI1kI0YCM8XkVweimOCq70Gk_OzhoDgHiyb4G2a0k7G1DMcgnpfWjmHEu9k9tFavW9GdjolaIdO9mAn3Y0n8849LylkNxH9DWoj8vI4NEr25_9rcqsDCxQ0wOpG2yKrV1k38n4xtQkENxLTNnHEi3cReS9p8UQUliW7HjBvK0VKA9i1xEyLZz0VDyMiVyC2AxhyF8umbvaSnBLT0qFwx_R4edxdgzrDs8eg3Qz_SGpxDW58scu7tNZftw6kOPj7SpGF42WmftQbEQ6i-xWeH79ErH-cjhtigTpGGy6PycE5WS1nCDL2vyItTacgmX9NC7cJNWPvbSAt838qzk0XG4MoW4KP1X0Bp0gyQ7vVSD0xxzeiGMc3o-EMuKDqOe4hsa4aQzMx0omuoRCoCOXOA8NaQH46EpNYr-La318CflrZZ6FDz_50qi_K756YpcflNUfTXW594X-gjRP8pbwVKg_ZsNn2JMBdv8AOJ9yMVi75aiKOnFEbzaQxkCt9WL9ifdGjyNB6R_pDwxng5fVFK2lcUa2fuLCwYk_--qdtf0iJrpMnNdadC--YCeNDRKYV8TDrQoYSFs6WQ",
+      "source": "Facebook · «Το προλαμβάνειν καλύτερο του θεραπεύειν»",
+      "displayed_link": "3 reactions  ·  5 years ago",
+      "snippet": "Ιπποκράτης Ὁ βίος βραχὺς, ἡ δὲ τέχνη μακρὴ, ὁ δὲ καιρὸς ὀξὺς, ἡ δὲ πεῖρα σφαλερὴ, ἡ δὲ κρίσις χαλεπή. Η ανθρώπινη ζωή είναι σύντομη, ...",
+      "snippet_highlighted_words": [
+        "Ὁ βίος βραχὺς, ἡ δὲ τέχνη μακρὴ"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwHZv8HaP8IZ/8IZ/8IZv8IaP8IZ/8HZv8Haf8IZ/8IaP8IZ/8AXv8AV/8AYv+SqP/P1//m6//e5f9wlP////+tvP9jiv82c/8IZ/8Iaf+fsf////////8AW/+wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL///////7/////////wRiFwenBhp/Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe/9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ+kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13/3eJk4G+XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ/BzUO2KceIw7MIqJBHyIZk/WwKSv6KcD/frlsqt/P5joBELJ+3iNZD8YDC/82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp/FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII="
+    },
+    {
+      "position": 9,
+      "title": "Inspirational Quotes from Around the World",
+      "link": "https://www.google.com/goto?url=CAESbgHEIkXXDJrifjS7U3UofFGl82bO7NqWhyv44HIvpIqEFvTxbqlKH0iVnipL0PkRuF8IwAyLQ-9fHYHoY90ztQx37939_8iUNv7KkMrB3VotukJwlF4Ivsqq-vaJMGECMFGW8lIRGtIZxiclF3Kz&gsessionid=ZnAXl9u1VDkHlgqei5rfBQhXFtHKRbqgtt9Sfgj7zyC_CrfCiixj1Q",
+      "link_token": "51BfxbGIwqQkf-f_yffrIldcUkZd2d12sMRLYl6jO86LH_A_JXsghON6ixftO4tAaUoAW3yVz9YM6AGiHbnpaBBxoYB2Ak5-BFz0wFcHT74wOBYpf18U1tp7vSludyB_sN9V6TVScXFMeIvJk_4xY8jws6Qn4Lj0e17zMuxPCzAZ3SHgxiQuX8ummjnvZyXx2zD_qfUuCBFV0E48tXgSk7FFdZo--rnN2-IiiYSIUQht5--KT913USL0k19kIJ7QexFjg",
+      "source": "Pinterest",
+      "domain": "www.pinterest.com",
+      "displayed_link": "https://www.pinterest.com › pin",
+      "snippet": "Discover a collection of inspiring quotes from different countries, translated into English or Greek.",
+      "date": "Mar 4, 2016",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU+9/3QHss1rH3bxhpYTEAAL8Ibw/AOhik4gOd8y1Ee6NhTZF+IYxEe+oaeZ+Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh+E16wemD/TQ+ta8LyZ7XxUgAAAAASUVORK5CYII="
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%CE%BF%CC%94+%CE%B2%CE%B9%CC%81%CE%BF%CF%82+%CE%B2%CF%81%CE%B1%CF%87%CF%85%CC%81%CF%82%2C+%CE%B7%CC%94+%CE%B4%CE%B5%CC%80+%CF%84%CE%B5%CC%81%CF%87%CE%BD%CE%B7+%CE%BC%CE%B1%CE%BA%CF%81%CE%B7%CC%81&oq=%CE%BF%CC%94+%CE%B2%CE%B9%CC%81%CE%BF%CF%82+%CE%B2%CF%81%CE%B1%CF%87%CF%85%CC%81%CF%82%2C+%CE%B7%CC%94+%CE%B4%CE%B5%CC%80+%CF%84%CE%B5%CC%81%CF%87%CE%BD%CE%B7+%CE%BC%CE%B1%CE%BA%CF%81%CE%B7%CC%81&gl=us&hl=en&start=10"
+  }
+}

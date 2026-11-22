@@ -1,0 +1,62 @@
+[
+  {
+    "id": "iliad-1.1",
+    "source": "Homer, Iliad 1.1",
+    "greek": "μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος"
+  },
+  {
+    "id": "antigone-332",
+    "source": "Sophocles, Antigone 332-333",
+    "greek": "πολλὰ τὰ δεινὰ κοὐδὲν ἀνθρώπου δεινότερον πέλει"
+  },
+  {
+    "id": "hippocrates-aph-1.1",
+    "source": "Hippocrates, Aphorisms 1.1",
+    "greek": "ὁ βίος βραχύς, ἡ δὲ τέχνη μακρή"
+  },
+  {
+    "id": "lysias-1.1",
+    "source": "Lysias 1.1 (On the Murder of Eratosthenes)",
+    "greek": "περὶ πολλοῦ ἂν ποιησαίμην, ὦ ἄνδρες, τὸ τοιούτους ὑμᾶς ἐμοὶ δικαστὰς περὶ τούτου τοῦ πράγματος γενέσθαι"
+  },
+  {
+    "id": "xenophon-anab-1.1.1",
+    "source": "Xenophon, Anabasis 1.1.1",
+    "greek": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο"
+  },
+  {
+    "id": "plato-rep-327a",
+    "source": "Plato, Republic 327a",
+    "greek": "κατέβην χθὲς εἰς Πειραιᾶ μετὰ Γλαύκωνος τοῦ Ἀρίστωνος"
+  },
+  {
+    "id": "aristotle-met-980a",
+    "source": "Aristotle, Metaphysics 980a21",
+    "greek": "πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει"
+  },
+  {
+    "id": "demosthenes-18.1",
+    "source": "Demosthenes 18.1 (On the Crown)",
+    "greek": "πρῶτον μέν, ὦ ἄνδρες Ἀθηναῖοι, τοῖς θεοῖς εὔχομαι πᾶσι καὶ πάσαις"
+  },
+  {
+    "id": "euclid-el-1.def1",
+    "source": "Euclid, Elements 1, Definition 1",
+    "greek": "σημεῖόν ἐστιν, οὗ μέρος οὐθέν"
+  },
+  {
+    "id": "john-1.1",
+    "source": "Gospel of John 1:1",
+    "greek": "ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν"
+  },
+  {
+    "id": "marcus-1.1",
+    "source": "Marcus Aurelius, Meditations 1.1",
+    "greek": "παρὰ τοῦ πάππου Οὐήρου τὸ καλόηθες καὶ ἀόργητον"
+  },
+  {
+    "id": "alexiad-pr.1",
+    "source": "Anna Komnene, Alexiad, Prologue 1",
+    "greek": "ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ παραφέρει πάντα τὰ ἐν γενέσει"
+  }
+]
